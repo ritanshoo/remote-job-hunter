@@ -13194,5 +13194,99 @@
       "+2 automation",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-01T21:19:27.531Z",
+    "title": "$40–$60/hr",
+    "company": "Hybrid Full-Stack Developer (US-Based)",
+    "source": "reddit",
+    "score": 8,
+    "priority": "high",
+    "url": "https://www.reddit.com/r/forhire/comments/1ri87zq/hiring_hybrid_fullstack_developer_usbased_4060hr/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 next.js",
+      "+3 node.js",
+      "+3 node",
+      "+2 salary($40–$60/hr)",
+      "LLM: The candidate has strong full stack skills in JavaScript, React, and Node.js, aligning well with the job requirements."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T21:19:27.531Z",
+    "title": "UI/UX designer for rapid protoyping a responsive web app, $15+/hr, live collaboration on screen sharing needed",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1ri43s0/hiring_uiux_designer_for_rapid_protoyping_a/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is for a UI/UX designer, which is not a developer position."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T21:19:27.531Z",
+    "title": "Roblox short-form video editors for our upcoming projects",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1ri3shl/hiring_roblox_shortform_video_editors_for_our/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-01T21:19:27.531Z",
+    "title": "$70-115 per/hr",
+    "company": "Visual Design Experts (excel templates)",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rhsqwx/hiring_visual_design_experts_excel_templates/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($70-115)",
+      "LLM: The role is focused on visual design for Excel templates, which is not a developer position."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T21:19:27.531Z",
+    "title": "marketing/promo of a new free speech/4chan app on Bitcoin",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rhjvrn/hiring_marketingpromo_of_a_new_free_speech4chan/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-01T21:19:27.531Z",
+    "title": "Looking for Canada-Based Participants for a Paid Social Media Project",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rhik8p/hiring_looking_for_canadabased_participants_for_a/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-01T21:19:27.531Z",
+    "title": "looking for feedback from experienced devs. How would you structure it?",
+    "company": "Student roadmap after CS50x and cs50p",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1rhwp96/student_roadmap_after_cs50x_and_cs50p_looking_for/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+2 ai",
+      "LLM: The job is not a developer/engineer position but rather a request for feedback on learning paths."
+    ]
   }
 ]
