@@ -13180,5 +13180,19 @@
     "url": "https://weworkremotely.com/remote-jobs/sling-money-content-creator-social-media-manager",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-01T17:20:00.551Z",
+    "title": "Accountant",
+    "company": "AMI Advertising Agency",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/ami-advertising-agency-accountant",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
   }
 ]
