@@ -24,6 +24,9 @@ import { scrapeRemotive } from './scrapers/remotive.js';
 import { scrapeJobspresso } from './scrapers/jobspresso.js';
 import { scrapeWorkingNomads } from './scrapers/workingnomads.js';
 import { scrapeReddit } from './scrapers/reddit.js';
+import { scrapeJobicy } from './scrapers/jobicy.js';
+import { scrapeHackerNews } from './scrapers/hackernews.js';
+import { scrapeHimalayas } from './scrapers/himalayas.js';
 
 async function runAllScrapers(): Promise<Job[]> {
   log('main', 'Starting all scrapers in parallel...');
@@ -35,9 +38,12 @@ async function runAllScrapers(): Promise<Job[]> {
     scrapeJobspresso(),
     scrapeWorkingNomads(),
     scrapeReddit(),
+    scrapeJobicy(),
+    scrapeHackerNews(),
+    scrapeHimalayas(),
   ]);
 
-  const scraperNames = ['RemoteOK', 'WeWorkRemotely', 'Remotive', 'Jobspresso', 'WorkingNomads', 'Reddit'];
+  const scraperNames = ['RemoteOK', 'WeWorkRemotely', 'Remotive', 'Jobspresso', 'WorkingNomads', 'Reddit', 'Jobicy', 'HackerNews', 'Himalayas'];
   const allJobs: Job[] = [];
   let failedCount = 0;
 

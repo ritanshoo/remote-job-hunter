@@ -12223,5 +12223,521 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-01T06:14:53.180Z",
+    "title": "Lead Full-Stack Engineer (NextJS)",
+    "company": "SeedTrust",
+    "source": "himalayas",
+    "score": 8,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/seedtrust/jobs/lead-full-stack-engineer-nextjs-9418591429",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 next.js",
+      "+3 node",
+      "+2 ai",
+      "+2 llm",
+      "+1 typescript",
+      "+1 aws",
+      "-5 intern",
+      "+2 salary",
+      "LLM: The candidate has strong alignment with the required skills in Next.js, TypeScript, and leadership experience, along with relevant backend and AI/ML expertise."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.195Z",
+    "title": "Senior Software Engineer - AI Backend",
+    "company": "Relyance AI",
+    "source": "himalayas",
+    "score": 7,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/relyance-ai/jobs/senior-software-engineer-ai-backend-7514467264",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 langchain",
+      "+1 mongodb",
+      "+1 aws",
+      "+1 graphql",
+      "+1 docker",
+      "-5 intern",
+      "LLM: The candidate has strong full stack skills and relevant AI experience, but the role primarily focuses on Python and backend development."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.195Z",
+    "title": "Senior Software Engineer, Backend (Streaming Infrastructure)",
+    "company": "Affirm",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/affirm/jobs/senior-software-engineer-backend-streaming-infrastructure-2875461550",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The candidate has relevant backend experience and skills, but the focus on streaming infrastructure and specific technologies like Kafka and Flink is not aligned with their core expertise."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.195Z",
+    "title": "Security Software Engineer L5, Cryptography Services Team",
+    "company": "Netflix",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/netflix/jobs/security-software-engineer-l5-cryptography-services-team",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The candidate has strong full stack skills but the role focuses on cryptography, which is a different domain."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.195Z",
+    "title": "Backend Software Engineer",
+    "company": "dentsu international",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/dentsu-international/jobs/backend-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+2 salary",
+      "LLM: The candidate has relevant backend experience but lacks proficiency in Python and the specific focus on marketing products."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.195Z",
+    "title": "Software Engineer III - Java, AWS, CI/CD",
+    "company": "Global Healthcare Exchange (GHX)",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/global-healthcare-exchange-ghx/jobs/software-engineer-iii-java-aws-ci-cd",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 mongodb",
+      "+1 aws",
+      "+2 salary",
+      "LLM: The candidate's skills are primarily in JavaScript/TypeScript and blockchain, which do not align well with the Java-focused requirements of the role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.195Z",
+    "title": "Software Engineer I",
+    "company": "NMI",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nmi/jobs/software-engineer-i",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is for an early-career engineer with a focus on C#/.NET and mobile development, which does not align with the candidate's extensive JavaScript/TypeScript and blockchain experience."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.195Z",
+    "title": "Software Engineer - UiPath Automation Developer - Remote",
+    "company": "Mayo Clinic",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mayo-clinic/jobs/software-engineer-uipath-automation-developer-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 chatbot",
+      "+2 automation",
+      "LLM: The role is focused on automation and does not align with the candidate's full stack development experience."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.195Z",
+    "title": "Freelance Machine Learning Developer (Python)",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/freelance-machine-learning-developer-python-9354493389",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary",
+      "LLM: The role is focused on Python machine learning development, which does not align with the candidate's core skills in JavaScript and full stack development."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.195Z",
+    "title": "Freelance Data Science Engineer (Python & SQL)",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/freelance-data-science-engineer-python-sql-9296643103",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.195Z",
+    "title": "[GBL] Mobile App Android Developer",
+    "company": "Software Mind",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/software-mind/jobs/gbl-mobile-app-android-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+1 rest api",
+      "LLM: The candidate's skills are focused on full stack development and blockchain, with no relevant experience in Android development or Kotlin."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.195Z",
+    "title": "Quality Nurse - Fallon Health Weinberg-Remote -no nights-holidays-weekends",
+    "company": "Fallon Health",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/fchp/jobs/quality-nurse-fallon-health-weinberg-remote-no-nights-holidays-weekends",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 express",
+      "+2 salary",
+      "LLM: The role is clearly not a developer/engineer position, as it is for a Quality Nurse."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.195Z",
+    "title": "Work From Home TurboTax Product Expert - No Tax Experience Required (35560)",
+    "company": "TurboTax",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/turbotax/jobs/work-from-home-turbotax-product-expert-no-tax-experience-required-35560",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is for a customer service representative, which is not a developer or engineering position."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.195Z",
+    "title": "Senior Embedded Software Engineer",
+    "company": "Axon",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/axon/jobs/senior-embedded-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.196Z",
+    "title": "Cloud Data Architect (Azure)",
+    "company": "Future Processing",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/future-processing/jobs/cloud-data-architect-azure",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is for a Cloud Data Architect focused on Azure, which is not aligned with the candidate's full stack development skills."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.196Z",
+    "title": "Senior User Experience Designer",
+    "company": "Virtru",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/virtru/jobs/senior-user-experience-designer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is for a Senior User Experience Designer, which is not a developer/engineer position."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.196Z",
+    "title": "Enterprise Sales Engineer",
+    "company": "DevRev",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/devrev/jobs/enterprise-sales-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary($150)",
+      "LLM: The role is clearly not a developer/engineer position, as it focuses on sales engineering."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.196Z",
+    "title": "Metabase - Success Engineer",
+    "company": "Silver.dev",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/silver-dev/jobs/metabase-success-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.196Z",
+    "title": "Senior Golang Engineer",
+    "company": "Umpisa Inc",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/umpisa-inc/jobs/senior-golang-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.196Z",
+    "title": "Vibe Coding Web Scraping Expert (Freelance)",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/vibe-coding-web-scraping-expert-freelance-3142591868",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 javascript",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.196Z",
+    "title": "Freelance Data Scientist (Python & SQL) - AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/freelance-data-scientist-python-sql-ai-trainer-3709859172",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is for a Data Scientist and does not align with the candidate's full stack engineering background."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.196Z",
+    "title": "Freelance Data Scientist (Python & SQL) - AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/freelance-data-scientist-python-sql-ai-trainer-1685473896",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary",
+      "LLM: The role is for a Data Scientist and does not align with the candidate's full stack engineering background."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.196Z",
+    "title": "Technical Support Engineer",
+    "company": "Customer.io",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/customer-io/jobs/technical-support-engineer-5800521262",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is for a Technical Support Engineer, which is not a developer position."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.196Z",
+    "title": "Work From Home TurboTax Product Expert - $$$ Certification Bonus (60089)",
+    "company": "TurboTax",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/turbotax/jobs/work-from-home-turbotax-product-expert-certification-bonus-60089",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is for a customer service representative, which is not a developer or engineering position."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.196Z",
+    "title": "Support Solutions Engineer AMER - MSP",
+    "company": "Nerdio",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nerdio/jobs/support-solutions-engineer-amer-msp",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer position; it focuses on support and client-facing responsibilities."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.196Z",
+    "title": "Tech Lead - Project Engineering Mechanical / Civil",
+    "company": "GE Vernova",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ge-vernova/jobs/tech-lead-project-engineering-mechanical-civil",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position related to software development, but rather focused on mechanical and civil engineering."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.196Z",
+    "title": "Work From Home TurboTax Product Expert - No Tax Experience Required (60546)",
+    "company": "TurboTax",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/turbotax/jobs/work-from-home-turbotax-product-expert-no-tax-experience-required-60546",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.196Z",
+    "title": "Freelance Machine Learning Engineer (Python)",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/freelance-machine-learning-engineer-python-4539566805",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary",
+      "LLM: The role is for a Machine Learning Engineer focusing on Python, which does not align with the candidate's full stack JavaScript/TypeScript expertise."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.196Z",
+    "title": "TurboTax Product Specialist (Work From Home!) (60546)",
+    "company": "TurboTax",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/turbotax/jobs/turbotax-product-specialist-work-from-home-60546",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is for a Customer Service Representative, which is not a developer or engineering position."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.196Z",
+    "title": "Engineering Manager - Pexels",
+    "company": "Canva",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/canva/jobs/engineering-manager-pexels",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.196Z",
+    "title": "Freelance AI Assistant Expert",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/freelance-ai-assistant-expert-8450689767",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.196Z",
+    "title": ".NET/AWS Architect",
+    "company": "OZ",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/oz/jobs/net-aws-architect",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+1 rest api",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.196Z",
+    "title": "Engineering Intern (AI Ethics)",
+    "company": "Sony",
+    "source": "himalayas",
+    "score": -4,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sony-com/jobs/engineering-intern-ai-ethics",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "-5 intern",
+      "-5 internship",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.196Z",
+    "title": "Sales Engineer (Battery Energy Storage) UK",
+    "company": "Trina Solar",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/trina-solar/jobs/sales-engineer-battery-energy-storage-uk-3922744938",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.196Z",
+    "title": "Sales Engineer (Battery Energy Storage) UK",
+    "company": "Trina Solar",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/trina-solar/jobs/sales-engineer-battery-energy-storage-uk-3922744938",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:14:54.196Z",
+    "title": "Commissioning Manager Large Projects",
+    "company": "Hitachi",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/hitachi/jobs/commissioning-manager-large-projects",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
