@@ -2084,5 +2084,19 @@
     "score": -5,
     "emailSent": false,
     "source": "jobspresso"
+  },
+  "0696d8302f1dc03175ed07a590a4b5eb": {
+    "hash": "0696d8302f1dc03175ed07a590a4b5eb",
+    "firstSeen": "2026-03-01T01:57:52.289Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "6ca5333b030b7038bd0332b1bda6edf3": {
+    "hash": "6ca5333b030b7038bd0332b1bda6edf3",
+    "firstSeen": "2026-03-01T01:57:52.289Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
   }
 }
