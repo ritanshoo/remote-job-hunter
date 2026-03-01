@@ -12739,5 +12739,435 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-01T10:21:52.393Z",
+    "title": "Software Engineer - Backend + Solidity",
+    "company": "Sei Labs",
+    "source": "himalayas",
+    "score": 10,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/seinetwork/jobs/software-engineer-backend-solidity-3728970610",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+2 blockchain",
+      "+2 web3",
+      "+2 solidity",
+      "+2 ai",
+      "+1 typescript",
+      "+1 aws",
+      "+2 salary($30)",
+      "LLM: The candidate has extensive experience in full stack JavaScript/TypeScript, React, Node.js, and significant blockchain expertise, making them a perfect match for the role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T10:21:52.973Z",
+    "title": "Senior / Staff Software Engineer - Protocol",
+    "company": "Sei Labs",
+    "source": "himalayas",
+    "score": 10,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/seinetwork/jobs/senior-staff-software-engineer-protocol-4222681347",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "+2 web3",
+      "+1 rest api",
+      "+2 salary($30)",
+      "LLM: The candidate has extensive experience in full stack development with a strong focus on blockchain technologies, making them a perfect match for the role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T10:21:53.300Z",
+    "title": "Full Stack Developer (Agentes IA Generativa)",
+    "company": "Logicalis Spain",
+    "source": "himalayas",
+    "score": 8,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/logicalis-com/jobs/full-stack-developer-agentes-ia-generativa",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+2 llm",
+      "+2 rag",
+      "+1 javascript",
+      "+1 docker",
+      "-5 intern",
+      "LLM: The candidate has strong full stack skills in JavaScript and AI/ML experience, aligning well with the job's focus on generative AI and microservices."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T10:21:53.626Z",
+    "title": "Senior Node.js/AWS Developer (Remote, Barranquilla, CO)",
+    "company": "Foundever",
+    "source": "himalayas",
+    "score": 8,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/foundever/jobs/senior-node-js-aws-developer-remote-barranquilla-co",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node.js",
+      "+3 node",
+      "+1 javascript",
+      "+1 aws",
+      "+1 docker",
+      "-5 intern",
+      "LLM: The candidate has strong experience with Node.js and AWS, along with relevant backend development skills, making them a strong match for the role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T10:21:53.951Z",
+    "title": "Senior Software Engineer",
+    "company": "Onyx Capital Group Limited",
+    "source": "himalayas",
+    "score": 8,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/onyx-capital-group-limited/jobs/senior-software-engineer-9593580815",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 automation",
+      "LLM: The candidate has strong full stack skills in JavaScript/TypeScript and relevant experience in high-impact projects, aligning well with the senior software engineering role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T10:21:54.272Z",
+    "title": "Senior Software Engineer/Developer",
+    "company": "Akoya",
+    "source": "himalayas",
+    "score": 8,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/akoya/jobs/senior-software-engineer-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "+2 salary",
+      "LLM: The candidate has strong full stack skills in JavaScript/TypeScript, React, Node.js, and AWS, aligning well with the job's requirements for enterprise software development."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T10:21:54.272Z",
+    "title": "DevOps Engineer (IST Timezone)",
+    "company": "testRigor",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/testrigor/jobs/devops-engineer-ist-timezone",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 mongodb",
+      "+1 aws",
+      "LLM: The candidate has some relevant skills in cloud infrastructure and databases, but the role is primarily focused on DevOps rather than full stack development."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T10:21:54.272Z",
+    "title": "Full Stack Software Developer",
+    "company": "cross-ING AG",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cross-ing-ag/jobs/full-stack-software-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+1 javascript",
+      "+1 mongodb",
+      "+1 aws",
+      "+1 docker",
+      "LLM: The role is focused on industrial applications and embedded systems, which is tangentially related but not a direct match for the candidate's full stack development experience."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T10:21:54.272Z",
+    "title": "Agentic AI Solutions Architect - Remote, Latin America",
+    "company": "Bluelight Consulting",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bluelight-consulting/jobs/agentic-ai-solutions-architect-remote-latin-america-8581608611",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "LLM: The role is focused on marketing data and analytics, which is not aligned with the candidate's core development skills."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T10:21:54.272Z",
+    "title": "Senior Software Engineer - AI",
+    "company": "NetDocuments",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/netdocuments/jobs/senior-software-engineer-ai",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary",
+      "LLM: The job description does not indicate a developer role and focuses on company culture and employee experience."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T10:21:54.272Z",
+    "title": "Engineering Manager, Infrastructure (EVM / Cloud / Security)",
+    "company": "Gensyn",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gensyn/jobs/engineering-manager-infrastructure-evm-cloud-security",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ethereum",
+      "+2 smart contract",
+      "LLM: The role is for an Engineering Manager focused on infrastructure, which does not align with the candidate's full stack development skills."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T10:21:54.272Z",
+    "title": "Data Engineer I",
+    "company": "Judi Health",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/judi-health/jobs/data-engineer-i",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is for a Data Engineer, which is not aligned with the candidate's full stack development skills."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T10:21:54.272Z",
+    "title": "Senior QA Automation Engineer - Python",
+    "company": "3Pillar Global",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/3pillar-global/jobs/senior-qa-automation-engineer-python",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 aws",
+      "LLM: The candidate's experience is primarily in full stack development with JavaScript/TypeScript, while the job is focused on QA automation with Python, making it a poor match."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T10:21:54.272Z",
+    "title": "DevOps Engineer",
+    "company": "EER Poland",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/eer-poland/jobs/devops-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T10:21:54.272Z",
+    "title": "Software Engineer, iOS Core Product - Richmond, USA",
+    "company": "Speechify",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/speechify/jobs/software-engineer-ios-core-product-richmond-usa",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary",
+      "LLM: The role is for a Senior iOS Engineer, which is not aligned with the candidate's full stack development skills."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T10:21:54.272Z",
+    "title": "Lead Traffic Engineer",
+    "company": "Olsson",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/olsson-com/jobs/lead-traffic-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is clearly not a developer/engineer position as it focuses on traffic engineering."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T10:21:54.272Z",
+    "title": "Product Designer",
+    "company": "Okendo",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/okendo/jobs/product-designer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is for a Product Designer, which is not a developer/engineer position."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T10:21:54.272Z",
+    "title": "Representante de Ventas Odoo",
+    "company": "Distro",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/distro/jobs/representante-de-ventas-odoo",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-01T10:21:54.272Z",
+    "title": "Network ASIC Designer",
+    "company": "Tenstorrent",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/tenstorrent/jobs/network-asic-designer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary",
+      "LLM: The role is for a Network ASIC Designer, which is not a developer position and does not align with the candidate's skills."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T10:21:54.272Z",
+    "title": "Boomi Technical Consultant",
+    "company": "Kimberlite",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/kimberlite/jobs/boomi-technical-consultant",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-01T10:21:54.272Z",
+    "title": "Senior IT Consultant Virtual Desktop Environment - CTBC",
+    "company": "Continental",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/continental/jobs/senior-it-consultant-virtual-desktop-environment-ctbc",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "LLM: The role is not a developer position and focuses on IT infrastructure and support."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T10:21:54.273Z",
+    "title": "Salesforce Systems and Optimization Manager",
+    "company": "Lyra Health",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/lyra-health/jobs/salesforce-systems-and-optimization-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary",
+      "LLM: The role is not a developer position and focuses on Salesforce systems and optimization."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T10:21:54.273Z",
+    "title": "Senior Full Stack Developer",
+    "company": "Autodesk",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/autodesk/jobs/senior-full-stack-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T10:21:54.273Z",
+    "title": "Senior Product Manager, AI Solutions",
+    "company": "Wing Assistant",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/wing-assistant/jobs/senior-product-manager-ai-solutions-3888671714",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary",
+      "LLM: The role is for a Senior Product Manager, which is not a developer or engineering position."
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T10:21:54.273Z",
+    "title": "Software Engineer, Platform - Columbia, USA",
+    "company": "Speechify",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/speechify/jobs/software-engineer-platform-columbia-usa",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T10:21:54.273Z",
+    "title": "[Job - 27793] Senior Developer Backend (.Net), Brasil",
+    "company": "CI&T",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ci-t/jobs/job-27793-senior-developer-backend-net-brasil",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 mongodb",
+      "+1 postgresql",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T10:21:54.273Z",
+    "title": "Senior Integration & Cloud Engineer (AWS / Kafka / MQ)",
+    "company": "Coderio",
+    "source": "himalayas",
+    "score": -4,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/coderio/jobs/senior-integration-cloud-engineer-aws-kafka-mq",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T10:21:54.273Z",
+    "title": "[Job -  26942] Senior Developer Back End (.NET/AWS), Brasil",
+    "company": "CI&T",
+    "source": "himalayas",
+    "score": -4,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ci-t/jobs/job-26942-senior-developer-back-end-net-aws-brasil-5064613920",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "-5 junior"
+    ]
   }
 ]
