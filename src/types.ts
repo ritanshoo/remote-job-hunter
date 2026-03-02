@@ -1,4 +1,4 @@
-export type JobSource = 'remoteok' | 'weworkremotely' | 'remotive' | 'jobspresso' | 'workingnomads' | 'reddit' | 'jobicy' | 'hackernews' | 'himalayas';
+export type JobSource = 'remoteok' | 'weworkremotely' | 'remotive' | 'jobspresso' | 'workingnomads' | 'reddit' | 'jobicy' | 'hackernews' | 'himalayas' | 'wellfound';
 
 export interface Job {
   title: string;
