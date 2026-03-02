@@ -14015,5 +14015,18 @@
       "+2 ai",
       "LLM: The job is not a developer/engineer position and is seeking feedback rather than hiring."
     ]
+  },
+  {
+    "timestamp": "2026-03-02T18:40:38.442Z",
+    "title": "uk people £300/day",
+    "company": "",
+    "source": "reddit",
+    "score": -5,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rizked/hiring_uk_people_300day/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 uk only"
+    ]
   }
 ]
