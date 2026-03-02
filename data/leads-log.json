@@ -13990,5 +13990,30 @@
       "+2 ai",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-02T17:41:37.121Z",
+    "title": "Someone who can build me a writing platform. Pretty basic. $15 to $20/hour but can negotiate.",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1riy4l0/hiring_someone_who_can_build_me_a_writing/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-02T17:41:37.121Z",
+    "title": "would love your thoughts",
+    "company": "Built a lightweight dev activity tracker (Jira + PRs + self-review generator)",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1riy1na/built_a_lightweight_dev_activity_tracker_jira_prs/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The job is not a developer/engineer position and is seeking feedback rather than hiring."
+    ]
   }
 ]
