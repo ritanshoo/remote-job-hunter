@@ -13958,5 +13958,37 @@
       "+2 blockchain",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-02T16:40:35.597Z",
+    "title": "Open Call for Freelance WordPress / Drupal Developers (Remote - USA)",
+    "company": "Constructive",
+    "source": "weworkremotely",
+    "score": 1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/constructive-open-call-for-freelance-wordpress-drupal-developers-remote-usa",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 rest api",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-02T16:40:35.597Z",
+    "title": "Sales Appointment Setter",
+    "company": "WALTER",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/walter-sales-appointment-setter",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "-5 intern"
+    ]
   }
 ]
