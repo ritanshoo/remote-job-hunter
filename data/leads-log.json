@@ -13902,5 +13902,30 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-02T11:29:44.702Z",
+    "title": "Software Engineer III",
+    "company": "Fanatics",
+    "source": "jobicy",
+    "score": 0,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/140032-software-engineer-iii",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-02T11:29:44.703Z",
+    "title": "Senior Software Developer, AI Networking",
+    "company": "NVIDIA",
+    "source": "jobicy",
+    "score": -3,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/140013-senior-software-developer-ai-networking",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
   }
 ]

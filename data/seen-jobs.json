@@ -3540,5 +3540,19 @@
     "score": -5,
     "emailSent": false,
     "source": "himalayas"
+  },
+  "43e76c7fd0ed567d1be18ffb197266b7": {
+    "hash": "43e76c7fd0ed567d1be18ffb197266b7",
+    "firstSeen": "2026-03-02T11:29:44.702Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "jobicy"
+  },
+  "b267207b310a5611c1a540c963728587": {
+    "hash": "b267207b310a5611c1a540c963728587",
+    "firstSeen": "2026-03-02T11:29:44.703Z",
+    "score": -3,
+    "emailSent": false,
+    "source": "jobicy"
   }
 }
