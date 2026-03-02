@@ -13944,5 +13944,19 @@
       "+2 salary($25–$60/hr)",
       "LLM: The role is not a traditional developer position but rather involves reviewing project specifications, which is tangential to development."
     ]
+  },
+  {
+    "timestamp": "2026-03-02T15:38:59.627Z",
+    "title": "Client Accounting Manager",
+    "company": "Flag Theory",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/flag-theory-client-accounting-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "-5 intern"
+    ]
   }
 ]

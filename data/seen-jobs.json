@@ -3561,5 +3561,12 @@
     "score": 3,
     "emailSent": false,
     "source": "reddit"
+  },
+  "1b054bd123fb56e28503c7f7db9f6c4f": {
+    "hash": "1b054bd123fb56e28503c7f7db9f6c4f",
+    "firstSeen": "2026-03-02T15:38:59.627Z",
+    "score": -3,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }
