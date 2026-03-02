@@ -3771,5 +3771,19 @@
     "score": -5,
     "emailSent": false,
     "source": "himalayas"
+  },
+  "71a1bb93408a97cf50fdc530e72cad34": {
+    "hash": "71a1bb93408a97cf50fdc530e72cad34",
+    "firstSeen": "2026-03-02T23:21:47.776Z",
+    "score": 4,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "a4641b4422557e7b48a6ac4e4b9546af": {
+    "hash": "a4641b4422557e7b48a6ac4e4b9546af",
+    "firstSeen": "2026-03-02T23:21:47.776Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
   }
 }
