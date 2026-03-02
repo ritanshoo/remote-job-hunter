@@ -13927,5 +13927,22 @@
       "+2 ai",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-02T12:51:27.723Z",
+    "title": "Developers interested in working from structured project specs (Web/Mobile Projects) Remote $25–$60/hr",
+    "company": "",
+    "source": "reddit",
+    "score": 3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rirak5/hiring_developers_interested_in_working_from/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 next.js",
+      "+3 node",
+      "+2 salary($25–$60/hr)",
+      "LLM: The role is not a traditional developer position but rather involves reviewing project specifications, which is tangential to development."
+    ]
   }
 ]

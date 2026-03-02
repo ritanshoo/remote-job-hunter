@@ -3554,5 +3554,12 @@
     "score": -3,
     "emailSent": false,
     "source": "jobicy"
+  },
+  "3625db787aeed2f6dc4bb5d316651db5": {
+    "hash": "3625db787aeed2f6dc4bb5d316651db5",
+    "firstSeen": "2026-03-02T12:51:27.723Z",
+    "score": 3,
+    "emailSent": false,
+    "source": "reddit"
   }
 }
