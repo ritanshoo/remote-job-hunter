@@ -45,8 +45,19 @@ export const LOW_KEYWORDS: string[] = [
 
 export const NEGATIVE_KEYWORDS: string[] = [
   'junior', 'intern', 'internship', 'on-site only', 'onsite only',
-  'us citizens only', 'must be located in us', 'no remote',
-  'entry level', 'entry-level', 'c++', 'c/c++',
+  'no remote', 'entry level', 'entry-level', 'c++', 'c/c++',
+  // US-only restrictions
+  'us citizens only', 'must be located in us', 'us only', 'u.s. only',
+  'united states only', 'us-based only', 'based in the us',
+  'must reside in the us', 'must reside in the united states',
+  'us work authorization required', 'us authorization required',
+  'must be authorized to work in the us', 'must be authorized to work in the united states',
+  'us residents only', 'usa only', 'us-only',
+  // EU/UK-only restrictions
+  'eu only', 'uk only', 'eu-only', 'uk-only', 'europe only',
+  'must be located in the eu', 'must be located in the uk',
+  // General location restrictions
+  'no international', 'domestic candidates only',
 ];
 
 export const HIGH_SCORE = 3;

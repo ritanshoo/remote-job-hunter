@@ -30,6 +30,7 @@ Key Achievements:
 - Real-time video calling: 10,000+ concurrent users (WebRTC)
 - Won Startup Worldcup Pitch Competition (UAE) for ERC3643 security token
 Budget: Minimum $2,500/month ($15.63/hr)
+Location: Based in India, looking for REMOTE jobs only (no US-only, EU-only, or location-restricted roles)
 `.trim();
 
 /**
@@ -61,7 +62,11 @@ Score guide:
 - 5-6: Partial match (some skill overlap)
 - 3-4: Weak match (different stack but tangential)
 - 0-2: No match (wrong domain, junior, on-site only, non-dev role)
-Also score 0 if the role is clearly not a developer/engineer position (e.g. marketing, sales, HR, recruiter).`,
+IMPORTANT: Score 0 if:
+- The role is not a developer/engineer position (e.g. marketing, sales, HR, nurse, support)
+- The job requires US citizenship, US work authorization, or is restricted to US/EU/UK residents only
+- The job says "US only", "must be located in US/EU", or similar geographic restrictions that exclude India-based remote workers
+- The candidate is based in India and can only take globally-remote or India-friendly positions`,
         },
         {
           role: 'user',
