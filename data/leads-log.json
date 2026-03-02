@@ -13481,5 +13481,426 @@
     "url": "https://www.reddit.com/r/webdev/comments/1rilzsn/looking_for_help_on_a_project/",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-02T09:44:04.041Z",
+    "title": "Senior Back End (Node.js) Engineer (with AI Voice Agent experience)",
+    "company": "Valor Software",
+    "source": "himalayas",
+    "score": 8,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/valor-software/jobs/senior-back-end-node-js-engineer-with-ai-voice-agent-experience",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node.js",
+      "+3 node",
+      "+2 ai",
+      "+1 typescript",
+      "-5 intern",
+      "LLM: The candidate has strong Node.js and AI experience, aligning well with the job's focus on voice AI development."
+    ]
+  },
+  {
+    "timestamp": "2026-03-02T09:44:04.513Z",
+    "title": "Senior Backend Engineer (Node.js & AWS Serverless) - LATAM",
+    "company": "DaCodes",
+    "source": "himalayas",
+    "score": 8,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/dacodes/jobs/senior-backend-engineer-node-js-aws-serverless-latam-241311804",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node.js",
+      "+3 node",
+      "+1 aws",
+      "LLM: The candidate has strong backend skills in Node.js and AWS, along with relevant experience in building scalable solutions, making them a strong match for the role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-02T09:44:04.799Z",
+    "title": "Staff Product Engineer",
+    "company": "Nectar",
+    "source": "himalayas",
+    "score": 8,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/nectar/jobs/staff-product-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "LLM: The candidate has strong full stack skills in JavaScript/TypeScript and React, along with relevant AI experience, making them a strong match for the role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-02T09:44:05.085Z",
+    "title": "Staff Product Engineer",
+    "company": "Nectar",
+    "source": "himalayas",
+    "score": 8,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/nectar/jobs/staff-product-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "LLM: The candidate has strong full stack skills in JavaScript/TypeScript and React, along with relevant AI experience, making them a strong match for the role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-02T09:44:05.387Z",
+    "title": "Senior Software Engineer: Platform",
+    "company": "LogicGate",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/logicgate/jobs/senior-software-engineer-platform-3389739487",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The candidate has strong full stack skills but the role focuses on governance and compliance, which may not fully align with their blockchain and AI expertise."
+    ]
+  },
+  {
+    "timestamp": "2026-03-02T09:44:05.667Z",
+    "title": "Sr. Site Reliability Engineer (SRE)",
+    "company": "ZORA",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/zora/jobs/sr-site-reliability-engineer-sre",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node",
+      "+2 blockchain",
+      "+1 express",
+      "-5 intern",
+      "+2 salary",
+      "LLM: The candidate has relevant blockchain experience but lacks specific site reliability engineering skills and focus."
+    ]
+  },
+  {
+    "timestamp": "2026-03-02T09:44:05.667Z",
+    "title": "Engineer II - Remote",
+    "company": "Mutual Of Omaha",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mutual-of-omaha/jobs/engineer-ii-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+1 javascript",
+      "+2 salary",
+      "LLM: The candidate's skills are primarily in JavaScript/TypeScript and blockchain, while the job requires expertise in Java and Spring Boot, indicating a weak match."
+    ]
+  },
+  {
+    "timestamp": "2026-03-02T09:44:05.667Z",
+    "title": "Senior AI Agent Engineer (Python, ML Systems) - LATAM - English Required",
+    "company": "DaCodes",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/dacodes/jobs/senior-ai-agent-engineer-python-ml-systems-latam-english-required",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 chatbot",
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-02T09:44:05.667Z",
+    "title": "AI ENGINEER GENAI & RAG - INGLES - REMOTO",
+    "company": "IRIUM",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/irium/jobs/ai-engineer-genai-rag-ingles-remoto",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 rag",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-02T09:44:05.667Z",
+    "title": "Experienced devs: What still frustrates you about AI coding tools in large codebases?",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1rioaco/experienced_devs_what_still_frustrates_you_about/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is not a developer position but rather a discussion on frustrations with AI coding tools."
+    ]
+  },
+  {
+    "timestamp": "2026-03-02T09:44:05.667Z",
+    "title": "Analyst II, Full Stack",
+    "company": "Affirm",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/affirm/jobs/analyst-ii-full-stack-898928706",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+2 salary",
+      "LLM: The role is not a developer position; it focuses on analytics and risk management."
+    ]
+  },
+  {
+    "timestamp": "2026-03-02T09:44:05.667Z",
+    "title": "Analyst II, Full Stack",
+    "company": "Affirm",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/affirm/jobs/analyst-ii-full-stack-898928706",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position but rather an analyst role focused on risk management and analytics."
+    ]
+  },
+  {
+    "timestamp": "2026-03-02T09:44:05.667Z",
+    "title": "Product Marketing Lead",
+    "company": "Builder.io",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/builder-io/jobs/product-marketing-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary",
+      "LLM: The role is for a Product Marketing Lead, which is not a developer or engineering position."
+    ]
+  },
+  {
+    "timestamp": "2026-03-02T09:44:05.667Z",
+    "title": "Data Analyst",
+    "company": "Recidiviz",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/recidiviz/jobs/data-analyst",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is for a Data Analyst, which is not a developer/engineer position."
+    ]
+  },
+  {
+    "timestamp": "2026-03-02T09:44:05.667Z",
+    "title": "QA Lead / Manager | Remote in Mexico",
+    "company": "GSB Solutions",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gsb-solutions/jobs/qa-lead-manager-remote-in-mexico-2435164037",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 javascript",
+      "+2 salary",
+      "LLM: The role is for a QA Lead/Manager position, which is not a developer/engineer role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-02T09:44:05.667Z",
+    "title": "Senior Security Engineer",
+    "company": "Loancrate",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/loancrate/jobs/senior-security-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-02T09:44:05.668Z",
+    "title": "GTM Engineer (Growth & Outbound Automation)",
+    "company": "Huzzle",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/huzzle/jobs/gtm-engineer-growth-outbound-automation-9150806946",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-02T09:44:05.668Z",
+    "title": "Director of Strategic Accounts, GSI",
+    "company": "ScienceLogic",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sciencelogic/jobs/director-of-strategic-accounts-gsi",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-02T09:44:05.668Z",
+    "title": "Director of Strategic Accounts, GSI",
+    "company": "ScienceLogic",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sciencelogic/jobs/director-of-strategic-accounts-gsi",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-02T09:44:05.668Z",
+    "title": "Freelance Energy Engineering & Python Expert - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/freelance-energy-engineering-python-expert-freelance-ai-trainer-5791147848",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-02T09:44:05.668Z",
+    "title": "IT Solutions Consultant",
+    "company": "Unisys",
+    "source": "himalayas",
+    "score": -2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/unisys/jobs/it-solutions-consultant",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 express",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-02T09:44:05.668Z",
+    "title": "Staff Technical Marketing Engineer",
+    "company": "Cribl",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cribl/jobs/staff-technical-marketing-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-02T09:44:05.668Z",
+    "title": "Freelance Energy Engineering & Python Expert - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/freelance-energy-engineering-python-expert-freelance-ai-trainer-9682672722",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-02T09:44:05.668Z",
+    "title": "QA Specialist / QA Engineer - Freelanceship - 100% remote",
+    "company": "ACCELERATED",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/accelerated/jobs/qa-specialist-qa-engineer-freelanceship-100-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-02T09:44:05.668Z",
+    "title": "Freelance Energy Engineering & Python Expert - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/freelance-energy-engineering-python-expert-freelance-ai-trainer-6501647469",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-02T09:44:05.668Z",
+    "title": "Staff Software Engineer, Backend (Deal reporting)",
+    "company": "Affirm",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/affirm/jobs/staff-software-engineer-backend-deal-reporting-9628645206",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-02T09:44:05.668Z",
+    "title": "Product Support Jedi – Remote, APAC",
+    "company": "Creative Force",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/creative-force-product-support-jedi-remote-apac",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-02T09:44:05.668Z",
+    "title": "Senior Software Engineer",
+    "company": "efood",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/efood/jobs/senior-software-engineer-8774813163",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
