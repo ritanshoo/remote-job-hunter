@@ -15187,5 +15187,95 @@
       "-5 based in the us",
       "+2 salary($180,000)"
     ]
+  },
+  {
+    "timestamp": "2026-03-03T19:37:55.840Z",
+    "title": "free student loan payoff sweepstakes, remote, paid, $15/hr+",
+    "company": "Content Creator",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rjy27g/hiring_content_creator_free_student_loan_payoff/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-03T19:37:55.840Z",
+    "title": "$5 for a quick task",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rjwy2u/hiring_5_for_a_quick_task/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-03T19:37:55.840Z",
+    "title": "[Onsite] [Japan]-Software Engineers (Visa Holders Only, Multiple Cities) Roughly $18/hour based on 40hr/week]",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rjvvb2/hiring_onsite_japansoftware_engineers_visa/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 salary($18/hour)",
+      "LLM: The job requires candidates to reside in Japan and work onsite, which excludes the India-based candidate."
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T19:37:55.840Z",
+    "title": "Salesforce Data Engineer (Contract – Remote)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rjvqyu/hiring_salesforce_data_engineer_contract_remote/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($50-$52)",
+      "LLM: The job is not a developer/engineer position as it focuses on Salesforce data engineering and requires U.S. work authorization."
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T19:37:55.840Z",
+    "title": "what's your favorite web analytics tool these days?",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1rjve7z/whats_your_favorite_web_analytics_tool_these_days/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-03T19:37:55.840Z",
+    "title": "a Marketing Manager, if you ever did DropShip/Youtube/Ai Influencers/MemePages/Minecraft Servers...THIS IS THE JOB FOR YOU (EU/US ONLY) (2000$ Starting)",
+    "company": "",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rjxzkl/hiring_a_marketing_manager_if_you_ever_did/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 us only"
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T19:37:55.840Z",
+    "title": "a Marketing Manager, if you ever did DropShip/Youtube/Ai Influencers/MemePages/Minecraft Servers...THIS IS THE JOB FOR YOU (EU/US ONLY) (2000$ Starting)",
+    "company": "",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rjxxb3/hiring_a_marketing_manager_if_you_ever_did/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 us only"
+    ]
   }
 ]
