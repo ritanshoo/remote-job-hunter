@@ -4142,5 +4142,12 @@
     "score": -3,
     "emailSent": false,
     "source": "reddit"
+  },
+  "5dfd620d16f4ceaf083f79647ca38384": {
+    "hash": "5dfd620d16f4ceaf083f79647ca38384",
+    "firstSeen": "2026-03-03T15:43:20.656Z",
+    "score": -1,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }

@@ -15085,5 +15085,20 @@
       "-5 based in the us",
       "+2 salary($200–$300 mo)"
     ]
+  },
+  {
+    "timestamp": "2026-03-03T15:43:20.656Z",
+    "title": "Senior Product Designer",
+    "company": "XXIX",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/xxix-senior-product-designer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary($85)"
+    ]
   }
 ]
