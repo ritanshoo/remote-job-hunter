@@ -14352,5 +14352,44 @@
       "+2 salary($100/Hour)",
       "LLM: The role is not a developer/engineer position."
     ]
+  },
+  {
+    "timestamp": "2026-03-03T04:12:11.741Z",
+    "title": "US & UK Users Needed for App Feedback Testing (iOS/Android – Compensation Available)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rjeiso/hiring_us_uk_users_needed_for_app_feedback/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-03T04:12:11.741Z",
+    "title": "[US] Part-Time Technical Project Manager – Long-Term Collaboration ($60–$90/hr)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/remotejs/comments/1rjbo50/hiring_us_parttime_technical_project_manager/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($60–$90/hr)",
+      "LLM: The role is not a developer position but a technical project manager role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T04:12:11.741Z",
+    "title": "Account Executive - Global, Remote",
+    "company": "Magic Inc.",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/magic-inc-account-executive-global-remote-1",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
   }
 ]
