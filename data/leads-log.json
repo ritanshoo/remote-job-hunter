@@ -14459,5 +14459,526 @@
       "+2 salary($65)",
       "LLM: The role is not a developer/engineer position."
     ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:19.546Z",
+    "title": "Lead Gameplay Engineer - Unreal",
+    "company": "Big Time Studios",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/big-time-studios/jobs/lead-gameplay-engineer-unreal",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 web3",
+      "+2 ai",
+      "+2 salary($300)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.051Z",
+    "title": "CS Saas Frontend Developer",
+    "company": "Sporty Group",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/sporty-group/jobs/cs-saas-frontend-developer-4974930369",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.390Z",
+    "title": "Senior MEAN Developer &ndash; Full Remote - Contractor in USD",
+    "company": "goPro Consultancy Group ltd.",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/senior-mean-developer-ndash-full-remote-contractor-in-usd-1393848373",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node.js",
+      "+3 node",
+      "+1 javascript",
+      "+1 mongodb",
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.390Z",
+    "title": "SharePoint Developer - Full Remote-Contractor",
+    "company": "goPro Consultancy Group ltd.",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/sharepoint-developer-full-remote-contractor-1153963868",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 automation",
+      "+1 javascript",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.390Z",
+    "title": "ANALISTA-PROGRAMADOR/A .NET (REMOTO)",
+    "company": "IRIUM",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/irium/jobs/analista-programador-a-net-remoto",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.390Z",
+    "title": "Remote -$15/hr",
+    "company": "[Global] AI Quality Analyst (Personalization) -Multiple Languages Offered",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/remotejs/comments/1rjl32d/hiring_global_ai_quality_analyst_personalization/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is not a developer position and is focused on AI quality analysis, which does not align with the candidate's skills."
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.390Z",
+    "title": "Senior MEAN Developer - Full Remote",
+    "company": "goPro Consultancy Group ltd.",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/senior-mean-developer-full-remote-6536142137",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node.js",
+      "+3 node",
+      "+1 javascript",
+      "+1 mongodb",
+      "+1 express",
+      "+1 docker",
+      "-5 intern",
+      "LLM: The job requires candidates to work during New York office hours, which excludes candidates based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.390Z",
+    "title": "Full-Stack Product Engineer (Remote Europe)",
+    "company": "BnBerry",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bnberry/jobs/full-stack-product-engineer-remote-europe-5165364686",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 next.js",
+      "+2 ai",
+      "+2 salary($87)",
+      "LLM: The job is restricted to remote positions in Europe, excluding candidates based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.390Z",
+    "title": "Senior Trust Specialist",
+    "company": "LPL Financial",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/lpl-financial/jobs/senior-trust-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 express",
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position."
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.390Z",
+    "title": "Application Security Engineer",
+    "company": "NTD Software",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ntd-software/jobs/application-security-engineer-5549515941",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.391Z",
+    "title": "Infor Functional Resource Developer",
+    "company": "Booz Allen Hamilton",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/booz-allen-hamilton/jobs/infor-functional-resource-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The job is not a developer position and requires U.S. citizenship."
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.391Z",
+    "title": "[SO] Test Lead",
+    "company": "Bosch Group",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bosch-group/jobs/so-test-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "LLM: The role is not a developer position; it is focused on testing and quality assurance."
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.391Z",
+    "title": "Hybrid QA Engineer",
+    "company": "Sporty Group",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sporty-group/jobs/hybrid-qa-engineer-7002601162",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "LLM: The role is not a developer position and requires being based in the EU timezone."
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.391Z",
+    "title": "Sr. Software Engineer, CRM",
+    "company": "Bloomerang",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bloomerang/jobs/sr-software-engineer-crm-1217182760",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary",
+      "LLM: The job is not a developer/engineer position as it is focused on a specific domain (nonprofit sector) and has geographic restrictions that exclude India-based remote workers."
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.391Z",
+    "title": "AI ML Engineer Remote Nationwide or Hybrid in MN/DC/NJ",
+    "company": "Optum",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/optum/jobs/ai-ml-engineer-remote-nationwide-or-hybrid-in-mn-dc-nj",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 chatbot",
+      "+2 salary",
+      "LLM: The job is not a developer/engineer position and has geographic restrictions that exclude India-based remote workers."
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.391Z",
+    "title": "Azure Integration Developer",
+    "company": "Cypher Consulting Europe",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cypher-consulting-europe/jobs/azure-integration-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "LLM: The job is not a developer/engineer position as it requires specific Azure skills and is restricted to candidates in Sweden."
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.391Z",
+    "title": "Microsoft Security Engineer",
+    "company": "Psychiatry UK",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/psychiatryuk/jobs/microsoft-security-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position as it focuses on security engineering, which is outside the candidate's core skills."
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.391Z",
+    "title": "Senior Full Stack Java&#x2f;Angular Developer - Full Remote",
+    "company": "goPro Consultancy Group ltd.",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/senior-full-stack-java-x2f-angular-developer-full-remote-9997657761",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+1 javascript",
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.391Z",
+    "title": "Staff Mobile Engineer: Instrumentation SDK (iOS/Android) - Observability | Swede",
+    "company": "Grafana Labs",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/grafana-labs/jobs/staff-mobile-engineer-instrumentation-sdk-ios-android-observability-swede-3504836453",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The job is restricted to applicants based in Spain, Germany, the UK, or Sweden, excluding India-based candidates."
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.391Z",
+    "title": "Senior AI/ML Engineer - OptumRx - Remote",
+    "company": "Optum",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/optum/jobs/senior-ai-ml-engineer-optumrx-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+2 salary",
+      "LLM: The job is not a developer/engineer position as it is focused on healthcare services and requires US work authorization."
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.391Z",
+    "title": "Tableau Analyst (Orlando, FL)",
+    "company": "Launch That",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/launch-that/jobs/tableau-analyst-orlando-fl",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.391Z",
+    "title": "Senior Back-End Java Developer with AWS - Full remote - Contractor in USD",
+    "company": "goPro Consultancy Group ltd.",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/senior-back-end-java-developer-with-aws-full-remote-contractor-in-usd-3487647241",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.391Z",
+    "title": "Senior .NET CoreDB Full stack Lead Developer with Azure - Full Remote - Contract",
+    "company": "goPro Consultancy Group ltd.",
+    "source": "himalayas",
+    "score": -2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/senior-net-coredb-full-stack-lead-developer-with-azure-full-remote-contract-542860621",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.391Z",
+    "title": "Software Engineer II - Payments",
+    "company": "DICK'S Sporting Goods",
+    "source": "himalayas",
+    "score": -2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/dick-s-sporting-goods/jobs/software-engineer-ii-payments",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 postgresql",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.391Z",
+    "title": "Machine Learning Engineer &ndash; Full Remote",
+    "company": "goPro Consultancy Group ltd.",
+    "source": "himalayas",
+    "score": -2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/machine-learning-engineer-ndash-full-remote-1070741669",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.391Z",
+    "title": "Regional Sales Engineer - TN/AR",
+    "company": "Felix Global",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/felix-global/jobs/regional-sales-engineer-tn-ar",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.391Z",
+    "title": "Senior Systems Management Analyst - Remote",
+    "company": "UnitedHealth Group",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/unitedhealth-group/jobs/senior-systems-management-analyst-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.391Z",
+    "title": "Senior Angular Accessibility developer &ndash; Full Remote",
+    "company": "goPro Consultancy Group ltd.",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/senior-angular-accessibility-developer-ndash-full-remote-3675877593",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.391Z",
+    "title": "QA Manager for .NET and Angular based applications - Full Remote",
+    "company": "goPro Consultancy Group ltd.",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/qa-manager-for-net-and-angular-based-applications-full-remote-825643924",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.391Z",
+    "title": "QA Manager for .NET and Angular based applications - Full Remote",
+    "company": "goPro Consultancy Group ltd.",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/qa-manager-for-net-and-angular-based-applications-full-remote-825643924",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.391Z",
+    "title": "Software Engineer (AI Data Engine, Staff/ Senior, Open Source, SaaS)",
+    "company": "Iterative",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/iterative/jobs/software-engineer-ai-data-engine-staff-senior-open-source-saas",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.391Z",
+    "title": "Senior Offensive Security Engineer",
+    "company": "Sporty Group",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sporty-group/jobs/senior-offensive-security-engineer-9853071906",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.391Z",
+    "title": "Senior Oracle Database Developer - Full Remote",
+    "company": "goPro Consultancy Group ltd.",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/senior-oracle-database-developer-full-remote-8919904368",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.391Z",
+    "title": "SharePoint &#x2f; O365 Specialist - Full Remote - Conultancy",
+    "company": "goPro Consultancy Group ltd.",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/sharepoint-x2f-o365-specialist-full-remote-conultancy-2631053900",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.391Z",
+    "title": "Reconversion Ingénieur(e) Informatique - Java - Nantes",
+    "company": "Sopra Steria",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sopra-steria/jobs/reconversion-ingenieur-e-informatique-java-nantes",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T10:35:20.391Z",
+    "title": "Java XML Developer - Full Remote",
+    "company": "goPro Consultancy Group ltd.",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/java-xml-developer-full-remote-5649395829",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
