@@ -15026,5 +15026,50 @@
     "url": "https://www.reddit.com/r/forhire/comments/1rjn3wy/hiring_someone_to_build_up_a_travel_page_on/",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-03T13:57:43.335Z",
+    "title": "10 participants for an initial user survey of a mobile app concept. $50 USD remote",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rjp4ke/hiring_10_participants_for_an_initial_user_survey/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($50)",
+      "LLM: The job is not a developer/engineer position, but rather a participant recruitment for a survey."
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T13:57:43.335Z",
+    "title": "Shopify Engineer",
+    "company": "Nebulab",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/nebulab-shopify-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 javascript",
+      "+1 graphql",
+      "-5 junior",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T13:57:43.335Z",
+    "title": "Entry-Level Crypto Market Specialist",
+    "company": "Elemental Terra",
+    "source": "weworkremotely",
+    "score": -10,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/elemental-terra-entry-level-crypto-market-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "-5 entry-level"
+    ]
   }
 ]
