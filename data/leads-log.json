@@ -14445,5 +14445,19 @@
       "+2 ai",
       "LLM: The job requires candidates to be located in France, which excludes the India-based candidate."
     ]
+  },
+  {
+    "timestamp": "2026-03-03T09:37:48.376Z",
+    "title": "UX Feedback Study – Europe-Based Participants Needed ($65 for 25 Minutes)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rjkjcv/hiring_ux_feedback_study_europebased_participants/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($65)",
+      "LLM: The role is not a developer/engineer position."
+    ]
   }
 ]
