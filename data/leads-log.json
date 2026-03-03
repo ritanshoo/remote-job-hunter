@@ -14391,5 +14391,20 @@
       "+2 ai",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-03T07:39:40.119Z",
+    "title": "What 100+ Recent WordPress Job Listings Reveal About the Industry",
+    "company": "",
+    "source": "reddit",
+    "score": -1,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1rjiulp/what_100_recent_wordpress_job_listings_reveal/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 javascript",
+      "-5 junior"
+    ]
   }
 ]
