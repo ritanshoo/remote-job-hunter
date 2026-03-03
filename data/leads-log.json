@@ -15277,5 +15277,354 @@
       "+2 ai",
       "-5 us only"
     ]
+  },
+  {
+    "timestamp": "2026-03-03T22:25:00.874Z",
+    "title": "Senior React Native Engineer",
+    "company": "Espeo Software",
+    "source": "himalayas",
+    "score": 11,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/espeo-software/jobs/senior-react-native-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 blockchain",
+      "+2 ai",
+      "+1 typescript",
+      "+1 rest api",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T22:25:01.476Z",
+    "title": "Fullstack Developer - Blockchain Environment - Full Remote",
+    "company": "goPro Consultancy Group ltd.",
+    "source": "himalayas",
+    "score": 9,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/fullstack-developer-blockchain-environment-full-remote-4750425250",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+3 react",
+      "+3 node",
+      "+2 blockchain",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T22:25:01.476Z",
+    "title": "Full Stack Developer",
+    "company": "weeBID",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/weebid/jobs/full-stack-developer-7115416950",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+1 javascript",
+      "+1 postgresql",
+      "+1 docker",
+      "LLM: The candidate's skills in JavaScript and PostgreSQL partially align, but the primary requirement for PHP expertise and the focus on the creator economy do not match well."
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T22:25:01.476Z",
+    "title": "Electrical Systems Engineer (C&I) - Submarines",
+    "company": "Rolls-Royce",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/rolls-royce/jobs/electrical-systems-engineer-c-i-submarines",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-03T22:25:01.476Z",
+    "title": "Nuclear Core Systems Performance Engineer- Submarines",
+    "company": "Rolls-Royce",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/rolls-royce/jobs/nuclear-core-systems-performance-engineer-submarines",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "LLM: The role is not a developer/engineer position and is restricted to on-site work in the UK."
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T22:25:01.476Z",
+    "title": "Software Production Engineer",
+    "company": "EXL",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/exl/jobs/software-production-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-03T22:25:01.476Z",
+    "title": "Full Stack Developer",
+    "company": "FAI Farms",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/fai-farms/jobs/full-stack-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+1 typescript",
+      "+1 postgresql",
+      "LLM: The job requires PHP development with Laravel, which is outside the candidate's skill set, and the candidate is based in India seeking remote roles only."
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T22:25:01.476Z",
+    "title": "Data Analyst",
+    "company": "Qodea",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/qodea/jobs/data-analyst-1761453081",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is not a developer position and is focused on data analysis."
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T22:25:01.476Z",
+    "title": "Data Engineer, Contract",
+    "company": "66degrees",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/66degrees/jobs/data-engineer-contract",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is not a developer/engineer position and is focused on data engineering, which does not align with the candidate's full stack development skills."
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T22:25:01.476Z",
+    "title": "QA Engineer, Soft-Pak",
+    "company": "Terex Corporation",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/terex-corporation/jobs/qa-engineer-soft-pak",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "LLM: The role is not a developer/engineer position, as it is focused on quality assurance."
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T22:25:01.476Z",
+    "title": "Staff Software Engineer - AI/ML - Information Extraction",
+    "company": "OpenAsset",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/openasset/jobs/staff-software-engineer-ai-ml-information-extraction",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The job requires UK remote or London-based presence, which excludes India-based candidates."
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T22:25:01.476Z",
+    "title": "Full Stack .NET Architect - GenAI Experience",
+    "company": "Avanade",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/avanade/jobs/full-stack-net-architect-genai-experience",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+2 ai",
+      "+2 salary",
+      "LLM: The job requires candidates to be located in the United States, which excludes the India-based candidate."
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T22:25:01.476Z",
+    "title": "Senior Civil Engineer - Site Design",
+    "company": "Olsson",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/olsson-com/jobs/senior-civil-engineer-site-design-2460082223",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-03T22:25:01.476Z",
+    "title": "XTN-31C9813 | REACT / NEXT.JS DEVELOPER",
+    "company": "KMC Solutions Inc",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/kmc-solutions-inc/jobs/xtn-31c9813-react-next-js-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 next.js",
+      "+1 typescript",
+      "+1 rest api",
+      "-5 intern",
+      "LLM: The job is restricted to a UK-based development team, excluding candidates based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T22:25:01.476Z",
+    "title": "Cloud Networking Engineer",
+    "company": "CommandLink",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ats-rippling/jobs/cloud-networking-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "LLM: The role is not a developer/engineer position and requires US citizenship."
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T22:25:01.476Z",
+    "title": "Javascript / PHP Engineer (Full-time Telecommute)",
+    "company": "PNDLM",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pndlm/jobs/javascript-php-engineer-full-time-telecommute",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "+2 salary",
+      "LLM: The job requires eligibility for employment in the United States and is restricted to candidates located in Portland, OR."
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T22:25:01.476Z",
+    "title": "Senior Security Solutions Engineer",
+    "company": "Rapid7",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/rapid7/jobs/senior-security-solutions-engineer-8795327212",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-03T22:25:01.476Z",
+    "title": "Software Engineer, Backend (AI Agent)",
+    "company": "Cresta",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cresta/jobs/software-engineer-backend-ai-agent-7393479689",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The job is not a developer/engineer position as it focuses on AI Agents in a contact center context, and it is likely restricted to US/EU candidates."
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T22:25:01.476Z",
+    "title": "Physics Researcher (Python) - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/physics-researcher-python-freelance-ai-trainer-2292368192",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T22:25:01.476Z",
+    "title": "&#x28;Senior&#x29; Java&#x2f;Angular Developer - Full Remote",
+    "company": "goPro Consultancy Group ltd.",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/x28-senior-x29-java-x2f-angular-developer-full-remote-462789386",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T22:25:01.476Z",
+    "title": "ADP Test Automation - Script Development Level 2",
+    "company": "Lockheed Martin",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/lockheed-martin/jobs/adp-test-automation-script-development-level-2",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T22:25:01.476Z",
+    "title": "Methods Development Engineer - Submarines",
+    "company": "Rolls-Royce",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/rolls-royce/jobs/methods-development-engineer-submarines",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T22:25:01.476Z",
+    "title": "Solutions Advisor - Network and Cloud | Remote MN, IA or IL",
+    "company": "Optiv",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/optiv/jobs/solutions-advisor-network-and-cloud-remote-mn-ia-or-il",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T22:25:01.476Z",
+    "title": "Senior Machine Learning Engineer - Full Remote",
+    "company": "goPro Consultancy Group ltd.",
+    "source": "himalayas",
+    "score": -8,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/senior-machine-learning-engineer-full-remote-5315963085",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "-5 c/c++"
+    ]
   }
 ]
