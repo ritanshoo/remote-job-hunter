@@ -14406,5 +14406,44 @@
       "+1 javascript",
       "-5 junior"
     ]
+  },
+  {
+    "timestamp": "2026-03-03T08:36:15.092Z",
+    "title": "Budget: $300 per Video",
+    "company": "Influencers for WikiFX App (Dubai/UAE)",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rjct3t/hiring_influencers_for_wikifx_app_dubaiuae_budget/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($300)",
+      "LLM: The job is not a developer/engineer position, but rather a marketing role for micro-influencers."
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T08:36:15.093Z",
+    "title": "Senior Software Engineer",
+    "company": "Paymentology",
+    "source": "jobicy",
+    "score": 0,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/140056-senior-software-engineer-8",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-03T08:36:15.093Z",
+    "title": "Senior Software Engineer – Full Remote (France) or Hybrid",
+    "company": "Voyage Privé",
+    "source": "jobicy",
+    "score": 0,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/140054-senior-software-engineer-full-remote-france-or-hybrid",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The job requires candidates to be located in France, which excludes the India-based candidate."
+    ]
   }
 ]
