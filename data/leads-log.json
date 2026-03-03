@@ -15100,5 +15100,69 @@
       "-5 intern",
       "+2 salary($85)"
     ]
+  },
+  {
+    "timestamp": "2026-03-03T16:41:49.775Z",
+    "title": "Senior React Full-stack Developer",
+    "company": "Lemon.io",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-3",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 next.js",
+      "+3 node.js",
+      "+3 node",
+      "+2 blockchain",
+      "+2 solana",
+      "+2 web3",
+      "+2 solidity",
+      "+2 ai",
+      "+2 llm",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 aws",
+      "LLM: The job requires US or EU residency, which excludes the candidate based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T16:41:49.776Z",
+    "title": "London (Immediate Start) £200-£400 a day",
+    "company": "AI Start-Frame Artist – Feature Film",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rjta79/hiring_ai_startframe_artist_feature_film_london/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is not a developer position and is restricted to London-based artists."
+    ]
+  },
+  {
+    "timestamp": "2026-03-03T16:41:49.776Z",
+    "title": "Talented Etsy VA for \"BobbleheadsAthena\" – Help us scale our 1:1 custom pet figurines! 🐾",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rjt6h4/hiring_talented_etsy_va_for_bobbleheadsathena/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-03T16:41:49.776Z",
+    "title": "Social Media Manager",
+    "company": "FONCÉ Agency",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/fonce-agency-social-media-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
