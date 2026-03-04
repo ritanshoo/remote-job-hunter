@@ -16200,5 +16200,228 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-04T16:39:20.337Z",
+    "title": "Full-Stack Product Dev",
+    "company": "Colonist",
+    "source": "hackernews",
+    "score": 9,
+    "priority": "high",
+    "url": "https://news.ycombinator.com/item?id=47246611",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+2 ai",
+      "+1 typescript",
+      "+1 postgresql",
+      "LLM: The candidate has a perfect match of skills in full stack JavaScript/TypeScript, React, and Node.js, along with relevant experience in AI tooling."
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T16:39:20.337Z",
+    "title": "Multiple Positions",
+    "company": "Stream",
+    "source": "hackernews",
+    "score": 1,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47249264",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 webrtc"
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T16:39:20.337Z",
+    "title": "Full-Stack Engineer",
+    "company": "TrueSpace",
+    "source": "hackernews",
+    "score": 1,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47243146",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T16:39:20.337Z",
+    "title": "Rust Engineer",
+    "company": "Hyperact",
+    "source": "hackernews",
+    "score": 1,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47244555",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T16:39:20.337Z",
+    "title": "Senior/Staff Software Developer",
+    "company": "Substantial",
+    "source": "hackernews",
+    "score": 1,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47241776",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T16:39:20.337Z",
+    "title": "Software Engineers & Platform Engineers",
+    "company": "Blackshark AI",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47249983",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws",
+      "+1 docker",
+      "LLM: The job requires candidates to be located in the EU, which excludes the India-based candidate."
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T16:39:20.337Z",
+    "title": "Staff Software Engineer",
+    "company": "Redbook",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47249936",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The job is restricted to US-based candidates only, excluding the India-based candidate."
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T16:39:20.337Z",
+    "title": "AI for Architecture & Engineering",
+    "company": "Howie",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47248331",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 postgresql",
+      "LLM: The job is restricted to remote positions in Europe, excluding candidates based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T16:39:20.337Z",
+    "title": "Various Software Engineering Roles",
+    "company": "Prophet Town LLC",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47242928",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+1 javascript",
+      "+1 typescript",
+      "-5 intern",
+      "LLM: The job requires US work authorization and is restricted to US-based roles, which excludes the candidate based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T16:39:20.337Z",
+    "title": "US-Based / Remote",
+    "company": "Estuary",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47238829",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-04T16:39:20.337Z",
+    "title": "Sr. AI SWE's + React/RN + Product Analyst",
+    "company": "Littlebird.ai",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47236437",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "-5 based in the us"
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T16:39:20.337Z",
+    "title": "AI Engineer",
+    "company": "Tangible Materials",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47236670",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+1 typescript",
+      "+2 salary",
+      "LLM: The job is restricted to US/Canada residents only, excluding the candidate based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T16:39:20.337Z",
+    "title": "Business Development",
+    "company": "ModPhone.ai",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47236048",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is not a developer/engineer position, but rather a business development role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T16:39:20.337Z",
+    "title": "Equity → Pre-Seed in 6-10 Weeks",
+    "company": "Sentinel Defense Technologies",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47238992",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+2 ai",
+      "+1 mongodb",
+      "+2 salary($3,000/mo)",
+      "LLM: The job is not a developer/engineer position as it is focused on a startup with equity compensation and requires US work authorization."
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T16:39:20.337Z",
+    "title": "Full-Stack Software Engineer",
+    "company": "Reckon Digital",
+    "source": "hackernews",
+    "score": -1,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47236366",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 aws",
+      "-5 intern"
+    ]
   }
 ]
