@@ -15663,5 +15663,322 @@
       "+2 automation",
       "LLM: The role is not a developer/engineer position."
     ]
+  },
+  {
+    "timestamp": "2026-03-04T12:47:42.099Z",
+    "title": "Lead Robotics Engineer",
+    "company": "Entangle Labs",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/entangle-labs/jobs/lead-robotics-engineer-4806810512",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "+2 web3",
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T12:47:42.728Z",
+    "title": "Senior Android Developer",
+    "company": "Binance",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/binance/jobs/senior-android-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "+2 web3"
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T12:47:42.728Z",
+    "title": "Data Engineer",
+    "company": "InventYOU",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/inventyou/jobs/data-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T12:47:42.728Z",
+    "title": "Sustaining Engineer",
+    "company": "Proofpoint",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/proofpoint/jobs/sustaining-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is not a developer/engineer position and is focused on cybersecurity."
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T12:47:42.728Z",
+    "title": "Endpoint Engineer",
+    "company": "Wave Mobile Money",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/wave-mobile-money/jobs/endpoint-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position and is focused on endpoint infrastructure, which does not align with the candidate's full stack engineering skills."
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T12:47:42.728Z",
+    "title": "Pre-Sales Technical Solutions Engineer – Custom Application Development",
+    "company": "CBTS",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cbts/jobs/pre-sales-technical-solutions-engineer-custom-application-development",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position; it is a pre-sales technical solutions engineer role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T12:47:42.728Z",
+    "title": "Senior Solutions Architect - EMEA",
+    "company": "NICE",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nice/jobs/senior-solutions-architect-emea",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node.js",
+      "+3 node",
+      "+2 ai",
+      "LLM: The role is not a developer/engineer position and is restricted to EMEA."
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T12:47:42.728Z",
+    "title": "Evaluation Scenario Writer - AI Agent Testing Specialist",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/evaluation-scenario-writer-ai-agent-testing-specialist-9956936669",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+2 automation",
+      "+1 docker",
+      "+2 salary",
+      "LLM: The role is not a developer position; it focuses on evaluation and testing rather than software development."
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T12:47:42.728Z",
+    "title": "Lead Systems Engineer",
+    "company": "Peraton",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/peraton/jobs/lead-systems-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position and is restricted to US/EU residents."
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T12:47:42.728Z",
+    "title": "Cloud Engineer II",
+    "company": "ITC Federal",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/itc-federal/jobs/cloud-engineer-ii",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "LLM: The job is not a developer/engineer position and requires US citizenship or work authorization."
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T12:47:42.728Z",
+    "title": "Senior Mobile Engineer",
+    "company": "MLabs",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mlabs/jobs/senior-mobile-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 express",
+      "+2 salary",
+      "LLM: The job is not a developer/engineer position as it requires a focus on mobile engineering with specific geographic restrictions that exclude India-based remote workers."
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T12:47:42.728Z",
+    "title": "Senior Software Engineering Manager",
+    "company": "CommandLink",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ats-rippling/jobs/senior-software-engineering-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position but a managerial role, and it requires experience in PHP and Python ecosystems."
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T12:47:42.728Z",
+    "title": "DevSecOps Engineer",
+    "company": "Rohirrim",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/rohirrim/jobs/devsecops-engineer-5362629264",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 docker",
+      "LLM: The job is not a developer/engineer position as it requires specific geographic restrictions and is focused on DevSecOps, which is outside the candidate's core full stack development skills."
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T12:47:42.729Z",
+    "title": "Mendix Developer, Makro Head Office",
+    "company": "Makro PRO",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/makropro/jobs/mendix-developer-makro-head-office",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-04T12:47:42.729Z",
+    "title": "Senior Claims Adjuster, Architects & Engineers Liability",
+    "company": "Applied Underwriters",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/applied-underwriters/jobs/senior-claims-adjuster-architects-engineers-liability",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-04T12:47:42.729Z",
+    "title": "Statistician with Python - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/statistician-with-python-freelance-ai-trainer-9232439645",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T12:47:42.729Z",
+    "title": "Statistics Expert (Python) - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/statistics-expert-python-freelance-ai-trainer-8190924894",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T12:47:42.729Z",
+    "title": "Statistician with Python - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/statistician-with-python-freelance-ai-trainer-1905833321",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T12:47:42.729Z",
+    "title": "Senior Product Marketing Manager (USA/EMEA - Remote)",
+    "company": "Hospitable.",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/hospitable-senior-product-marketing-manager-usa-emea-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($128,700)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T12:47:42.729Z",
+    "title": "Automotive Engineering & Python Expert - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/automotive-engineering-python-expert-freelance-ai-trainer-2668603202",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T12:47:42.729Z",
+    "title": "Regional Sales Manager, Existing Accounts (Remote, SWE)",
+    "company": "Crowdstrike",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/crowdstrike/jobs/regional-sales-manager-existing-accounts-remote-swe",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T12:47:42.729Z",
+    "title": "Solutions Field Application Engineer",
+    "company": "Arrow Electronics, Inc.",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/arrow-electronics-inc/jobs/solutions-field-application-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
