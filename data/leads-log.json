@@ -16703,5 +16703,19 @@
       "+2 ai",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-04T22:27:33.059Z",
+    "title": "Intake Specialist",
+    "company": "Shegerian & Associates",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/shegerian-associates-intake-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($26-$28)"
+    ]
   }
 ]

@@ -5451,5 +5451,26 @@
     "score": -3,
     "emailSent": false,
     "source": "jobicy"
+  },
+  "5603be9176f2df5c724b4f9bfb27d686": {
+    "hash": "5603be9176f2df5c724b4f9bfb27d686",
+    "firstSeen": "2026-03-04T22:27:33.058Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "62b08958079a337aba39b29538b39c0a": {
+    "hash": "62b08958079a337aba39b29538b39c0a",
+    "firstSeen": "2026-03-04T22:27:33.058Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "a044bdc29a7b75d9e2d60a5248bce1ee": {
+    "hash": "a044bdc29a7b75d9e2d60a5248bce1ee",
+    "firstSeen": "2026-03-04T22:27:33.059Z",
+    "score": -3,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }
