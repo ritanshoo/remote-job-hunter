@@ -15626,5 +15626,27 @@
       "-5 intern",
       "-5 c/c++"
     ]
+  },
+  {
+    "timestamp": "2026-03-04T01:45:38.344Z",
+    "title": "Extract Function from bin/exe",
+    "company": "Reverse Engineer/Programmer x86",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rk3j09/hiring_reverse_engineerprogrammer_x86_extract/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-04T01:45:38.344Z",
+    "title": "flexible budget, great for your portfolio",
+    "company": "Social media help for a first of its kind dance event premier",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rk2imt/hiring_social_media_help_for_a_first_of_its_kind/",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
