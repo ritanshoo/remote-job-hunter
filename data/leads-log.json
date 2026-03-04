@@ -16590,5 +16590,60 @@
       "-5 intern",
       "-5 internship"
     ]
+  },
+  {
+    "timestamp": "2026-03-04T18:46:40.157Z",
+    "title": "Chief Operating Officer (COO) / Growth GM",
+    "company": "Prepterminal.com",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/prepterminal-com-chief-operating-officer-coo-growth-gm",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 salary($100,000 - $200,000)",
+      "LLM: The role is not a developer/engineer position and is focused on operations and growth management."
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T18:46:40.157Z",
+    "title": "$300",
+    "company": "Vector artist to refine card game designs",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rkti88/hiring_vector_artist_to_refine_card_game_designs/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary($300)",
+      "LLM: The job is not a developer/engineer position, but rather a design role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T18:46:40.157Z",
+    "title": "Looking for a U.S.-based Sales Rep for Web Design Clients (25% Commission)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1rkruas/looking_for_a_usbased_sales_rep_for_web_design/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-04T18:46:40.157Z",
+    "title": "Flexible Shift",
+    "company": "Chat Moderators",
+    "source": "reddit",
+    "score": -5,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rkt6rt/hiring_chat_moderators_flexible_shift/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
