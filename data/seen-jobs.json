@@ -5374,5 +5374,82 @@
     "score": -5,
     "emailSent": false,
     "source": "reddit"
+  },
+  "738df9230f23e68bea31e6e776141f7c": {
+    "hash": "738df9230f23e68bea31e6e776141f7c",
+    "firstSeen": "2026-03-04T19:35:50.984Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "cf6e1f5f8237bce5254d95e885b7799a": {
+    "hash": "cf6e1f5f8237bce5254d95e885b7799a",
+    "firstSeen": "2026-03-04T19:35:50.984Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "037f3ee44b47c6562d806d889af5d055": {
+    "hash": "037f3ee44b47c6562d806d889af5d055",
+    "firstSeen": "2026-03-04T19:35:50.984Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "93c085e1e02d7dfe49e444314c3784d2": {
+    "hash": "93c085e1e02d7dfe49e444314c3784d2",
+    "firstSeen": "2026-03-04T19:35:50.984Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "cd1d4b1ccaea7e0bd1f99b3bdc84fe4d": {
+    "hash": "cd1d4b1ccaea7e0bd1f99b3bdc84fe4d",
+    "firstSeen": "2026-03-04T19:35:50.984Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "925c13e550a103af5dc15ffece846307": {
+    "hash": "925c13e550a103af5dc15ffece846307",
+    "firstSeen": "2026-03-04T19:35:50.984Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remotive"
+  },
+  "fb85e20838c33cbafc8314feaf876478": {
+    "hash": "fb85e20838c33cbafc8314feaf876478",
+    "firstSeen": "2026-03-04T19:35:50.984Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remotive"
+  },
+  "f2f1c21f8b9afa352c7bdb10376ff275": {
+    "hash": "f2f1c21f8b9afa352c7bdb10376ff275",
+    "firstSeen": "2026-03-04T19:35:54.481Z",
+    "score": 7,
+    "emailSent": false,
+    "source": "jobicy"
+  },
+  "fad3caf1f6ade2337cf092520b2101ed": {
+    "hash": "fad3caf1f6ade2337cf092520b2101ed",
+    "firstSeen": "2026-03-04T19:35:54.481Z",
+    "score": 3,
+    "emailSent": false,
+    "source": "jobicy"
+  },
+  "2ae9720f747af663f1c43aa3a97f6b84": {
+    "hash": "2ae9720f747af663f1c43aa3a97f6b84",
+    "firstSeen": "2026-03-04T19:35:54.481Z",
+    "score": -1,
+    "emailSent": false,
+    "source": "jobicy"
+  },
+  "aa1f53ce7a04986ac16d1ccf37c81a08": {
+    "hash": "aa1f53ce7a04986ac16d1ccf37c81a08",
+    "firstSeen": "2026-03-04T19:35:54.481Z",
+    "score": -3,
+    "emailSent": false,
+    "source": "jobicy"
   }
 }

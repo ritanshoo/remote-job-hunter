@@ -16645,5 +16645,63 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-04T19:35:54.481Z",
+    "title": "Full Stack Software Engineer – Robotics HMI",
+    "company": "Formic",
+    "source": "jobicy",
+    "score": 7,
+    "priority": "high",
+    "url": "https://jobicy.com/jobs/140150-full-stack-software-engineer-robotics-hmi",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+2 ai",
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T19:35:54.481Z",
+    "title": "Senior Software Engineer, Risk Engineering",
+    "company": "Flex",
+    "source": "jobicy",
+    "score": 3,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/140151-senior-software-engineer-risk-engineering-2",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T19:35:54.481Z",
+    "title": "Senior Software Engineer",
+    "company": "Pair Team",
+    "source": "jobicy",
+    "score": -1,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/140148-senior-software-engineer-9",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary($150)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-04T19:35:54.481Z",
+    "title": "Senior Software Engineer",
+    "company": "Twilio",
+    "source": "jobicy",
+    "score": -3,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/140157-senior-software-engineer-10",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
   }
 ]
