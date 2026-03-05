@@ -17131,5 +17131,16 @@
       "+3 full stack",
       "LLM: The job is not a developer/engineer position as it is focused on spatial computing and requires specific skills in Python and computer vision, which do not align with the candidate's expertise."
     ]
+  },
+  {
+    "timestamp": "2026-03-05T13:59:35.235Z",
+    "title": "Senior Software Engineers",
+    "company": "Carrot",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47261286",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
