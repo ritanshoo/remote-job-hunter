@@ -17142,5 +17142,19 @@
     "url": "https://news.ycombinator.com/item?id=47261286",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-05T15:47:03.241Z",
+    "title": "Customer Success Manager",
+    "company": "Localize",
+    "source": "weworkremotely",
+    "score": -4,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/localize-customer-success-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "-5 intern"
+    ]
   }
 ]
