@@ -16997,5 +16997,27 @@
       "+1 aws",
       "-5 junior"
     ]
+  },
+  {
+    "timestamp": "2026-03-05T09:38:56.863Z",
+    "title": "Software Engineers (mid and senior)",
+    "company": "Upvest GmbH",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47259602",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-05T09:38:56.863Z",
+    "title": "Customer Solutions Engineer",
+    "company": "Doconomy",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47259420",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]

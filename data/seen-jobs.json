@@ -5703,5 +5703,26 @@
     "score": -1,
     "emailSent": false,
     "source": "jobicy"
+  },
+  "827b1e12d5cb9632333053d5aebf9f5f": {
+    "hash": "827b1e12d5cb9632333053d5aebf9f5f",
+    "firstSeen": "2026-03-05T09:38:56.861Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "5d3e83bf394fa0253c7c45e004439c32": {
+    "hash": "5d3e83bf394fa0253c7c45e004439c32",
+    "firstSeen": "2026-03-05T09:38:56.863Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "hackernews"
+  },
+  "e92360b97a93dcae07124a3ae95d4aa4": {
+    "hash": "e92360b97a93dcae07124a3ae95d4aa4",
+    "firstSeen": "2026-03-05T09:38:56.863Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "hackernews"
   }
 }
