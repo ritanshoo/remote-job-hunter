@@ -17644,5 +17644,23 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-05T21:30:44.335Z",
+    "title": "Principal Engineer & Technical Strategist",
+    "company": "Decise",
+    "source": "hackernews",
+    "score": 15,
+    "priority": "high",
+    "url": "https://news.ycombinator.com/item?id=47267122",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 next.js",
+      "+3 node.js",
+      "+3 node",
+      "+2 ai",
+      "+1 aws"
+    ]
   }
 ]
