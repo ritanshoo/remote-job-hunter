@@ -17156,5 +17156,493 @@
       "+1 javascript",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.904Z",
+    "title": "Senior AI Engineer – Clinical AI",
+    "company": "IMO Health",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/imo-health/jobs/senior-ai-engineer-clinical-ai",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws",
+      "+1 docker",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.904Z",
+    "title": "Senior Multimedia Learning Developer",
+    "company": "iRhythm",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/irhythm/jobs/senior-multimedia-learning-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.904Z",
+    "title": "Hospitality Interior Design Specialist (Revit Documentation)",
+    "company": "Uptalent.Io",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/uptalent-io-hospitality-interior-design-specialist-revit-documentation",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.904Z",
+    "title": "Hospitality Interior Design Specialist (Revit Documentation)",
+    "company": "Uptalent.Io",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/uptalent-io-hospitality-interior-design-specialist-revit-documentation",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.904Z",
+    "title": "Hospitality Interior Design Specialist (Revit Documentation)",
+    "company": "Uptalent.Io",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/uptalent-io-hospitality-interior-design-specialist-revit-documentation",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.904Z",
+    "title": "DevOps & QA Automation Engineer (Remote)",
+    "company": "Remotestar",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/remotestar-devops-qa-automation-engineer-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "+1 docker",
+      "LLM: The role is not a developer/engineer position as it focuses on DevOps and QA Automation, and it is restricted to candidates located in the UK."
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.904Z",
+    "title": "Consultant Infrastructure Developer (DevOps)",
+    "company": "Thoughtworks_new",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/thoughtworks_new-consultant-infrastructure-developer-devops",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "LLM: The role is not a developer/engineer position as it focuses on DevOps and infrastructure, and it is restricted to candidates located in the UK."
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.904Z",
+    "title": "Senior Product Engineer C#",
+    "company": "Adria Solutions",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/adria-solutions-senior-product-engineer-csharp",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "+1 typescript",
+      "LLM: The job requires C# and .NET experience, which is outside the candidate's skill set, and it is a finance role that may have geographic restrictions."
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.904Z",
+    "title": "Associate Staff Engineer, Sap-Product-Lifecycle-Mgmt",
+    "company": "Nagarro",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/nagarro-associate-staff-engineer-sap-product-lifecycle-mgmt",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.904Z",
+    "title": "Manager, Customer Support",
+    "company": "Pointclickcare",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/pointclickcare-manager-customer-support",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 express",
+      "-5 intern",
+      "+2 salary($92,000 - $100,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.904Z",
+    "title": "FPGA Engineer - Submarines",
+    "company": "Rolls-Royce",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/rolls-royce/jobs/fpga-engineer-submarines",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.904Z",
+    "title": "Product Definition Engineer - LibertyWorks",
+    "company": "Rolls-Royce",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/rolls-royce/jobs/product-definition-engineer-libertyworks",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position and is restricted to a specific geographic location."
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.904Z",
+    "title": "Lead generator mechanical engineer (Hydroelectric industry)",
+    "company": "GE Vernova",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ge-vernova/jobs/lead-generator-mechanical-engineer-hydroelectric-industry",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.904Z",
+    "title": "Senior PHP Developer",
+    "company": "12Go Asia",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/12go-asia/jobs/senior-php-developer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.904Z",
+    "title": "Manager, Software Engineering",
+    "company": "Ritchie Bros.",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ritchie-bros/jobs/manager-software-engineering",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+2 rag",
+      "LLM: The role is not a developer/engineer position; it is a managerial role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.904Z",
+    "title": "Software Engineer II (Mexico)",
+    "company": "Sezzle",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sezzle/jobs/software-engineer-ii-mexico",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The job is restricted to candidates located in Mexico, excluding India-based remote workers."
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.904Z",
+    "title": "Senior Azure Architect – Identity & Endpoint Engineer",
+    "company": "Dine Development Corporation",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/dine-development-corporation/jobs/senior-azure-architect-identity-endpoint-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.904Z",
+    "title": "Identity and Access Management Engineer",
+    "company": "Humana International Group",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/humana-international-group/jobs/identity-and-access-management-engineer-8908659628",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position and is focused on identity and access management, which does not align with the candidate's skills."
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.905Z",
+    "title": "Freelance Audio Contributor – UK English",
+    "company": "Perle Systems",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/perle-systems/jobs/freelance-audio-contributor-uk-english",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is not a developer/engineer position and is focused on audio contribution."
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.905Z",
+    "title": "Platform Engineer III",
+    "company": "Rise8",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/rise8/jobs/platform-engineer-iii",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The job is for a Platform Engineer III position which is likely restricted to US government organizations, and the candidate is based in India seeking remote roles only."
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.905Z",
+    "title": "Desarrollador Backend",
+    "company": "IRIUM",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/irium/jobs/desarrollador-backend",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.905Z",
+    "title": "Full Stack Developer",
+    "company": "Northstrat",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/northstrat/jobs/full-stack-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+1 javascript",
+      "LLM: The job requires US citizenship and an active US government secret clearance, which excludes the candidate based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.905Z",
+    "title": "Senior Managed Services Engineer",
+    "company": "CommandLink",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/commandlink/jobs/senior-managed-services-engineer-9792315097",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The job is not a developer/engineer position and has geographic restrictions that exclude India-based remote workers."
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.905Z",
+    "title": "Erfinde deinen Job (all genders)",
+    "company": "SYNAOS GmbH",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/synaos-gmbh/jobs/erfinde-deinen-job-all-genders-3742117373",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.905Z",
+    "title": "Senior Agentic Developer",
+    "company": "SynMax",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/synmax/jobs/senior-agentic-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.905Z",
+    "title": "Sr. Manager, Engineering - Product Platform",
+    "company": "MyFitnessPal",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/myfitnesspal/jobs/sr-manager-engineering-product-platform",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.905Z",
+    "title": "Senior Software Architect & Tech Lead",
+    "company": "Starlims Corporation",
+    "source": "himalayas",
+    "score": -2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/starlims-corporation/jobs/senior-software-architect-tech-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws",
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.905Z",
+    "title": "Customer Advocate Lead (North America - Remote)",
+    "company": "Hospitable",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/hospitable-customer-advocate-lead-north-america-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($96,220)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.905Z",
+    "title": "Data Migration Specialist",
+    "company": "Govcio LLC",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/govcio-llc/jobs/data-migration-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.905Z",
+    "title": "Quality Analyst",
+    "company": "Next Insurance",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/next-insurance/jobs/quality-analyst",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.905Z",
+    "title": "Sr. Principal Analyst, Statistical Programming",
+    "company": "Biogen",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/biogen/jobs/sr-principal-analyst-statistical-programming",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.905Z",
+    "title": "Principal Device Design & Integration Engineer",
+    "company": "Renesas Electronics",
+    "source": "weworkremotely",
+    "score": -4,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/renesas-electronics-principal-device-design-integration-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 express",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.905Z",
+    "title": "Chiplet Design Lead, SoC",
+    "company": "Analogue Insight",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/analogue-insight-chiplet-design-lead-soc",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node",
+      "+2 ai",
+      "-5 junior",
+      "-5 c/c++"
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.905Z",
+    "title": "Technical Sales Engineer",
+    "company": "Arrow Electronics, Inc.",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/arrow-electronics-inc/jobs/technical-sales-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.905Z",
+    "title": "Global Product and Accreditation Manager, Forest Management Certification",
+    "company": "SGS",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sgs/jobs/global-product-and-accreditation-manager-forest-management-certification-7768111163",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T18:00:35.905Z",
+    "title": "Associate Project Manager",
+    "company": "Ethics Code",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ethics-code/jobs/associate-project-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
