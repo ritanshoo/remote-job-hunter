@@ -6067,5 +6067,19 @@
     "score": -5,
     "emailSent": false,
     "source": "himalayas"
+  },
+  "15a84ef77b6d895079526b8301c8f1d8": {
+    "hash": "15a84ef77b6d895079526b8301c8f1d8",
+    "firstSeen": "2026-03-05T19:23:39.844Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "a6de95b785fb6562de88030ca80f088f": {
+    "hash": "a6de95b785fb6562de88030ca80f088f",
+    "firstSeen": "2026-03-05T19:23:39.844Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }
