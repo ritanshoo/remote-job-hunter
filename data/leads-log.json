@@ -16746,5 +16746,241 @@
       "+1 webrtc",
       "LLM: The job is not a developer/engineer position and is restricted to US/EU residents."
     ]
+  },
+  {
+    "timestamp": "2026-03-05T04:09:54.091Z",
+    "title": "DW/BI Architect",
+    "company": "Govcio LLC",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/govcio-llc/jobs/dw-bi-architect-736821861",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T04:09:54.091Z",
+    "title": "📢 Hiring Job Bidder",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rl46dj/hiring_hiring_job_bidder/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($25)",
+      "LLM: The role is not a developer/engineer position."
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T04:09:54.091Z",
+    "title": "Earn Up to $250: Get Paid to Share Your Text Conversations (USA)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rl0x17/hiring_earn_up_to_250_get_paid_to_share_your_text/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($250)",
+      "LLM: The job is not a developer/engineer position and requires candidates to be located in the United States."
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T04:09:54.091Z",
+    "title": "for mobile ui designer (consumer apps)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rkyzel/hiring_for_mobile_ui_designer_consumer_apps/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-05T04:09:54.091Z",
+    "title": "🎬 Looking for Blender Editor for Fern-Style Documentary Videos",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rkxmqb/hiring_looking_for_blender_editor_for_fernstyle/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-05T04:09:54.091Z",
+    "title": "Stormwater Engineer - NSW Residential Subdivision",
+    "company": "OutsourcedIn",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/outsourcedin/jobs/stormwater-engineer-nsw-residential-subdivision",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-05T04:09:54.091Z",
+    "title": "Freelance Agent Evaluation Engineer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/freelance-agent-evaluation-engineer-7127823750",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+2 automation",
+      "+1 docker",
+      "LLM: The job is not a developer/engineer position as it focuses on evaluating AI systems and requires specific skills in Python, which the candidate does not possess."
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T04:09:54.091Z",
+    "title": "Staff Back-End Engineer for a Series A Health Tech Startup",
+    "company": "Palermo Advisors",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/palermo-advisors/jobs/staff-back-end-engineer-for-a-series-a-health-tech-startup",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+3 react",
+      "+3 node",
+      "+2 ai",
+      "+1 typescript",
+      "+1 express",
+      "-5 intern",
+      "+2 salary",
+      "LLM: The job requires US work authorization and is restricted to US/EU residents, which excludes the candidate based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T04:09:54.091Z",
+    "title": "Commissioning Agent",
+    "company": "BGIS",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bgis/jobs/commissioning-agent-9906823268",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-05T04:09:54.091Z",
+    "title": "Software Engineer - Control Plane - Golang",
+    "company": "Kong",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/kong/jobs/software-engineer-control-plane-golang",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-05T04:09:54.091Z",
+    "title": "Lead C# Software Engineer with ETL Experience - Work From Home",
+    "company": "Next Step Systems",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/next-step-systems/jobs/lead-c-software-engineer-with-etl-experience-work-from-home",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+2 salary",
+      "LLM: The role is not a developer position as it requires C# expertise and is restricted to US/EU locations."
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T04:09:54.091Z",
+    "title": "Lead AI/ML Engineer (NLP) - Remote",
+    "company": "UnitedHealth Group",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/unitedhealth-group/jobs/lead-ai-ml-engineer-nlp-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 salary",
+      "LLM: The job is not a developer/engineer position and is restricted to US/EU residents."
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T04:09:54.091Z",
+    "title": "Senior IAM Governance Specialist",
+    "company": "M&T Bank",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/m-t-bank/jobs/senior-iam-governance-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position and requires onsite presence."
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T04:09:54.091Z",
+    "title": "Software Engineer ( SWE)  Senior - ( GCP & Python & Gobernanza de Datos)",
+    "company": "OPTION",
+    "source": "himalayas",
+    "score": -2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/option/jobs/software-engineer-swe-senior-gcp-python-gobernanza-de-datos",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 postgresql",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T04:09:54.092Z",
+    "title": "Outside Plant Engineer",
+    "company": "Vero Networks",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/vero-networks/jobs/outside-plant-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T04:09:54.092Z",
+    "title": "Quality Intern",
+    "company": "Trane Technologies",
+    "source": "himalayas",
+    "score": -10,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/trane-technologies/jobs/quality-intern",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 junior",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T04:09:54.092Z",
+    "title": "Project Development Intern",
+    "company": "Primergy Solar Management LLC",
+    "source": "himalayas",
+    "score": -10,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/primergy-solar-management-llc/jobs/project-development-intern",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "-5 internship"
+    ]
   }
 ]
