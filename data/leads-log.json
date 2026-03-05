@@ -17019,5 +17019,117 @@
     "url": "https://news.ycombinator.com/item?id=47259420",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-05T12:52:55.266Z",
+    "title": "urgent!!! need a japanese speaker to call a hotel in osaka for me",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rlfhc8/hiring_urgent_need_a_japanese_speaker_to_call_a/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-05T12:52:55.266Z",
+    "title": "Full-time | Remote",
+    "company": "Community & Brand Growth Manager",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rldxou/hiring_community_brand_growth_manager_fulltime/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-05T12:52:55.266Z",
+    "title": "[Remote] QA Automation Engineer (Selenium Java, RestAssured)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rldw3t/hiringremote_qa_automation_engineer_selenium_java/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "LLM: The role is not a developer position; it is a QA Automation Engineer role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T12:52:55.266Z",
+    "title": "₹3000/week earning potential, simple messaging",
+    "company": "Creator outreach gig",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rlcdtm/hiring_creator_outreach_gig_3000week_earning/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-05T12:52:55.266Z",
+    "title": "Earn $30–$100 Daily",
+    "company": "Reddit Posting Jobs",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rlbrt5/hiring_reddit_posting_jobs_earn_30100_daily/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($30–$100)",
+      "LLM: The job is not a developer/engineer position and involves simple tasks unrelated to software development."
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T12:52:55.266Z",
+    "title": "Youtube Thumbnail Designer/Graphic Designer [7-15$/hr]",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rl9s7l/hiring_youtube_thumbnail_designergraphic_designer/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-05T12:52:55.266Z",
+    "title": "AI Training | $60-$100/hr",
+    "company": "Mold Experts",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/remotejs/comments/1rlasvp/hiring_mold_experts_ai_training_60100hr/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary($60-$100/hr)",
+      "LLM: The role is not a developer/engineer position and requires expertise in mold, which is unrelated to the candidate's skills."
+    ]
+  },
+  {
+    "timestamp": "2026-03-05T12:52:55.266Z",
+    "title": "Many non-technical Founders looking for Technical Founders. From your experince how was it working with those non technical? Would you recommend to other devs?",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1rl8cq7/many_nontechnical_founders_looking_for_technical/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-05T12:52:55.266Z",
+    "title": "Backend Engineer",
+    "company": "Twindo (Formerly Canvas; The Spatial Computing Company)",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47260697",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "LLM: The job is not a developer/engineer position as it is focused on spatial computing and requires specific skills in Python and computer vision, which do not align with the candidate's expertise."
+    ]
   }
 ]
