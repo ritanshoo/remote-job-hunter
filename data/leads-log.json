@@ -18911,5 +18911,19 @@
       "+1 express",
       "LLM: The job is restricted to US-based candidates only, which excludes the India-based candidate."
     ]
+  },
+  {
+    "timestamp": "2026-03-06T23:24:46.476Z",
+    "title": "Community & Support Specialist - EST Time Zone (Consultant)",
+    "company": "IFTTT",
+    "source": "weworkremotely",
+    "score": -4,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/ifttt-community-support-specialist-est-time-zone-consultant",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "-5 intern"
+    ]
   }
 ]
