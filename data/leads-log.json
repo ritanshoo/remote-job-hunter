@@ -18731,5 +18731,150 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-06T21:26:05.315Z",
+    "title": "PHL - Full-Stack Developer",
+    "company": "Tidal",
+    "source": "weworkremotely",
+    "score": 10,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/tidal-phl-full-stack-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 next.js",
+      "+3 node.js",
+      "+3 node",
+      "+2 ai",
+      "+2 llm",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 aws",
+      "+1 express",
+      "-5 intern",
+      "+2 salary($20 - $40/hour)",
+      "LLM: The candidate's skills in JavaScript, TypeScript, React, Node.js, and AI/ML align perfectly with the job requirements, and the role is remote-friendly."
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T21:26:05.315Z",
+    "title": "Proposal Design Consultant",
+    "company": "Goodleap",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/goodleap-proposal-design-consultant",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary($27)",
+      "LLM: The role is not a developer position and is restricted to US-based candidates."
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T21:26:05.315Z",
+    "title": "Product Manager for Dating App",
+    "company": "M365connect",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/m365connect-product-manager-for-dating-app-1",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-06T21:26:05.315Z",
+    "title": "DevOps | Sênior (11340)",
+    "company": "Sensedia",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/sensedia-devops-senior-11340",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+1 docker",
+      "LLM: The job is a DevOps position, which is not a developer role, and it has geographic restrictions that exclude India-based candidates."
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T21:26:05.315Z",
+    "title": "Product Strategy Advisor  Shape Winning Launches Across Beauty, Health, and Supplements (Part-time)",
+    "company": "Pearl West",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/pearl-west-product-strategy-advisor-shape-winning-launches-across-beauty-health-and-supplements-part-time",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($40)",
+      "LLM: The role is not a developer/engineer position and is focused on product strategy."
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T21:26:05.315Z",
+    "title": "Product Manager for Dating App",
+    "company": "M365connect",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/m365connect-product-manager-for-dating-app",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-06T21:26:05.315Z",
+    "title": "Product Manager for Dating App",
+    "company": "M365connect",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/m365connect-product-manager-for-dating-app",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-06T21:26:05.315Z",
+    "title": "Product Manager - Workforce Management",
+    "company": "Assembled",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/assembled-product-manager-workforce-management",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary($70)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T21:26:05.315Z",
+    "title": "Partner Product Marketing Manager",
+    "company": "Extreme Networks",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/extreme-networks-partner-product-marketing-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T21:26:05.315Z",
+    "title": "Bilingual Customer Support Specialist - Japanese (Keigo) and English",
+    "company": "Partnerhero",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/partnerhero-bilingual-customer-support-specialist-japanese-keigo-and-english",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
   }
 ]
