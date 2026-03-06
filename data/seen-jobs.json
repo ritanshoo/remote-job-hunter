@@ -6375,5 +6375,12 @@
     "score": -3,
     "emailSent": false,
     "source": "jobicy"
+  },
+  "5fe5bef11a24f7df9d47f97e1b669e17": {
+    "hash": "5fe5bef11a24f7df9d47f97e1b669e17",
+    "firstSeen": "2026-03-06T18:38:53.731Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "workingnomads"
   }
 }

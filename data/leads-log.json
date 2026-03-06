@@ -18213,5 +18213,21 @@
       "+1 docker",
       "-5 junior"
     ]
+  },
+  {
+    "timestamp": "2026-03-06T18:38:53.731Z",
+    "title": "Mobile Software Engineer",
+    "company": "Dash Core Group",
+    "source": "workingnomads",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.workingnomads.com/job/go/1462097/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+2 blockchain",
+      "+2 ai",
+      "LLM: The role is not a developer position for the candidate's skill set and is restricted to specific geographic locations."
+    ]
   }
 ]
