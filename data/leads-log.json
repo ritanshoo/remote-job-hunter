@@ -18007,5 +18007,19 @@
       "+1 typescript",
       "LLM: The job requires experience with Symfony and is restricted to US and EU clients, which excludes the candidate based in India."
     ]
+  },
+  {
+    "timestamp": "2026-03-06T14:34:23.466Z",
+    "title": "Content Reviewer - US",
+    "company": "TELUS Digital",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/telus-digital-content-reviewer-us-2",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
   }
 ]
