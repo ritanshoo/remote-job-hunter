@@ -17966,5 +17966,21 @@
       "+2 salary($140)",
       "LLM: The job requires candidates to be located in the USA or Canada, which excludes the India-based candidate."
     ]
+  },
+  {
+    "timestamp": "2026-03-06T11:25:29.649Z",
+    "title": "Go Engineer - Release Engineering",
+    "company": "Tyk Technologies",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/tyk-technologies-go-engineer-release-engineering",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 mongodb",
+      "+1 docker",
+      "-5 intern"
+    ]
   }
 ]
