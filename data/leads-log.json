@@ -17662,5 +17662,19 @@
       "+2 ai",
       "+1 aws"
     ]
+  },
+  {
+    "timestamp": "2026-03-06T01:50:15.375Z",
+    "title": "Customer Support Manager",
+    "company": "Tablet Command, Inc.",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/tablet-command-inc-customer-support-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($100,000 - $180,000)"
+    ]
   }
 ]

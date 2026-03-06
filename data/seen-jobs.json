@@ -6095,5 +6095,19 @@
     "score": 0,
     "emailSent": false,
     "source": "remoteok"
+  },
+  "877a6833727a8584449b1898f08e3a2b": {
+    "hash": "877a6833727a8584449b1898f08e3a2b",
+    "firstSeen": "2026-03-06T01:50:15.373Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "hackernews"
+  },
+  "e23cd230fe370cfcb9c22b33a1e9b21f": {
+    "hash": "e23cd230fe370cfcb9c22b33a1e9b21f",
+    "firstSeen": "2026-03-06T01:50:15.375Z",
+    "score": -3,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }
