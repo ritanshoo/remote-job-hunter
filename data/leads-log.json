@@ -18876,5 +18876,40 @@
       "+2 ai",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-06T22:24:04.020Z",
+    "title": "Mid/Senior Software Engineer (Cloud)",
+    "company": "Shorebird",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47281476",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node",
+      "+2 salary",
+      "LLM: The job is restricted to North America, excluding candidates based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T22:24:04.020Z",
+    "title": "Fullstack engineer",
+    "company": "Rivet",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47281461",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+3 react",
+      "+2 ai",
+      "+1 typescript",
+      "+1 aws",
+      "+1 express",
+      "LLM: The job is restricted to US-based candidates only, which excludes the India-based candidate."
+    ]
   }
 ]
