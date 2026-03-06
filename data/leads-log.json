@@ -18229,5 +18229,507 @@
       "+2 ai",
       "LLM: The role is not a developer position for the candidate's skill set and is restricted to specific geographic locations."
     ]
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "MTS 1, Software Engineer",
+    "company": "eBay India Technology Services Pvt Ltd",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ebay-india-technology-services-pvt-ltd/jobs/mts-1-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "Cloud Support Engineer I",
+    "company": "MicroStrategy",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/strategysoftware/jobs/cloud-support-engineer-i",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 rest api"
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "Senior Software Engineer",
+    "company": "Comcast",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/comcast/jobs/senior-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The job requires US work authorization and is restricted to US locations, which excludes the India-based candidate."
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "Functional Safety Hardware Engineer, Automotive Robotics",
+    "company": "Tenstorrent",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/tenstorrent/jobs/functional-safety-hardware-engineer-automotive-robotics",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is not a developer/engineer position as it focuses on hardware engineering in automotive robotics."
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "Senior Analyst, Field Service - Cambridge, Ontario, Canada",
+    "company": "dell",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/dell/jobs/senior-analyst-field-service-cambridge-ontario-canada",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position and is focused on field service support."
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "AI Forward Deploy Sales Engineer - West Coast",
+    "company": "ArangoDB",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/arangodb/jobs/ai-forward-deploy-sales-engineer-west-coast",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 rag",
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position and is restricted to candidates located on the West Coast (U.S.)."
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "Enterprise Account Executive - Canada",
+    "company": "Zoom Communications, Inc.",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/zoom-communications-inc/jobs/enterprise-account-executive-canada-8837610501",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position, but rather an Enterprise Account Executive in sales."
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "Technical Specialist - Starters and P0 Motor",
+    "company": "General Motors",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/general-motors/jobs/technical-specialist-starters-and-p0-motor",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "Senior Data Engineer (Celonis / Microsoft Fabric) - 100% Remote",
+    "company": "Bertoni Solutions",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bertoni-solutions/jobs/senior-data-engineer-celonis-microsoft-fabric-100-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+2 salary",
+      "LLM: The job is not a developer/engineer position as it focuses on data engineering with specific geographic restrictions."
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "Energy Engineering & Python Expert - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/energy-engineering-python-expert-freelance-ai-trainer-8696806810",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position and requires a degree in Energy Engineering."
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "Energy Engineering & Python Expert - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/energy-engineering-python-expert-freelance-ai-trainer-8696806810",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position and requires a degree in Energy Engineering."
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "Software Engineer - Database Integrations",
+    "company": "Clickhouse",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/clickhouse/jobs/software-engineer-database-integrations-5381596978",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 mongodb",
+      "-5 intern",
+      "+2 salary($400)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "Staff Engineer Software",
+    "company": "Fanatics",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/fanaticsinc/jobs/staff-engineer-software-9297704671",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "Mechanical Design Engineer",
+    "company": "Amcor",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/amcor/jobs/mechanical-design-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "DevOps Engineer",
+    "company": "Fusemachines",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/fusemachines/jobs/devops-engineer-6882624638",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "LLM: The job is not a developer/engineer position as it is focused on DevOps, and the candidate is based in India looking for globally-remote roles."
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "Chef / Cheffe de Projet Infrastructure Ferroviaire",
+    "company": "Artelia",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/artelia/jobs/chef-cheffe-de-projet-infrastructure-ferroviaire",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "Application Specialist",
+    "company": "SMC Corporation of America",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/smc-corporation-of-america/jobs/application-specialist",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "Mission Critical Electrical Cx Engineer",
+    "company": "NV5",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nv5/jobs/mission-critical-electrical-cx-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "Technical Sales Specialist GC-GCMS",
+    "company": "200510503Z Thermo Fisher Scientific Pte. Ltd.",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/200510503z-thermo-fisher-scientific-pte-ltd/jobs/technical-sales-specialist-gc-gcms",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "Coordenação de Projeto / Tech Lead - 131270",
+    "company": "gft",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gft/jobs/coordenacao-de-projeto-tech-lead-131270",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "Coordenação de Projeto / Tech Lead - 131270",
+    "company": "gft",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gft/jobs/coordenacao-de-projeto-tech-lead-131270",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "[ISO] Software Engineer (.NET & React)",
+    "company": "Software Mind",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/software-mind/jobs/iso-software-engineer-net-react-2001665966",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 mongodb",
+      "+1 aws",
+      "+1 graphql",
+      "+1 docker",
+      "-5 intern",
+      "LLM: The job is not a developer/engineer position as it requires .NET framework development, which is outside the candidate's core skills."
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "Tunnel Geo-structural Engineer",
+    "company": "AECOM",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/aecom/jobs/tunnel-geo-structural-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "Big Data Engineer, AI Services",
+    "company": "Binance",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/binance/jobs/big-data-engineer-ai-services",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "+2 web3",
+      "+2 ai",
+      "+2 llm",
+      "LLM: The job is not a developer/engineer position as it requires US work authorization and is restricted to US/EU residents."
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "UAT Testing Manager",
+    "company": "EXL",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/exl/jobs/uat-testing-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position."
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "Solution Architect - Actives - Remote (US)",
+    "company": "Belden, Inc",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/belden-inc/jobs/solution-architect-actives-remote-us",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "Mechanical Engineer & Python Expert - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/mechanical-engineer-python-expert-freelance-ai-trainer-6357549348",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "Mechanical Engineer & Python Expert - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/mechanical-engineer-python-expert-freelance-ai-trainer-1402132677",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "Senior Cloud Engineer",
+    "company": "Health Catalyst",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/health-catalyst/jobs/senior-cloud-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "Head of Professional Services",
+    "company": "Incognito Software Systems",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/incognito-software-systems/jobs/head-of-professional-services",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "Energy Engineering & Python Expert - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/energy-engineering-python-expert-freelance-ai-trainer-1652233954",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "QA Intern",
+    "company": "Wahed",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/wahed/jobs/qa-intern",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "Staff Security Engineer, Product Security",
+    "company": "Mozilla",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mozilla/jobs/staff-security-engineer-product-security",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "Middle/Senior .Net developer (risk management and professional services domain),",
+    "company": "ELEKS",
+    "source": "himalayas",
+    "score": -4,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/eleks/jobs/middle-senior-net-developer-risk-management-and-professional-services-domain",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "Principal Statistical Programmer FSP",
+    "company": "Cytel",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cytel/jobs/principal-statistical-programmer-fsp-1390190639",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "Business Account Executive - Medical Software",
+    "company": "WRS Health",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/wrs-health/jobs/business-account-executive-medical-software-52136872",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T20:27:50.671Z",
+    "title": "Tier 1 & 2 Technical Support Agent",
+    "company": "Tendril",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/tendril/jobs/tier-1-2-technical-support-agent",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
