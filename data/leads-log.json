@@ -17948,5 +17948,23 @@
       "-5 internship",
       "+2 salary"
     ]
+  },
+  {
+    "timestamp": "2026-03-06T06:42:14.706Z",
+    "title": "Full Stack Product Engineer (Ruby, JavaScript)",
+    "company": "Digital Health Strategies",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47271625",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+1 javascript",
+      "+1 aws",
+      "+1 docker",
+      "+2 salary($140)",
+      "LLM: The job requires candidates to be located in the USA or Canada, which excludes the India-based candidate."
+    ]
   }
 ]
