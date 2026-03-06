@@ -18169,5 +18169,49 @@
     "url": "https://weworkremotely.com/remote-jobs/business-staffing-of-america-inc-notice-design-lead-fully-remote-1",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-06T17:31:55.841Z",
+    "title": "Software Engineer – Android (Technical Leadership)",
+    "company": "Meta",
+    "source": "jobicy",
+    "score": 0,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/140261-software-engineer-android-technical-leadership",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-06T17:31:55.841Z",
+    "title": "Lead Product Engineer",
+    "company": "Collective Intelligence Project",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47277766",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 next.js",
+      "+2 ai",
+      "+1 typescript",
+      "+2 salary",
+      "LLM: The job requires candidates to be located in US time zones, which excludes India-based remote workers."
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T17:31:55.841Z",
+    "title": "Junior Software Engineer – ClaimSource",
+    "company": "Experian",
+    "source": "jobicy",
+    "score": -3,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/140270-junior-software-engineer-claimsource",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+1 docker",
+      "-5 junior"
+    ]
   }
 ]
