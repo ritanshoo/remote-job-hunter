@@ -17676,5 +17676,277 @@
       "-5 intern",
       "+2 salary($100,000 - $180,000)"
     ]
+  },
+  {
+    "timestamp": "2026-03-06T04:07:10.981Z",
+    "title": "Integrations Software Engineer",
+    "company": "Kestra Technologies",
+    "source": "himalayas",
+    "score": 10,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/kestra-technologies/jobs/integrations-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+2 ai",
+      "+2 automation",
+      "+1 postgresql",
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T04:07:10.981Z",
+    "title": "Data Process Analyst",
+    "company": "Cornerstone Building Brands, Inc.",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cornerstone-building-brands-inc/jobs/data-process-analyst",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T04:07:10.981Z",
+    "title": "Staff QA Automation Engineer",
+    "company": "Veritone",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/veritone/jobs/staff-qa-automation-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 rest api",
+      "-5 junior",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T04:07:10.981Z",
+    "title": "Corporate Solutions Engineering, Nordics",
+    "company": "Postman",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/postman/jobs/corporate-solutions-engineering-nordics",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T04:07:10.981Z",
+    "title": "Senior Fullstack Engineer",
+    "company": "Careforce AI (aka Helpcare)",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47270325",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+3 react",
+      "+2 ai",
+      "-5 us only",
+      "LLM: The job is restricted to US-only candidates, which excludes the India-based candidate."
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T04:07:10.981Z",
+    "title": "AI Developer – Container & Logistics Industry",
+    "company": "Conexwest",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/conexwest/jobs/ai-developer-container-logistics-industry-6755075724",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 aws",
+      "+1 rest api",
+      "LLM: The role is not a developer/engineer position and requires US work authorization."
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T04:07:10.981Z",
+    "title": "Senior IT Systems Engineer",
+    "company": "abridge",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/abridge/jobs/senior-it-systems-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position; it is an IT Systems Engineer role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T04:07:10.981Z",
+    "title": "Project Lead - System Share LinkedIn Twitter",
+    "company": "GDS Associates",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gds-associates/jobs/project-lead-system-share-linkedin-twitter",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-06T04:07:10.981Z",
+    "title": "Data Center Infrastructure Engineer - Liquid Cooling",
+    "company": "nVent",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nvent/jobs/data-center-infrastructure-engineer-liquid-cooling",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-06T04:07:10.981Z",
+    "title": "(USA) Senior Incident Response Engineer",
+    "company": "Walmart - Internal",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/walmart-com/jobs/usa-senior-incident-response-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The job is not a developer/engineer position; it is focused on incident response in cybersecurity."
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T04:07:10.981Z",
+    "title": "AI Workflow Automation Manager",
+    "company": "Hire Hangar",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/hire-hangar/jobs/ai-workflow-automation-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position and focuses on AI workflow automation management."
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T04:07:10.981Z",
+    "title": "Solution Engineer - Analytics",
+    "company": "First Quality",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/first-quality/jobs/solution-engineer-analytics-1829388150",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-06T04:07:10.981Z",
+    "title": "Manager, Software Engineering (Fraud)",
+    "company": "Affirm",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/affirm/jobs/manager-software-engineering-fraud-741927897",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position; it is a managerial role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T04:07:10.981Z",
+    "title": "Inbetriebnehmer (m/w/d) Biogasanlagen",
+    "company": "Kanadevia Inova North America",
+    "source": "himalayas",
+    "score": -2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/kanadevia-inova-north-america/jobs/inbetriebnehmer-m-w-d-biogasanlagen",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 mern",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T04:07:10.981Z",
+    "title": "Customer Service Specialist (Remote, Americas; English & Spanish required)",
+    "company": "Storeganise",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/storeganise-customer-service-specialist-remote-americas-english-spanish-required",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T04:07:10.981Z",
+    "title": "EA-Solutions Engineer",
+    "company": "Bonterra",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bonterra/jobs/ea-solutions-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T04:07:10.981Z",
+    "title": "Regional Product Manager – Engineering Plastics",
+    "company": "Astrantia Talent",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/astrantia-talent/jobs/regional-product-manager-engineering-plastics",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T04:07:10.981Z",
+    "title": "Senior Staff Software Engineer, Public Cloud (Java and Python/Go)",
+    "company": "Cloudera",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cloudera/jobs/senior-staff-software-engineer-public-cloud-java-and-python-go",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-06T04:07:10.981Z",
+    "title": "PhD Intern - AI/ML/NLP Engineer",
+    "company": "wex",
+    "source": "himalayas",
+    "score": -6,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/wex/jobs/phd-intern-ai-ml-nlp-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "-5 internship",
+      "+2 salary"
+    ]
   }
 ]
