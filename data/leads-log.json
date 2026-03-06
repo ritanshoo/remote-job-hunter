@@ -17982,5 +17982,30 @@
       "+1 docker",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-06T12:45:38.957Z",
+    "title": "Senior Full-stack Symfony Developer",
+    "company": "Lemon.io",
+    "source": "workingnomads",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.workingnomads.com/job/go/1461716/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 next.js",
+      "+3 node.js",
+      "+3 node",
+      "+2 blockchain",
+      "+2 solana",
+      "+2 web3",
+      "+2 solidity",
+      "+2 ai",
+      "+2 llm",
+      "+1 javascript",
+      "+1 typescript",
+      "LLM: The job requires experience with Symfony and is restricted to US and EU clients, which excludes the candidate based in India."
+    ]
   }
 ]
