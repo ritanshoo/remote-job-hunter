@@ -19964,5 +19964,244 @@
       "+1 aws",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-07T12:39:10.979Z",
+    "title": "Staff Software Engineer",
+    "company": "GE Vernova",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/ge-vernova/jobs/staff-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-07T12:39:10.979Z",
+    "title": "Data Scientist",
+    "company": "VivSoft Technologies",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/vivsoft-technologies/jobs/data-scientist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-07T12:39:10.979Z",
+    "title": "MSP Level 2 Technician",
+    "company": "TeamLogic IT",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/teamlogic-it/jobs/msp-level-2-technician",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-07T12:39:10.979Z",
+    "title": "Senior Architect (.NET/IAM) - GovTech",
+    "company": "Truelogic",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/truelogic-io/jobs/senior-architect-net-iam-govtech-4531819095",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-07T12:39:10.979Z",
+    "title": "SAS Developer (SDTM)",
+    "company": "PSI CRO",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/psi-cro/jobs/sas-developer-sdtm",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-07T12:39:10.979Z",
+    "title": "Lead Software Engineer",
+    "company": "Cars.com",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cars-com/jobs/lead-software-engineer-1064253454",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The job is not a developer/engineer position and is likely restricted to US/EU locations."
+    ]
+  },
+  {
+    "timestamp": "2026-03-07T12:39:10.979Z",
+    "title": "Power BI / Data Engineer",
+    "company": "Sequoia Connect",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sequoia-connect/jobs/power-bi-data-engineer-2537875120",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "LLM: The role is not a developer/engineer position as it focuses on Power BI and data engineering, which does not align with the candidate's full stack development skills."
+    ]
+  },
+  {
+    "timestamp": "2026-03-07T12:39:10.979Z",
+    "title": "Power BI / Data Engineer",
+    "company": "Sequoia Connect",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sequoia-connect/jobs/power-bi-data-engineer-2537875120",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "LLM: The role is not a developer/engineer position as it focuses on Power BI and data engineering, which does not align with the candidate's full stack development skills."
+    ]
+  },
+  {
+    "timestamp": "2026-03-07T12:39:10.979Z",
+    "title": "Staff Software Engineer",
+    "company": "GE Vernova",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ge-vernova/jobs/staff-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+2 salary",
+      "LLM: The job requires US work authorization and is not suitable for a candidate based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-07T12:39:10.979Z",
+    "title": "Senior Data Lead",
+    "company": "GliaCell Technologies, LLC",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gliacell-technologies-llc/jobs/senior-data-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position and requires a security clearance."
+    ]
+  },
+  {
+    "timestamp": "2026-03-07T12:39:10.979Z",
+    "title": "Senior Full Stack .NET Developer (Angular, WPF, Web API)",
+    "company": "Concentrix",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/concentrix/jobs/senior-full-stack-net-developer-angular-wpf-web-api",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "LLM: The job is not a developer/engineer position and is restricted to US/EU residents."
+    ]
+  },
+  {
+    "timestamp": "2026-03-07T12:39:10.979Z",
+    "title": "Software Architecture Engineer",
+    "company": "NVIDIA",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nvidia/jobs/software-architecture-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is not a developer/engineer position and requires specific skills in C++ and Python, which the candidate does not possess."
+    ]
+  },
+  {
+    "timestamp": "2026-03-07T12:39:10.979Z",
+    "title": "Senior Software Engineer (CK)",
+    "company": "Tiugo Technologies",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/tiugo-technologies/jobs/senior-software-engineer-ck",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+1 typescript",
+      "+2 salary",
+      "LLM: The job requires US work authorization and is restricted to US/EU residents, which excludes the candidate based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-07T12:39:10.979Z",
+    "title": "Cloud Systems Engineer II",
+    "company": "National Debt Relief, LLC.",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/national-debt-relief-llc/jobs/cloud-systems-engineer-ii",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position and requires specific cloud systems engineering skills that do not align with the candidate's full stack development background."
+    ]
+  },
+  {
+    "timestamp": "2026-03-07T12:39:10.979Z",
+    "title": "Senior IT PM – Enterprise Data",
+    "company": "Sequoia Connect",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sequoia-connect/jobs/senior-it-pm-enterprise-data",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "LLM: The role is not a developer/engineer position, but rather a project management role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-07T12:39:10.979Z",
+    "title": "Technical Support Analyst",
+    "company": "Kansys Inc",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/kansys-inc/jobs/technical-support-analyst",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-07T12:39:10.979Z",
+    "title": "Junior iOS Developers",
+    "company": "Appetiser Apps",
+    "source": "himalayas",
+    "score": -15,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/appetiser-apps/jobs/junior-ios-developers",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 junior",
+      "-5 intern",
+      "-5 internship"
+    ]
   }
 ]
