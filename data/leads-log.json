@@ -20697,5 +20697,16 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-07T23:18:48.702Z",
+    "title": "Founding Forward Deployed Engineer",
+    "company": "CiceroAI",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47292427",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
