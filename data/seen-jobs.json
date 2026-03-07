@@ -7376,5 +7376,26 @@
     "score": 0,
     "emailSent": false,
     "source": "remotive"
+  },
+  "11a0114cced1c53b4516ccc18093e965": {
+    "hash": "11a0114cced1c53b4516ccc18093e965",
+    "firstSeen": "2026-03-07T16:22:47.324Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "c0acfa717f3f284f0aaea3ab6bf538d4": {
+    "hash": "c0acfa717f3f284f0aaea3ab6bf538d4",
+    "firstSeen": "2026-03-07T16:22:47.324Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "ef3f0b37a5a0c24f8491ff8435329c06": {
+    "hash": "ef3f0b37a5a0c24f8491ff8435329c06",
+    "firstSeen": "2026-03-07T16:22:47.324Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
   }
 }
