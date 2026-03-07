@@ -19950,5 +19950,19 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-07T09:25:18.693Z",
+    "title": "Senior Data Engineer",
+    "company": "QuoIntelligence",
+    "source": "hackernews",
+    "score": -4,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47285692",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "-5 intern"
+    ]
   }
 ]

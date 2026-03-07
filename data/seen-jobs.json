@@ -7236,5 +7236,26 @@
     "score": 0,
     "emailSent": false,
     "source": "remoteok"
+  },
+  "3319963ba4ce6fd63f03a130b9a6951a": {
+    "hash": "3319963ba4ce6fd63f03a130b9a6951a",
+    "firstSeen": "2026-03-07T09:25:18.692Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "ea6aad424a83644b670645aa029b271c": {
+    "hash": "ea6aad424a83644b670645aa029b271c",
+    "firstSeen": "2026-03-07T09:25:18.693Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "86a072d3bdf01401e6d4ca8e45ad13e6": {
+    "hash": "86a072d3bdf01401e6d4ca8e45ad13e6",
+    "firstSeen": "2026-03-07T09:25:18.693Z",
+    "score": -4,
+    "emailSent": false,
+    "source": "hackernews"
   }
 }
