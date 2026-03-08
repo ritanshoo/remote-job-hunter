@@ -21364,5 +21364,18 @@
       "+2 ai",
       "LLM: The job is restricted to US and Europe locations, excluding India-based candidates."
     ]
+  },
+  {
+    "timestamp": "2026-03-08T18:28:47.653Z",
+    "title": "SRE / Software Engineer",
+    "company": "Rubin Observatory / SLAC",
+    "source": "hackernews",
+    "score": 1,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47299084",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 postgresql"
+    ]
   }
 ]

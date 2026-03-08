@@ -8041,5 +8041,19 @@
     "score": 0,
     "emailSent": false,
     "source": "weworkremotely"
+  },
+  "1ed593dbc90ac10780ad20b4ff8149fb": {
+    "hash": "1ed593dbc90ac10780ad20b4ff8149fb",
+    "firstSeen": "2026-03-08T18:28:47.652Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "152b6b36f22b6ab8a7967e396410b403": {
+    "hash": "152b6b36f22b6ab8a7967e396410b403",
+    "firstSeen": "2026-03-08T18:28:47.653Z",
+    "score": 1,
+    "emailSent": false,
+    "source": "hackernews"
   }
 }
