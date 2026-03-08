@@ -21174,5 +21174,32 @@
       "+2 automation",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-08T06:37:52.839Z",
+    "title": "Onboarding Configuration Success Analyst",
+    "company": "SiteMinder",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/siteminder/jobs/onboarding-configuration-success-analyst",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-08T06:37:52.839Z",
+    "title": "Summer 2026 - Advanced Analytics Curriculum Development Intern (Masters)",
+    "company": "SAS",
+    "source": "himalayas",
+    "score": -6,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sas/jobs/summer-2026-advanced-analytics-curriculum-development-intern-masters",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "-5 internship",
+      "+2 salary"
+    ]
   }
 ]
