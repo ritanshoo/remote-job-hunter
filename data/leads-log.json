@@ -21350,5 +21350,19 @@
       "+2 automation",
       "-5 junior"
     ]
+  },
+  {
+    "timestamp": "2026-03-08T12:40:04.249Z",
+    "title": "Backend Engineer",
+    "company": "QuiverAI",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47296800",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The job is restricted to US and Europe locations, excluding India-based candidates."
+    ]
   }
 ]

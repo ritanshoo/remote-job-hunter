@@ -8013,5 +8013,19 @@
     "score": -3,
     "emailSent": false,
     "source": "himalayas"
+  },
+  "3a720e63eaf22356cd7fee9e81c24604": {
+    "hash": "3a720e63eaf22356cd7fee9e81c24604",
+    "firstSeen": "2026-03-08T12:40:02.702Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "bf49f1c446c2cb9bc57eb4c67e734309": {
+    "hash": "bf49f1c446c2cb9bc57eb4c67e734309",
+    "firstSeen": "2026-03-08T12:40:04.249Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "hackernews"
   }
 }
