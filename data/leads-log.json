@@ -21201,5 +21201,36 @@
       "-5 internship",
       "+2 salary"
     ]
+  },
+  {
+    "timestamp": "2026-03-08T07:28:54.330Z",
+    "title": "Sr Controls Technician - Louisville, KY",
+    "company": "Trane Technologies",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/trane-technologies/jobs/sr-controls-technician-louisville-ky",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position and is location-restricted to the US."
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T07:28:54.330Z",
+    "title": "AI/ML Engineer - Python/GenAI/.Net/C# - Remote",
+    "company": "NaviHealth",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/navihealth/jobs/ai-ml-engineer-python-genai-net-c-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 langchain",
+      "+2 rag",
+      "+2 salary",
+      "LLM: The job is not a developer/engineer position as it requires US work authorization and is restricted to US-based remote workers."
+    ]
   }
 ]
