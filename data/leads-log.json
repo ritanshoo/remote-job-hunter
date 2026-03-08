@@ -20894,5 +20894,90 @@
       "-5 intern",
       "+2 salary"
     ]
+  },
+  {
+    "timestamp": "2026-03-08T04:08:38.467Z",
+    "title": "AFSIM Developer (CSSLP)",
+    "company": "VTG DCOMCY",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/vtg-dcomcy/jobs/afsim-developer-csslp",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T04:08:38.467Z",
+    "title": "Senior Software Engineer (Backend)",
+    "company": "SalesRabbit",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/salesrabbit/jobs/senior-software-engineer-backend",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T04:08:38.467Z",
+    "title": "Software Engineer 2 (16 hours of Telework Available each Week) with Security Cle",
+    "company": "Wyetech, LLC",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/wyetech-llc/jobs/software-engineer-2-16-hours-of-telework-available-each-week-with-security-cle",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+2 salary",
+      "LLM: The job requires US citizenship or work authorization, which excludes the candidate based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T04:08:38.467Z",
+    "title": "Implementation Specialist",
+    "company": "DoseSpot",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/dosespot/jobs/implementation-specialist-2689404141",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer position and is focused on customer support and implementation."
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T04:08:38.467Z",
+    "title": "Implementation Specialist",
+    "company": "DoseSpot",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/dosespot/jobs/implementation-specialist-2689404141",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer position; it is focused on customer support and implementation."
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T04:08:38.467Z",
+    "title": "Senior Site Reliability Engineer, Kong Konnect",
+    "company": "Kong",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/kong/jobs/senior-site-reliability-engineer-kong-konnect",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 postgresql",
+      "+1 aws",
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position as it is focused on Site Reliability Engineering, and the candidate is based in India, looking for globally-remote roles only."
+    ]
   }
 ]
