@@ -21314,5 +21314,27 @@
       "-5 intern",
       "+2 salary"
     ]
+  },
+  {
+    "timestamp": "2026-03-08T10:21:19.521Z",
+    "title": "New Glenn Launch Operations Technicians (Fixed Term) (Multiple Levels | Multiple",
+    "company": "Blue Origin",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/blue-origin/jobs/new-glenn-launch-operations-technicians-fixed-term-multiple-levels-multiple",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-08T10:21:19.521Z",
+    "title": "Estagiário(a) de TI - Suporte de Aplicações",
+    "company": "Amcor",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/amcor/jobs/estagiario-a-de-ti-suporte-de-aplicacoes",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
