@@ -21526,5 +21526,221 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-08T22:20:04.123Z",
+    "title": "Senior Python AI Engineer",
+    "company": "Proxify",
+    "source": "himalayas",
+    "score": 10,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/proxify/jobs/senior-python-ai-engineer-3566912557",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 langchain",
+      "+2 rag",
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T22:20:04.640Z",
+    "title": "Sr AI/ML Engineer Remote Nationwide or Hybrid in MN/DC/NJ",
+    "company": "Optum",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/optum/jobs/sr-ai-ml-engineer-remote-nationwide-or-hybrid-in-mn-dc-nj",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 chatbot",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T22:20:04.640Z",
+    "title": "AFSIM Developer (CSSLP)",
+    "company": "VTG defense",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/vtg-defense/jobs/afsim-developer-csslp",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T22:20:04.640Z",
+    "title": "Developer with React/Redux",
+    "company": "Govcio LLC",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/govcio-llc/jobs/developer-with-react-redux",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T22:20:04.640Z",
+    "title": "Senior Software Developer",
+    "company": "Govcio LLC",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/govcio-llc/jobs/senior-software-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+1 typescript",
+      "+1 rest api",
+      "+2 salary",
+      "LLM: The job is restricted to fully remote positions within the United States, excluding the candidate based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T22:20:04.640Z",
+    "title": "AI/ML Engineer",
+    "company": "Arvexi",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/arvexi/jobs/ai-ml-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 chatbot",
+      "LLM: The role is not a developer/engineer position and requires specific skills in Python and ML/AI engineering, which do not align with the candidate's expertise."
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T22:20:04.640Z",
+    "title": "Lead AI/ML Engineer (NLP) - Remote",
+    "company": "Optum",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/optum/jobs/lead-ai-ml-engineer-nlp-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 salary",
+      "LLM: The job is not a developer/engineer position as it focuses on AI/ML in healthcare, and it requires US work authorization."
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T22:20:04.640Z",
+    "title": "Sr Business Intelligence Analyst (IV) Remote - US Based",
+    "company": "Myriad Genetics",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/myriad-genetics/jobs/sr-business-intelligence-analyst-iv-remote-us-based",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "LLM: The role is not a developer/engineer position and is restricted to US-based candidates."
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T22:20:04.640Z",
+    "title": "Senior Project Lead - NERC Protection & Controls",
+    "company": "GDS Associates",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gds-associates/jobs/senior-project-lead-nerc-protection-controls",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-08T22:20:04.640Z",
+    "title": "Big Data Engineer - PySpark",
+    "company": "Logic20/20 Inc.",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/logic20-20-inc/jobs/big-data-engineer-pyspark",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position as it focuses on Big Data engineering with PySpark, which does not align with the candidate's full stack development skills."
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T22:20:04.640Z",
+    "title": "Senior Prompt Engineer",
+    "company": "Netomi",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/netomi/jobs/senior-prompt-engineer-9279533949",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "LLM: The role is not a developer/engineer position and requires specific expertise in Data Science, which does not align with the candidate's full stack engineering background."
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T22:20:04.640Z",
+    "title": "Make Ready",
+    "company": "Willow Bridge",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/willow-bridge/jobs/make-ready",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-08T22:20:04.640Z",
+    "title": "Business Intelligence Analyst-Senior",
+    "company": "Deluxe Corporation",
+    "source": "himalayas",
+    "score": -2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/deluxe-corporation/jobs/business-intelligence-analyst-senior",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T22:20:04.640Z",
+    "title": "Junior Salesforce Administrator - BJ",
+    "company": "NorthOak",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/northoak/jobs/junior-salesforce-administrator-bj",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T22:20:04.640Z",
+    "title": "Azure Kubernetes SME",
+    "company": "ASCENDING",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ascending/jobs/azure-kubernetes-sme",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 junior"
+    ]
   }
 ]
