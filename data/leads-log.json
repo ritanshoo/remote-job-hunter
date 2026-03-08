@@ -20979,5 +20979,200 @@
       "+2 salary",
       "LLM: The role is not a developer/engineer position as it is focused on Site Reliability Engineering, and the candidate is based in India, looking for globally-remote roles only."
     ]
+  },
+  {
+    "timestamp": "2026-03-08T05:40:33.039Z",
+    "title": "Frontend Engineer",
+    "company": "G2i",
+    "source": "himalayas",
+    "score": 11,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/g2i/jobs/frontend-engineer-3241916452",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 next.js",
+      "+2 ai",
+      "+1 mongodb",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T05:40:33.039Z",
+    "title": "Senior Migration Consultant - R&D",
+    "company": "Veeva Systems",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/veeva-systems/jobs/senior-migration-consultant-r-d",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T05:40:33.039Z",
+    "title": "Senior Energy Efficiency Development Engineer",
+    "company": "Constellation Energy",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/constellation-energy/jobs/senior-energy-efficiency-development-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T05:40:33.040Z",
+    "title": "CMS Portal Administrator",
+    "company": "Essen Medical Associates",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/essen-medical-associates/jobs/cms-portal-administrator",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position."
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T05:40:33.040Z",
+    "title": "Senior Enterprise Data Architect - Biotechnology",
+    "company": "Truelogic",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/truelogic-io/jobs/senior-enterprise-data-architect-biotechnology-174750604",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-08T05:40:33.040Z",
+    "title": "Structural Integrity Engineering (FEA) - Submarines",
+    "company": "Rolls-Royce",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/rolls-royce/jobs/structural-integrity-engineering-fea-submarines",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-08T05:40:33.040Z",
+    "title": "Personalized Support Expert 3",
+    "company": "Twilio",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/twilio/jobs/personalized-support-expert-3",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is not a developer/engineer position."
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T05:40:33.040Z",
+    "title": "Lead AI/ML Engineer - Remote",
+    "company": "Optum",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/optum/jobs/lead-ai-ml-engineer-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary",
+      "LLM: The job is not a developer/engineer position and is restricted to US/EU residents."
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T05:40:33.040Z",
+    "title": "CONFIGURATION ANALYST 1",
+    "company": "HII",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/hii/jobs/configuration-analyst-1",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-08T05:40:33.040Z",
+    "title": "Curricular Solutions Architect",
+    "company": "Brisk Teaching",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/brisk-teaching/jobs/curricular-solutions-architect",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is not a developer/engineer position and requires former educator experience."
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T05:40:33.040Z",
+    "title": "Solution Architect",
+    "company": "Altimate.ai",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/altimate-ai/jobs/solution-architect-7317495747",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is not a developer/engineer position and is restricted to US/EU residents."
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T05:40:33.040Z",
+    "title": "Sr. Full Stack Engineer",
+    "company": "Fuser",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/fuser/jobs/sr-full-stack-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node",
+      "+2 ai",
+      "+1 typescript",
+      "+1 express",
+      "+2 salary",
+      "LLM: The job requires US work authorization and is restricted to US/EU residents, which excludes the candidate based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T05:40:33.040Z",
+    "title": "Senior Site Reliability Engineer, Observability",
+    "company": "Chainlink Labs",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/chainlink-labs/jobs/senior-site-reliability-engineer-observability-9395202361",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T05:40:33.040Z",
+    "title": "SRE Deployment Engineer",
+    "company": "RingCentral",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ringcentral/jobs/sre-deployment-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
   }
 ]
