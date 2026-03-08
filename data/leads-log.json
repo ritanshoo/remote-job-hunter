@@ -20708,5 +20708,191 @@
     "url": "https://news.ycombinator.com/item?id=47292427",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-08T01:49:46.249Z",
+    "title": "Senior Tech Lead",
+    "company": "DS Technologies",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ds-technologies/jobs/senior-tech-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T01:49:46.249Z",
+    "title": "Engineering Manager",
+    "company": "Clipster",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47290112",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node.js",
+      "+3 node",
+      "+1 postgresql",
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position; it is for an Engineering Manager."
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T01:49:46.249Z",
+    "title": "Customer Solutions Engineer (Ruby on Rails) - REMOTE IN BRAZIL",
+    "company": "MyTime",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mytime/jobs/customer-solutions-engineer-ruby-on-rails-remote-in-brazil",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position and is focused on customer solutions."
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T01:49:46.250Z",
+    "title": "MIC2 Solutions Architect (HYBRID TELEWORK)",
+    "company": "Lockheed Martin",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/lockheed-martin/jobs/mic2-solutions-architect-hybrid-telework",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+2 salary",
+      "LLM: The job is not a developer/engineer position and has geographic restrictions that exclude India-based remote workers."
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T01:49:46.250Z",
+    "title": "Senior Product Security Engineer",
+    "company": "Adobe",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/adobe/jobs/senior-product-security-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position and requires specific security expertise that does not align with the candidate's skills."
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T01:49:46.250Z",
+    "title": "Customer Solutions Engineer (Ruby on Rails) - REMOTE IN BRAZIL",
+    "company": "MyTime",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mytime/jobs/customer-solutions-engineer-ruby-on-rails-remote-in-brazil",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position and is focused on customer solutions."
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T01:49:46.250Z",
+    "title": "MIC2 Solutions Architect (HYBRID TELEWORK)",
+    "company": "Lockheed Martin",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/lockheed-martin/jobs/mic2-solutions-architect-hybrid-telework",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+2 salary",
+      "LLM: The job is not a developer/engineer position and requires on-site work."
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T01:49:46.250Z",
+    "title": "Senior Product Security Engineer",
+    "company": "Adobe",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/adobe/jobs/senior-product-security-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position as it focuses on product security, which is outside the candidate's core development skills."
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T01:49:46.250Z",
+    "title": "Solution Consultant - Commercial Content",
+    "company": "Lifelancer",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/lifelancer/jobs/solution-consultant-commercial-content-5849451568",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position and is focused on consulting."
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T01:49:46.250Z",
+    "title": "Ab Initio Senior Developer",
+    "company": "DS Technologies",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ds-technologies/jobs/ab-initio-senior-developer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-08T01:49:46.250Z",
+    "title": "Webflow Developer",
+    "company": "Wonderist Agency",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/wonderist-agency/jobs/webflow-developer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-08T01:49:46.250Z",
+    "title": "Lead Cloud Solutions Engineer",
+    "company": "Humana",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/humana/jobs/lead-cloud-solutions-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+2 salary",
+      "LLM: The job is not a developer/engineer position and is restricted to US-based candidates."
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T01:49:46.250Z",
+    "title": "Strategic Sourcing Specialist",
+    "company": "Belden, Inc",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/belden-inc/jobs/strategic-sourcing-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern",
+      "+2 salary"
+    ]
   }
 ]
