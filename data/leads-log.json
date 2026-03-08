@@ -21377,5 +21377,19 @@
     "matchedKeywords": [
       "+1 postgresql"
     ]
+  },
+  {
+    "timestamp": "2026-03-08T19:20:51.480Z",
+    "title": "Co-founder / AI engineers",
+    "company": "AI startup (stealth)",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47299970",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The job is not a developer/engineer position as it is for a co-founder role and has geographic restrictions."
+    ]
   }
 ]
