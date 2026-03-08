@@ -21232,5 +21232,87 @@
       "+2 salary",
       "LLM: The job is not a developer/engineer position as it requires US work authorization and is restricted to US-based remote workers."
     ]
+  },
+  {
+    "timestamp": "2026-03-08T09:26:14.678Z",
+    "title": "Engineering Manager",
+    "company": "InStride Health",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/instride-health/jobs/engineering-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T09:26:14.678Z",
+    "title": "Account Executive (West)",
+    "company": "Everway",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/everway/jobs/account-executive-west",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-08T09:26:14.678Z",
+    "title": "Senior Software Engineer - Remote",
+    "company": "Optum",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/optum/jobs/senior-software-engineer-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary",
+      "LLM: The job is not a developer position as it requires US-only remote work, excluding the candidate based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T09:26:14.678Z",
+    "title": "Critical Materials-Intern",
+    "company": "Lockheed Martin",
+    "source": "himalayas",
+    "score": -2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/lockheed-martin/jobs/critical-materials-intern",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 express",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T09:26:14.678Z",
+    "title": "Sr. Specialist, Concord Procurement",
+    "company": "Corning",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/corning/jobs/sr-specialist-concord-procurement",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T09:26:14.678Z",
+    "title": "CMC Technical Development Specialist",
+    "company": "Ray Therapeutics",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ray-therapeutics/jobs/cmc-technical-development-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
   }
 ]
