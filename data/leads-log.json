@@ -21336,5 +21336,19 @@
     "url": "https://himalayas.app/companies/amcor/jobs/estagiario-a-de-ti-suporte-de-aplicacoes",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-08T11:18:14.981Z",
+    "title": "Senior Salesforce Administrator - BJ",
+    "company": "NorthOak",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/northoak/jobs/senior-salesforce-administrator-bj-1705987051",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 junior"
+    ]
   }
 ]
