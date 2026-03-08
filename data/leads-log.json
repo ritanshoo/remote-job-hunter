@@ -21391,5 +21391,140 @@
       "+2 ai",
       "LLM: The job is not a developer/engineer position as it is for a co-founder role and has geographic restrictions."
     ]
+  },
+  {
+    "timestamp": "2026-03-08T21:19:58.819Z",
+    "title": "Sr. Growth Product Designer (Remote)",
+    "company": "Mode Mobile",
+    "source": "weworkremotely",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/mode-mobile-sr-growth-product-designer-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T21:19:58.819Z",
+    "title": "Staff Optical Engineer, Waveguide Design & Analysis",
+    "company": "Magic Leap",
+    "source": "weworkremotely",
+    "score": 2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/magic-leap-staff-optical-engineer-waveguide-design-analysis",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($170,000 - $200,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T21:19:58.819Z",
+    "title": "Senior Product Manager - AI Capture",
+    "company": "Ottimate",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/ottimate-senior-product-manager-ai-capture",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 automation",
+      "+1 express",
+      "LLM: The role is not a developer/engineer position; it is a Senior Product Manager role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T21:19:58.819Z",
+    "title": "Amazon Product Specialist",
+    "company": "Hadley Designs",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/hadley-designs-amazon-product-specialist",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-08T21:19:58.819Z",
+    "title": "Design Director | North America | Canada | Europe | Fully Remote",
+    "company": "Escape Velocity Entertainment Inc",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/escape-velocity-entertainment-inc-design-director-north-america-canada-europe-fully",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-08T21:19:58.819Z",
+    "title": "Senior Product Manager (Containers)",
+    "company": "Chainguard",
+    "source": "weworkremotely",
+    "score": -2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/chainguard-senior-product-manager-containers",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 express",
+      "-5 intern",
+      "+2 salary($156,000 - $195,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T21:19:58.819Z",
+    "title": "Senior Product Manager - Pro - Tax Reporting",
+    "company": "Kraken",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/kraken-senior-product-manager-pro-tax-reporting",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T21:19:58.819Z",
+    "title": "Senior Manager, Product Analytics",
+    "company": "Oportun",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/oportun-senior-manager-product-analytics",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($19)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T21:19:58.819Z",
+    "title": "Product Designer / Engineer (Remote - Full-Time)",
+    "company": "Remote Va",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/remote-va-product-designer-engineer-remote-full-time",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-08T21:19:58.819Z",
+    "title": "Remote Customer Support Reps",
+    "company": "Jobs For Humanity",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jobs-for-humanity-remote-customer-support-reps",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
