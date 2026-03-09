@@ -21742,5 +21742,109 @@
     "matchedKeywords": [
       "-5 junior"
     ]
+  },
+  {
+    "timestamp": "2026-03-09T01:51:09.305Z",
+    "title": "Engineering Manager, GenAI Platform",
+    "company": "abridge",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/abridge/jobs/engineering-manager-genai-platform",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T01:51:09.305Z",
+    "title": "Production Service Developer 3",
+    "company": "Oracle",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/oracle/jobs/production-service-developer-3",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "+2 salary",
+      "LLM: The job is not a developer/engineer position as it focuses on production infrastructure and requires US work authorization."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T01:51:09.305Z",
+    "title": "Electronics Design Engineer",
+    "company": "Cornelis Networks",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cornelis-networks/jobs/electronics-design-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-09T01:51:09.305Z",
+    "title": "Backend Software Engineer (Python)",
+    "company": "dentsu international",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/dentsu-international/jobs/backend-software-engineer-python",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary",
+      "LLM: The job is not a developer/engineer position as it requires Python expertise and is restricted to US/EU locations, excluding India-based candidates."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T01:51:09.305Z",
+    "title": "Ruby on Rails Developer",
+    "company": "Govcio LLC",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/govcio-llc/jobs/ruby-on-rails-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 rag",
+      "+1 aws",
+      "-5 intern",
+      "+2 salary",
+      "LLM: The job is not a developer position for candidates based in India as it is restricted to candidates within the Continental United States."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T01:51:09.305Z",
+    "title": "ServiceNow Developer",
+    "company": "Texas Health and Human Services Commission",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/texas-health-and-human-services-commission/jobs/servicenow-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T01:51:09.305Z",
+    "title": "Developer Relations Associate/Intern (Partnerships) Berlin-Based",
+    "company": "Featherless AI",
+    "source": "himalayas",
+    "score": -6,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/featherless-ai/jobs/developer-relations-associate-intern-partnerships-berlin-based",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 junior",
+      "-5 intern",
+      "+2 salary"
+    ]
   }
 ]
