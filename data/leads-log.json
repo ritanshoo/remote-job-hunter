@@ -21861,5 +21861,523 @@
       "+2 ai",
       "LLM: The job requires US/EU location restrictions and the candidate is based in India, making it a no match."
     ]
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.007Z",
+    "title": "Principal Engineer",
+    "company": "LivePerson",
+    "source": "himalayas",
+    "score": 8,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/liveperson/jobs/principal-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.007Z",
+    "title": "Sr. Salesforce Developer",
+    "company": "Concentrix",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/concentrix/jobs/sr-salesforce-developer-7743105624",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.007Z",
+    "title": "Sr. Salesforce Developer",
+    "company": "Concentrix",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/concentrix/jobs/sr-salesforce-developer-7743105624",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.007Z",
+    "title": "Data Engineer",
+    "company": "HeadQuarters",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/headquarters/jobs/data-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.007Z",
+    "title": "Back-end Software Engineer (Scala)",
+    "company": "Software Mind",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/software-mind/jobs/back-end-software-engineer-scala",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.007Z",
+    "title": "NetSuite Developer",
+    "company": "Workhint",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/workhint/jobs/netsuite-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.007Z",
+    "title": "Data Engineer",
+    "company": "HeadQuarters",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/headquarters/jobs/data-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.007Z",
+    "title": "Développeur Fullstack Java / ReactJS expérimenté",
+    "company": "ALTEN",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/alten/jobs/developpeur-fullstack-java-reactjs-experimente",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+3 react",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 mongodb",
+      "+1 postgresql",
+      "LLM: The job is not a developer/engineer position as it requires specific geographic restrictions that exclude India-based remote workers."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.007Z",
+    "title": "Sr. Pre-Sales Systems Engineer, Navy",
+    "company": "Pure Storage",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pure-storage/jobs/sr-pre-sales-systems-engineer-navy",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position and is focused on pre-sales, which does not match the candidate's skills."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.007Z",
+    "title": "Sr. Project Manager - Data Centers Design",
+    "company": "SSOE Group",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ssoe-group/jobs/sr-project-manager-data-centers-design",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position and is focused on project management."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.007Z",
+    "title": "Enterprise Account Executive - Germany",
+    "company": "ArangoDB",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/arangodb/jobs/enterprise-account-executive-germany",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+1 aws",
+      "LLM: The role is not a developer/engineer position, but rather an account executive role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.007Z",
+    "title": "System Engineer Specialist",
+    "company": "ALTEN",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/alten/jobs/system-engineer-specialist",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.007Z",
+    "title": "Senior Technical Program Manager, Office of the CTO",
+    "company": "GitLab",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gitlab-com/jobs/senior-technical-program-manager-office-of-the-cto",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is not a developer/engineer position, but rather a Senior Technical Program Manager."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.007Z",
+    "title": "Sales Engineer, Enterprise - Southern CA",
+    "company": "Zscaler",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/zscaler/jobs/sales-engineer-enterprise-southern-ca",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position, but a sales engineer role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.007Z",
+    "title": "Senior Mechanical Analysis Engineer",
+    "company": "GE Vernova",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ge-vernova/jobs/senior-mechanical-analysis-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.007Z",
+    "title": "Engineering Manager, Cloud Infrastructure Security",
+    "company": "Netflix",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/netflix/jobs/engineering-manager-cloud-infrastructure-security",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position and is focused on engineering management in cloud security."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.007Z",
+    "title": "Account Executive",
+    "company": "Acquia",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/acquia/jobs/account-executive",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.007Z",
+    "title": "Développeur Fullstack Java / ReactJS expérimenté",
+    "company": "ALTEN",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/alten/jobs/developpeur-fullstack-java-reactjs-experimente",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+3 react",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 mongodb",
+      "+1 postgresql",
+      "LLM: The job is not a developer/engineer position and has geographic restrictions that exclude India-based remote workers."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.008Z",
+    "title": "Sr. Pre-Sales Systems Engineer, Navy",
+    "company": "Pure Storage",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pure-storage/jobs/sr-pre-sales-systems-engineer-navy",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position and is focused on pre-sales, which is not aligned with the candidate's skills."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.008Z",
+    "title": "Sr. Project Manager - Data Centers Design",
+    "company": "SSOE Group",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ssoe-group/jobs/sr-project-manager-data-centers-design",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position and is instead a project management role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.008Z",
+    "title": "Enterprise Account Executive - Germany",
+    "company": "ArangoDB",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/arangodb/jobs/enterprise-account-executive-germany",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+1 aws",
+      "LLM: The role is not a developer/engineer position; it is for an Enterprise Account Executive."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.008Z",
+    "title": "System Engineer Specialist",
+    "company": "ALTEN",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/alten/jobs/system-engineer-specialist",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.008Z",
+    "title": "Executive Director, AI Software Engineering (Principal)",
+    "company": "Labcorp",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/labcorp/jobs/executive-director-ai-software-engineering-principal",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+2 salary",
+      "LLM: The job is not a developer/engineer position and requires US location."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.008Z",
+    "title": "Electrical Engineer",
+    "company": "ASRC Federal",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/asrc-federal/jobs/electrical-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.008Z",
+    "title": "Test Engineer II",
+    "company": "CSG",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/csg/jobs/test-engineer-ii-2969421161",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.008Z",
+    "title": "Senior Gameplay Software Engineer (Unreal Engine 4)",
+    "company": "Blackbird Interactive",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/blackbird-interactive/jobs/senior-gameplay-software-engineer-unreal-engine-4",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The job requires candidates to be legally eligible to work in Canada and reside within Canada, which excludes the India-based candidate."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.008Z",
+    "title": "Senior Wiring Designer 2 -- Grid",
+    "company": "Sargent & Lundy",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sargent-lundy/jobs/senior-wiring-designer-2-grid",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.008Z",
+    "title": "Regional Sales Director",
+    "company": "Hazelcast",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/hazelcast/jobs/regional-sales-director",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.008Z",
+    "title": "Software Developer in Test (JavaScript)",
+    "company": "Veeam Software",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/veeam-software/jobs/software-developer-in-test-javascript-8297028044",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 javascript",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.008Z",
+    "title": "Make Ready",
+    "company": "Lincoln Property Company",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/lincoln-property-company/jobs/make-ready",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.008Z",
+    "title": "Electrical Engineer with Python - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/electrical-engineer-with-python-freelance-ai-trainer-7084200693",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.008Z",
+    "title": "Electrical Engineer with Python - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/electrical-engineer-with-python-freelance-ai-trainer-7084200693",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.008Z",
+    "title": "Microsoft 365 Administrator",
+    "company": "Concept Solutions, LLC",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/concept-solutions-llc/jobs/microsoft-365-administrator",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.008Z",
+    "title": "Senior Technical Support Engineer",
+    "company": "Cribl",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cribl/jobs/senior-technical-support-engineer-7996917494",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.008Z",
+    "title": "Senior Technical Support Engineer",
+    "company": "Cribl",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cribl/jobs/senior-technical-support-engineer-7996917494",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.008Z",
+    "title": "Senior Software Engineer",
+    "company": "Partner.Co",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/partner-co/jobs/senior-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T07:50:52.008Z",
+    "title": "Quality Assurance & Regulatory Affairs Specialist - Freelance, Remote",
+    "company": "Magic",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/getmagic/jobs/quality-assurance-regulatory-affairs-specialist-freelance-remote-293218152",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
