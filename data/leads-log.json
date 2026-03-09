@@ -22434,5 +22434,169 @@
     "matchedKeywords": [
       "-5 us only"
     ]
+  },
+  {
+    "timestamp": "2026-03-09T21:29:04.303Z",
+    "title": "Design Engineer, Design System",
+    "company": "Hex Technologies",
+    "source": "weworkremotely",
+    "score": 1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/hex-technologies-design-engineer-design-system",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 typescript",
+      "-5 intern",
+      "+2 salary($100)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T21:29:04.303Z",
+    "title": "Associate Director - Product Strategy & Operations",
+    "company": "Highlevel",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/highlevel-associate-director-product-strategy-operations",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "LLM: The role is not a developer/engineer position, but rather a product strategy and operations role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T21:29:04.303Z",
+    "title": "Creative Director, Product",
+    "company": "Ethos Life",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/ethos-life-creative-director-product",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 express",
+      "+2 salary($126,000 - $224,000)",
+      "LLM: The role is not a developer/engineer position, but rather a Creative Director position."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T21:29:04.303Z",
+    "title": "Director of Product Design, Revenue Cycle Management",
+    "company": "Simplepractice",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/simplepractice-director-of-product-design-revenue-cycle-management",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 automation",
+      "-5 intern",
+      "+2 salary($220,000 - $240,000 annual)",
+      "LLM: The role is not a developer/engineer position and is focused on product design."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T21:29:04.303Z",
+    "title": "Customer Support Representative  Remote",
+    "company": "Spade Recruiting",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/spade-recruiting-customer-support-representative-remote",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-09T21:29:04.303Z",
+    "title": "Senior Full Stack Developer (Nuxt, PHP)",
+    "company": "12go Asia",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/12go-asia-senior-full-stack-developer-nuxt-php",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 docker",
+      "-5 intern",
+      "LLM: The job requires a location-based restriction and is not suitable for a candidate based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T21:29:04.303Z",
+    "title": "Product / Platform / Security Engineers",
+    "company": "GitBook",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47315750",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The job is restricted to EU residents only, excluding the candidate based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T21:29:04.303Z",
+    "title": "VP of Product, HireGlobal",
+    "company": "Toptal",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-vp-of-product-hireglobal",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern",
+      "+2 salary($200)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T21:29:04.303Z",
+    "title": "Product Analyst Intern (Spring/Summer 2026)",
+    "company": "Accuweather Careers",
+    "source": "weworkremotely",
+    "score": -4,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/accuweather-careers-product-analyst-intern-spring-summer-2026",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 express",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T21:29:04.303Z",
+    "title": "Remote Customer Support Associate",
+    "company": "Essence Journey",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/essence-journey-remote-customer-support-associate",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T21:29:04.303Z",
+    "title": "User Centered Design Lead",
+    "company": "Careers",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/careers-user-centered-design-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
