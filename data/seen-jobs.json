@@ -8517,5 +8517,33 @@
     "score": 0,
     "emailSent": false,
     "source": "weworkremotely"
+  },
+  "8bfd646f51d42cad7492c37917d5e834": {
+    "hash": "8bfd646f51d42cad7492c37917d5e834",
+    "firstSeen": "2026-03-09T15:55:36.897Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "34297255747e3bb0e244d77e33cbb094": {
+    "hash": "34297255747e3bb0e244d77e33cbb094",
+    "firstSeen": "2026-03-09T15:55:40.610Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "92fc19580ab2f6bc97b5b0e7569be98b": {
+    "hash": "92fc19580ab2f6bc97b5b0e7569be98b",
+    "firstSeen": "2026-03-09T15:55:40.610Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "hackernews"
+  },
+  "f3c23c139a45cb4653e4c8571de9ce7f": {
+    "hash": "f3c23c139a45cb4653e4c8571de9ce7f",
+    "firstSeen": "2026-03-09T15:55:40.610Z",
+    "score": -5,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }

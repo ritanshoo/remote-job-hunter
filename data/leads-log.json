@@ -22379,5 +22379,47 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-09T15:55:40.610Z",
+    "title": "Financially Literate Individual for Audio Transcription",
+    "company": "Toptal",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-financially-literate-individual-for-audio-transcription",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is not a developer position and requires on-site presence in specific US locations."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T15:55:40.610Z",
+    "title": "Senior/Staff Infrastructure Engineer",
+    "company": "Bitrise (YC, CI/CD for DevOps)",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47309646",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+1 aws",
+      "LLM: The job is not a developer/engineer position as it focuses on infrastructure engineering and has geographic restrictions that exclude India-based remote workers."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T15:55:40.610Z",
+    "title": "Crypto Market Operations Trainee",
+    "company": "Elemental Terra LTD",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/elemental-terra-ltd-crypto-market-operations-trainee",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
