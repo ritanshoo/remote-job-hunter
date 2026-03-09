@@ -21846,5 +21846,20 @@
       "-5 intern",
       "+2 salary"
     ]
+  },
+  {
+    "timestamp": "2026-03-09T05:55:10.506Z",
+    "title": "Blockchain Engineer, Founding Platform Engineer",
+    "company": "CEF AI (cef.ai)",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47305192",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "+2 ai",
+      "LLM: The job requires US/EU location restrictions and the candidate is based in India, making it a no match."
+    ]
   }
 ]
