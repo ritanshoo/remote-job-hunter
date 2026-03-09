@@ -8545,5 +8545,12 @@
     "score": -5,
     "emailSent": false,
     "source": "weworkremotely"
+  },
+  "70faa4c044c85141ae9189b51c4d076c": {
+    "hash": "70faa4c044c85141ae9189b51c4d076c",
+    "firstSeen": "2026-03-09T19:38:25.923Z",
+    "score": -5,
+    "emailSent": false,
+    "source": "hackernews"
   }
 }

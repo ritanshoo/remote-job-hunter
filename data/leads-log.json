@@ -22421,5 +22421,18 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-09T19:38:25.924Z",
+    "title": "Senior Back End Engineer",
+    "company": "Fold",
+    "source": "hackernews",
+    "score": -5,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47313952",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 us only"
+    ]
   }
 ]
