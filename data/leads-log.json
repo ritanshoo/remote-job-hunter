@@ -23099,5 +23099,126 @@
       "-5 intern",
       "-5 internship"
     ]
+  },
+  {
+    "timestamp": "2026-03-09T23:24:43.014Z",
+    "title": "$500–$1,000/month, remote",
+    "company": "Part-time Growth Marketer for a SaaS QR code platform",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rpgato/hiring_parttime_growth_marketer_for_a_saas_qr/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is not a developer/engineer position, but rather a marketing role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T23:24:43.014Z",
+    "title": "are there any apparel designers here? $15+/hr",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rpc48m/hiring_are_there_any_apparel_designers_here_15hr/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-09T23:24:43.014Z",
+    "title": "female voice work $75",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rp8r83/hiring_female_voice_work_75/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($75)",
+      "LLM: The role is not a developer/engineer position."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T23:24:43.014Z",
+    "title": "Wordpress website designer/developer",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rp8owy/hiring_wordpress_website_designerdeveloper/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-09T23:24:43.014Z",
+    "title": "5-Day Paid Contract — Starts Immediately",
+    "company": "Senior Go/Python Engineer",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rp5yuv/hiring_senior_gopython_engineer_5day_paid/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 postgresql",
+      "+1 docker",
+      "+2 salary($115/hour)",
+      "LLM: The role is not a developer/engineer position as it requires specific skills in Go and Python, which the candidate does not possess."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T23:24:43.014Z",
+    "title": "Looking for a frontend developer for an early stage SaaS project",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1rpfy1w/looking_for_a_frontend_developer_for_an_early/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "LLM: The job is not a developer/engineer position as it does not offer a salary and is in an early stage without funding."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T23:24:43.014Z",
+    "title": "How would you architect a system that normalizes product data across 200+ retailers?",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1rp295o/how_would_you_architect_a_system_that_normalizes/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 llm",
+      "LLM: The job is not a developer/engineer position and does not align with Ritanshu's skills."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T23:24:43.015Z",
+    "title": "Sr/Staff Software Engineers & AI PM",
+    "company": "Oscilar.com",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47316717",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The job requires candidates to be located in the US, Canada, or Europe, which excludes the India-based candidate."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T23:24:43.015Z",
+    "title": "Immigration solicitor- uk, london only!",
+    "company": "",
+    "source": "reddit",
+    "score": -5,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rp33za/hiring_immigration_solicitor_uk_london_only/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
