@@ -22598,5 +22598,506 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-09T22:25:18.195Z",
+    "title": "Senior Agent Evaluation Engineer (Freelance)",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": 10,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/mindrift/jobs/senior-agent-evaluation-engineer-freelance-3494929092",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+2 automation",
+      "+1 docker",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T22:25:18.882Z",
+    "title": "Senior Software Engineer in Test (Full-Stack/Python)",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": 8,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/mindrift/jobs/senior-software-engineer-in-test-full-stack-python-2674815067",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+2 automation",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T22:25:19.232Z",
+    "title": "Senior Frontend Developer",
+    "company": "Ignition",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/ignition/jobs/senior-frontend-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+1 typescript",
+      "+1 graphql",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T22:25:19.589Z",
+    "title": "DevOps Engineer IV (Obs)",
+    "company": "Jumio",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/jumio/jobs/devops-engineer-iv-obs",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T22:25:19.927Z",
+    "title": "Field Engineering Business Operations Lead",
+    "company": "dbt Labs",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/dbt-labs/jobs/field-engineering-business-operations-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T22:25:20.284Z",
+    "title": "Senior Software Engineer (Delivery & Developer Experience Team)",
+    "company": "SmartRecruiters Inc",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/smartrecruiters-inc/jobs/senior-software-engineer-delivery-developer-experience-team",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node.js",
+      "+3 node",
+      "+2 automation",
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T22:25:20.284Z",
+    "title": "Senior Engineer, Animation (Story Tech)",
+    "company": "CD PROJEKT RED",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cd-projekt-red/jobs/senior-engineer-animation-story-tech",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T22:25:20.284Z",
+    "title": "Mobile Frontend Developer (React Native + Expo) - India",
+    "company": "QuickTeam",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/quickteam/jobs/mobile-frontend-developer-react-native-expo-india",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "LLM: The role is not a developer position suitable for the candidate's skills and is location-restricted."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T22:25:20.284Z",
+    "title": "Staff Software Engineer- Risk Platform",
+    "company": "Aledade",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/aledade/jobs/staff-software-engineer-risk-platform",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+1 express"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T22:25:20.284Z",
+    "title": "Cloud Infrastructure Engineer (Terraform-heavy)",
+    "company": "Bright Vision Technologies",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/cloud-infrastructure-engineer-terraform-heavy-890530191",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T22:25:20.284Z",
+    "title": "Backend Engineer, Python",
+    "company": "Launch Potato",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/launch-potato/jobs/backend-engineer-python-1810115014",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T22:25:20.284Z",
+    "title": "Senior ML Engineer (LLMs, AWS)",
+    "company": "Provectus",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/provectus/jobs/senior-ml-engineer-llms-aws",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 rag",
+      "+1 aws",
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T22:25:20.284Z",
+    "title": "Dog Academy Sales Representative (Remote Full-Time Position)",
+    "company": "US Service Animals",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/us-service-animals-dog-academy-sales-representative-remote-full-time-position",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($21)",
+      "LLM: The role is not a developer/engineer position, but a sales representative role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T22:25:20.284Z",
+    "title": "LibertyWorks Technical Lead - Controls",
+    "company": "Rolls-Royce",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/rolls-royce/jobs/libertyworks-technical-lead-controls",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The job is not a developer/engineer position and requires onsite presence in the US."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T22:25:20.284Z",
+    "title": "Data Warehousing Specialist (Network Engineer)",
+    "company": "Govcio LLC",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/govcio-llc/jobs/data-warehousing-specialist-network-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node",
+      "+2 salary",
+      "LLM: The role is not a developer position and is restricted to the United States."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T22:25:20.284Z",
+    "title": "Media Buyer for a Software Company (US-Based/Remote)",
+    "company": "Paired",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/paired-so/jobs/media-buyer-for-a-software-company-us-based-remote-6240143743",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-09T22:25:20.284Z",
+    "title": "Packaging Designer",
+    "company": "ALTEN",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/alten/jobs/packaging-designer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-09T22:25:20.284Z",
+    "title": "Security Operations Analyst",
+    "company": "VerSprite",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/versprite/jobs/security-operations-analyst",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "LLM: The role is not a developer/engineer position and is focused on security operations."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T22:25:20.284Z",
+    "title": "Senior Site Reliability Engineer",
+    "company": "Sysdig",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sysdig/jobs/senior-site-reliability-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+1 docker",
+      "LLM: The role is not a developer position and is restricted to US/EU residents."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T22:25:20.284Z",
+    "title": "(EG008) Lead QA Engineer - Talent Connection",
+    "company": "Nearsure",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nearsure/jobs/eg008-lead-qa-engineer-talent-connection",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-09T22:25:20.284Z",
+    "title": "Engenheiro Softw Full Stack Sr",
+    "company": "Spassu",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/spassu/jobs/engenheiro-softw-full-stack-sr-6773060503",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "LLM: The job description does not specify remote work and is likely restricted to a specific geographic location, which excludes the candidate based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T22:25:20.284Z",
+    "title": "Senior Software Engineer | AI",
+    "company": "AffiniPay",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/affinipay/jobs/senior-software-engineer-ai-6323389800",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary",
+      "LLM: The job requires US work authorization and is restricted to US residents only."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T22:25:20.284Z",
+    "title": "Senior Data Engineer",
+    "company": "ChowNow ",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/chownow-com/jobs/senior-data-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T22:25:20.284Z",
+    "title": "AutoCad Drafter - Structural | AU Client | WFH",
+    "company": "Staff Domain Inc.",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/staff-domain-inc/jobs/autocad-drafter-structural-au-client-wfh",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-09T22:25:20.284Z",
+    "title": "Advisory Solution Consultant - Higher Education",
+    "company": "ServiceNow",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/servicenow/jobs/advisory-solution-consultant-higher-education",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is not a developer/engineer position and is focused on sales and consulting."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T22:25:20.284Z",
+    "title": "NICE CXOne Engineer",
+    "company": "Miratech",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/miratech/jobs/nice-cxone-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-09T22:25:20.284Z",
+    "title": "Senior Salesforce Solutions Architect and Developer",
+    "company": "Cardinal Health",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cardinal-health/jobs/senior-salesforce-solutions-architect-and-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position as it focuses on Salesforce solutions architecture, which is outside the candidate's core skills."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T22:25:20.284Z",
+    "title": "Growth Lead",
+    "company": "Packt",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/packt/jobs/growth-lead-3650002498",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is not a developer/engineer position."
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T22:25:20.284Z",
+    "title": "AI Solutions Engineer - Europe",
+    "company": "Enterprise Bot",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/enterprise-bot/jobs/ai-solutions-engineer-europe",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T22:25:20.284Z",
+    "title": "Electrical Engineer & Python Expert - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/electrical-engineer-python-expert-freelance-ai-trainer-5890026691",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary($38/hour)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T22:25:20.284Z",
+    "title": "Manager, Technical Web Development",
+    "company": "Sharp HealthCare",
+    "source": "himalayas",
+    "score": -2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sharp-healthcare/jobs/manager-technical-web-development",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T22:25:20.284Z",
+    "title": "Physics & Python Expert - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/physics-python-expert-freelance-ai-trainer-7008300296",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T22:25:20.284Z",
+    "title": "[GFA] AWS Senior Data Engineer",
+    "company": "Software Mind",
+    "source": "himalayas",
+    "score": -4,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/software-mind/jobs/gfa-aws-senior-data-engineer-9648253453",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T22:25:20.284Z",
+    "title": "Software Sales Representative (Commission Based)",
+    "company": "WRS Health",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/wrs-health/jobs/software-sales-representative-commission-based-2019040247",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-09T22:25:20.284Z",
+    "title": "AI/ML Intern - Generative AI & Intelligent Systems",
+    "company": "Therapy Brands",
+    "source": "himalayas",
+    "score": -9,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/therapy-brands/jobs/ai-ml-intern-generative-ai-intelligent-systems-3178864343",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 langchain",
+      "+2 rag",
+      "-5 junior",
+      "-5 intern",
+      "-5 internship"
+    ]
   }
 ]
