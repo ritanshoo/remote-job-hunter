@@ -23877,5 +23877,80 @@
       "-5 junior",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-10T22:24:49.265Z",
+    "title": "Software Engineer II (Full Stack, Backend-leaning)",
+    "company": "Jerry",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/jerry/jobs/software-engineer-ii-full-stack-backend-leaning-1764244",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+2 ai",
+      "+2 llm",
+      "+2 automation",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-10T22:24:49.265Z",
+    "title": "Senior Backend Developer (Python)",
+    "company": "Proxify",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/proxify/jobs/senior-backend-developer-python",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 postgresql",
+      "+1 aws",
+      "+1 docker",
+      "LLM: The role is for a Senior Python Developer, which is outside the candidate's expertise in JavaScript/TypeScript and does not align with their skills."
+    ]
+  },
+  {
+    "timestamp": "2026-03-10T22:24:49.265Z",
+    "title": "Senior Data Engineer",
+    "company": "Proxify",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/proxify/jobs/senior-data-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-10T22:24:49.265Z",
+    "title": "RES Help Desk Engineer - 10am to 7pm EST",
+    "company": "Govcio LLC",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/govcio-llc/jobs/res-help-desk-engineer-10am-to-7pm-est",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position, as it is a help desk role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-10T22:24:49.265Z",
+    "title": "Sr Mgr, Solution Consulting",
+    "company": "ServiceNow",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/servicenow/jobs/sr-mgr-solution-consulting",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is not a developer/engineer position and is focused on solution consulting."
+    ]
   }
 ]
