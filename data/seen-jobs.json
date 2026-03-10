@@ -9259,5 +9259,12 @@
     "score": -5,
     "emailSent": false,
     "source": "reddit"
+  },
+  "117bc794ecf528590531114db261664c": {
+    "hash": "117bc794ecf528590531114db261664c",
+    "firstSeen": "2026-03-10T20:29:32.149Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }
