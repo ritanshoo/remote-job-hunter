@@ -23722,5 +23722,160 @@
       "+2 salary($9,000/mo)",
       "LLM: The role is not a developer/engineer position."
     ]
+  },
+  {
+    "timestamp": "2026-03-10T21:26:19.490Z",
+    "title": "Senior Product Manager, Personalization",
+    "company": "Cookunity",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/cookunity-senior-product-manager-personalization",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "LLM: The role is not a developer/engineer position; it is a Senior Product Manager role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-10T21:26:19.490Z",
+    "title": "RTL Design Engineer",
+    "company": "Niobium",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/niobium-rtl-design-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-10T21:26:19.490Z",
+    "title": "Group Manager, Product Design (JobEx)",
+    "company": "Housecall Pro",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/housecall-pro-group-manager-product-design-jobex",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 express",
+      "-5 intern",
+      "+2 salary($143,000-$169,000)",
+      "LLM: The role is not a developer/engineer position, but rather a management position in product design."
+    ]
+  },
+  {
+    "timestamp": "2026-03-10T21:26:19.490Z",
+    "title": "Product Manager - Data Science (Remote)",
+    "company": "Pricelabs",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/pricelabs-product-manager-data-science-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "LLM: The role is not a developer/engineer position, but a Product Manager role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-10T21:26:19.490Z",
+    "title": "Amazon Specialist - Product Research & Sourcing",
+    "company": "Legacyx Hiring",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/legacyx-hiring-amazon-specialist-product-research-sourcing-1",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-10T21:26:19.490Z",
+    "title": "SaaS Operator / Builder",
+    "company": "Healthcare AI SaaS",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47328603",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is not a developer/engineer position, but rather a SaaS operator/builder role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-10T21:26:19.490Z",
+    "title": "Staff Product Manager - Ecommerce",
+    "company": "Highlevel",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/highlevel-staff-product-manager-ecommerce",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-10T21:26:19.490Z",
+    "title": "Product Manager - AI Agents",
+    "company": "Assembled",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/assembled-product-manager-ai-agents",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary($70)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-10T21:26:19.490Z",
+    "title": "Senior Product Manager E-Commerce Experience (m/f/d)",
+    "company": "Dr. Ansay",
+    "source": "weworkremotely",
+    "score": -2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/dr-ansay-senior-product-manager-e-commerce-experience-m-f-d",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-10T21:26:19.490Z",
+    "title": "Fractional Director of Product Development & Merchandising",
+    "company": "Nomad Lane",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/nomad-lane-fractional-director-of-product-development-merchandising",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-10T21:26:19.490Z",
+    "title": "Jr Product Administrator",
+    "company": "Workana",
+    "source": "weworkremotely",
+    "score": -10,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/workana-jr-product-administrator",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 junior",
+      "-5 intern"
+    ]
   }
 ]
