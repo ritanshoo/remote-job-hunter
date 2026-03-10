@@ -23495,5 +23495,35 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-10T17:43:07.863Z",
+    "title": "Level 2 HelpDesk Support Technician",
+    "company": "Layer27, LLC",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/layer27-llc-level-2-helpdesk-support-technician",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "LLM: The role is not a developer/engineer position and is focused on IT support."
+    ]
+  },
+  {
+    "timestamp": "2026-03-10T17:43:07.863Z",
+    "title": "Frontend Developer",
+    "company": "C4Media",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/c4media-frontend-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 typescript",
+      "-5 intern"
+    ]
   }
 ]
