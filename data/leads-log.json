@@ -23234,5 +23234,164 @@
       "+2 salary($200,000)",
       "LLM: The role is not a developer/engineer position."
     ]
+  },
+  {
+    "timestamp": "2026-03-10T09:39:57.471Z",
+    "title": "Technical Architect 8",
+    "company": "Salesforce",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/salesforce/jobs/technical-architect-8",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-10T09:39:58.044Z",
+    "title": "Head of AI Platform",
+    "company": "abridge",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/abridge/jobs/head-of-ai-platform",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-10T09:39:58.044Z",
+    "title": "AI Engineering Training and Internship Program",
+    "company": "FlexiSAF Edusoft",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/flexisaf-edusoft/jobs/ai-engineering-training-and-internship-program",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 chatbot",
+      "+2 langchain",
+      "+2 rag",
+      "+1 graphql",
+      "-5 intern",
+      "-5 internship"
+    ]
+  },
+  {
+    "timestamp": "2026-03-10T09:39:58.044Z",
+    "title": "Controls Systems Engineering Quality and Process Assurance",
+    "company": "Rolls-Royce",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/rolls-royce/jobs/controls-systems-engineering-quality-and-process-assurance",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The job is not a developer/engineer position and requires on-site work in the US."
+    ]
+  },
+  {
+    "timestamp": "2026-03-10T09:39:58.044Z",
+    "title": "Sr Security Engineer, Cryptography & Key Management (Data Protection)",
+    "company": "HealthEquity",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/healthequity/jobs/sr-security-engineer-cryptography-key-management-data-protection",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position as it focuses on security engineering and cryptography, and it requires US work authorization."
+    ]
+  },
+  {
+    "timestamp": "2026-03-10T09:39:58.044Z",
+    "title": "Senior Security Engineer",
+    "company": "Pavebank",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pavebank/jobs/senior-security-engineer-6457268675",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "+2 automation",
+      "+1 typescript",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-10T09:39:58.044Z",
+    "title": "Incident Response Engineer, Security Team",
+    "company": "Kong",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/kong/jobs/incident-response-engineer-security-team-4662312190",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-10T09:39:58.044Z",
+    "title": "Senior Sales Engineer, Majors - New England",
+    "company": "Zscaler",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/zscaler/jobs/senior-sales-engineer-majors-new-england-8840261840",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-10T09:39:58.044Z",
+    "title": "Principal IS Applications Analyst",
+    "company": "Providence",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/providence/jobs/principal-is-applications-analyst",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-10T09:39:58.044Z",
+    "title": "Business Intelligence Analyst II - Remote",
+    "company": "Velera",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/velera/jobs/business-intelligence-analyst-ii-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-10T09:39:58.044Z",
+    "title": "Senior Developer (.NET)",
+    "company": "OZ",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/oz/jobs/senior-developer-net-4580400417",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
