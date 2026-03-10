@@ -23455,5 +23455,32 @@
       "+3 full stack",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-10T14:59:37.140Z",
+    "title": "Full-time Contractor",
+    "company": "Senior Data Analyst at P2P.org, the largest institutional staking provider",
+    "source": "hackernews",
+    "score": -3,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47324120",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-10T14:59:37.140Z",
+    "title": "Translation Coordinator",
+    "company": "Lexxika",
+    "source": "workingnomads",
+    "score": -5,
+    "priority": "low",
+    "url": "https://www.workingnomads.com/job/go/1470378/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]

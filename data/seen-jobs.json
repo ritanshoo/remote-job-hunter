@@ -9112,5 +9112,19 @@
     "score": -2,
     "emailSent": false,
     "source": "weworkremotely"
+  },
+  "291800dae2238e5f661646cb569ab228": {
+    "hash": "291800dae2238e5f661646cb569ab228",
+    "firstSeen": "2026-03-10T14:59:37.140Z",
+    "score": -3,
+    "emailSent": false,
+    "source": "hackernews"
+  },
+  "71069a0a259ce9f851fa88cc88a3fc23": {
+    "hash": "71069a0a259ce9f851fa88cc88a3fc23",
+    "firstSeen": "2026-03-10T14:59:37.140Z",
+    "score": -5,
+    "emailSent": false,
+    "source": "workingnomads"
   }
 }
