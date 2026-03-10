@@ -8958,5 +8958,19 @@
     "score": 0,
     "emailSent": false,
     "source": "remoteok"
+  },
+  "de0ef3a24f5df512f62a6bf8eb34a204": {
+    "hash": "de0ef3a24f5df512f62a6bf8eb34a204",
+    "firstSeen": "2026-03-10T08:36:36.507Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "6d5b36bd40317318b25c28a0a32a765e": {
+    "hash": "6d5b36bd40317318b25c28a0a32a765e",
+    "firstSeen": "2026-03-10T08:36:36.507Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
   }
 }
