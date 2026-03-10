@@ -23428,5 +23428,32 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-10T13:59:50.957Z",
+    "title": "Sales Representative / Account Manager – Tripadvisor (Digital Advertising)",
+    "company": "DanAds",
+    "source": "weworkremotely",
+    "score": 1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/danads-sales-representative-account-manager-tripadvisor-digital-advertising",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 express"
+    ]
+  },
+  {
+    "timestamp": "2026-03-10T13:59:50.957Z",
+    "title": "Full Stack Engineer",
+    "company": "Ivy Tech",
+    "source": "weworkremotely",
+    "score": -2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/ivy-tech-full-stack-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "-5 intern"
+    ]
   }
 ]

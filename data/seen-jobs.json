@@ -9091,5 +9091,26 @@
     "score": 0,
     "emailSent": false,
     "source": "remoteok"
+  },
+  "7e33b6f25cd3793ee97c2d1da2f346a4": {
+    "hash": "7e33b6f25cd3793ee97c2d1da2f346a4",
+    "firstSeen": "2026-03-10T13:59:50.956Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "hackernews"
+  },
+  "fdefc7b5f382f4b14ca0dcd77a4610c4": {
+    "hash": "fdefc7b5f382f4b14ca0dcd77a4610c4",
+    "firstSeen": "2026-03-10T13:59:50.957Z",
+    "score": 1,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "a935b66dfa8f0ab6445f1512b533c6b2": {
+    "hash": "a935b66dfa8f0ab6445f1512b533c6b2",
+    "firstSeen": "2026-03-10T13:59:50.957Z",
+    "score": -2,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }
