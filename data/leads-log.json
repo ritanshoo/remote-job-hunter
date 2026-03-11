@@ -23952,5 +23952,231 @@
       "+2 ai",
       "LLM: The role is not a developer/engineer position and is focused on solution consulting."
     ]
+  },
+  {
+    "timestamp": "2026-03-11T01:44:14.193Z",
+    "title": "Senior Manager, Product Specialists - Zero Trust Branch",
+    "company": "Zscaler",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/zscaler/jobs/senior-manager-product-specialists-zero-trust-branch",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T01:44:14.193Z",
+    "title": "Staff Software Development Engineer in Test",
+    "company": "Tilt",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/tilt-com/jobs/staff-software-development-engineer-in-test",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T01:44:14.193Z",
+    "title": "Senior Frontend Developer, Design Systems",
+    "company": "1Password",
+    "source": "jobspresso",
+    "score": 0,
+    "priority": "low",
+    "url": "https://jobspresso.co/job/senior-frontend-developer-design-systems/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-11T01:44:14.193Z",
+    "title": "Senior Developer (Windows), Product Security",
+    "company": "1Password",
+    "source": "jobspresso",
+    "score": 0,
+    "priority": "low",
+    "url": "https://jobspresso.co/job/senior-developer-windows-product-security/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-11T01:44:14.193Z",
+    "title": "Rad AI - Engineering Role",
+    "company": "Rad AI",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47330329",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The job is restricted to candidates located in the US or Canada, excluding the India-based candidate."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T01:44:14.193Z",
+    "title": "Product Manager",
+    "company": "Kestra Technologies",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/kestra-technologies/jobs/product-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 docker",
+      "LLM: The role is not a developer/engineer position; it is for a Product Manager."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T01:44:14.193Z",
+    "title": "Solutions Engineer (Chicago, Illinois)",
+    "company": "Lakera",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/lakera/jobs/solutions-engineer-chicago-illinois",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is not a developer/engineer position and is focused on sales and customer success."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T01:44:14.193Z",
+    "title": "Technical Training Content Developer",
+    "company": "Zscaler",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/zscaler/jobs/technical-training-content-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T01:44:14.193Z",
+    "title": "Senior Software Engineer",
+    "company": "SuperPlane ",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/superplane/jobs/senior-software-engineer-2411451519",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+2 automation",
+      "+1 typescript",
+      "+1 docker",
+      "LLM: The job is restricted to candidates based in Europe and Latin America, excluding the candidate based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T01:44:14.193Z",
+    "title": "Senior Product Engineer",
+    "company": "Pandektes",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pandektes/jobs/senior-product-engineer-3941346206",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 typescript",
+      "+1 nestjs",
+      "+2 salary",
+      "LLM: The job is not a developer/engineer position as it focuses on product engineering in a legal research context, and it is restricted to Europe."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T01:44:14.193Z",
+    "title": "Engineering Manager - Feegow (100% remote friendly in Brazil)",
+    "company": "Docplanner",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/docplanner/jobs/engineering-manager-feegow-100-remote-friendly-in-brazil-869592621",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-11T01:44:14.193Z",
+    "title": "Go-To-Market (GTM) Specialist – Technical Growth",
+    "company": "Hire Hangar",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/hire-hangar/jobs/go-to-market-gtm-specialist-technical-growth-2062508540",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "LLM: The role is not a developer/engineer position and is focused on growth marketing."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T01:44:14.193Z",
+    "title": "SAP Developer",
+    "company": "BLP Digital AG",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/blp-digital-ag/jobs/sap-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "LLM: The role is not a developer/engineer position as it requires specific SAP development skills and is not suitable for a candidate based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T01:44:14.193Z",
+    "title": "AI Operations Lead",
+    "company": "M-KOPA",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/m-kopa/jobs/ai-operations-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T01:44:14.193Z",
+    "title": "Principal Asic Engineer",
+    "company": "Voyant Photonics",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/voyant-photonics/jobs/principal-asic-engineer-9165203691",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T01:44:14.193Z",
+    "title": "Senior Supplier Performance Engineer - REMOTE (Hopkins, SC, US, 29061)",
+    "company": "Westinghouse Electric Company",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/westinghouse-electric-company/jobs/senior-supplier-performance-engineer-remote-hopkins-sc-us-29061-9366466485",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
   }
 ]
