@@ -25010,5 +25010,347 @@
       "-5 intern",
       "-5 internship"
     ]
+  },
+  {
+    "timestamp": "2026-03-11T20:30:15.621Z",
+    "title": "Software Engineer - (Mid Level)",
+    "company": "Triptease",
+    "source": "himalayas",
+    "score": 17,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/triptease/jobs/software-engineer-mid-level",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+2 ai",
+      "+2 automation",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T20:30:16.250Z",
+    "title": "Senior Full Stack Engineer - House ChannelOps",
+    "company": "DoiT International",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/doit-international/jobs/senior-full-stack-engineer-house-channelops",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T20:30:16.250Z",
+    "title": "Sr AWS DevOps",
+    "company": "Nityo Infotech",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nityo-infotech/jobs/sr-aws-devops",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T20:30:16.250Z",
+    "title": "Security Engineering Senior Engineer",
+    "company": "Telstra",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/telstra/jobs/security-engineering-senior-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T20:30:16.250Z",
+    "title": "Full-Stack Engineer (First Hire)",
+    "company": "Deep Core Technology",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47340272",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 next.js",
+      "+3 node",
+      "+2 ai",
+      "+1 typescript",
+      "LLM: The job is restricted to candidates located in Canada/US, excluding the India-based candidate."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T20:30:16.250Z",
+    "title": "Lead Developer",
+    "company": "TransUnion",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/transunion/jobs/lead-developer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-11T20:30:16.250Z",
+    "title": "Software Engineer II",
+    "company": "Availity",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/availity/jobs/software-engineer-ii-371510937",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-11T20:30:16.250Z",
+    "title": "Software Development Engineer in Test (SDET)",
+    "company": "OrderMesh",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ordermesh/jobs/software-development-engineer-in-test-sdet-4279056988",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node.js",
+      "+3 node",
+      "+2 automation",
+      "+1 javascript",
+      "+1 typescript",
+      "LLM: The role is not a developer/engineer position as it is focused on testing and automation, and it requires US work authorization."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T20:30:16.250Z",
+    "title": "Front-End Developer - Mobile Focus (Offshore, Mid-Level)",
+    "company": "Smartbridge",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/smartbridge/jobs/front-end-developer-mobile-focus-offshore-mid-level",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 typescript",
+      "LLM: The job is not a developer position as it requires U.S. work authorization and is restricted to U.S.-based developers."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T20:30:16.250Z",
+    "title": "Sr. Automation Engineer",
+    "company": "LawnStarter",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/lawnstarter/jobs/sr-automation-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position as it is focused on automation engineering and requires US location."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T20:30:16.250Z",
+    "title": "IT Support Engineer - Level 3",
+    "company": "Remote VA",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/remote-va/jobs/it-support-engineer-level-3",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-11T20:30:16.250Z",
+    "title": "Senior Manual QA",
+    "company": "Realplay",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/realplay/jobs/senior-manual-qa",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-11T20:30:16.250Z",
+    "title": "Staff Software Engineer, Replication Foundations",
+    "company": "Temporal Technologies",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/temporal-technologies/jobs/staff-software-engineer-replication-foundations",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The job is not a developer/engineer position as it requires US work authorization and is restricted to US/EU residents."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T20:30:16.250Z",
+    "title": "Testing Manager",
+    "company": "Horizon Industries",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/horizon-industries/jobs/testing-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "LLM: The role is not a developer/engineer position."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T20:30:16.250Z",
+    "title": "Lead Data Engineer",
+    "company": "EXL",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/exl/jobs/lead-data-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-11T20:30:16.250Z",
+    "title": "AI Automation and Workflow Architect - 114",
+    "company": "D2B",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/d2b/jobs/ai-automation-and-workflow-architect-114",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position and focuses on business process analysis and automation."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T20:30:16.250Z",
+    "title": "Fullstack Developer - Typescript",
+    "company": "Coody",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/coody/jobs/fullstack-developer-typescript",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+3 react",
+      "+3 next.js",
+      "+3 node",
+      "+2 automation",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 express",
+      "+1 nestjs",
+      "LLM: The job requires US work authorization and is restricted to US/EU residents, which excludes the candidate based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T20:30:16.250Z",
+    "title": "Principal Sales Engineer",
+    "company": "Zscaler",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/zscaler/jobs/principal-sales-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T20:30:16.250Z",
+    "title": "Senior Data Engineer",
+    "company": "UpCloud",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/upcloud/jobs/senior-data-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T20:30:16.250Z",
+    "title": "Specialist Solution Architect - ZT Cloud - Southern Europe",
+    "company": "Zscaler",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/zscaler/jobs/specialist-solution-architect-zt-cloud-southern-europe",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T20:30:16.250Z",
+    "title": "Senior Quality Engineer",
+    "company": "AffiniPay",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/affinipay/jobs/senior-quality-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 junior",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T20:30:16.250Z",
+    "title": "Delivery Engineer (w/m/d) - Database",
+    "company": "Karriere bei synava",
+    "source": "himalayas",
+    "score": -4,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/karriere-bei-synava/jobs/delivery-engineer-w-m-d-database",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 postgresql",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T20:30:16.250Z",
+    "title": "Site Reliability Engineer - GCP",
+    "company": "Mindera",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindera/jobs/site-reliability-engineer-gcp",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T20:30:16.250Z",
+    "title": "Course Compliance Manager",
+    "company": "Learntastic",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/learntastic/jobs/course-compliance-manager-3220556584",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
