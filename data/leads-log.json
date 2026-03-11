@@ -24550,5 +24550,252 @@
       "-5 intern",
       "-5 internship"
     ]
+  },
+  {
+    "timestamp": "2026-03-11T11:30:21.882Z",
+    "title": "Data Architect",
+    "company": "protagona",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/protagona/jobs/data-architect",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 rag",
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T11:30:21.883Z",
+    "title": "Sr. QA Automation Engineer (JavaScript)",
+    "company": "NTD Software",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ntd-software/jobs/sr-qa-automation-engineer-javascript-1341891210",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T11:30:21.883Z",
+    "title": "SharePoint Windows Systems Administrator",
+    "company": "Govcio LLC",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/govcio-llc/jobs/sharepoint-windows-systems-administrator",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T11:30:21.883Z",
+    "title": "GRC Software Engineer",
+    "company": "PrimeStaff Management Service Pte Ltd",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/primestaff-management-service-pte-ltd/jobs/grc-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-11T11:30:21.883Z",
+    "title": "GRC Software Engineer",
+    "company": "PrimeStaff Management Service Pte Ltd",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/primestaff-management-service-pte-ltd/jobs/grc-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-11T11:30:21.883Z",
+    "title": "Sr. QA Automation Engineer (JavaScript)",
+    "company": "NTD Software",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ntd-software/jobs/sr-qa-automation-engineer-javascript-1341891210",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 javascript",
+      "LLM: The role is not a developer position and is restricted to QA Automation, which does not align with the candidate's full stack engineering background."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T11:30:21.883Z",
+    "title": "Concepteur Développeur Senior JAVA/REACT_ Architectures modernes et From Scratch",
+    "company": "SQLI",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sqli/jobs/concepteur-developpeur-senior-java-react_-architectures-modernes-et-from-scratch",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+3 react",
+      "+1 typescript",
+      "+1 docker",
+      "-5 intern",
+      "LLM: The job requires US/EU location restrictions, which excludes India-based candidates."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T11:30:21.883Z",
+    "title": "Cloud Device Management Engineer",
+    "company": "Availity",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/availity/jobs/cloud-device-management-engineer-3400586345",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "LLM: The job is not a developer/engineer position and is restricted to US-based candidates."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T11:30:21.883Z",
+    "title": "Senior Full-Stack Software Engineer",
+    "company": "LeoLabs",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/leolabs/jobs/senior-full-stack-software-engineer-6326799123",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The job requires US work authorization and is restricted to US/EU residents, which excludes the candidate based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T11:30:21.883Z",
+    "title": "Senior Software Engineer - Search",
+    "company": "AlphaSense",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/alphasense/jobs/senior-software-engineer-search",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The job is not a developer/engineer position and has geographic restrictions that exclude India-based remote workers."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T11:30:21.883Z",
+    "title": "Senior Researcher",
+    "company": "CommandLink",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ats-rippling/jobs/senior-researcher",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-11T11:30:21.883Z",
+    "title": "Sr. QA Automation Engineer",
+    "company": "1950Labs",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/1950labs/jobs/sr-qa-automation-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "LLM: The role is not a developer/engineer position as it is focused on QA Automation, which does not align with the candidate's full stack development skills."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T11:30:21.883Z",
+    "title": "Staff DevOps Software Architect - Remote",
+    "company": "Experian",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/experian/jobs/staff-devops-software-architect-remote-958012598",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "LLM: The job is not a developer/engineer position as it focuses on DevOps architecture and requires US work authorization."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T11:30:21.883Z",
+    "title": "Security Platform Engineer (f/m/d)",
+    "company": "Free2move",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/free2move/jobs/security-platform-engineer-f-m-d",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T11:30:21.883Z",
+    "title": "Principal Specialist, Electronics Commodity Connectors",
+    "company": "RTX",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/rtx/jobs/principal-specialist-electronics-commodity-connectors",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T11:30:21.883Z",
+    "title": "IAM (Ping) Engineer",
+    "company": "Mondelēz International",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mondelez-international/jobs/iam-ping-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T11:30:21.883Z",
+    "title": "QA Tester - India - (m/f/d)",
+    "company": "DECA Games",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/deca-games/jobs/qa-tester-india-m-f-d",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T11:30:21.883Z",
+    "title": "Open applications",
+    "company": "Shape 404",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/shape-404/jobs/open-applications",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
