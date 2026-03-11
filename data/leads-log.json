@@ -24178,5 +24178,377 @@
       "-5 intern",
       "+2 salary"
     ]
+  },
+  {
+    "timestamp": "2026-03-11T09:38:58.778Z",
+    "title": "Senior Software Engineer, Risk Engineering",
+    "company": "Flex",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/flex/jobs/senior-software-engineer-risk-engineering-2847680797",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T09:38:59.282Z",
+    "title": "Kubernetes Platform Engineer - Mid-Level",
+    "company": "Peraton",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/peraton/jobs/kubernetes-platform-engineer-mid-level",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T09:38:59.594Z",
+    "title": "Pre-Sales Engineer (AI & Big Data)",
+    "company": "Addepto",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/addepto/jobs/pre-sales-engineer-ai-big-data",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T09:38:59.594Z",
+    "title": "Drupal Developer-Remote",
+    "company": "PlanIT Group",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/planit-group/jobs/drupal-developer-remote",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-11T09:38:59.594Z",
+    "title": "Pre-Construction Manager",
+    "company": "Calista Brice LLC",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/calista-brice-llc/jobs/pre-construction-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T09:38:59.594Z",
+    "title": "Principal Software Engineer (US, Remote)",
+    "company": "Wirb Copernicus Group",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/wirb-copernicus-group/jobs/principal-software-engineer-us-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The job requires US work authorization and is restricted to US residents only, which excludes the candidate based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T09:38:59.594Z",
+    "title": "Cloud Infra Engineer (Hybrid Cloud) Remote Contract",
+    "company": "AceStack LLC",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/acestack-llc/jobs/cloud-infra-engineer-hybrid-cloud-remote-contract",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "+1 docker",
+      "LLM: The job is not a developer/engineer position as it focuses on cloud infrastructure engineering and has location restrictions that exclude India-based remote workers."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T09:38:59.594Z",
+    "title": "Pre-Construction Manager",
+    "company": "Calista Brice LLC",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/calista-brice-llc/jobs/pre-construction-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T09:38:59.594Z",
+    "title": "Principal Software Engineer (US, Remote)",
+    "company": "Wirb Copernicus Group",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/wirb-copernicus-group/jobs/principal-software-engineer-us-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The job requires US work authorization and is restricted to US residents only, which excludes the candidate based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T09:38:59.594Z",
+    "title": "Cloud Infra Engineer (Hybrid Cloud) Remote Contract",
+    "company": "AceStack LLC",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/acestack-llc/jobs/cloud-infra-engineer-hybrid-cloud-remote-contract",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "+1 docker",
+      "LLM: The job is not a developer/engineer position as it focuses on cloud infrastructure engineering and has geographic restrictions that exclude India-based remote workers."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T09:38:59.594Z",
+    "title": "API Developer",
+    "company": "Booz Allen Hamilton",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/booz-allen-hamilton/jobs/api-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 next.js",
+      "+1 mongodb",
+      "+1 aws",
+      "+1 docker",
+      "+2 salary",
+      "LLM: The job requires U.S. citizenship, which excludes the candidate based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T09:38:59.594Z",
+    "title": "Senior AEP Technical Consultant",
+    "company": "Blue Acorn iCi",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/blue-acorn-ici/jobs/senior-aep-technical-consultant",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-11T09:38:59.594Z",
+    "title": "The Administrator (ADMI) Senior Software Engineer",
+    "company": "Protective",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/protective/jobs/the-administrator-admi-senior-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The job is not a developer/engineer position as it focuses on administration systems and processes."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T09:38:59.594Z",
+    "title": "Senior Solutions Engineer",
+    "company": "Trellix Software India Private Limited",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/trellix-software-india-private-limited/jobs/senior-solutions-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position and is focused on technical sales."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T09:38:59.594Z",
+    "title": "Pre-Sales Engineer (Benelux/Nordics- Remote)",
+    "company": "Upwind Security",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/upwind-security/jobs/pre-sales-engineer-benelux-nordics-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "LLM: The role is not a developer/engineer position, but a Pre-Sales Engineer role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T09:38:59.594Z",
+    "title": "PHP Developer Sr",
+    "company": "Sequoia Connect",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sequoia-connect/jobs/php-developer-sr",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T09:38:59.594Z",
+    "title": "Software Engineer Lead",
+    "company": "Resource Innovations",
+    "source": "himalayas",
+    "score": -2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/resource-innovations/jobs/software-engineer-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T09:38:59.594Z",
+    "title": "Architecte de solutions (IA)",
+    "company": "LGI Healthcare Solutions Santé Inc.",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/lgi-healthcare-solutions-sante-inc/jobs/architecte-de-solutions-ia",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 rag",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T09:38:59.594Z",
+    "title": "Architecte de solutions (IA)",
+    "company": "LGI Healthcare Solutions Santé Inc.",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/lgi-healthcare-solutions-sante-inc/jobs/architecte-de-solutions-ia",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 rag",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T09:38:59.594Z",
+    "title": "Site Reliability Engineer",
+    "company": "Sporty Group",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sporty-group/jobs/site-reliability-engineer-5055606845",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T09:38:59.594Z",
+    "title": "Solutions Consultant",
+    "company": "Thatch",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/thatch/jobs/solutions-consultant-9567669027",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T09:38:59.594Z",
+    "title": "Duck Creek Developer",
+    "company": "Arbella Insurance",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/arbella-insurance/jobs/duck-creek-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T09:38:59.594Z",
+    "title": "Solutions Engineer - Enterprise",
+    "company": "SHI International Corp.",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/shi-international-corp/jobs/solutions-engineer-enterprise-4349665641",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T09:38:59.594Z",
+    "title": "Principal Technical Support Engineer",
+    "company": "Rocket Software",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/rocket-software/jobs/principal-technical-support-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 c/c++"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T09:38:59.594Z",
+    "title": "Technical Support Representative",
+    "company": "1840 & Company",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/1840-company/jobs/technical-support-representative-2119842033",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T09:38:59.594Z",
+    "title": "BI Engineer (6-month internship)",
+    "company": "360Learning",
+    "source": "himalayas",
+    "score": -6,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/360learning/jobs/bi-engineer-6-month-internship",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern",
+      "-5 internship"
+    ]
   }
 ]
