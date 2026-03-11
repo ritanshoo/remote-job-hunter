@@ -24850,5 +24850,19 @@
       "+2 automation",
       "LLM: The job is not a developer/engineer position as it focuses on AI solutions within a SaaS company, and it likely has geographic restrictions that exclude India-based remote workers."
     ]
+  },
+  {
+    "timestamp": "2026-03-11T16:46:49.574Z",
+    "title": "Multi-Jurisdiction Accounting for an International Client Portfolio",
+    "company": "Flag Theory",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/flag-theory-multi-jurisdiction-accounting-for-an-international-client-portfolio",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "-5 intern"
+    ]
   }
 ]
