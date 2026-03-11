@@ -25352,5 +25352,165 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-11T21:29:15.108Z",
+    "title": "Sr DevOps Engineer",
+    "company": "Sonatafy Technology",
+    "source": "weworkremotely",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/sonatafy-technology-sr-devops-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 mongodb",
+      "+1 postgresql",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T21:29:15.108Z",
+    "title": "Product Designer - AI Driven",
+    "company": "Cloudwalk",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/cloudwalk-product-designer-ai-driven",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is not a developer/engineer position, but rather a Product Designer role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T21:29:15.108Z",
+    "title": "Senior Product Manager - ShareGate Platform",
+    "company": "Workleap",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/workleap-senior-product-manager-sharegate-platform",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 express",
+      "LLM: The role is not a developer/engineer position, but rather a Senior Product Manager."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T21:29:15.108Z",
+    "title": "Senior Product Manager, Confluent Cloud Kafka",
+    "company": "Confluent",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/confluent-senior-product-manager-confluent-cloud-kafka",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "LLM: The role is not a developer/engineer position; it is a Senior Product Manager role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T21:29:15.108Z",
+    "title": "DevOps Engineer- GCP",
+    "company": "Egen",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/egen-devops-engineer-gcp",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws",
+      "LLM: The job is a DevOps Engineer position, which is not a developer role, and it has geographic restrictions that exclude India-based remote workers."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T21:29:15.108Z",
+    "title": "Product Tech & Quality Expert (12 Month FTC)",
+    "company": "Booksy",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/booksy-product-tech-quality-expert-12-month-ftc",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-11T21:29:15.108Z",
+    "title": "frontend developer",
+    "company": "HIRING: Frontend Developer (Contract)",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47341957",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node",
+      "+2 ai",
+      "+1 javascript",
+      "LLM: The job is restricted to UK/EU candidates only, excluding the India-based candidate."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T21:29:15.108Z",
+    "title": "Senior Software Engineer II - Product Security",
+    "company": "Confluent",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/confluent-senior-software-engineer-ii-product-security",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 aws",
+      "-5 c/c++"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T21:29:15.108Z",
+    "title": "Azure DevOps Engineer",
+    "company": "Digital Forms",
+    "source": "weworkremotely",
+    "score": -2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/digital-forms-azure-devops-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T21:29:15.108Z",
+    "title": "Junior Product Designer - AI Driven",
+    "company": "Cloudwalk",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/cloudwalk-junior-product-designer-ai-driven",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T21:29:15.108Z",
+    "title": "DevOps Engineer (Remote/Thessaloniki)",
+    "company": "European Dynamics",
+    "source": "weworkremotely",
+    "score": -4,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/european-dynamics-devops-engineer-remote-thessaloniki",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 docker",
+      "-5 intern"
+    ]
   }
 ]
