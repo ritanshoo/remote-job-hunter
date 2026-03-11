@@ -24864,5 +24864,151 @@
       "+2 blockchain",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-11T18:49:31.565Z",
+    "title": "Built a random text and voice chat site entirely in Elixir and Phoenix",
+    "company": "",
+    "source": "reddit",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/webdev/comments/1rqphgt/built_a_random_text_and_voice_chat_site_entirely/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node.js",
+      "+3 node"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T18:49:31.565Z",
+    "title": "Frontend developer for listings + map interface (Google Maps integration)",
+    "company": "",
+    "source": "reddit",
+    "score": 3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rqqk5y/hiring_frontend_developer_for_listings_map/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 javascript",
+      "LLM: The role is focused on frontend development with specific requirements that do not align with the candidate's full stack experience and is not a developer position suitable for their skill set."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T18:49:31.565Z",
+    "title": "U.S. In-Person Mystery Shop – $240 per Test Center (CO, NM, TX, WA)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rr1x32/hiring_us_inperson_mystery_shop_240_per_test/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($240)",
+      "LLM: The role is not a developer/engineer position and is restricted to U.S. locations."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T18:49:31.565Z",
+    "title": ". Need update on word doc.",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rqvu7b/hiring_need_update_on_word_doc/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-11T18:49:31.565Z",
+    "title": "Handling the client's call ($50)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rqv6ig/hiring_handling_the_clients_call_50/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($50)",
+      "LLM: The role is not a developer position and focuses on client communication and account management."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T18:49:31.565Z",
+    "title": "Power BI developer for quick project [$40]",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rqutq5/hiring_power_bi_developer_for_quick_project_40/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($40)",
+      "LLM: The role is not a developer position and requires skills in Power BI, which is unrelated to the candidate's expertise."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T18:49:31.565Z",
+    "title": "someone who can bring potential warm leads, will be paying on each leads basis",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rqudlp/hiring_someone_who_can_bring_potential_warm_leads/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-11T18:49:31.565Z",
+    "title": "Video Editor For Youtube (Long + Short Form)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rqmoua/hiring_video_editor_for_youtube_long_short_form/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-11T18:49:31.565Z",
+    "title": "191,820 / year]",
+    "company": "AI Software Developer (Python, Machine Learning) [💰 $108,800",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/remotejs/comments/1rquyz1/hiring_ai_software_developer_python_machine/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 javascript",
+      "+1 docker",
+      "+2 salary($108,800 - 191,820 / year)",
+      "LLM: The job is not a developer position as it requires Python and is restricted to US-based applicants."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T18:49:31.565Z",
+    "title": "Looking for feedback on migrating Postgres db from Supabase to Railway",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1rqo20j/looking_for_feedback_on_migrating_postgres_db/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-11T18:49:31.565Z",
+    "title": "Graphic Design Internship",
+    "company": "",
+    "source": "reddit",
+    "score": -10,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rqt680/hiring_graphic_design_internship/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "-5 internship"
+    ]
   }
 ]
