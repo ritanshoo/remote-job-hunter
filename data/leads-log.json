@@ -24797,5 +24797,58 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-11T15:43:42.057Z",
+    "title": "Cloud Software Engineer",
+    "company": "Caylent",
+    "source": "jobicy",
+    "score": 1,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/140527-cloud-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T15:43:42.057Z",
+    "title": "Director Analyst -Software Engineering Technologies and Practices",
+    "company": "Gartner",
+    "source": "jobicy",
+    "score": 0,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/140520-director-analyst-software-engineering-technologies-and-practices",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is not a developer/engineer position and is focused on research and analysis."
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T15:43:42.057Z",
+    "title": "Senior Software Engineer – Cloud Enablement Team (GCP, Golang, Python) – remote across ANZ",
+    "company": "Canva",
+    "source": "jobicy",
+    "score": 0,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/140506-senior-software-engineer-cloud-enablement-team-gcp-golang-python-remote-across-anz",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-11T15:43:42.057Z",
+    "title": "AI Software Engineer",
+    "company": "Zone &#038; Co",
+    "source": "jobicy",
+    "score": 0,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/140501-ai-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "LLM: The job is not a developer/engineer position as it focuses on AI solutions within a SaaS company, and it likely has geographic restrictions that exclude India-based remote workers."
+    ]
   }
 ]
