@@ -25528,5 +25528,334 @@
       "+2 salary",
       "LLM: The job is not a developer/engineer position as it focuses on marketing and growth teams."
     ]
+  },
+  {
+    "timestamp": "2026-03-12T04:11:05.740Z",
+    "title": "Senior Software Engineer - Developer Portal",
+    "company": "Kong",
+    "source": "himalayas",
+    "score": 11,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/kong/jobs/senior-software-engineer-developer-portal",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+3 node",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 postgresql",
+      "+1 nestjs",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T04:11:06.215Z",
+    "title": "Analytics Engineer (New Grad)",
+    "company": "PermitFlow",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/permitflow/jobs/analytics-engineer-new-grad",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T04:11:06.215Z",
+    "title": "Product Manager",
+    "company": "PatientPoint",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/patientpoint/jobs/product-manager-2166590526",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T04:11:06.215Z",
+    "title": "Senior Python developer",
+    "company": "Globaldev Group",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/globaldev-group/jobs/senior-python-developer-1558156778",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T04:11:06.215Z",
+    "title": "Health and Safety Technical Assistant",
+    "company": "Anglian Water",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/anglian-water/jobs/health-and-safety-technical-assistant",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position and requires location-based restrictions."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T04:11:06.215Z",
+    "title": "Cloud Engineer  - T Cloud Public  (REF4866W)",
+    "company": "Deutsche Telekom IT Solutions",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/deutsche-telekom-it-solutions/jobs/cloud-engineer-t-cloud-public-ref4866w",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "LLM: The job is not a developer/engineer position and has geographic restrictions that exclude India-based remote workers."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T04:11:06.215Z",
+    "title": "Principal Backend Engineer",
+    "company": "Teya",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/teya/jobs/principal-backend-engineer-8282251403",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-12T04:11:06.215Z",
+    "title": "Field Service Engineer ( Location : Kitakami area)",
+    "company": "Entegris",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/entegris/jobs/field-service-engineer-location-kitakami-area",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-12T04:11:06.215Z",
+    "title": "Staff Solutions Engineer",
+    "company": "Kong",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/kong/jobs/staff-solutions-engineer-5047751834",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is not a developer/engineer position but a sales engineer role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T04:11:06.215Z",
+    "title": "Senior Systems Engineer (Pre-Sales)",
+    "company": "Arista Networks",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/arista-networks/jobs/senior-systems-engineer-pre-sales-5913551243",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position and is focused on pre-sales technical support."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T04:11:06.215Z",
+    "title": "Cloud Operations Lead",
+    "company": "Zensar",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/zensar/jobs/cloud-operations-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "LLM: The role is not a developer/engineer position, as it focuses on cloud operations rather than software development."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T04:11:06.215Z",
+    "title": "Senior Architect - Java",
+    "company": "3Pillar Global",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/3pillar-global/jobs/senior-architect-java",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "LLM: The job is not a developer/engineer position and is restricted to US/EU locations."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T04:11:06.215Z",
+    "title": "Production Technician Job",
+    "company": "Armstrong World Industries",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/armstrong-world-industries/jobs/production-technician-job",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T04:11:06.215Z",
+    "title": "Regional Sales Manager, NYC (Enterprise)",
+    "company": "Cribl",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cribl/jobs/regional-sales-manager-nyc-enterprise",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position, but rather a sales role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T04:11:06.215Z",
+    "title": "Sr. Business Analyst",
+    "company": "Govcio LLC",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/govcio-llc/jobs/sr-business-analyst",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer position and is restricted to candidates within the Continental United States."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T04:11:06.216Z",
+    "title": "Localisation Lead - India",
+    "company": "Canva",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/canva/jobs/localisation-lead-india",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-12T04:11:06.216Z",
+    "title": "Freelance AI Agent Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/freelance-ai-agent-trainer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is not a developer/engineer position and requires a Bachelor's or Master's degree."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T04:11:06.216Z",
+    "title": "Forensic Collection Specialist",
+    "company": "Harbor Litigation Solutions",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/harbor-litigation-solutions/jobs/forensic-collection-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T04:11:06.216Z",
+    "title": "Specification Specialist I",
+    "company": "Tremco CPG Inc.",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/tremco-cpg-inc/jobs/specification-specialist-i",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T04:11:06.216Z",
+    "title": "Senior IA/ML Engineer (Eng/Esp)",
+    "company": "Plain Concepts",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/plain-concepts/jobs/senior-ia-ml-engineer-eng-esp",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T04:11:06.216Z",
+    "title": "Senior Machine Learning Engineer",
+    "company": "Faculty",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/faculty/jobs/senior-machine-learning-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T04:11:06.216Z",
+    "title": "Senior Software Engineer, Productivity Group",
+    "company": "Canva",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/canva/jobs/senior-software-engineer-productivity-group",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T04:11:06.216Z",
+    "title": "Software Engineer II",
+    "company": "Precision AQ",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/precision-aq/jobs/software-engineer-ii",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T04:11:06.216Z",
+    "title": "Software Engineer II",
+    "company": "Precision AQ",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/precision-aq/jobs/software-engineer-ii",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
