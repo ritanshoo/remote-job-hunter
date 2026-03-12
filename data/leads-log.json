@@ -26730,5 +26730,359 @@
       "-5 must be authorized to work in the united states",
       "+2 salary($55,000 - $75,000)"
     ]
+  },
+  {
+    "timestamp": "2026-03-12T22:22:04.126Z",
+    "title": "Senior Python Systems Developer - Functional Testing Project",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": 7,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/mindrift/jobs/senior-python-systems-developer-functional-testing-project-4800412606",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+1 docker",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T22:22:04.126Z",
+    "title": "Web Quality Assurance Analyst",
+    "company": "CROmetrics",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/crometrics/jobs/web-quality-assurance-analyst-9180703291",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T22:22:04.126Z",
+    "title": "Software Engineer – Backend Infrastructure",
+    "company": "Logz.io",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/logz-io/jobs/software-engineer-backend-infrastructure",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T22:22:04.126Z",
+    "title": "Field Application Specialist, Point of Care & Molecular - Pennsylvania",
+    "company": "QuidelOrtho",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/quidelortho/jobs/field-application-specialist-point-of-care-molecular-pennsylvania",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T22:22:04.126Z",
+    "title": "Application Delivery, Professional 2",
+    "company": "Gainwell Technologies",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gainwell-technologies/jobs/application-delivery-professional-2",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-12T22:22:04.126Z",
+    "title": "Senior Electrical Engineer - Battery Energy Storage Systems (BESS)",
+    "company": "Uptalent.io",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/uptalent-io/jobs/senior-electrical-engineer-battery-energy-storage-systems-bess-2882437002",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-12T22:22:04.126Z",
+    "title": "Fullstack Developer/Backend( Remote - Argentina Only)",
+    "company": "Varicent",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/varicent/jobs/fullstack-developer-backend-remote-argentina-only",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+3 react",
+      "+1 aws",
+      "+1 rest api",
+      "LLM: The job is restricted to Argentina only, excluding candidates based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T22:22:04.126Z",
+    "title": "Team Lead Java Engineer, Remarketing (f/m/x)",
+    "company": "AUTO1 Group",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/auto1-group/jobs/team-lead-java-engineer-remarketing-f-m-x",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is not a developer position as it requires Java expertise and leadership experience, and it is likely restricted to US/EU locations."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T22:22:04.126Z",
+    "title": "Director, AI Architecture & Engineering - US Remote",
+    "company": "Hexion Inc.",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/hexion-inc/jobs/director-ai-architecture-engineering-us-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is not a developer/engineer position and is restricted to US remote workers."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T22:22:04.126Z",
+    "title": "Project Design Engineer II (Remote w/ Bi-weekly Travel) (Anytown, IL, US, 60446)",
+    "company": "EnerSys",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/enersys/jobs/project-design-engineer-ii-remote-w-bi-weekly-travel-anytown-il-us-60446",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position and is restricted to US-based applicants."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T22:22:04.126Z",
+    "title": "Salesforce Developer (Remote, IND)",
+    "company": "Crowdstrike",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/crowdstrike/jobs/salesforce-developer-remote-ind",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-12T22:22:04.126Z",
+    "title": "Field Application Specialist, Point of Care & Molecular - Pennsylvania",
+    "company": "QuidelOrtho",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/quidelortho/jobs/field-application-specialist-point-of-care-molecular-pennsylvania",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position and is focused on customer service and training."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T22:22:04.126Z",
+    "title": "Application Delivery, Professional 2",
+    "company": "Gainwell Technologies",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gainwell-technologies/jobs/application-delivery-professional-2",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-12T22:22:04.126Z",
+    "title": "Fullstack Developer/Backend( Remote - Argentina Only)",
+    "company": "Varicent",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/varicent/jobs/fullstack-developer-backend-remote-argentina-only",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+3 react",
+      "+1 aws",
+      "+1 rest api",
+      "LLM: The job is restricted to Argentina only, excluding candidates based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T22:22:04.126Z",
+    "title": "Senior Application Architect",
+    "company": "General Dynamics Information Technology",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/general-dynamics-information-technology/jobs/senior-application-architect",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The job is not a developer/engineer position and requires US citizenship."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T22:22:04.126Z",
+    "title": "Java Developer",
+    "company": "Quest Global Technologies",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/quest-global-technologies/jobs/java-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "+1 javascript",
+      "LLM: The job is not a developer/engineer position as it requires expertise in Java and is restricted to US/EU locations, excluding the candidate based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T22:22:04.126Z",
+    "title": "Senior QA Engineer (Backend)",
+    "company": "Tabby",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/tabby/jobs/senior-qa-engineer-backend",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "LLM: The role is not a developer/engineer position as it is for a QA Engineer."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T22:22:04.126Z",
+    "title": "Principal Engineer - Computer Vision / 3D Reconstruction (Remote, IE)",
+    "company": "Bentley Systems",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bentley-systems/jobs/principal-engineer-computer-vision-3d-reconstruction-remote-ie-2422225725",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-12T22:22:04.127Z",
+    "title": "Design Systems Senior Specialist",
+    "company": "Telstra",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/telstra/jobs/design-systems-senior-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 express",
+      "LLM: The role is not a developer/engineer position and is focused on design systems."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T22:22:04.127Z",
+    "title": "Senior Solution Engineer",
+    "company": "Snowflake",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/snowflake/jobs/senior-solution-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is not a developer/engineer position as it focuses on sales and customer engagement."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T22:22:04.127Z",
+    "title": "HPC Technical Lead",
+    "company": "General Dynamics Information Technology",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/general-dynamics-information-technology/jobs/hpc-technical-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node",
+      "+2 salary",
+      "LLM: The job requires US citizenship and is not a developer/engineer position relevant to the candidate's skills."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T22:22:04.127Z",
+    "title": "Senior Solutions Architect Networking Ethernet - NVIS",
+    "company": "NVIDIA",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nvidia/jobs/senior-solutions-architect-networking-ethernet-nvis",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T22:22:04.127Z",
+    "title": "Budget Developer",
+    "company": "ERGOMED",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ergomedcro/jobs/budget-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T22:22:04.127Z",
+    "title": "Technical Manager – Solid Stone Works (Hotel & Casino Projects)",
+    "company": "ADDMORE Services LLC",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/addmore-services-llc/jobs/technical-manager-solid-stone-works-hotel-casino-projects",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T22:22:04.127Z",
+    "title": "Budget Developer",
+    "company": "ERGOMED",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ergomedcro/jobs/budget-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T22:22:04.127Z",
+    "title": "Technical Manager – Solid Stone Works (Hotel & Casino Projects)",
+    "company": "ADDMORE Services LLC",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/addmore-services-llc/jobs/technical-manager-solid-stone-works-hotel-casino-projects",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
