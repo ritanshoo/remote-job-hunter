@@ -25512,5 +25512,21 @@
       "+1 docker",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-12T01:45:28.331Z",
+    "title": "Multiple Roles",
+    "company": "Hightouch",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47344076",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 salary",
+      "LLM: The job is not a developer/engineer position as it focuses on marketing and growth teams."
+    ]
   }
 ]
