@@ -26685,5 +26685,50 @@
       "-5 entry-level",
       "+2 salary($16-$22/hr)"
     ]
+  },
+  {
+    "timestamp": "2026-03-12T17:48:43.730Z",
+    "title": "Senior Full Stack Engineer",
+    "company": "Intrinio",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47354603",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+1 aws",
+      "LLM: The job requires US work authorization and is restricted to US/EU residents, which excludes the candidate based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T17:48:43.730Z",
+    "title": "Lead Engineer (AI-First Development)",
+    "company": "Succeed",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47353878",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 postgresql",
+      "LLM: The job is not a developer/engineer position as it is restricted to Europe preferred candidates, excluding India-based remote workers."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T17:48:43.730Z",
+    "title": "Business Development Associate (BDA) - Media Seller",
+    "company": "TARA Media",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/tara-media-business-development-associate-bda-media-seller",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 must be authorized to work in the united states",
+      "+2 salary($55,000 - $75,000)"
+    ]
   }
 ]
