@@ -25873,5 +25873,414 @@
       "-5 junior",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-12T09:39:11.378Z",
+    "title": "Senior Full Stack Developer (Nuxt, PHP)",
+    "company": "12Go Asia",
+    "source": "himalayas",
+    "score": 9,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/12go-asia/jobs/senior-full-stack-developer-nuxt-php",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 node",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T09:39:12.032Z",
+    "title": "Senior Build & Release Engineer (f/m/d)",
+    "company": "ITRex Group",
+    "source": "himalayas",
+    "score": 8,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/itrex-group/jobs/senior-build-release-engineer-f-m-d-6274117838",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T09:39:12.381Z",
+    "title": "Data Scientist (Python & SQL) - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/mindrift/jobs/data-scientist-python-sql-freelance-ai-trainer-3432805033",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T09:39:12.382Z",
+    "title": "Senior Software Engineer, Python",
+    "company": "SmartRecruiters",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/smartrecruiters/jobs/senior-software-engineer-python",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 aws",
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T09:39:12.382Z",
+    "title": "Remote | $60-$80 per/hr",
+    "company": "Professional Prompt Writers",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rrgqlr/hiring_professional_prompt_writers_remote_6080/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary($60-$80)",
+      "LLM: The role is not a developer position and requires expertise in specific professional fields, excluding the candidate's qualifications."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T09:39:12.382Z",
+    "title": "Remote Posting Task – Easy Marketing Work ($1–$10) (Copy-Paste)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rrelsc/hiring_remote_posting_task_easy_marketing_work/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-12T09:39:12.382Z",
+    "title": "(Online) Teach me how to web scrape ($40/hr)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rr3lty/hiring_online_teach_me_how_to_web_scrape_40hr/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($40/hr)",
+      "LLM: The job is not a developer/engineer position, as it involves teaching web scraping rather than performing development work."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T09:39:12.382Z",
+    "title": "Be brutally honest about my website",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1rrfc7k/be_brutally_honest_about_my_website/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "+2 web3",
+      "+2 smart contract",
+      "LLM: The job is not a developer/engineer position and is focused on seeking feedback for a personal project."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T09:39:12.382Z",
+    "title": "how do you organize your work?",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1rreomy/how_do_you_organize_your_work/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-12T09:39:12.382Z",
+    "title": "My side project greeting card maker hit ~100k monthly visitors in ~3 weeks… but I’m 17 and have no idea how to monetize it",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1rr0ln1/my_side_project_greeting_card_maker_hit_100k/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-12T09:39:12.382Z",
+    "title": "AI Engineer - IT Platform Development",
+    "company": "Spotify",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/spotify/jobs/ai-engineer-it-platform-development",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+2 ai",
+      "+1 javascript",
+      "-5 intern",
+      "LLM: The role is not a developer/engineer position as it focuses on IT platform development and requires US work authorization."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T09:39:12.382Z",
+    "title": "Technical Support Engineer",
+    "company": "Tanium",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/tanium/jobs/technical-support-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-12T09:39:12.382Z",
+    "title": "Principal Software Engineer, APAC",
+    "company": "MLabs",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mlabs/jobs/principal-software-engineer-apac",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 typescript",
+      "+1 postgresql",
+      "+1 aws",
+      "+2 salary",
+      "LLM: The job requires the candidate to be based in Hong Kong or Singapore, which excludes India-based remote workers."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T09:39:12.382Z",
+    "title": "Founding CTO (B2B SaaS / Full-Stack Product Builder)",
+    "company": "Startup Wise Guys",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/startup-wise-guys/jobs/founding-cto-b2b-saas-full-stack-product-builder",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-12T09:39:12.382Z",
+    "title": "Senior Software Quality Engineer",
+    "company": "CareDx, Inc.",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/caredx-inc/jobs/senior-software-quality-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+2 salary",
+      "LLM: The role is not a developer position and is focused on software quality engineering."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T09:39:12.382Z",
+    "title": "ARQUITECTO/A DE SISTEMAS Y CIBER (REMOTO)",
+    "company": "IRIUM",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/irium/jobs/arquitecto-a-de-sistemas-y-ciber-remoto",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-12T09:39:12.382Z",
+    "title": "GTM Systems Engineer",
+    "company": "CompanyCam",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/companycam/jobs/gtm-systems-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 automation",
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position and focuses on GTM systems and operations."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T09:39:12.382Z",
+    "title": "Senior Python developer (проекты в Узбекистане, ОАЭ, Саудовской Аравии)",
+    "company": "Alex Staff Agency",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/alex-staff-agency/jobs/senior-python-developer-8566705119",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-12T09:39:12.382Z",
+    "title": "Senior Solution Engineer, Retail",
+    "company": "Snowflake",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/snowflake/jobs/senior-solution-engineer-retail",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is not a developer/engineer position and is focused on sales and solution engineering."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T09:39:12.382Z",
+    "title": "Senior Backend Software Engineer",
+    "company": "Palmstreet",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/palmstreet/jobs/senior-backend-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+1 javascript",
+      "+1 aws",
+      "+1 docker",
+      "+2 salary",
+      "LLM: The job requires US work authorization and is not suitable for a candidate based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T09:39:12.382Z",
+    "title": "Machine Learning Engineer (Freelance)",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/machine-learning-engineer-freelance-8053239566",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary",
+      "LLM: The job is not a developer/engineer position and has location restrictions that exclude India-based remote workers."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T09:39:12.382Z",
+    "title": "Platform Software Engineer",
+    "company": "Slingshot Aerospace",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/slingshot-aerospace/jobs/platform-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+1 mongodb",
+      "+1 postgresql",
+      "+1 aws",
+      "+1 graphql",
+      "+1 docker",
+      "+2 salary",
+      "LLM: The job requires US work authorization and is restricted to US/EU residents, which excludes the India-based candidate."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T09:39:12.382Z",
+    "title": "Engineering Manager",
+    "company": "Vonage",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/vonage/jobs/engineering-manager",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-12T09:39:12.382Z",
+    "title": "Senior Build & Release Engineer (f/m/d)",
+    "company": "ITRex Group",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/itrex-group/jobs/senior-build-release-engineer-f-m-d-299692135",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 aws",
+      "+1 docker",
+      "LLM: The role is not a developer/engineer position as it focuses on Build & Release Engineering, which is outside the candidate's core skills."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T09:39:12.382Z",
+    "title": "Automotive Engineer with Python - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/automotive-engineer-with-python-freelance-ai-trainer-7705714416",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T09:39:12.382Z",
+    "title": "Senior Substation Physical Engineer - REMOTE",
+    "company": "ICF",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/icf/jobs/senior-substation-physical-engineer-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 junior",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T09:39:12.382Z",
+    "title": "Strategic Accounts - Delivery Manager (All Levels) 2026",
+    "company": "Suade",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/suade/jobs/strategic-accounts-delivery-manager-all-levels-2026-1313056564",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T09:39:12.382Z",
+    "title": "Content Writing Internship",
+    "company": "",
+    "source": "reddit",
+    "score": -10,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rr2w11/hiring_content_writing_internship/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "-5 internship"
+    ]
   }
 ]
