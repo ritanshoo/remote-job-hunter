@@ -26592,5 +26592,82 @@
       "-5 junior",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-12T15:55:40.820Z",
+    "title": "Senior Data Engineer",
+    "company": "Lemon.io",
+    "source": "workingnomads",
+    "score": 25,
+    "priority": "high",
+    "url": "https://www.workingnomads.com/job/go/1475637/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+2 blockchain",
+      "+2 solana",
+      "+2 web3",
+      "+2 solidity",
+      "+2 ai",
+      "+2 llm",
+      "+1 javascript",
+      "+1 mongodb",
+      "+1 postgresql",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T15:55:40.820Z",
+    "title": "Product Designer",
+    "company": "Algrano",
+    "source": "weworkremotely",
+    "score": 1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/algrano-product-designer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T15:55:40.820Z",
+    "title": "Senior Data Engineer",
+    "company": "Lemon.io",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-data-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+2 blockchain",
+      "+2 solana",
+      "+2 web3",
+      "+2 solidity",
+      "+2 ai",
+      "+2 llm",
+      "+1 javascript",
+      "+1 mongodb",
+      "+1 postgresql",
+      "+1 aws",
+      "LLM: The job is for a Data Engineer position, which is not a developer role that aligns with the candidate's skills."
+    ]
+  },
+  {
+    "timestamp": "2026-03-12T15:55:40.820Z",
+    "title": "Senior Ruby/Rails developer (remote within EU)",
+    "company": "Return",
+    "source": "hackernews",
+    "score": -5,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47351165",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
