@@ -27554,5 +27554,21 @@
       "+1 aws",
       "LLM: The job requires US work authorization and is restricted to candidates located in the US."
     ]
+  },
+  {
+    "timestamp": "2026-03-13T11:28:15.614Z",
+    "title": "Full-Stack Developer",
+    "company": "ELECTE S.R.L.",
+    "source": "weworkremotely",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/electe-s-r-l-full-stack-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 postgresql"
+    ]
   }
 ]
