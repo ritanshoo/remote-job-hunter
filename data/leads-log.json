@@ -27084,5 +27084,42 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-13T04:09:28.354Z",
+    "title": "AI Product Engineer (Mid–Senior)",
+    "company": "Breezy",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47360403",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+2 ai",
+      "+2 automation",
+      "+1 typescript",
+      "+1 postgresql",
+      "+1 aws",
+      "+2 salary",
+      "LLM: The job is restricted to US remote positions, which excludes the candidate based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T04:09:28.354Z",
+    "title": "Content Operations & Digital Workflow Coordinator",
+    "company": "Inevitable LLC",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/inevitable-llc-content-operations-digital-workflow-coordinator",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary($350)"
+    ]
   }
 ]
