@@ -27500,5 +27500,59 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-13T10:32:43.334Z",
+    "title": "Software Engineer II",
+    "company": "Affirm",
+    "source": "jobicy",
+    "score": 1,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/140594-software-engineer-ii-2",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T10:32:43.334Z",
+    "title": "Software Engineer II – Android",
+    "company": "Tripadvisor",
+    "source": "jobicy",
+    "score": 1,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/140590-software-engineer-ii-android",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 graphql"
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T10:32:43.334Z",
+    "title": "Senior Software Engineer, DevOps",
+    "company": "Planet Labs Inc.",
+    "source": "jobicy",
+    "score": 0,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/140597-senior-software-engineer-devops",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-13T10:32:43.334Z",
+    "title": "Senior/Lead Software Engineer (Node.js/Angular/.NET)",
+    "company": "TechMagic",
+    "source": "jobicy",
+    "score": 0,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/140587-senior-lead-software-engineer-node-js-angular-net",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node.js",
+      "+3 node",
+      "+1 mongodb",
+      "+1 aws",
+      "LLM: The job requires US work authorization and is restricted to candidates located in the US."
+    ]
   }
 ]
