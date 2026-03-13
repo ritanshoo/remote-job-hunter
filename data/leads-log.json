@@ -27627,5 +27627,184 @@
       "-5 c/c++",
       "+2 salary($150-200)"
     ]
+  },
+  {
+    "timestamp": "2026-03-13T15:38:57.823Z",
+    "title": "My company is hiring for a remote fullstack + ai agents developer with $24k p.a from India",
+    "company": "",
+    "source": "reddit",
+    "score": 8,
+    "priority": "high",
+    "url": "https://www.reddit.com/r/forhire/comments/1rso2pu/my_company_is_hiring_for_a_remote_fullstack_ai/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+2 ai",
+      "+2 automation",
+      "-5 intern",
+      "+2 salary($24)",
+      "LLM: The candidate has strong full stack skills and relevant experience in AI, aligning well with the job requirements."
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T15:38:57.823Z",
+    "title": "AI Training Platforms Team member",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rsq4kp/hiring_ai_training_platforms_team_member/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The job is not a developer/engineer position and explicitly excludes candidates from India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T15:38:57.823Z",
+    "title": "Short-Form Scriptwriter",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rsnq3v/hiring_shortform_scriptwriter/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-13T15:38:57.823Z",
+    "title": "Looking to hire a few people to post and engage on Reddit",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rsmsug/hiring_looking_to_hire_a_few_people_to_post_and/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($20-$30)",
+      "LLM: The role is not a developer/engineer position."
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T15:38:57.823Z",
+    "title": "looking for tiktok , instagram and twitter clippers . EARN APPROX £400 PER WEEK.",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rsfoa9/hiring_looking_for_tiktok_instagram_and_twitter/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($500)",
+      "LLM: The role is not a developer/engineer position and is focused on marketing."
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T15:38:57.823Z",
+    "title": "looking for tiktok slideshow POSTERS. EARN APPROX £900 PER WEEK.",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rsek46/hiring_looking_for_tiktok_slideshow_posters_earn/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-13T15:38:57.823Z",
+    "title": "Remote | $70–$150/hr | Strong Python skills required",
+    "company": "SWE Experts",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rsczkf/hiring_swe_experts_remote_70150hr_strong_python/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+2 salary($70–$150/hr)",
+      "LLM: The job requires strong Python skills and is not a developer position suitable for the candidate's expertise."
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T15:38:57.823Z",
+    "title": "Software Developers, Performance Marketers, Video Editors, Content Creators",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rs4a7o/hiring_software_developers_performance_marketers/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "LLM: The job is not a developer/engineer position and is focused on project-based collaboration without a fixed role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T15:38:57.823Z",
+    "title": "Need a logo done for a cleaning business.",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rs3nvs/hiring_need_a_logo_done_for_a_cleaning_business/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($40,)",
+      "LLM: The job is not a developer/engineer position."
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T15:38:57.823Z",
+    "title": "Non-technical founder trying to build a SaaS MVP",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1rsm3go/nontechnical_founder_trying_to_build_a_saas_mvp/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-13T15:38:57.823Z",
+    "title": "Remote Telecaller / Sales Agent for Language Learning Startup",
+    "company": "",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rspnbn/hiring_remote_telecaller_sales_agent_for_language/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($15-$40/hour)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T15:38:57.823Z",
+    "title": "Brand Strategist & Marketing \"Brain\" for International Sexuality/Taboo Brand (Remote)",
+    "company": "",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rsl6ep/hiring_brand_strategist_marketing_brain_for/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($25 - $40/hour)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T15:38:57.823Z",
+    "title": "AI remote data annotation / AI data labeling 15-20$/h",
+    "company": "",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rs2m9s/hiring_ai_remote_data_annotation_ai_data_labeling/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
   }
 ]
