@@ -11401,5 +11401,40 @@
     "score": 0,
     "emailSent": false,
     "source": "weworkremotely"
+  },
+  "0f747680f1cd6e6866d7dbe19c699157": {
+    "hash": "0f747680f1cd6e6866d7dbe19c699157",
+    "firstSeen": "2026-03-13T13:58:17.424Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "ec314cab3ae7c3acf1f9c24eccd736f8": {
+    "hash": "ec314cab3ae7c3acf1f9c24eccd736f8",
+    "firstSeen": "2026-03-13T13:58:17.424Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "4fd6df34fb5fa4531193d81d126af77a": {
+    "hash": "4fd6df34fb5fa4531193d81d126af77a",
+    "firstSeen": "2026-03-13T13:58:19.009Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "jobspresso"
+  },
+  "094f8809ec3bbd66ca59bc486bfa2335": {
+    "hash": "094f8809ec3bbd66ca59bc486bfa2335",
+    "firstSeen": "2026-03-13T13:58:19.009Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "workingnomads"
+  },
+  "019ffa2b06c0bef8ea4852a2292c5d5a": {
+    "hash": "019ffa2b06c0bef8ea4852a2292c5d5a",
+    "firstSeen": "2026-03-13T13:58:19.009Z",
+    "score": -2,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }

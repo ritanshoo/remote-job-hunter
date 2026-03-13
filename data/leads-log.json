@@ -27584,5 +27584,48 @@
       "+2 ai",
       "LLM: The role is not a developer/engineer position, but rather a project management role."
     ]
+  },
+  {
+    "timestamp": "2026-03-13T13:58:19.009Z",
+    "title": "Full-Stack Developer",
+    "company": "ELECTE S.R.L.",
+    "source": "jobspresso",
+    "score": 0,
+    "priority": "low",
+    "url": "https://jobspresso.co/job/electe-s-r-l-worldwide-developer-full-stack-developer/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-13T13:58:19.009Z",
+    "title": "Full-Stack Developer",
+    "company": "ELECTE S.R.L.",
+    "source": "workingnomads",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.workingnomads.com/job/go/1477728/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 postgresql",
+      "LLM: The job requires US work authorization and is not suitable for a candidate based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T13:58:19.009Z",
+    "title": "Senior Firmware Engineer",
+    "company": "Sanctuary Computer",
+    "source": "weworkremotely",
+    "score": -2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/sanctuary-computer-senior-firmware-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "-5 c/c++",
+      "+2 salary($150-200)"
+    ]
   }
 ]
