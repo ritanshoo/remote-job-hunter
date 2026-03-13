@@ -27832,5 +27832,62 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-13T18:36:34.507Z",
+    "title": "Remote/WFH Cleared Developer (w/travel) with Security Clearance",
+    "company": "Avid Technology Professionals",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/avid-technology-professionals/jobs/remote-wfh-cleared-developer-w-travel-with-security-clearance",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T18:36:34.507Z",
+    "title": "Software Engineer 2 (Limited Telework Available) with Security Clearance",
+    "company": "Wyetech, LLC",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/wyetech-llc/jobs/software-engineer-2-limited-telework-available-with-security-clearance",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The job requires US citizenship and security clearance, which excludes the candidate based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T18:36:34.507Z",
+    "title": "AI Engineer (40% Telework) with Security Clearance",
+    "company": "MasterPeace Solutions",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/masterpeace-solutions/jobs/ai-engineer-40-telework-with-security-clearance",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws",
+      "LLM: The job requires US citizenship or security clearance, which excludes the candidate based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T18:36:34.507Z",
+    "title": "CMC Technical Development Specialist (ID1007)",
+    "company": "Ray Therapeutics",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ray-therapeutics/jobs/cmc-technical-development-specialist-id1007",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
   }
 ]
