@@ -11639,5 +11639,26 @@
     "score": -5,
     "emailSent": false,
     "source": "workingnomads"
+  },
+  "d3c08e0671c3be774e4fc8018cbe4132": {
+    "hash": "d3c08e0671c3be774e4fc8018cbe4132",
+    "firstSeen": "2026-03-13T20:29:48.472Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "d57c2d55b2f097785ac582589c1d2589": {
+    "hash": "d57c2d55b2f097785ac582589c1d2589",
+    "firstSeen": "2026-03-13T20:29:48.472Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "ad23aae8904a1fda6323c0fe9d88eb11": {
+    "hash": "ad23aae8904a1fda6323c0fe9d88eb11",
+    "firstSeen": "2026-03-13T20:29:48.473Z",
+    "score": -3,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }
