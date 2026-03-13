@@ -27806,5 +27806,18 @@
       "+2 ai",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-13T16:36:07.015Z",
+    "title": "Business Analyst",
+    "company": "Ivy Tech",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/ivy-tech-business-analyst",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
