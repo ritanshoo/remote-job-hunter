@@ -27889,5 +27889,103 @@
       "-5 intern",
       "+2 salary"
     ]
+  },
+  {
+    "timestamp": "2026-03-13T19:28:54.669Z",
+    "title": "Robotics Software Systems Engineer Arlington, VA $300k/yr",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rsv4j6/hiring_robotics_software_systems_engineer/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary($300)",
+      "LLM: The job requires on-site presence in Arlington, VA, which excludes the candidate based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T19:28:54.669Z",
+    "title": "Experienced AI Automation Developer for Blackboard → LLM → Google Drive Workflow (Must Have Built Similar System Before)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rsuhl8/hiring_experienced_ai_automation_developer_for/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 automation",
+      "LLM: The role is not a developer position as it focuses on academic workflow automation and has geographic restrictions that exclude India-based remote workers."
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T19:28:54.669Z",
+    "title": "Earn $10–$15/Week Doing Simple Reddit Tasks.",
+    "company": "Flexible Online Side Hustle",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rstl0m/hiring_flexible_online_side_hustle_earn_1015week/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-13T19:28:54.669Z",
+    "title": "$55 - $60/hour (based on experience)",
+    "company": "CA Gen Developer (Mainframe Experience) | Columbus, OH | Contract | Pay Range",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rsrhbz/hiring_ca_gen_developer_mainframe_experience/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($55 - $60/hour)",
+      "LLM: The job is not a developer position relevant to the candidate's skills and requires on-site presence."
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T19:28:54.669Z",
+    "title": "$52 to $54/hour (depending on experience)",
+    "company": "Business Analyst – Security & Privacy | Madison, WI | Contract | Pay Rate",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rsr9c9/hiring_business_analyst_security_privacy_madison/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($52)",
+      "LLM: The role is not a developer/engineer position and requires a Business Analyst."
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T19:28:54.669Z",
+    "title": "Software Engineer",
+    "company": "Trace Labs",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47368079",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+2 ai",
+      "LLM: The job is restricted to remote positions in the USA, excluding candidates based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T19:28:54.669Z",
+    "title": "Sales Development Respresentative",
+    "company": "Clipboard",
+    "source": "workingnomads",
+    "score": -5,
+    "priority": "low",
+    "url": "https://www.workingnomads.com/job/go/1478193/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
