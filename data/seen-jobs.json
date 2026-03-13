@@ -11709,5 +11709,19 @@
     "score": 0,
     "emailSent": false,
     "source": "reddit"
+  },
+  "bc17b36d6227a522e1bac493cdae38e6": {
+    "hash": "bc17b36d6227a522e1bac493cdae38e6",
+    "firstSeen": "2026-03-13T23:24:46.543Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remotive"
+  },
+  "8b7b1c7ace33ecd69515305abd122257": {
+    "hash": "8b7b1c7ace33ecd69515305abd122257",
+    "firstSeen": "2026-03-13T23:24:46.544Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }
