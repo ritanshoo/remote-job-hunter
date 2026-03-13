@@ -27121,5 +27121,384 @@
       "-5 intern",
       "+2 salary($350)"
     ]
+  },
+  {
+    "timestamp": "2026-03-13T07:42:49.603Z",
+    "title": "Principal Full Stack Engineer",
+    "company": "Steer",
+    "source": "himalayas",
+    "score": 14,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/steercrm/jobs/principal-full-stack-engineer-964210825",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+2 ai",
+      "+2 llm",
+      "+2 automation",
+      "+1 typescript",
+      "-5 us only"
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T07:42:50.102Z",
+    "title": "Senior Full Stack Developer",
+    "company": "First Resources Management Group",
+    "source": "himalayas",
+    "score": 13,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/first-resources-management-group/jobs/senior-full-stack-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node",
+      "+1 javascript",
+      "+1 postgresql",
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T07:42:50.412Z",
+    "title": "Full-Stack Developer",
+    "company": "Wing Assistant",
+    "source": "himalayas",
+    "score": 10,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/wing-assistant/jobs/full-stack-developer-5975590183",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 next.js",
+      "+3 node.js",
+      "+3 node",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 mongodb",
+      "+1 postgresql",
+      "+1 aws",
+      "+1 express",
+      "+1 nestjs",
+      "+1 graphql",
+      "+1 docker",
+      "LLM: The candidate's skills and experience perfectly align with the job requirements for a Full-Stack Developer role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T07:42:50.708Z",
+    "title": "Software Engineer (All Levels)",
+    "company": "abridge",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/abridge/jobs/software-engineer-all-levels-6729407078",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 typescript",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T07:42:51.015Z",
+    "title": "Senior Implementation Project Manager  (USA)",
+    "company": "Kalepa",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/kalepa/jobs/senior-implementation-project-manager-usa",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T07:42:51.015Z",
+    "title": "[Job - 27993]  Arquiteto de Software , Brazil",
+    "company": "CI&T",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ci-t/jobs/job-27993-arquiteto-de-software-brazil",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T07:42:51.015Z",
+    "title": "System Design Integrator",
+    "company": "Rolls-Royce",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/rolls-royce/jobs/system-design-integrator",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-13T07:42:51.015Z",
+    "title": "Staff Software Engineer",
+    "company": "ZenBusiness",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/zenbusiness/jobs/staff-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node",
+      "LLM: The job requires US work authorization and is restricted to US-based remote workers, which excludes the candidate based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T07:42:51.015Z",
+    "title": "Security Architect (Remote, US)",
+    "company": "Agfa",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/agfa/jobs/security-architect-remote-us-9946372579",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-13T07:42:51.016Z",
+    "title": "Staff Android Engineer, Guest & Host",
+    "company": "Airbnb",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/airbnb/jobs/staff-android-engineer-guest-host",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer position as it is focused on Android engineering, and the candidate is based in India, seeking only globally-remote opportunities."
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T07:42:51.016Z",
+    "title": "Big Data Developer / Engineer",
+    "company": "Bright Vision Technologies",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/big-data-developer-engineer-7105095691",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+1 docker",
+      "LLM: The job is not a developer/engineer position as it requires specific visa sponsorship and is restricted to certain visa holders."
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T07:42:51.016Z",
+    "title": "Security Analyst II",
+    "company": "Garner Health",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/garner-health/jobs/security-analyst-ii",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position; it is a Security Analyst role."
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T07:42:51.016Z",
+    "title": "Staff Backend Engineer (AI), Verify",
+    "company": "GitLab",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gitlab-com/jobs/staff-backend-engineer-ai-verify",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The job is a Staff Backend Engineer position with geographic restrictions that exclude India-based remote workers."
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T07:42:51.016Z",
+    "title": "[Job-28005] Mid-Level Developer Fullstack Angular/Java , Brasil",
+    "company": "CI&T",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ci-t/jobs/job-28005-mid-level-developer-fullstack-angular-java-brasil",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+3 node.js",
+      "+3 node",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 docker",
+      "LLM: The job requires candidates to be located in Brazil and mandates in-office presence, which excludes the India-based candidate."
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T07:42:51.016Z",
+    "title": "Technical Service Specialist/Sr. Specialist - Istanbul",
+    "company": "Abbott",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/abbott/jobs/technical-service-specialist-sr-specialist-istanbul",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-13T07:42:51.016Z",
+    "title": "Senior AI Engineer (Horizons product) (based in Poland)",
+    "company": "Hostinger",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/hostinger/jobs/senior-ai-engineer-horizons-product-based-in-poland",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 docker",
+      "LLM: The job is not a developer/engineer position and is restricted to candidates based in Poland."
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T07:42:51.016Z",
+    "title": "Java Full Stack Engineer - Mid Level",
+    "company": "USAA",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/usaa/jobs/java-full-stack-engineer-mid-level",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "LLM: The job requires being in the office 4 days per week, which excludes remote candidates based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T07:42:51.016Z",
+    "title": "Social Media Content Creator",
+    "company": "Verneek",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/verneek/jobs/social-media-content-creator",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is not a developer/engineer position."
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T07:42:51.016Z",
+    "title": "Lead Implementation Engineer – Infrastructure & Field Services",
+    "company": "Ferguson",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ferguson-com/jobs/lead-implementation-engineer-infrastructure-field-services",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position and is focused on implementation and operational oversight."
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T07:42:51.016Z",
+    "title": "Senior Python Developer - Code Migration Specialist",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/senior-python-developer-code-migration-specialist-1583392524",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+1 docker",
+      "+2 salary",
+      "LLM: The role is not a developer position for the candidate's skill set and requires US work authorization."
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T07:42:51.016Z",
+    "title": "Principal Technology Consultant",
+    "company": "Hewlett Packard Enterprise",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/hewlett-packard-enterprise/jobs/principal-technology-consultant",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "+1 docker",
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T07:42:51.016Z",
+    "title": "Data Engineer",
+    "company": "HHAeXchange",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/hhaexchange/jobs/data-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+1 docker",
+      "-5 us only",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T07:42:51.016Z",
+    "title": "Sr Principal Technology Solutions",
+    "company": "ReSource Pro",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/resource-pro/jobs/sr-principal-technology-solutions",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T07:42:51.016Z",
+    "title": "AI Data Quality Analyst-4",
+    "company": "TaskUs",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/taskus/jobs/ai-data-quality-analyst-4",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T07:42:51.016Z",
+    "title": "Data Engineer / Power BI",
+    "company": "Plain Concepts",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/plain-concepts/jobs/data-engineer-power-bi",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
