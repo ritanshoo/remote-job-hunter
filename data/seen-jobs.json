@@ -11534,5 +11534,26 @@
     "score": -5,
     "emailSent": false,
     "source": "weworkremotely"
+  },
+  "68a762787a03ce96b148c4efef2ff039": {
+    "hash": "68a762787a03ce96b148c4efef2ff039",
+    "firstSeen": "2026-03-13T17:31:59.871Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "039d66ee90204c0428a226ddb3b510b0": {
+    "hash": "039d66ee90204c0428a226ddb3b510b0",
+    "firstSeen": "2026-03-13T17:31:59.871Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "7f8ad4a1b2f57d6aa1d1528d11a21823": {
+    "hash": "7f8ad4a1b2f57d6aa1d1528d11a21823",
+    "firstSeen": "2026-03-13T17:31:59.872Z",
+    "score": -5,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }
