@@ -28001,5 +28001,48 @@
       "+2 automation",
       "-5 junior"
     ]
+  },
+  {
+    "timestamp": "2026-03-13T21:29:29.005Z",
+    "title": "Director of Product - Consumer Experience",
+    "company": "Mesh",
+    "source": "weworkremotely",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/mesh-director-of-product-consumer-experience",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "+2 salary($120)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T21:29:29.005Z",
+    "title": "Customer Support Specialist - A238",
+    "company": "Pearl",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/pearl-customer-support-specialist-a238",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-13T21:29:29.005Z",
+    "title": "AI Product Builder",
+    "company": "Abnormal",
+    "source": "weworkremotely",
+    "score": -6,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/abnormal-ai-product-builder",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern",
+      "-5 internship"
+    ]
   }
 ]
