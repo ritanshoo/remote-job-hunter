@@ -28044,5 +28044,19 @@
       "-5 intern",
       "-5 internship"
     ]
+  },
+  {
+    "timestamp": "2026-03-13T22:24:47.375Z",
+    "title": "Seeking a designer for a niche open-source automation tool. Full credit & recognition.",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1rsx9j4/seeking_a_designer_for_a_niche_opensource/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "LLM: The role is not a developer position; it is a design-focused role."
+    ]
   }
 ]
