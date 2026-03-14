@@ -11723,5 +11723,19 @@
     "score": 0,
     "emailSent": false,
     "source": "weworkremotely"
+  },
+  "54a2dcd11d2dacaed4f420340f1602a0": {
+    "hash": "54a2dcd11d2dacaed4f420340f1602a0",
+    "firstSeen": "2026-03-14T01:45:22.694Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "c0cd28632592b7b03135a3702c94345a": {
+    "hash": "c0cd28632592b7b03135a3702c94345a",
+    "firstSeen": "2026-03-14T01:45:22.694Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
   }
 }
