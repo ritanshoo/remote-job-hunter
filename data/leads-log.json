@@ -28069,5 +28069,358 @@
     "url": "https://weworkremotely.com/remote-jobs/culture-partners-culture-solutions-manager",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-14T05:42:43.884Z",
+    "title": "Software Engineer in Test",
+    "company": "Genesys",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/genesys/jobs/software-engineer-in-test",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 rest api"
+    ]
+  },
+  {
+    "timestamp": "2026-03-14T05:42:43.884Z",
+    "title": "Analytics Data Engineer",
+    "company": "Damia Group",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/damia-group/jobs/analytics-data-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-14T05:42:43.884Z",
+    "title": "Senior Site Reliability Engineer- Remote",
+    "company": "Clickhouse",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/clickhouse/jobs/senior-site-reliability-engineer-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "+1 docker",
+      "+2 salary($500)",
+      "LLM: The role is not a developer/engineer position as it focuses on Site Reliability Engineering, which is outside the candidate's core skills."
+    ]
+  },
+  {
+    "timestamp": "2026-03-14T05:42:43.884Z",
+    "title": "Mechanical Engineering Manager",
+    "company": "200510503Z Thermo Fisher Scientific Pte. Ltd.",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/200510503z-thermo-fisher-scientific-pte-ltd/jobs/mechanical-engineering-manager",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-14T05:42:43.884Z",
+    "title": "Senior CAD Application Engineer",
+    "company": "Commonwealth Fusion Systems",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/commonwealth-fusion-systems/jobs/senior-cad-application-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position as it focuses on CAD application engineering, which is outside the candidate's software development expertise."
+    ]
+  },
+  {
+    "timestamp": "2026-03-14T05:42:43.884Z",
+    "title": "Security Architect - Healthcare",
+    "company": "Kainos",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/kainos/jobs/security-architect-healthcare",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is not a developer/engineer position and is focused on security architecture in healthcare."
+    ]
+  },
+  {
+    "timestamp": "2026-03-14T05:42:43.884Z",
+    "title": "Freelancer (m/w/d) Power BI für Vertriebs-Report (4–5 PT, remote, Start asap)",
+    "company": "ERHARDT",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/erhardt/jobs/freelancer-m-w-d-power-bi-fur-vertriebs-report-4-5-pt-remote-start-asap",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-14T05:42:43.884Z",
+    "title": "Solutions Engineer (Enterprise Privacy Governance Platform)",
+    "company": "Lavendo",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/lavendo/jobs/solutions-engineer-enterprise-privacy-governance-platform",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position and is focused on pre-sales engineering."
+    ]
+  },
+  {
+    "timestamp": "2026-03-14T05:42:43.884Z",
+    "title": "Senior Full Stack Engineer",
+    "company": "Saaf Finance",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/saaf-finance/jobs/senior-full-stack-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+2 ai",
+      "+1 graphql",
+      "LLM: The job requires US work authorization and is restricted to US/EU residents, which excludes the candidate based in India."
+    ]
+  },
+  {
+    "timestamp": "2026-03-14T05:42:43.884Z",
+    "title": "Senior Customer Engineer",
+    "company": "Automation Anywhere",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/automation-anywhere/jobs/senior-customer-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 aws",
+      "LLM: The role is not a developer/engineer position and is focused on customer engineering."
+    ]
+  },
+  {
+    "timestamp": "2026-03-14T05:42:43.884Z",
+    "title": "Freelance AI Evaluation Engineer (Python/Full-Stack)",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/freelance-ai-evaluation-engineer-python-full-stack-1796443198",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+1 docker",
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position as it focuses on AI evaluation and requires specific Python expertise."
+    ]
+  },
+  {
+    "timestamp": "2026-03-14T05:42:43.884Z",
+    "title": "Data Engineering Manager",
+    "company": "Teya",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/teya/jobs/data-engineering-manager-8182596163",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "LLM: The role is not a developer/engineer position and is restricted to US/EU residents."
+    ]
+  },
+  {
+    "timestamp": "2026-03-14T05:42:43.884Z",
+    "title": "SPIRE System Implementation",
+    "company": "Glint Tech Solutions LLC",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/glint-tech-solutions-llc/jobs/spire-system-implementation",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-14T05:42:43.884Z",
+    "title": "Senior Professional Programmer Analyst",
+    "company": "Gainwell Technologies",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gainwell-technologies/jobs/senior-professional-programmer-analyst",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+2 salary",
+      "LLM: The role is not a developer/engineer position and requires specific experience in healthcare systems."
+    ]
+  },
+  {
+    "timestamp": "2026-03-14T05:42:43.884Z",
+    "title": "Senior Software Engineer (Golang) - Billing Systems (Poland)",
+    "company": "DoiT International",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/doit/jobs/senior-software-engineer-golang-billing-systems-poland",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "LLM: The job requires US work authorization and is location-restricted, excluding India-based candidates."
+    ]
+  },
+  {
+    "timestamp": "2026-03-14T05:42:43.884Z",
+    "title": "Principal Fire Engineer",
+    "company": "Bureau Veritas",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bureauveritas/jobs/principal-fire-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-14T05:42:43.884Z",
+    "title": "Head of Internal Tools Engineering",
+    "company": "Bjak",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bjak/jobs/head-of-internal-tools-engineering-4021130495",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-14T05:42:43.884Z",
+    "title": "Mathematics & Python Expert - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/mathematics-python-expert-freelance-ai-trainer-6343935943",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-14T05:42:43.884Z",
+    "title": "Mathematics Researcher (Python) - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/mathematics-researcher-python-freelance-ai-trainer-3171160374",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-14T05:42:43.884Z",
+    "title": "Mathematics & Python Expert - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/mathematics-python-expert-freelance-ai-trainer-505725912",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-14T05:42:43.884Z",
+    "title": "Mathematics Researcher (Python) - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/mathematics-researcher-python-freelance-ai-trainer-5229987369",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-14T05:42:43.884Z",
+    "title": "DevSecOps Engineer",
+    "company": "Teya",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/teya/jobs/devsecops-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-14T05:42:43.884Z",
+    "title": "SaaS Product Manager",
+    "company": "Fortive",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/fortive/jobs/saas-product-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-14T05:42:43.884Z",
+    "title": "Senior Project Engineer (Remote, 91, FR, 91300)",
+    "company": "Kennametal",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/kennametal/jobs/senior-project-engineer-remote-91-fr-91300-7516377840",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-14T05:42:43.884Z",
+    "title": "Field Engineer (UK)",
+    "company": "Ampd Energy",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ampd-energy/jobs/field-engineer-uk",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
