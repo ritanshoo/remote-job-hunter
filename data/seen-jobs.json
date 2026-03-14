@@ -12255,5 +12255,40 @@
     "score": 0,
     "emailSent": false,
     "source": "jobspresso"
+  },
+  "5cbe879da4886161c4da61d739a85c24": {
+    "hash": "5cbe879da4886161c4da61d739a85c24",
+    "firstSeen": "2026-03-14T21:23:13.043Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "20c5d3f789a6af6eae6b424ef044bab0": {
+    "hash": "20c5d3f789a6af6eae6b424ef044bab0",
+    "firstSeen": "2026-03-14T21:23:14.137Z",
+    "score": 21,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "189706a84739c30c96c87625f9045e3c": {
+    "hash": "189706a84739c30c96c87625f9045e3c",
+    "firstSeen": "2026-03-14T21:23:14.137Z",
+    "score": 3,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "14b44b7e8d7729a01624be27286293c3": {
+    "hash": "14b44b7e8d7729a01624be27286293c3",
+    "firstSeen": "2026-03-14T21:23:14.137Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "a357754dbc03898ac6c27225524ebeea": {
+    "hash": "a357754dbc03898ac6c27225524ebeea",
+    "firstSeen": "2026-03-14T21:23:14.137Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }

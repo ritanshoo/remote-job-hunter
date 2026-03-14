@@ -28969,5 +28969,72 @@
     "url": "https://jobspresso.co/job/electe-s-r-l-worldwide-developer-full-stack-developer/",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-14T21:23:14.137Z",
+    "title": "Full-stack Developer (React & Node.js)",
+    "company": "Master-works",
+    "source": "weworkremotely",
+    "score": 21,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/master-works-full-stack-developer-react-node-js",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+2 llm",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 postgresql",
+      "+1 aws",
+      "+1 express",
+      "+1 nestjs",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-14T21:23:14.137Z",
+    "title": "Technical Product Manager Cloud/CSPM",
+    "company": "Aikido Security",
+    "source": "weworkremotely",
+    "score": 3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/aikido-security-technical-product-manager-cloud-cspm",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+2 salary($25)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-14T21:23:14.137Z",
+    "title": "Excel Modelling Consultant - Skincare Product NPD/EPD Process",
+    "company": "Activate Talent",
+    "source": "weworkremotely",
+    "score": 2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/activate-talent-excel-modelling-consultant-skincare-product-npd-epd-process",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-14T21:23:14.137Z",
+    "title": "Staff Design Technologist, New A.I. Products & Platforms",
+    "company": "The New York Times",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/the-new-york-times-staff-design-technologist-new-a-i-products-platforms",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 express",
+      "-5 junior",
+      "+2 salary($160,000 - $192,000)"
+    ]
   }
 ]
