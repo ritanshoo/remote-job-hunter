@@ -12241,5 +12241,19 @@
     "score": 0,
     "emailSent": false,
     "source": "remotive"
+  },
+  "d3e83541038adf9fd8c6c861fde13160": {
+    "hash": "d3e83541038adf9fd8c6c861fde13160",
+    "firstSeen": "2026-03-14T20:23:24.786Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "3d1f8e8ef287b240af767e4208190611": {
+    "hash": "3d1f8e8ef287b240af767e4208190611",
+    "firstSeen": "2026-03-14T20:23:24.786Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "jobspresso"
   }
 }
