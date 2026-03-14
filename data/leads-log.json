@@ -28788,5 +28788,175 @@
       "+2 ai",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-14T18:32:58.508Z",
+    "title": "Senior Software Engineer (Golang) - Billing Systems",
+    "company": "DoiT International",
+    "source": "himalayas",
+    "score": 12,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/doit/jobs/senior-software-engineer-golang-billing-systems",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node.js",
+      "+3 node"
+    ]
+  },
+  {
+    "timestamp": "2026-03-14T18:32:58.961Z",
+    "title": "AI Native Full Stack Engineer - OPS00063",
+    "company": "Dev.Pro",
+    "source": "himalayas",
+    "score": 10,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/dev-pro/jobs/ai-native-full-stack-engineer-ops00063",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+2 ai",
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-14T18:32:58.961Z",
+    "title": "Engineer - Technical Support",
+    "company": "Veralto",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/veralto/jobs/engineer-technical-support",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-14T18:32:58.961Z",
+    "title": "Senior Backend Engineer (.NET)",
+    "company": "Deel",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/deel/jobs/senior-backend-engineer-net",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-14T18:32:58.961Z",
+    "title": "Senior Account Manager - DACH - (SaaS / Corporate Training / EdTech)",
+    "company": "LearnCube",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/learncube-senior-account-manager-dach-saas-corporate-training-edtech",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-14T18:32:58.961Z",
+    "title": "Engagement Manager",
+    "company": "RELX",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/relx/jobs/engagement-manager",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-14T18:32:58.961Z",
+    "title": "Senior Unity Engineer (Mobile Games)",
+    "company": "UserWise Services",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/userwise-services/jobs/senior-unity-engineer-mobile-games",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-14T18:32:58.961Z",
+    "title": "Director, Engineering (CRM)",
+    "company": "HighLevel",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/highlevel/jobs/director-engineering-crm",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-14T18:32:58.961Z",
+    "title": "Senior DevOps / Site Reliability Engineer",
+    "company": "N-iX",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/n-ix/jobs/senior-devops-site-reliability-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 docker",
+      "-5 entry-level"
+    ]
+  },
+  {
+    "timestamp": "2026-03-14T18:32:58.961Z",
+    "title": "Field CISO",
+    "company": "Rapid7",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/r-7/jobs/field-ciso",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-14T18:32:58.961Z",
+    "title": "Senior Software Engineer, Tax Platform",
+    "company": "Airbnb",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/airbnb/jobs/senior-software-engineer-tax-platform",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-14T18:32:58.961Z",
+    "title": "Product Manager",
+    "company": "Digital Realty",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/digital-realty/jobs/product-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-14T18:32:58.961Z",
+    "title": "Data Engineering Lead",
+    "company": "Moniepoint",
+    "source": "himalayas",
+    "score": -4,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/moniepoint/jobs/data-engineering-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "-5 intern"
+    ]
   }
 ]
