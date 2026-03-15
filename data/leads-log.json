@@ -29550,5 +29550,136 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-15T21:24:20.486Z",
+    "title": "Full Stack Software Developer",
+    "company": "ECS",
+    "source": "jobicy",
+    "score": 7,
+    "priority": "high",
+    "url": "https://jobicy.com/jobs/140688-full-stack-software-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+2 automation",
+      "+2 salary($120,000 – $165,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-15T21:24:20.486Z",
+    "title": "Lead/Staff Product Manager, Financial Audit Agents",
+    "company": "Fieldguide",
+    "source": "weworkremotely",
+    "score": 2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/fieldguide-lead-staff-product-manager-financial-audit-agents",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-15T21:24:20.486Z",
+    "title": "Software Quality Analyst (UK Remote)",
+    "company": "Turnitin, LLC",
+    "source": "jobicy",
+    "score": 2,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/140681-software-quality-analyst-uk-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-15T21:24:20.486Z",
+    "title": "virtual assistant",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1ruo7md/hiring_virtual_assistant/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-15T21:24:20.486Z",
+    "title": "Should I avoid numbers in a domain name?",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1rulgft/should_i_avoid_numbers_in_a_domain_name/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-15T21:24:20.486Z",
+    "title": "Infrastructure Software Engineer, Telemetry",
+    "company": "Dropbox",
+    "source": "jobicy",
+    "score": 0,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/140676-infrastructure-software-engineer-telemetry",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-15T21:24:20.486Z",
+    "title": "Senior Manager, Product-Led Growth Strategy and Operations",
+    "company": "Confluent",
+    "source": "weworkremotely",
+    "score": -2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/confluent-senior-manager-product-led-growth-strategy-and-operations",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-15T21:24:20.486Z",
+    "title": "Staff Software Engineer (Platform)",
+    "company": "Chainguard",
+    "source": "jobicy",
+    "score": -2,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/140705-staff-software-engineer-platform",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-15T21:24:20.486Z",
+    "title": "Senior Manager, Product Design",
+    "company": "Zayzoon",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/zayzoon-senior-manager-product-design",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($50)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-15T21:24:20.486Z",
+    "title": "AI Software Developer",
+    "company": "Varicent",
+    "source": "jobicy",
+    "score": -3,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/140706-ai-software-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
   }
 ]

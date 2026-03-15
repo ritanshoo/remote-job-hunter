@@ -12689,5 +12689,75 @@
     "score": -5,
     "emailSent": false,
     "source": "himalayas"
+  },
+  "3ca7ae67b8a980a12087cfde5ddbb7ea": {
+    "hash": "3ca7ae67b8a980a12087cfde5ddbb7ea",
+    "firstSeen": "2026-03-15T21:24:20.486Z",
+    "score": 7,
+    "emailSent": false,
+    "source": "jobicy"
+  },
+  "93c8cd90e606f8857b1b8237fc6308c4": {
+    "hash": "93c8cd90e606f8857b1b8237fc6308c4",
+    "firstSeen": "2026-03-15T21:24:20.486Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "176ac54643caa7d381151df9a209ac93": {
+    "hash": "176ac54643caa7d381151df9a209ac93",
+    "firstSeen": "2026-03-15T21:24:20.486Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "jobicy"
+  },
+  "389cac129c0b798d2b8374b54011d4fc": {
+    "hash": "389cac129c0b798d2b8374b54011d4fc",
+    "firstSeen": "2026-03-15T21:24:20.486Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "283735d31aee16814aab6c1bfa5dc6d3": {
+    "hash": "283735d31aee16814aab6c1bfa5dc6d3",
+    "firstSeen": "2026-03-15T21:24:20.486Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "a25a4eebafa98b536980ccd76d445d69": {
+    "hash": "a25a4eebafa98b536980ccd76d445d69",
+    "firstSeen": "2026-03-15T21:24:20.486Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "jobicy"
+  },
+  "de786c47cb10df18d7d81687451fcbb7": {
+    "hash": "de786c47cb10df18d7d81687451fcbb7",
+    "firstSeen": "2026-03-15T21:24:20.486Z",
+    "score": -2,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "ecda52d8b3159138e98de235ddf209b3": {
+    "hash": "ecda52d8b3159138e98de235ddf209b3",
+    "firstSeen": "2026-03-15T21:24:20.486Z",
+    "score": -2,
+    "emailSent": false,
+    "source": "jobicy"
+  },
+  "bf2f74b77181525874c5620cba74d873": {
+    "hash": "bf2f74b77181525874c5620cba74d873",
+    "firstSeen": "2026-03-15T21:24:20.486Z",
+    "score": -3,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "eed605082194388bc51e4362217166df": {
+    "hash": "eed605082194388bc51e4362217166df",
+    "firstSeen": "2026-03-15T21:24:20.486Z",
+    "score": -3,
+    "emailSent": false,
+    "source": "jobicy"
   }
 }
