@@ -12542,5 +12542,19 @@
     "score": -5,
     "emailSent": false,
     "source": "himalayas"
+  },
+  "1373ffa8ffa984859ff8f2f4c0eb399f": {
+    "hash": "1373ffa8ffa984859ff8f2f4c0eb399f",
+    "firstSeen": "2026-03-15T08:32:31.286Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "e0ef3c0a860fac901ed4384554be84a4": {
+    "hash": "e0ef3c0a860fac901ed4384554be84a4",
+    "firstSeen": "2026-03-15T08:32:31.286Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
   }
 }
