@@ -29454,5 +29454,101 @@
       "-5 us only",
       "+2 salary($50-$75)"
     ]
+  },
+  {
+    "timestamp": "2026-03-15T18:33:36.518Z",
+    "title": "Sr. Director, Site Reliability Engineering, Mobility",
+    "company": "wex",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/wex/jobs/sr-director-site-reliability-engineering-mobility",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-15T18:33:36.518Z",
+    "title": "Senior Angular Developer",
+    "company": "Newfold Digital",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/newfold-digital/jobs/senior-angular-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-15T18:33:36.518Z",
+    "title": "Pre-Sales Systems Engineer - HPE Networking (Minnesota)",
+    "company": "Hewlett Packard Enterprise",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/hewlett-packard-enterprise/jobs/pre-sales-systems-engineer-hpe-networking-minnesota",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-15T18:33:36.518Z",
+    "title": "Staff Engineer, Java Backbase",
+    "company": "Nagarro",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nagarro/jobs/staff-engineer-java-backbase-5956143621",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-15T18:33:36.518Z",
+    "title": "CoE - Digital Experience- Performance Engineering",
+    "company": "Qualitest",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/qualitest/jobs/coe-digital-experience-performance-engineering",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 rest api"
+    ]
+  },
+  {
+    "timestamp": "2026-03-15T18:33:36.518Z",
+    "title": "Software Engineer - N-Tech",
+    "company": "Netflix",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/netflix/jobs/software-engineer-n-tech",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-15T18:33:36.519Z",
+    "title": "TALENT POOL: Field Specialist (all genders) Medizinische Großgeräte - Region Ost",
+    "company": "Philips",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/philips/jobs/talent-pool-field-specialist-all-genders-medizinische-grossgerate-region-ost",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
