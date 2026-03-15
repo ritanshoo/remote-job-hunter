@@ -29036,5 +29036,361 @@
       "-5 junior",
       "+2 salary($160,000 - $192,000)"
     ]
+  },
+  {
+    "timestamp": "2026-03-15T06:52:04.049Z",
+    "title": "Senior Fullstack Developer (German-speaking)",
+    "company": "Coveo",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/coveo/jobs/senior-fullstack-developer-german-speaking",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+2 ai",
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-15T06:52:04.571Z",
+    "title": "Azure AI Engineer (LLM & Copilot) - India",
+    "company": "Lithan",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/lithan/jobs/azure-ai-engineer-llm-copilot-india",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm"
+    ]
+  },
+  {
+    "timestamp": "2026-03-15T06:52:04.866Z",
+    "title": "Senior Full Stack Engineer",
+    "company": "DISCO",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/disco-ac/jobs/senior-full-stack-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 next.js",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-15T06:52:04.866Z",
+    "title": "Software Engineer, Cloud | Blizzard",
+    "company": "Blizzard Entertainment",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/blizzard-entertainment/jobs/software-engineer-cloud-blizzard",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-15T06:52:04.866Z",
+    "title": "Principal Engineer, R&D Software Quality",
+    "company": "Clario",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/clario/jobs/principal-engineer-r-d-software-quality",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-15T06:52:04.866Z",
+    "title": "Network Automation Engineer",
+    "company": "Teya",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/teya/jobs/network-automation-engineer-4386017299",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-15T06:52:04.866Z",
+    "title": "Principal Presales, Systems Engineer",
+    "company": "Hewlett Packard Enterprise",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/hewlett-packard-enterprise/jobs/principal-presales-systems-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-15T06:52:04.866Z",
+    "title": "Application Security Engineer",
+    "company": "EnerSys",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/enersys/jobs/application-security-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-15T06:52:04.866Z",
+    "title": "Systems Engineering Senior Specialist",
+    "company": "NTT DATA",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nttdata/jobs/systems-engineering-senior-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-15T06:52:04.866Z",
+    "title": "Software Support Engineer (Third Shift)",
+    "company": "Appian",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/appian/jobs/software-support-engineer-third-shift",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-15T06:52:04.866Z",
+    "title": "IT Operations Management Technical Consultant",
+    "company": "Concentrix",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/concentrix/jobs/it-operations-management-technical-consultant",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-15T06:52:04.866Z",
+    "title": "TALENT POOL: Field Specialist (all genders) Medizinische Großgeräte - Region Wes",
+    "company": "Philips",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/philips/jobs/talent-pool-field-specialist-all-genders-medizinische-grossgerate-region-wes",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-15T06:52:04.866Z",
+    "title": "Application Security Engineer",
+    "company": "Infiterra",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/infiterra/jobs/application-security-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-15T06:52:04.866Z",
+    "title": "Engineer III, Remote Commissioning",
+    "company": "Mitsubishi Heavy Industries",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mitsubishi-heavy-industries/jobs/engineer-iii-remote-commissioning",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-15T06:52:04.866Z",
+    "title": "Backend Tech Lead (Remote, Contract)",
+    "company": "INFUSE",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/infuse/jobs/backend-tech-lead-remote-contract",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-15T06:52:04.866Z",
+    "title": "Software Integration Tester",
+    "company": "Motorola Solutions",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/motorola-solutions/jobs/software-integration-tester",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-15T06:52:04.866Z",
+    "title": "Field Engineer (USA)",
+    "company": "Ampd Energy",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ampd-energy/jobs/field-engineer-usa",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-15T06:52:04.866Z",
+    "title": "Engineering Team Lead",
+    "company": "Partly",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/partly/jobs/engineering-team-lead",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-15T06:52:04.866Z",
+    "title": "Office365 Power Platform Developer",
+    "company": "Redhorse",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/redhorse/jobs/office365-power-platform-developer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-15T06:52:04.866Z",
+    "title": "Engineering Manager (FE) - Team Expansion",
+    "company": "Canva",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/canva/jobs/engineering-manager-fe-team-expansion-4431482866",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-15T06:52:04.866Z",
+    "title": "Vice President, Engineering",
+    "company": "LastPass",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/lastpass/jobs/vice-president-engineering-5821107889",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-15T06:52:04.866Z",
+    "title": "AI Product Engineer (Founding Member / High-Speed Builder)",
+    "company": "Foxelli Group ",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/foxelli-group/jobs/ai-product-engineer-founding-member-high-speed-builder",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary($20)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-15T06:52:04.866Z",
+    "title": "ISP Network Support Engineer",
+    "company": "Pavago",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pavago/jobs/isp-network-support-engineer-8395829602",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-15T06:52:04.866Z",
+    "title": "Senior PostgreSQL Database Engineer - EMEA",
+    "company": "Percona",
+    "source": "himalayas",
+    "score": -4,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/percona/jobs/senior-postgresql-database-engineer-emea",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 postgresql",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-15T06:52:04.866Z",
+    "title": "ISP Network Support Engineer",
+    "company": "Pavago",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pavago/jobs/isp-network-support-engineer-1126846039",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-15T06:52:04.867Z",
+    "title": "TALENT POOL: Field Specialist (all genders) Medizinische Großgeräte - Region Mit",
+    "company": "Philips",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/philips/jobs/talent-pool-field-specialist-all-genders-medizinische-grossgerate-region-mit",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-15T06:52:04.867Z",
+    "title": "Software QA Engineer",
+    "company": "IQVIA",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/iqvia/jobs/software-qa-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-15T06:52:04.867Z",
+    "title": "Plumbing / Fire Protection Engineer III",
+    "company": "CannonDesign",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cannondesign/jobs/plumbing-fire-protection-engineer-iii",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
