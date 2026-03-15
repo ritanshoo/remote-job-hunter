@@ -29392,5 +29392,67 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-15T16:27:54.476Z",
+    "title": "AI Training on Outlier.ai",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rufzwp/hiring_ai_training_on_outlierai/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-15T16:27:54.476Z",
+    "title": "10k+ k@rma redditors",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1ru7cna/hiring_10k_krma_redditors/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($20)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-15T16:27:54.476Z",
+    "title": "Looking for someone with long or mid-length hair who is comfortable cutting their hair on camera and sending the video.",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rud9be/hiring_looking_for_someone_with_long_or_midlength/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-15T16:27:54.477Z",
+    "title": "Built my developer portfolio with SvelteKit – looking for honest feedback on UX, design, and performance",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1rugjvi/built_my_developer_portfolio_with_sveltekit/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-15T16:27:54.477Z",
+    "title": "Digital Product Testers, $50-$75 per test. (US Only)",
+    "company": "",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rugzug/hiring_digital_product_testers_5075_per_test_us/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 us only",
+      "+2 salary($50-$75)"
+    ]
   }
 ]
