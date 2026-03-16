@@ -29681,5 +29681,62 @@
       "+2 ai",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-16T02:03:03.406Z",
+    "title": "Remote Dev",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1ruw94m/hiring_remote_dev/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-16T02:03:03.406Z",
+    "title": "Looking for online disciplinarian",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1ruvyiw/hiring_looking_for_online_disciplinarian/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-16T02:03:03.406Z",
+    "title": "USA, Swiss, Germany & Austria",
+    "company": "Top-Performing Sales Hunter",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rurbvs/hiring_topperforming_sales_hunter_usa_swiss/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-16T02:03:03.406Z",
+    "title": "Finding a Quality Full-stack Engineer",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1ruvoq5/finding_a_quality_fullstack_engineer/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-16T02:03:03.406Z",
+    "title": "please share cool websites",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1ruv160/please_share_cool_websites/",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
