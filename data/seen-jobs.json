@@ -13179,5 +13179,33 @@
     "score": -13,
     "emailSent": false,
     "source": "reddit"
+  },
+  "8b21a13580ec3db196d68c82e9b181f6": {
+    "hash": "8b21a13580ec3db196d68c82e9b181f6",
+    "firstSeen": "2026-03-16T20:34:26.180Z",
+    "score": 5,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "dbd75a6c8184c9b53bc8feba5ef9fd95": {
+    "hash": "dbd75a6c8184c9b53bc8feba5ef9fd95",
+    "firstSeen": "2026-03-16T20:34:26.180Z",
+    "score": 3,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "63cfe1eb734e0080aed09ba4a0d714f3": {
+    "hash": "63cfe1eb734e0080aed09ba4a0d714f3",
+    "firstSeen": "2026-03-16T20:34:26.180Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "2b7754d0bc56c61f6eeff7e9de47180e": {
+    "hash": "2b7754d0bc56c61f6eeff7e9de47180e",
+    "firstSeen": "2026-03-16T20:34:26.180Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "reddit"
   }
 }

@@ -30422,5 +30422,64 @@
       "-5 u.s. only",
       "+2 salary($40)"
     ]
+  },
+  {
+    "timestamp": "2026-03-16T20:34:26.180Z",
+    "title": "Senior Product Designer (Typeform Ai)",
+    "company": "Typeform",
+    "source": "weworkremotely",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/typeform-senior-product-designer-typeform-ai",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 express"
+    ]
+  },
+  {
+    "timestamp": "2026-03-16T20:34:26.180Z",
+    "title": "Product Designer (Formless)",
+    "company": "Typeform",
+    "source": "weworkremotely",
+    "score": 3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/typeform-product-designer-formless",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 express"
+    ]
+  },
+  {
+    "timestamp": "2026-03-16T20:34:26.180Z",
+    "title": "Contract | $55–$60/hour",
+    "company": "Kofax Developer",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rvj2qf/hiring_kofax_developer_contract_5560hour/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 aws",
+      "-5 junior",
+      "+2 salary($55–$60/hour)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-16T20:34:26.180Z",
+    "title": "$45/hour (based on experience)",
+    "company": "Project Manager – Asset Management | Boston, MA | Contract | $42",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rviw2b/hiring_project_manager_asset_management_boston_ma/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($45/hour)"
+    ]
   }
 ]
