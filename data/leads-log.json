@@ -30033,5 +30033,31 @@
       "+2 ai",
       "+2 salary($20)"
     ]
+  },
+  {
+    "timestamp": "2026-03-16T11:43:09.143Z",
+    "title": "Head of Support",
+    "company": "OnTheGoSystems",
+    "source": "weworkremotely",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/onthegosystems-head-of-support",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-16T11:43:09.143Z",
+    "title": "$15 base + 30% commission to promote token sniper bot",
+    "company": "Crypto X Affiliates",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rv5fmi/hiring_crypto_x_affiliates_15_base_30_commission/",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
