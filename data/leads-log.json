@@ -30384,5 +30384,43 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-16T17:57:27.087Z",
+    "title": "LATAM ONLY",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rvfupj/hiring_latam_only/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-16T17:57:27.087Z",
+    "title": "Remote (Part-Time, 21–25$/hr)",
+    "company": "Process Monitoring Assistant",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rvdqky/hiring_process_monitoring_assistant_remote/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-16T17:57:27.087Z",
+    "title": "(US only) Need Personal Assistant",
+    "company": "",
+    "source": "reddit",
+    "score": -13,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rvf62m/hiring_us_only_need_personal_assistant/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "-5 us only",
+      "-5 u.s. only",
+      "+2 salary($40)"
+    ]
   }
 ]
