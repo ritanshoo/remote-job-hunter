@@ -30019,5 +30019,19 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-16T08:52:12.147Z",
+    "title": "$20/review (~$50/hr)",
+    "company": "[Remote] Domain experts in geology, biology, mech engg, 3D engineering/design, law",
+    "source": "reddit",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/forhire/comments/1rv2nde/hiring_remote_domain_experts_in_geology_biology/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary($20)"
+    ]
   }
 ]
