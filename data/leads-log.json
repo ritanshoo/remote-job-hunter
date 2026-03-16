@@ -30481,5 +30481,18 @@
     "matchedKeywords": [
       "+2 salary($45/hour)"
     ]
+  },
+  {
+    "timestamp": "2026-03-16T21:35:44.247Z",
+    "title": "$50/week base + view bonuses (ongoing, paid every Friday)",
+    "company": "Paid Instagram food/nutrition creators",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rvmu7d/hiring_paid_instagram_foodnutrition_creators/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($50)"
+    ]
   }
 ]
