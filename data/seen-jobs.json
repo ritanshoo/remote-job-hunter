@@ -13403,5 +13403,19 @@
     "score": 2,
     "emailSent": false,
     "source": "reddit"
+  },
+  "d130ac90b7c68359256f223b6c529a37": {
+    "hash": "d130ac90b7c68359256f223b6c529a37",
+    "firstSeen": "2026-03-17T09:52:48.582Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "jobicy"
+  },
+  "9f1bb3e87be6c9473fe6064003fbcaac": {
+    "hash": "9f1bb3e87be6c9473fe6064003fbcaac",
+    "firstSeen": "2026-03-17T09:52:48.582Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "jobicy"
   }
 }
