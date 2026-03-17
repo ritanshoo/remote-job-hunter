@@ -31489,5 +31489,37 @@
     "matchedKeywords": [
       "-5 based in the us"
     ]
+  },
+  {
+    "timestamp": "2026-03-17T16:01:55.749Z",
+    "title": "Lansing, MI | Contract | $55-$60/hr (W2)",
+    "company": "Java Developer",
+    "source": "reddit",
+    "score": 9,
+    "priority": "high",
+    "url": "https://www.reddit.com/r/forhire/comments/1rw9xfi/hiring_java_developer_lansing_mi_contract_5560hr/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+1 aws",
+      "+1 rest api",
+      "+2 salary($55-$60/hr)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T16:01:55.749Z",
+    "title": "$50/hr, ~60 min sessions",
+    "company": "Remote actors for Google Meet product demo",
+    "source": "reddit",
+    "score": -1,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rw9x8m/hiring_remote_actors_for_google_meet_product_demo/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary($50/hr)"
+    ]
   }
 ]

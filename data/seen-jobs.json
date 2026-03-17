@@ -13725,5 +13725,19 @@
     "score": -5,
     "emailSent": false,
     "source": "reddit"
+  },
+  "f52bbf39935466e6af861ed08fa31a4d": {
+    "hash": "f52bbf39935466e6af861ed08fa31a4d",
+    "firstSeen": "2026-03-17T16:01:55.749Z",
+    "score": 9,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "d6ca30033d49772fe7a833cb979c84a2": {
+    "hash": "d6ca30033d49772fe7a833cb979c84a2",
+    "firstSeen": "2026-03-17T16:01:55.749Z",
+    "score": -1,
+    "emailSent": false,
+    "source": "reddit"
   }
 }
