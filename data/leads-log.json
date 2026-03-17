@@ -31598,5 +31598,30 @@
     "url": "https://www.reddit.com/r/forhire/comments/1rweq8v/hiring_need_advice_on_managing_multiple_user/",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-17T19:54:58.671Z",
+    "title": "Built a black-box web security scanner (Sequr) for modern web apps. Looking for early testers + feedback.",
+    "company": "",
+    "source": "reddit",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/webdev/comments/1rwgs2q/built_a_blackbox_web_security_scanner_sequr_for/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T19:54:58.671Z",
+    "title": "I created a Git Web Manager and have opened it up for everyone",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1rwgpsn/i_created_a_git_web_manager_and_have_opened_it_up/",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
