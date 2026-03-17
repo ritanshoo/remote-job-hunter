@@ -30516,5 +30516,23 @@
     "url": "https://www.reddit.com/r/forhire/comments/1rvoapm/hiring_lead_product_manager_pdm_must_reside/",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-17T01:49:56.575Z",
+    "title": "Full-Stack Engineering Lead",
+    "company": "Rare Days",
+    "source": "weworkremotely",
+    "score": 3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/rare-days-full-stack-engineering-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 automation",
+      "+1 typescript",
+      "+1 aws",
+      "+1 graphql",
+      "-5 intern"
+    ]
   }
 ]

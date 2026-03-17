@@ -13228,5 +13228,19 @@
     "score": 0,
     "emailSent": false,
     "source": "reddit"
+  },
+  "023c9b67224fe4c0dc1c35d58b296b39": {
+    "hash": "023c9b67224fe4c0dc1c35d58b296b39",
+    "firstSeen": "2026-03-17T01:49:56.385Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "ae1db60d8356bf38b3270759264ccc8f": {
+    "hash": "ae1db60d8356bf38b3270759264ccc8f",
+    "firstSeen": "2026-03-17T01:49:56.575Z",
+    "score": 3,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }
