@@ -14061,5 +14061,19 @@
     "score": -5,
     "emailSent": false,
     "source": "himalayas"
+  },
+  "001296413cc739c00a978ef53465a2eb": {
+    "hash": "001296413cc739c00a978ef53465a2eb",
+    "firstSeen": "2026-03-17T23:28:49.894Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "9f8bb09133b69e547682f3dd29f3de1c": {
+    "hash": "9f8bb09133b69e547682f3dd29f3de1c",
+    "firstSeen": "2026-03-17T23:28:50.151Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "reddit"
   }
 }
