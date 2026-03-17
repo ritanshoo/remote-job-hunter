@@ -30798,5 +30798,40 @@
     "matchedKeywords": [
       "+2 salary($40–$60/hr)"
     ]
+  },
+  {
+    "timestamp": "2026-03-17T07:04:13.891Z",
+    "title": "Senior Software Engineer",
+    "company": "Strange Loop Labs",
+    "source": "weworkremotely",
+    "score": 2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/strange-loop-labs-senior-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T07:04:13.891Z",
+    "title": "Earn upto £700 per week reposting Reddit posts.",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rvyqut/hiring_earn_upto_700_per_week_reposting_reddit/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-17T07:04:13.892Z",
+    "title": "What would you charge for a custom video monitoring dashboard?",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1rvyyki/what_would_you_charge_for_a_custom_video/",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
