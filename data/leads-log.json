@@ -31397,5 +31397,97 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-17T14:52:42.076Z",
+    "title": "US based, remote",
+    "company": "Commission-only sales closer for a digital marketing agency",
+    "source": "reddit",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/forhire/comments/1rw6udk/hiring_commissiononly_sales_closer_for_a_digital/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+2 salary($2,000–$5,000/mo)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T14:52:42.076Z",
+    "title": "Earn up to $25 per task",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rw88mj/hiring_earn_up_to_25_per_task/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($25)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T14:52:42.076Z",
+    "title": "8–15 hrs/month | US & Europe | 21+ MEN)",
+    "company": "Steady Remote Support Role ($200–$300/month",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rw6vga/hiringsteady_remote_support_role_200300month_815/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($200–$300)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T14:52:42.076Z",
+    "title": "After juggling 3+ tools for uptime + status pages, I'm looking for a unified tool",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1rw6nbs/after_juggling_3_tools_for_uptime_status_pages_im/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-17T14:52:42.076Z",
+    "title": "Forward Deployed Engineer",
+    "company": "Arch Works",
+    "source": "weworkremotely",
+    "score": -2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/arch-works-forward-deployed-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 typescript",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T14:52:42.076Z",
+    "title": "Growth Manager | Maps Platform (Remote in Europe)",
+    "company": "MapTiler",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/maptiler-growth-manager-maps-platform-remote-in-europe",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T14:52:42.076Z",
+    "title": "Remote Reddit Community Engagement Assistants (Paid)",
+    "company": "",
+    "source": "reddit",
+    "score": -5,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rw6rkk/hiring_remote_reddit_community_engagement/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 based in the us"
+    ]
   }
 ]
