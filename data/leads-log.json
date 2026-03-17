@@ -31623,5 +31623,47 @@
     "url": "https://www.reddit.com/r/webdev/comments/1rwgpsn/i_created_a_git_web_manager_and_have_opened_it_up/",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-17T20:34:57.113Z",
+    "title": "CRO Product Associate",
+    "company": "Quinstreet",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/quinstreet-cro-product-associate",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary($65,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T20:34:57.113Z",
+    "title": "Associate Manager, German Customer Support",
+    "company": "Pearl",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/pearl-associate-manager-german-customer-support",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T20:34:57.113Z",
+    "title": "Director of Product Money Movement",
+    "company": "Mesh",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/mesh-director-of-product-money-movement",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]

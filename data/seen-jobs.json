@@ -13844,5 +13844,26 @@
     "score": 0,
     "emailSent": false,
     "source": "reddit"
+  },
+  "f555427e4c9687cbcfab73b67dafb24a": {
+    "hash": "f555427e4c9687cbcfab73b67dafb24a",
+    "firstSeen": "2026-03-17T20:34:57.113Z",
+    "score": -1,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "83f31419e8321b015d8cd4b03dce6c45": {
+    "hash": "83f31419e8321b015d8cd4b03dce6c45",
+    "firstSeen": "2026-03-17T20:34:57.113Z",
+    "score": -3,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "a1a74d7736aa270b944e6596dc837894": {
+    "hash": "a1a74d7736aa270b944e6596dc837894",
+    "firstSeen": "2026-03-17T20:34:57.113Z",
+    "score": -5,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }
