@@ -30846,5 +30846,43 @@
     "matchedKeywords": [
       "+2 salary($25-$50)"
     ]
+  },
+  {
+    "timestamp": "2026-03-17T10:46:33.030Z",
+    "title": "Long-Term Pet Sitter – U.S. Based (Flexible Schedule, $25–$40/hr)",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rw2was/hiring_longterm_pet_sitter_us_based_flexible/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($25–$40/hr)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T10:46:33.030Z",
+    "title": "How do I create a blogging website, like where can I get hosting and domain for it?? Please read on",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1rw2i4p/how_do_i_create_a_blogging_website_like_where_can/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-17T10:46:33.030Z",
+    "title": "Remote Research Writers – Geopolitics / International Relations.",
+    "company": "",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rw25dp/hiring_remote_research_writers_geopolitics/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($100–$500)"
+    ]
   }
 ]

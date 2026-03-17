@@ -13417,5 +13417,26 @@
     "score": 0,
     "emailSent": false,
     "source": "jobicy"
+  },
+  "55a8a0ca07bdabb431d0e2a8b140d076": {
+    "hash": "55a8a0ca07bdabb431d0e2a8b140d076",
+    "firstSeen": "2026-03-17T10:46:33.030Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "43548711dc51633ef0947e6c7f91d708": {
+    "hash": "43548711dc51633ef0947e6c7f91d708",
+    "firstSeen": "2026-03-17T10:46:33.030Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "db2e3088e6afe7fce893ee644913324f": {
+    "hash": "db2e3088e6afe7fce893ee644913324f",
+    "firstSeen": "2026-03-17T10:46:33.030Z",
+    "score": -3,
+    "emailSent": false,
+    "source": "reddit"
   }
 }
