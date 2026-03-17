@@ -30534,5 +30534,256 @@
       "+1 graphql",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-17T04:15:09.752Z",
+    "title": "Intermediate Test Engineer - OP02078",
+    "company": "Dev.Pro",
+    "source": "himalayas",
+    "score": 7,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/dev-pro/jobs/intermediate-test-engineer-op02078",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "+2 smart contract",
+      "+1 typescript",
+      "+1 mongodb",
+      "+1 rest api"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T04:15:10.307Z",
+    "title": "Senior Software Engineer (Full Stack, Backend-leaning)",
+    "company": "Jerry",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/jerry/jobs/senior-software-engineer-full-stack-backend-leaning-4071542652",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+2 ai",
+      "+2 llm",
+      "+2 automation",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T04:15:10.621Z",
+    "title": "Staff Software Engineer (Full-Stack,  Backend-leaning)",
+    "company": "Jerry",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/jerry/jobs/staff-software-engineer-full-stack-backend-leaning",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T04:15:10.963Z",
+    "title": "Senior Software Engineer (Full-Stack,  Backend-leaning)",
+    "company": "Jerry",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/jerry/jobs/senior-software-engineer-full-stack-backend-leaning-4649336104",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T04:15:11.282Z",
+    "title": "Full Stack Web Developer (Philippines)",
+    "company": "be one solutions",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/be-one-solutions/jobs/full-stack-web-developer-philippines",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node",
+      "+1 graphql",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T04:15:11.597Z",
+    "title": "Machine Learning Engineer, Senior Manager",
+    "company": "Credit Acceptance",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/credit-acceptance/jobs/machine-learning-engineer-senior-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 express",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T04:15:11.914Z",
+    "title": "Remote translators for any of these languages 55~75$/hr",
+    "company": "",
+    "source": "reddit",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/forhire/comments/1rvu47o/hiring_remote_translators_for_any_of_these/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary($55-$75 / hr)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T04:15:12.224Z",
+    "title": "Senior Mobile Application Engineer",
+    "company": "Proof",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/proof-com/jobs/senior-mobile-application-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T04:15:12.539Z",
+    "title": "Developer Relations (DevRel)",
+    "company": "Featherless AI",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/featherless-ai/jobs/developer-relations-devrel-2800770385",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T04:15:12.539Z",
+    "title": "Data Scientist",
+    "company": "Imprint",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/imprint/jobs/data-scientist-1979355062",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T04:15:12.539Z",
+    "title": "Remote HR Specialist (Recruiter Focus)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rvvr5m/hiring_remote_hr_specialist_recruiter_focus/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-17T04:15:12.539Z",
+    "title": "Beyond PageSpeed Insights: What tools do you use to benchmark the impact of heavy third-party JS on Core Web Vitals?",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1rvtpcl/beyond_pagespeed_insights_what_tools_do_you_use/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-17T04:15:12.539Z",
+    "title": "Solution Engineer (Pre-Sales)",
+    "company": "SNP Group",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/snp-group/jobs/solution-engineer-pre-sales",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-17T04:15:12.539Z",
+    "title": "Senior Podcast Audio and Video Editor",
+    "company": "Hire Hangar",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/hire-hangar/jobs/senior-podcast-audio-and-video-editor-71741493",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-17T04:15:12.539Z",
+    "title": "Senior Solutions Engineer – Enterprise AI & Data Infrastructure",
+    "company": "Hire Hangar",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/hire-hangar/jobs/senior-solutions-engineer-enterprise-ai-data-infrastructure-6579235185",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T04:15:12.539Z",
+    "title": "NIH - Sr. Cybersecurity Engineer / Architect",
+    "company": "cFocus Software Incorporated",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cfocus-software-incorporated/jobs/nih-sr-cybersecurity-engineer-architect",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-17T04:15:12.539Z",
+    "title": "Associate Director Sales, Country Management Brazil",
+    "company": "Illumina",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/illumina/jobs/associate-director-sales-country-management-brazil",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-17T04:15:12.539Z",
+    "title": "Backend Software Engineer",
+    "company": "SDG Group",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sdg-group/jobs/backend-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 mongodb",
+      "+1 postgresql",
+      "+1 aws",
+      "+1 docker",
+      "-5 intern"
+    ]
   }
 ]
