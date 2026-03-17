@@ -30884,5 +30884,518 @@
       "-5 intern",
       "+2 salary($100–$500)"
     ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:23.509Z",
+    "title": "Senior Full Stack Software Engineer - (Product & Infrastructure)",
+    "company": "Pavago",
+    "source": "himalayas",
+    "score": 11,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/pavago/jobs/senior-full-stack-software-engineer-product-infrastructure-7447220196",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+1 mongodb",
+      "+1 aws",
+      "+1 graphql",
+      "+1 docker",
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:23.978Z",
+    "title": "Senior FullStack engineer (AI-First)",
+    "company": "Fulcrum",
+    "source": "himalayas",
+    "score": 9,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/fulcrum/jobs/senior-fullstack-engineer-ai-first",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+2 ai",
+      "+2 llm",
+      "+2 rag"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:24.257Z",
+    "title": "React Native Developer (Wallet team) (100% remote Worldwide)",
+    "company": "Tether Operations Limited",
+    "source": "himalayas",
+    "score": 7,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/tether-operations-limited/jobs/react-native-developer-wallet-team-100-remote-worldwide",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 blockchain",
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:24.543Z",
+    "title": "DevOps/Systems Engineer - Middle",
+    "company": "SOFTSWISS",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/softswiss/jobs/devops-systems-engineer-middle-8105175327",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 mongodb",
+      "+1 postgresql",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:24.825Z",
+    "title": "Senior Cloud Network Engineer (US Remote)",
+    "company": "First Advantage",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/first-advantage/jobs/senior-cloud-network-engineer-us-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:25.116Z",
+    "title": "Full-stack Developer (Upskilling team)",
+    "company": "TripleTen",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/tripleten/jobs/full-stack-developer-upskilling-team-7454755980",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:25.403Z",
+    "title": "PRINCIPAL R&D/PRODUCT DVL ENGINEER (#Remote, PA, US, #remote)",
+    "company": "TE Connectivity",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/te-connectivity/jobs/principal-r-d-product-dvl-engineer-remote-pa-us-remote-6668976888",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:25.689Z",
+    "title": "Full-stack Developer (Upskilling team)",
+    "company": "TripleTen",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/tripleten/jobs/full-stack-developer-upskilling-team-3444298837",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:25.689Z",
+    "title": "SAP Consultant",
+    "company": "Xtremax",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/xtremax/jobs/sap-consultant-9747504913",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:25.689Z",
+    "title": "Engineering Team Lead",
+    "company": "CommIT",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/commit/jobs/engineering-team-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:25.689Z",
+    "title": "Shopify creative nerd to move our theme to a new theme.",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rw4tmk/hiring_shopify_creative_nerd_to_move_our_theme_to/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($250-500)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:25.689Z",
+    "title": "Sr. Electrical Engineer",
+    "company": "INTECH Process Automation",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/intech-process-automation/jobs/sr-electrical-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:25.689Z",
+    "title": "Technical Consultant – Network & Observability (m/w/d)",
+    "company": "nicos GmbH",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nicos-gmbh/jobs/technical-consultant-network-observability-m-w-d",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:25.689Z",
+    "title": "Field Service Representative (2nd Shift) - Radiology - New York, NY (Residence B",
+    "company": "Bayer",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bayer/jobs/field-service-representative-2nd-shift-radiology-new-york-ny-residence-b-1569169043",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:25.689Z",
+    "title": "SEIT Project Engineering Lead",
+    "company": "Leidos",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/leidos/jobs/seit-project-engineering-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:25.689Z",
+    "title": "Technical Consultant – Network & Observability (m/w/d)",
+    "company": "nicos GmbH",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nicos-gmbh/jobs/technical-consultant-network-observability-m-w-d",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:25.689Z",
+    "title": "Field Service Representative (2nd Shift) - Radiology - New York, NY (Residence B",
+    "company": "Bayer",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bayer/jobs/field-service-representative-2nd-shift-radiology-new-york-ny-residence-b-1569169043",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:25.689Z",
+    "title": "SEIT Project Engineering Lead",
+    "company": "Leidos",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/leidos/jobs/seit-project-engineering-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:25.689Z",
+    "title": "Senior Applied AI Solutions Engineer",
+    "company": "Nebius",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nebius/jobs/senior-applied-ai-solutions-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:25.689Z",
+    "title": "Data Engineer.",
+    "company": "Pavago",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pavago/jobs/data-engineer-5652116869",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:25.689Z",
+    "title": "UChefs is Looking for Chatters to Join Our Team.",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rw5dhz/hiring_uchefs_is_looking_for_chatters_to_join_our/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-17T13:03:25.689Z",
+    "title": "Remote | $30–$42/hr | Contract",
+    "company": "Junior Software Engineer – AI Quality & Testing",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rw564c/hiring_junior_software_engineer_ai_quality/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 typescript",
+      "-5 junior",
+      "+2 salary($30–$42/hr)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:25.689Z",
+    "title": "Account Executive, Strategic Accounts | DACH",
+    "company": "Airtable",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/airtable/jobs/account-executive-strategic-accounts-dach",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-17T13:03:25.689Z",
+    "title": "Principal Statistical Programmer FSP - Tool/Macro/Utility Development",
+    "company": "Cytel",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cytel/jobs/principal-statistical-programmer-fsp-tool-macro-utility-development",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-17T13:03:25.689Z",
+    "title": "Staff Data Engineer",
+    "company": "VirtusLab",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/virtuslab/jobs/staff-data-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:25.689Z",
+    "title": "Technology Contact Center Engineering Manager",
+    "company": "Thrivent Financial for Lutherans",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/thrivent-financial-for-lutherans/jobs/technology-contact-center-engineering-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:25.689Z",
+    "title": "Technology Contact Center Engineering Manager",
+    "company": "Thrivent Financial for Lutherans",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/thrivent-financial-for-lutherans/jobs/technology-contact-center-engineering-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:25.689Z",
+    "title": "Quality Assurance Specialist - (Automation / Contact Centre applications)",
+    "company": "BMO",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bmo/jobs/quality-assurance-specialist-automation-contact-centre-applications-5343773539",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:25.689Z",
+    "title": "Tech Lead - Data Engineering",
+    "company": "SuperAwesome",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/superawesome/jobs/tech-lead-data-engineering",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:25.689Z",
+    "title": "Computer Systems Validation Specialist (GxP)",
+    "company": "Uncountable",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/uncountable/jobs/computer-systems-validation-specialist-gxp-1559881321",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:25.689Z",
+    "title": "Computer Systems Validation Specialist (GxP)",
+    "company": "Uncountable",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/uncountable/jobs/computer-systems-validation-specialist-gxp-1559881321",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:25.689Z",
+    "title": "WordPress Support Engineer",
+    "company": "Yoko Co",
+    "source": "weworkremotely",
+    "score": -4,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/yoko-co-wordpress-support-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:25.689Z",
+    "title": "VoIP Network Engineer.",
+    "company": "Pavago",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pavago/jobs/voip-network-engineer-7340266366",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:25.689Z",
+    "title": "Ingeniero/a DevOps y Automatización (Python, Ansible, Terraform) – 100% Remoto",
+    "company": "Logicalis Spain",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/logicalis-com/jobs/ingeniero-a-devops-y-automatizacion-python-ansible-terraform-100-remoto",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:25.689Z",
+    "title": "VoIP Network Engineer.",
+    "company": "Pavago",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pavago/jobs/voip-network-engineer-7340266366",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:25.689Z",
+    "title": "Ingeniero/a DevOps y Automatización (Python, Ansible, Terraform) – 100% Remoto",
+    "company": "Logicalis Spain",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/logicalis-com/jobs/ingeniero-a-devops-y-automatizacion-python-ansible-terraform-100-remoto",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T13:03:25.690Z",
+    "title": "Solution Architect, Networking - EMEA Hours",
+    "company": "Fivetran",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/fivetran/jobs/solution-architect-networking-emea-hours",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
