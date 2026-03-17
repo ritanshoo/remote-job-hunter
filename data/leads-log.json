@@ -31521,5 +31521,71 @@
       "-5 intern",
       "+2 salary($50/hr)"
     ]
+  },
+  {
+    "timestamp": "2026-03-17T17:55:37.195Z",
+    "title": "SCRIPT WRITER FOR SHORT FORM VIDEOS",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rwctcp/hiring_script_writer_for_short_form_videos/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T17:55:37.195Z",
+    "title": "URGENT: LONG FORM VIDEO EDITOR",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rwcjcu/hiring_urgent_long_form_video_editor/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-17T17:55:37.195Z",
+    "title": "Cold calling for web developers",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1rwawtc/cold_calling_for_web_developers/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-17T17:55:37.195Z",
+    "title": "Remote",
+    "company": "Software Engineer (IC1)",
+    "source": "reddit",
+    "score": -4,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rwcb8y/hiring_software_engineer_ic1_remote/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 javascript",
+      "+1 rest api",
+      "-5 junior",
+      "-5 must be authorized to work in the us",
+      "+2 salary($40)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-17T17:55:37.195Z",
+    "title": "LATAM ONLY Account Rep ($1000/month Base Pay = comissions, Remote, No Cold Outreach)",
+    "company": "",
+    "source": "reddit",
+    "score": -5,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rwdvkc/hiring_latam_only_account_rep_1000month_base_pay/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
