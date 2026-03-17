@@ -30785,5 +30785,18 @@
       "+1 docker",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-17T05:56:45.424Z",
+    "title": "Seeking Software Developer to Join Our Team ($40–$60/hr)",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/remotejs/comments/1rvxz0j/hiring_seeking_software_developer_to_join_our/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($40–$60/hr)"
+    ]
   }
 ]
