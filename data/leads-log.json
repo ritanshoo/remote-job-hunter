@@ -32682,5 +32682,32 @@
     "url": "https://www.reddit.com/r/webdev/comments/1rx1ak5/am_i_the_only_one_who_is_frustrated_with_supabase/",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-18T13:02:36.866Z",
+    "title": "Growth manager - Website and Data",
+    "company": "TestGorilla",
+    "source": "weworkremotely",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/testgorilla-growth-manager-website-and-data",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T13:02:36.866Z",
+    "title": "Personalized Ads Evaluator",
+    "company": "TELUS Digital",
+    "source": "workingnomads",
+    "score": -5,
+    "priority": "low",
+    "url": "https://www.workingnomads.com/job/go/1485629/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
