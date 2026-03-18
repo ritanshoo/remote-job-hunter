@@ -14488,5 +14488,26 @@
     "score": -10,
     "emailSent": false,
     "source": "reddit"
+  },
+  "afdfa24808e3868c2e3bc6260173bb9c": {
+    "hash": "afdfa24808e3868c2e3bc6260173bb9c",
+    "firstSeen": "2026-03-18T17:58:27.577Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "035d3263f289cc2334c033c0ea0fe6f6": {
+    "hash": "035d3263f289cc2334c033c0ea0fe6f6",
+    "firstSeen": "2026-03-18T17:58:27.577Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "904e166b6413838e6be25d963c608f78": {
+    "hash": "904e166b6413838e6be25d963c608f78",
+    "firstSeen": "2026-03-18T17:58:27.577Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
   }
 }
