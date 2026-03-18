@@ -32830,5 +32830,80 @@
       "-5 based in the us",
       "-5 eu only"
     ]
+  },
+  {
+    "timestamp": "2026-03-18T20:32:16.688Z",
+    "title": "ZTNA & IAM Engineer",
+    "company": "GoTo",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/goto/jobs/ztna-iam-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T20:32:16.689Z",
+    "title": "Account Manager",
+    "company": "EMERSE SALES US INC",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/emerse-sales-us-inc/jobs/account-manager-5746890021",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T20:32:16.689Z",
+    "title": "User Acceptance Tester",
+    "company": "Paradigm",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/paradigmins/jobs/user-acceptance-tester",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T20:32:16.689Z",
+    "title": "SAP FIORI Developer",
+    "company": "GSB Solutions",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gsb-solutions/jobs/sap-fiori-developer-3041135033",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T20:32:16.689Z",
+    "title": "Sales Engineer, Major Enterprise",
+    "company": "Fortinet",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/fortinet/jobs/sales-engineer-major-enterprise",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-18T20:32:16.689Z",
+    "title": "Senior Java IVR Application Developer",
+    "company": "Miratech",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/miratech/jobs/senior-java-ivr-application-developer-7866275612",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
