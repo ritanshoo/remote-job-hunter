@@ -32647,5 +32647,40 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-18T11:42:22.527Z",
+    "title": "Music Producer for a Classic 20-Song Rap Album",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rx0szn/hiring_music_producer_for_a_classic_20song_rap/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($600 - $800,)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T11:42:22.527Z",
+    "title": "Content Manager",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rx1b0c/hiring_content_manager/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-18T11:42:22.527Z",
+    "title": "Am I the only one who is frustrated with supabase?",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1rx1ak5/am_i_the_only_one_who_is_frustrated_with_supabase/",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
