@@ -32096,5 +32096,29 @@
     "matchedKeywords": [
       "+2 salary($200–$300)"
     ]
+  },
+  {
+    "timestamp": "2026-03-18T01:54:46.595Z",
+    "title": "What not too costly MacBook should I get for web and react native app dev?",
+    "company": "",
+    "source": "reddit",
+    "score": 3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1rwnjua/what_not_too_costly_macbook_should_i_get_for_web/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T01:54:46.595Z",
+    "title": "Digital Analytics Engineer (GA4 / GTM)",
+    "company": "We Work Remotely",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/we-work-remotely-digital-analytics-engineer-ga4-gtm",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
