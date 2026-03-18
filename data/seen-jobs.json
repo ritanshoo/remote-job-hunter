@@ -14145,5 +14145,40 @@
     "score": -10,
     "emailSent": false,
     "source": "weworkremotely"
+  },
+  "b2f856f5c4d323c15aa567c477815bc6": {
+    "hash": "b2f856f5c4d323c15aa567c477815bc6",
+    "firstSeen": "2026-03-18T09:51:41.848Z",
+    "score": 8,
+    "emailSent": false,
+    "source": "jobicy"
+  },
+  "c20c92c771bceb630e9498fa524a0819": {
+    "hash": "c20c92c771bceb630e9498fa524a0819",
+    "firstSeen": "2026-03-18T09:51:41.848Z",
+    "score": 3,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "9082c061bc18b4eb82ffaba21ca2ae9e": {
+    "hash": "9082c061bc18b4eb82ffaba21ca2ae9e",
+    "firstSeen": "2026-03-18T09:51:41.848Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "jobicy"
+  },
+  "34c5df5e7389c4a453455ce813d75054": {
+    "hash": "34c5df5e7389c4a453455ce813d75054",
+    "firstSeen": "2026-03-18T09:51:41.848Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "jobicy"
+  },
+  "7936b5cf97eb0b3b8f66a0f6c9983973": {
+    "hash": "7936b5cf97eb0b3b8f66a0f6c9983973",
+    "firstSeen": "2026-03-18T09:51:41.848Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "jobicy"
   }
 }

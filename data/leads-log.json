@@ -32189,5 +32189,72 @@
       "-5 intern",
       "-5 united states only"
     ]
+  },
+  {
+    "timestamp": "2026-03-18T09:51:41.848Z",
+    "title": "Full Stack Software Engineer",
+    "company": "Vonage",
+    "source": "jobicy",
+    "score": 8,
+    "priority": "high",
+    "url": "https://jobicy.com/jobs/140849-full-stack-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+2 ai",
+      "+1 typescript",
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T09:51:41.848Z",
+    "title": "pdfx add heading (like shadcn add button). Looking for honest feedback.",
+    "company": "I built a shadcn/ui-inspired PDF component library for React",
+    "source": "reddit",
+    "score": 3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1rwzbs9/i_built_a_shadcnuiinspired_pdf_component_library/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T09:51:41.848Z",
+    "title": "Sr. Staff Software Development Engineer",
+    "company": "Zscaler",
+    "source": "jobicy",
+    "score": 2,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/140865-sr-staff-software-development-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T09:51:41.848Z",
+    "title": "Software Engineer – Data Engineering",
+    "company": "Catawiki",
+    "source": "jobicy",
+    "score": 2,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/140842-software-engineer-data-engineering",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T09:51:41.848Z",
+    "title": "Software Engineer",
+    "company": "Ping Identity",
+    "source": "jobicy",
+    "score": 0,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/140848-software-engineer-3",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
