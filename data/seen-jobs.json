@@ -14131,5 +14131,19 @@
     "score": 0,
     "emailSent": false,
     "source": "remotive"
+  },
+  "a5406ef00d0252fc5e6e27935c4f6107": {
+    "hash": "a5406ef00d0252fc5e6e27935c4f6107",
+    "firstSeen": "2026-03-18T08:42:52.115Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "aa78854b32a1204239f2d74f6bc949f2": {
+    "hash": "aa78854b32a1204239f2d74f6bc949f2",
+    "firstSeen": "2026-03-18T08:42:52.115Z",
+    "score": -10,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }
