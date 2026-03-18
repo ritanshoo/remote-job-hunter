@@ -32709,5 +32709,126 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-18T16:11:37.920Z",
+    "title": "$150k+",
+    "company": "Full Stack Software Engineer (Remote, US only)",
+    "source": "reddit",
+    "score": 16,
+    "priority": "high",
+    "url": "https://www.reddit.com/r/forhire/comments/1rx832w/hiring_full_stack_software_engineer_remote_us/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+1 javascript",
+      "+1 typescript",
+      "+2 salary($150)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T16:11:38.508Z",
+    "title": "300$ Per Video)",
+    "company": "Female On-Camera Lead — YouTube Channel (150$",
+    "source": "reddit",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/forhire/comments/1rx22c8/hiring_female_oncamera_lead_youtube_channel_150/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+2 salary($150 - $300)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T16:11:38.803Z",
+    "title": "AI build studio looking for hungry devs who code with AI",
+    "company": "",
+    "source": "reddit",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/forhire/comments/1rx2eve/hiring_ai_build_studio_looking_for_hungry_devs/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T16:11:38.803Z",
+    "title": "today 100£ per day.",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rx6sdl/hiring_today_100_per_day/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-18T16:11:38.803Z",
+    "title": "chrome extension only works on hard refresh, breaks during navigation (GitHub SPA)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1rx76ux/chrome_extension_only_works_on_hard_refresh/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-18T16:11:38.803Z",
+    "title": "Seeking General Advice on Legal & Regulatory Considerations for Peer-to-Peer Accountability App",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1rx4fvx/seeking_general_advice_on_legal_regulatory/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-18T16:11:38.803Z",
+    "title": "15$ per sign-up usa only",
+    "company": "",
+    "source": "reddit",
+    "score": -5,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rx4a5g/hiring_15_per_signup_usa_only/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 usa only"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T16:11:38.803Z",
+    "title": "Hiring Web Developer (Intern or Full-Time) Meerut / Fully Remote",
+    "company": "",
+    "source": "reddit",
+    "score": -5,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/remotejs/comments/1rx2vzl/hiring_web_developer_intern_or_fulltime_meerut/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T16:11:38.803Z",
+    "title": "Extra income opportunity (US/EU only, 21+)",
+    "company": "",
+    "source": "reddit",
+    "score": -10,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rx2jxy/hiringextra_income_opportunity_useu_only_21/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 based in the us",
+      "-5 eu only"
+    ]
   }
 ]
