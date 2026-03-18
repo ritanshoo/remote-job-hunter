@@ -32256,5 +32256,396 @@
     "url": "https://jobicy.com/jobs/140848-software-engineer-3",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-18T10:48:54.292Z",
+    "title": "Senior Fullstack Developer (m/w/d)",
+    "company": "virtual7 GmbH",
+    "source": "himalayas",
+    "score": 9,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/virtual7-gmbh/jobs/senior-fullstack-developer-m-w-d",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+3 react",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T10:48:54.952Z",
+    "title": "Senior Python Systems Developer - Functional Testing Project",
+    "company": "name",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/mindrift/jobs/senior-python-systems-developer-functional-testing-project-5824160677",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 docker",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T10:48:55.295Z",
+    "title": "Machine Learning Developer (Freelance)",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/mindrift/jobs/machine-learning-developer-freelance-8209338140",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T10:48:55.645Z",
+    "title": "Engineering Manager, AST: Composition Analysis",
+    "company": "GitLab",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/gitlab-com/jobs/engineering-manager-ast-composition-analysis",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T10:48:55.990Z",
+    "title": "Machine Learning Developer (Freelance)",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/mindrift/jobs/machine-learning-developer-freelance-8775530898",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T10:48:56.338Z",
+    "title": "Senior SDET",
+    "company": "YipitData",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/yipitdata/jobs/senior-sdet",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary($475)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T10:48:56.682Z",
+    "title": "Senior Technical Recruiter (Network Engineering) - Contract",
+    "company": "Blaze Talent",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/blaze-talent/jobs/senior-technical-recruiter-network-engineering-contract",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T10:48:56.682Z",
+    "title": "ZTNA & IAM Engineer",
+    "company": "name",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/goto/jobs/ztna-iam-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T10:48:56.683Z",
+    "title": ".Net Developer - India",
+    "company": "New Era Technology",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/new-era-technology/jobs/net-developer-india",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T10:48:56.683Z",
+    "title": "Sr TechOps Lead Engineer (AWS Cloud)- REMOTE",
+    "company": "Simple Software Solutions Group",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/simple-software-solutions-group/jobs/sr-techops-lead-engineer-aws-cloud-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T10:48:56.683Z",
+    "title": "Data Architect / Cloud Architect (Architecture Review & Advisory) CONTRACT - REM",
+    "company": "Broadridge",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/broadridge/jobs/data-architect-cloud-architect-architecture-review-advisory-contract-rem",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T10:48:56.683Z",
+    "title": "Account Manager",
+    "company": "name",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/emerse-sales-us-inc/jobs/account-manager-5746890021",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T10:48:56.683Z",
+    "title": "User Acceptance Tester",
+    "company": "name",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/paradigmins/jobs/user-acceptance-tester",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T10:48:56.683Z",
+    "title": "Senior Machine Learning Engineer - Automatic Speech Recognition (ASR)",
+    "company": "Cresta",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cresta/jobs/senior-machine-learning-engineer-automatic-speech-recognition-asr",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T10:48:56.683Z",
+    "title": "Account Executive (B2B, EU Market, Nebius Academy)",
+    "company": "TripleTen",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/tripleten/jobs/account-executive-b2b-eu-market-nebius-academy-2582817074",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T10:48:56.683Z",
+    "title": "Principal Software Engineer",
+    "company": "General Motors",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/general-motors/jobs/principal-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T10:48:56.683Z",
+    "title": "jr. Test Engineer",
+    "company": "Bold",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bold/jobs/jr-test-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($120)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T10:48:56.683Z",
+    "title": "SAP FIORI Developer",
+    "company": "name",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gsb-solutions/jobs/sap-fiori-developer-3041135033",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T10:48:56.683Z",
+    "title": "Site Reliability Engineering, Lead Engineer",
+    "company": "FICO",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/fico/jobs/site-reliability-engineering-lead-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T10:48:56.683Z",
+    "title": "Sales Engineer, Major Enterprise",
+    "company": "name",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/fortinet/jobs/sales-engineer-major-enterprise",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-18T10:48:56.683Z",
+    "title": "Technicien frigoriste - Chartres H/F",
+    "company": "Carrier",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/carrier/jobs/technicien-frigoriste-chartres-h-f",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-18T10:48:56.683Z",
+    "title": "C# .Net Developer",
+    "company": "Gainwell Technologies",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gainwell-technologies/jobs/c-net-developer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-18T10:48:56.683Z",
+    "title": "Forensic MEP Engineer",
+    "company": "HKA Global",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/hka-global/jobs/forensic-mep-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-18T10:48:56.683Z",
+    "title": "Pr Stats Prog",
+    "company": "Syneos Health India Private Limited",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/syneos-health-india-private-limited/jobs/pr-stats-prog",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-18T10:48:56.683Z",
+    "title": "Senior Unreal Engine Engineer",
+    "company": "N-iX",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/n-ix/jobs/senior-unreal-engine-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-18T10:48:56.683Z",
+    "title": "iOS App Developer (Remote - M/F/D)",
+    "company": "Arise App",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/arise-app/jobs/ios-app-developer-remote-m-f-d-3931012433",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-18T10:48:56.683Z",
+    "title": "iOS App Developer (Remote - M/F/D)",
+    "company": "Arise App",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/arise-app/jobs/ios-app-developer-remote-m-f-d-9411959187",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-18T10:48:56.683Z",
+    "title": "Software Engineering Manager - Platform",
+    "company": "ENSEK",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ensek/jobs/software-engineering-manager-platform",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T10:48:56.683Z",
+    "title": "Automotive Engineering & Python Expert - Freelance AI Trainer",
+    "company": "name",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/automotive-engineering-python-expert-freelance-ai-trainer-1231296718",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T10:48:56.683Z",
+    "title": "Java Solutions Engineer",
+    "company": "Fiserv",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/fiserv/jobs/java-solutions-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
