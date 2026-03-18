@@ -32134,5 +32134,33 @@
       "+2 ai",
       "+2 salary($35/hr)"
     ]
+  },
+  {
+    "timestamp": "2026-03-18T06:00:38.090Z",
+    "title": "$100-200K + Equity",
+    "company": "(Remote / Kirkland, WA) AI Startup Hiring Marketing Manager, Product Manager, AI Software Engineer",
+    "source": "reddit",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/forhire/comments/1rwvmfv/hiring_remote_kirkland_wa_ai_startup_hiring/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 salary($100-200)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T06:00:38.090Z",
+    "title": "to revamp wordpress website, $500",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rwu1p8/hiring_to_revamp_wordpress_website_500/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($500)"
+    ]
   }
 ]

@@ -14103,5 +14103,19 @@
     "score": 4,
     "emailSent": false,
     "source": "reddit"
+  },
+  "966436f9c3ce90c8f9a29f5f12dce81f": {
+    "hash": "966436f9c3ce90c8f9a29f5f12dce81f",
+    "firstSeen": "2026-03-18T06:00:38.090Z",
+    "score": 6,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "78816d3916ec15434f3aa271f56a0693": {
+    "hash": "78816d3916ec15434f3aa271f56a0693",
+    "firstSeen": "2026-03-18T06:00:38.090Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "reddit"
   }
 }
