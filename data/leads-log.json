@@ -32905,5 +32905,24 @@
     "url": "https://himalayas.app/companies/miratech/jobs/senior-java-ivr-application-developer-7866275612",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-18T21:30:34.785Z",
+    "title": "Senior Software Engineer",
+    "company": "Mangomint",
+    "source": "weworkremotely",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/mangomint-senior-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+1 typescript",
+      "+1 postgresql",
+      "+1 aws",
+      "+1 rest api",
+      "-5 intern"
+    ]
   }
 ]

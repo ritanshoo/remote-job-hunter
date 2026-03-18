@@ -14551,5 +14551,19 @@
     "score": 0,
     "emailSent": false,
     "source": "himalayas"
+  },
+  "9ad6e31cbdd7d1abf8a8658567f162b6": {
+    "hash": "9ad6e31cbdd7d1abf8a8658567f162b6",
+    "firstSeen": "2026-03-18T21:30:33.946Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "1ab8f41a22e6aa72caf06aa94b6b4ab7": {
+    "hash": "1ab8f41a22e6aa72caf06aa94b6b4ab7",
+    "firstSeen": "2026-03-18T21:30:34.785Z",
+    "score": 5,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }
