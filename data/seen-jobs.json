@@ -14845,5 +14845,61 @@
     "score": -5,
     "emailSent": false,
     "source": "himalayas"
+  },
+  "e678fc30ef01fb7aaf47fede53325f56": {
+    "hash": "e678fc30ef01fb7aaf47fede53325f56",
+    "firstSeen": "2026-03-19T06:55:02.458Z",
+    "score": 3,
+    "emailSent": false,
+    "source": "jobicy"
+  },
+  "ee50f3bbe07a26572fe6d403bb94e48b": {
+    "hash": "ee50f3bbe07a26572fe6d403bb94e48b",
+    "firstSeen": "2026-03-19T06:55:02.458Z",
+    "score": 3,
+    "emailSent": false,
+    "source": "jobicy"
+  },
+  "ee87c067b81693ea5f0ea7df73b40b96": {
+    "hash": "ee87c067b81693ea5f0ea7df73b40b96",
+    "firstSeen": "2026-03-19T06:55:02.458Z",
+    "score": 3,
+    "emailSent": false,
+    "source": "jobicy"
+  },
+  "ad1cca5e76dab8a048535c9b6b41e9e6": {
+    "hash": "ad1cca5e76dab8a048535c9b6b41e9e6",
+    "firstSeen": "2026-03-19T06:55:02.458Z",
+    "score": 1,
+    "emailSent": false,
+    "source": "jobicy"
+  },
+  "e778f98b71671183e30bd9b0dc142a2f": {
+    "hash": "e778f98b71671183e30bd9b0dc142a2f",
+    "firstSeen": "2026-03-19T06:55:02.458Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "jobicy"
+  },
+  "edff88b1e08f532b64ebb080bde471d5": {
+    "hash": "edff88b1e08f532b64ebb080bde471d5",
+    "firstSeen": "2026-03-19T06:55:02.458Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "jobicy"
+  },
+  "0af85e61e1147d7e06a5bf607895e6b9": {
+    "hash": "0af85e61e1147d7e06a5bf607895e6b9",
+    "firstSeen": "2026-03-19T06:55:02.458Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "jobicy"
+  },
+  "013519d9c75f23e44cdca69b1b205d02": {
+    "hash": "013519d9c75f23e44cdca69b1b205d02",
+    "firstSeen": "2026-03-19T06:55:02.458Z",
+    "score": -5,
+    "emailSent": false,
+    "source": "jobicy"
   }
 }

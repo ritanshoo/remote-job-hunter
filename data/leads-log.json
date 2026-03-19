@@ -33447,5 +33447,111 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-19T06:55:02.458Z",
+    "title": "Sr Software Engineer, Commercial Services",
+    "company": "Natera",
+    "source": "jobicy",
+    "score": 3,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/140950-sr-software-engineer-commercial-services",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 graphql"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T06:55:02.458Z",
+    "title": "Software Engineer, Test & Privacy",
+    "company": "Meta",
+    "source": "jobicy",
+    "score": 3,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/140941-software-engineer-test-privacy",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T06:55:02.458Z",
+    "title": "Software Engineer V",
+    "company": "ECS",
+    "source": "jobicy",
+    "score": 3,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/140934-software-engineer-v",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+2 salary($120,000 - $135,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T06:55:02.458Z",
+    "title": "Software Engineer III, Commercial Services",
+    "company": "Natera",
+    "source": "jobicy",
+    "score": 1,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/140951-software-engineer-iii-commercial-services",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 graphql"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T06:55:02.458Z",
+    "title": "Software Engineer, Multi-Sensor-Fusion for Obstacle Perception- Autonomous Vehicles",
+    "company": "NVIDIA",
+    "source": "jobicy",
+    "score": 0,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/140975-software-engineer-multi-sensor-fusion-for-obstacle-perception-autonomous-vehicles",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-19T06:55:02.458Z",
+    "title": "Software Engineer (Technical Leadership) – Machine Learning",
+    "company": "Meta",
+    "source": "jobicy",
+    "score": 0,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/140943-software-engineer-technical-leadership-machine-learning",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-19T06:55:02.458Z",
+    "title": "Software Engineer Intern (.Net, Vue/React)",
+    "company": "CoverGo",
+    "source": "jobicy",
+    "score": 0,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/140916-software-engineer-intern-net-vue-react",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 javascript",
+      "+1 express",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T06:55:02.458Z",
+    "title": "Software Engineer",
+    "company": "Meta",
+    "source": "jobicy",
+    "score": -5,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/140939-software-engineer-4",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
