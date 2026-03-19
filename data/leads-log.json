@@ -34145,5 +34145,36 @@
     "matchedKeywords": [
       "-5 junior"
     ]
+  },
+  {
+    "timestamp": "2026-03-19T15:51:48.730Z",
+    "title": "Java Developer - AI (Backend)",
+    "company": "CloudDevs",
+    "source": "weworkremotely",
+    "score": 8,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/clouddevs-java-developer-ai-backend",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+1 postgresql",
+      "+1 aws",
+      "+1 rest api"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T15:51:49.377Z",
+    "title": "Head of Engineering",
+    "company": "Lemon.io",
+    "source": "workingnomads",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://www.workingnomads.com/job/go/1487226/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary($16)"
+    ]
   }
 ]
