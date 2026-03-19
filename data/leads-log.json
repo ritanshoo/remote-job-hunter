@@ -34176,5 +34176,19 @@
       "+2 ai",
       "+2 salary($16)"
     ]
+  },
+  {
+    "timestamp": "2026-03-19T17:51:29.530Z",
+    "title": "Head of Engineering",
+    "company": "Lemon.io",
+    "source": "weworkremotely",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/lemon-io-head-of-engineering",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary($16)"
+    ]
   }
 ]
