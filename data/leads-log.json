@@ -34190,5 +34190,182 @@
       "+2 ai",
       "+2 salary($16)"
     ]
+  },
+  {
+    "timestamp": "2026-03-19T20:48:00.422Z",
+    "title": "Enterprise Product Manager",
+    "company": "Jump",
+    "source": "weworkremotely",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/jump-enterprise-product-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+2 salary($160–220)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T20:48:00.889Z",
+    "title": "AI Customer Support - AI Training",
+    "company": "Lilt",
+    "source": "weworkremotely",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/lilt-ai-customer-support-ai-training",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary($50)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T20:48:01.162Z",
+    "title": "Staff AI Engineer - AI Product",
+    "company": "Clickup",
+    "source": "weworkremotely",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/clickup-staff-ai-engineer-ai-product",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 javascript",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T20:48:01.438Z",
+    "title": "Senior AI Engineer - AI Product",
+    "company": "Clickup",
+    "source": "weworkremotely",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/clickup-senior-ai-engineer-ai-product",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 javascript",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T20:48:01.438Z",
+    "title": "Product Marketing Manager (Contract)",
+    "company": "Leadsimple",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/leadsimple-product-marketing-manager-contract",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-19T20:48:01.438Z",
+    "title": "Inside Sales Representative",
+    "company": "DOT Compliance Group, LLC.",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/dot-compliance-group-llc-inside-sales-representative",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-19T20:48:01.438Z",
+    "title": "Product Marketing Lead, Consumer",
+    "company": "Classdojo",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/classdojo-product-marketing-lead-consumer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary($125)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T20:48:01.438Z",
+    "title": "01 Product Leader",
+    "company": "Classdojo",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/classdojo-01-product-leader",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($188,000 - $280,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T20:48:01.438Z",
+    "title": "Monetization Growth Product Manager",
+    "company": "Classdojo",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/classdojo-monetization-growth-product-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($188,000 - $269,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T20:48:01.438Z",
+    "title": "Revenue Product Lead",
+    "company": "Classdojo",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/classdojo-revenue-product-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($188,000 - $280,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T20:48:01.438Z",
+    "title": "Formateur IT Indépendant  Cybersécurité,IA, DevOps, Réseaux ...",
+    "company": "Alphorm",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/alphorm-formateur-it-independant-cybersecurite-ia-devops-reseaux",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T20:48:01.438Z",
+    "title": "Account Manager",
+    "company": "Clipboard Health",
+    "source": "workingnomads",
+    "score": -5,
+    "priority": "low",
+    "url": "https://www.workingnomads.com/job/go/1487907/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T20:48:01.438Z",
+    "title": "Lead Generation Specialist",
+    "company": "Clipboard Health",
+    "source": "workingnomads",
+    "score": -5,
+    "priority": "low",
+    "url": "https://www.workingnomads.com/job/go/1487905/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
