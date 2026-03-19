@@ -33092,5 +33092,360 @@
       "-5 intern",
       "+2 salary($30–$100/hr)"
     ]
+  },
+  {
+    "timestamp": "2026-03-19T05:55:47.012Z",
+    "title": "AI Algorithm Engineer (Agent Specialization)",
+    "company": "CoinMarketCap",
+    "source": "himalayas",
+    "score": 11,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/coinmarketcap/jobs/ai-algorithm-engineer-agent-specialization-9754181870",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 web3",
+      "+2 ai",
+      "+2 llm",
+      "+2 rag"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T05:55:47.624Z",
+    "title": "Senior Full Stack Developer.",
+    "company": "Pavago",
+    "source": "himalayas",
+    "score": 9,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/pavago/jobs/senior-full-stack-developer-9132063732",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+1 mongodb",
+      "+1 graphql",
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T05:55:47.998Z",
+    "title": "Go-to-Market Engineer",
+    "company": "TestGorilla",
+    "source": "weworkremotely",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/testgorilla-go-to-market-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+2 salary($63,614)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T05:55:48.275Z",
+    "title": "Principal Engineer, Infrastructure (Remote, US)",
+    "company": "Syniti",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/syniti/jobs/principal-engineer-infrastructure-remote-us-9277651674",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T05:55:48.554Z",
+    "title": "AI/LLM SEO Expert, Global",
+    "company": "Binance",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/binance/jobs/ai-llm-seo-expert-global-8348164098",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "+2 web3",
+      "+2 ai",
+      "+2 llm",
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T05:55:48.915Z",
+    "title": "Software Developer (Mobile & Web)",
+    "company": "My VA Support, Inc.",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/my-va-support-inc/jobs/software-developer-mobile-web",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+1 typescript",
+      "+1 postgresql",
+      "+1 aws",
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T05:55:48.915Z",
+    "title": "Senior Site Reliability Engineer (SRE)",
+    "company": "Degica",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/degica/jobs/senior-site-reliability-engineer-sre",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T05:55:48.915Z",
+    "title": "SENIOR DATA ENGINEER (REMOTE, IL, US, REMOTE)",
+    "company": "Compass Group",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/compass-group/jobs/senior-data-engineer-remote-il-us-remote-4208019278",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T05:55:48.915Z",
+    "title": "Senior Security Engineer",
+    "company": "Stensul",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/stensul/jobs/senior-security-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T05:55:48.915Z",
+    "title": "Software Engineer Apprentice",
+    "company": "allstate-plumbing",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/allstate-plumbing/jobs/software-engineer-apprentice",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T05:55:48.915Z",
+    "title": "Principal Software Engineer-SRE",
+    "company": "PTC",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ptc/jobs/principal-software-engineer-sre",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T05:55:48.915Z",
+    "title": ".NET Developer for a B2B Company (US-Based/Remote)",
+    "company": "Paired",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/paired-so/jobs/net-developer-for-a-b2b-company-us-based-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T05:55:48.915Z",
+    "title": "Senior Dynatrace Observability Consultant - Remote (Madrid, ES)",
+    "company": "Atos",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/atos/jobs/senior-dynatrace-observability-consultant-remote-madrid-es-1923833812",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T05:55:48.915Z",
+    "title": "ASP.Net Web Forms Developer",
+    "company": "CACI International Inc",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/caci-international-inc/jobs/asp-net-web-forms-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T05:55:48.915Z",
+    "title": "[Job - 27958] Senior Mobile IOS Developer, Brasil",
+    "company": "CI&T",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ci-t/jobs/job-27958-senior-mobile-ios-developer-brasil",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T05:55:48.915Z",
+    "title": "Web Development Teaching Experts LATAM",
+    "company": "TripleTen",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/tripleten/jobs/web-development-teaching-experts-latam-3297541333",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-19T05:55:48.915Z",
+    "title": "Masterarbeit: Erfolgsfaktoren  für die Anbindung von Kundengeräten im  Maschinen",
+    "company": "Karriere bei FIR e. V. an der RWTH Aachen",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/karriere-bei-fir-e-v-an-der-rwth-aachen/jobs/masterarbeit-erfolgsfaktoren-fur-die-anbindung-von-kundengeraten-im-maschinen",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-19T05:55:48.915Z",
+    "title": "Senior Java Developer (PL)",
+    "company": "Vistra Corporate Services (Sea) Pte. Ltd",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/vistra-corporate-services-sea-pte-ltd/jobs/senior-java-developer-pl-766925679",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-19T05:55:48.915Z",
+    "title": "Go Engineer (GCP) - (26030501)",
+    "company": "Third Eye Software",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/third-eye-software/jobs/go-engineer-gcp-26030501",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-19T05:55:48.915Z",
+    "title": "Nearshore Sector | Azure Integration Engineer",
+    "company": "Devoteam",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/devoteam/jobs/nearshore-sector-azure-integration-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-19T05:55:48.915Z",
+    "title": "Open Application (Gdańsk)",
+    "company": "Sopra Steria",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sopra-steria/jobs/open-application-gdansk",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-19T05:55:48.915Z",
+    "title": "Senior Software Development Engineer (Java)",
+    "company": "Hazelcast",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/hazelcast/jobs/senior-software-development-engineer-java",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-19T05:55:48.915Z",
+    "title": "ANALYTICS ENGINEER-REMOTE (REMOTE, TX, US, REMOTE)",
+    "company": "Compass Group",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/compass-group/jobs/analytics-engineer-remote-remote-tx-us-remote-759293015",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T05:55:48.915Z",
+    "title": "Actuarial Analyst",
+    "company": "Innovaccer",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/innovaccer/jobs/actuarial-analyst",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T05:55:48.915Z",
+    "title": "Data Scientist (Risk)",
+    "company": "Tabby",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/tabby/jobs/data-scientist-risk",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-19T05:55:48.916Z",
+    "title": "Cyber Security Specialist",
+    "company": "Spiralyze",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/spiralyze/jobs/cyber-security-specialist-4645638604",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
