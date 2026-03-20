@@ -34721,5 +34721,321 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-20T05:49:03.032Z",
+    "title": "AI DevOps Engineer (Kubernetes/ AWS/ Terraform)",
+    "company": "Binance",
+    "source": "himalayas",
+    "score": 12,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/binance/jobs/ai-devops-engineer-kubernetes-aws-terraform",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "+2 web3",
+      "+2 ai",
+      "+2 llm",
+      "+2 automation",
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-20T05:49:03.513Z",
+    "title": "Software Engineer II, Fullstack",
+    "company": "Dave",
+    "source": "himalayas",
+    "score": 9,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/dave/jobs/software-engineer-ii-fullstack",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+3 react",
+      "+2 ai",
+      "+2 chatbot",
+      "+1 javascript",
+      "+1 typescript",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-20T05:49:03.808Z",
+    "title": "Backend Engineer (Node.js)",
+    "company": "Remedy Product Studio",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/remedy-product-studio/jobs/backend-engineer-node-js",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node.js",
+      "+3 node"
+    ]
+  },
+  {
+    "timestamp": "2026-03-20T05:49:04.108Z",
+    "title": "Incident Response Security Engineer",
+    "company": "Clickhouse",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/clickhouse/jobs/incident-response-security-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+2 salary($400)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-20T05:49:04.394Z",
+    "title": "AI Automation & Agents Coach (Contract)",
+    "company": "Leland",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/leland/jobs/ai-automation-agents-coach-contract",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+2 salary($19)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-20T05:49:04.679Z",
+    "title": "Head of Applied AI & Trading Systems (Iron Man Track)",
+    "company": "Deeter Analytics ",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/deeter-analytics/jobs/head-of-applied-ai-trading-systems-iron-man-track-6247261269",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 salary($500)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-20T05:49:04.969Z",
+    "title": "Senior Software Engineer, Fullstack",
+    "company": "Dave",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/dave/jobs/senior-software-engineer-fullstack",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-20T05:49:05.256Z",
+    "title": "[Job - 28050]  Senior Backend Developer (Java/Springboot), Brasil",
+    "company": "CI&T",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/ci-t/jobs/job-28050-senior-backend-developer-java-springboot-brasil",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-20T05:49:05.256Z",
+    "title": "Senior AI Platform Engineer",
+    "company": "TetraScience",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/tetrascience/jobs/senior-ai-platform-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-20T05:49:05.256Z",
+    "title": "Senior Software Engineer",
+    "company": "TetraScience",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/tetrascience/jobs/senior-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-20T05:49:05.256Z",
+    "title": "Product Manager",
+    "company": "Bjak",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bjak/jobs/product-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-20T05:49:05.256Z",
+    "title": "Senior Salesforce Developer",
+    "company": "H.W. Kaufman Financial Group",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/h-w-kaufman-financial-group/jobs/senior-salesforce-developer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-20T05:49:05.256Z",
+    "title": "Frontend Engineer",
+    "company": "Teya",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/teya/jobs/frontend-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-20T05:49:05.256Z",
+    "title": "Modern Workplace Engineer",
+    "company": "Methods",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/methods/jobs/modern-workplace-engineer-4062697571",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-20T05:49:05.256Z",
+    "title": "Senior Controls Engineer (Remote work, US)",
+    "company": "Körber",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/korber/jobs/senior-controls-engineer-remote-work-us-5859837612",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-20T05:49:05.256Z",
+    "title": "Solution Architect D365&FO",
+    "company": "Concentrix",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/concentrix/jobs/solution-architect-d365-fo",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-20T05:49:05.256Z",
+    "title": "Audytor wyrobów in-vitro",
+    "company": "SGS",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sgs/jobs/audytor-wyrobow-in-vitro",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-20T05:49:05.256Z",
+    "title": "Senior Tenable Engineer",
+    "company": "CACI International Inc",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/caci-international-inc/jobs/senior-tenable-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-20T05:49:05.256Z",
+    "title": "Package, Assembly, Test (PAT) Team Lead",
+    "company": "Lyte AI",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/lyte-ai/jobs/package-assembly-test-pat-team-lead-3953357396",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-20T05:49:05.256Z",
+    "title": "Senior DevOps Engineer",
+    "company": "IT Labs",
+    "source": "himalayas",
+    "score": -2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/it-labs/jobs/senior-devops-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-20T05:49:05.256Z",
+    "title": "Senior Backend Engineer",
+    "company": "Teya",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/teya/jobs/senior-backend-engineer-8750468233",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-20T05:49:05.256Z",
+    "title": "Backend Engineer",
+    "company": "Teya",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/teya/jobs/backend-engineer-6305290677",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-20T05:49:05.256Z",
+    "title": "Senior QA Engineer - Manual",
+    "company": "Creative Chaos",
+    "source": "himalayas",
+    "score": -10,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/creative-chaos/jobs/senior-qa-engineer-manual",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 junior",
+      "-5 intern"
+    ]
   }
 ]
