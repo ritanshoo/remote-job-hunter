@@ -35598,5 +35598,145 @@
       "-5 intern",
       "-5 internship"
     ]
+  },
+  {
+    "timestamp": "2026-03-20T21:26:50.647Z",
+    "title": "Product Security Manager, Secure Design",
+    "company": "Digitalocean",
+    "source": "weworkremotely",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/digitalocean-product-security-manager-secure-design",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+2 automation",
+      "+1 express",
+      "-5 intern",
+      "+2 salary($181,600)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-20T21:26:51.245Z",
+    "title": "1025 | Senior DevOps Engineer",
+    "company": "Intetics",
+    "source": "weworkremotely",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/intetics-1025-senior-devops-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 postgresql",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-20T21:26:51.245Z",
+    "title": "Principal Product Manager, AI Factory",
+    "company": "Domino Data Lab",
+    "source": "weworkremotely",
+    "score": 2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/domino-data-lab-principal-product-manager-ai-factory",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-20T21:26:51.245Z",
+    "title": "CRO Design Specialist",
+    "company": "Releaf",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/releaf-cro-design-specialist",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-20T21:26:51.245Z",
+    "title": "Lead monday.com Consultant (CRM Product)",
+    "company": "OrangeDot",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/orangedot-lead-monday-com-consultant-crm-product",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern",
+      "+2 salary($100)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-20T21:26:51.245Z",
+    "title": "UX Design Lead (DES-3-012026)",
+    "company": "Koru Ux Design Llp",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/koru-ux-design-llp-ux-design-lead-des-3-012026",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-20T21:26:51.245Z",
+    "title": "Staff Product Manager, DocSend",
+    "company": "Dropbox",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/dropbox-staff-product-manager-docsend",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($196,400)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-20T21:26:51.245Z",
+    "title": "Sales And Marketing Representative",
+    "company": "Flyer Life Group",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/flyer-life-group-sales-and-marketing-representative",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-20T21:26:51.245Z",
+    "title": "Sales And Marketing Representative Remote",
+    "company": "Flyer Life Group",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/flyer-life-group-sales-and-marketing-representative-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-20T21:26:51.245Z",
+    "title": "Education Design Intern",
+    "company": "Education Design Lab",
+    "source": "weworkremotely",
+    "score": -10,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/education-design-lab-education-design-intern",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "-5 internship"
+    ]
   }
 ]
