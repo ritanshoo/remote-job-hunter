@@ -15839,5 +15839,12 @@
     "score": -10,
     "emailSent": false,
     "source": "weworkremotely"
+  },
+  "c0c6a805cfb77e626de826615749b773": {
+    "hash": "c0c6a805cfb77e626de826615749b773",
+    "firstSeen": "2026-03-20T16:38:49.889Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
   }
 }
