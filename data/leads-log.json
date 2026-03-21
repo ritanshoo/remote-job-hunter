@@ -36300,5 +36300,414 @@
       "-5 intern",
       "+2 salary($30–$60/hr)"
     ]
+  },
+  {
+    "timestamp": "2026-03-21T12:39:47.271Z",
+    "title": "Software AI Engineer",
+    "company": "OpsBrasil Serviços Cloud LTDA",
+    "source": "himalayas",
+    "score": 9,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/opsbrasil-servicos-cloud-ltda/jobs/software-ai-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 langchain",
+      "+2 rag",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-21T12:39:47.783Z",
+    "title": "Mobile Engineer (Argentina, All Levels)",
+    "company": "Sezzle",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/sezzle/jobs/mobile-engineer-argentina-all-levels",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-21T12:39:48.088Z",
+    "title": "Adversarial AI Test Engineer Remote",
+    "company": "Mercor",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/work-mercor/jobs/adversarial-ai-test-engineer-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-21T12:39:48.391Z",
+    "title": "Corporate Vice President - Google Cloud Lead Engineer (Remote, any state, US)",
+    "company": "New York Life Insurance Co",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/new-york-life-insurance-co/jobs/corporate-vice-president-google-cloud-lead-engineer-remote-any-state-us-7422227218",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-21T12:39:48.693Z",
+    "title": "Java Developer Lead With Generative AI and Large Language Models.",
+    "company": "Open English",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/open-english/jobs/java-developer-lead-with-generative-ai-and-large-language-models",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws",
+      "+1 rest api"
+    ]
+  },
+  {
+    "timestamp": "2026-03-21T12:39:48.994Z",
+    "title": "Quality Assurance Automation Engineer (Remote Opportunity)",
+    "company": "VetsEZ",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/vetsez/jobs/quality-assurance-automation-engineer-remote-opportunity",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-21T12:39:49.320Z",
+    "title": "Database Admin Lead Consultant",
+    "company": "allstate-plumbing",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/allstate-plumbing/jobs/database-admin-lead-consultant-345898416",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 mongodb",
+      "+1 postgresql",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-21T12:39:49.619Z",
+    "title": "PhD Physicist – Quantum Scientist",
+    "company": "Mercor",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/work-mercor/jobs/phd-physicist-quantum-scientist-9508727934",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-21T12:39:49.933Z",
+    "title": "Operational Engr I",
+    "company": "CSG",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/csg/jobs/operational-engr-i",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-21T12:39:49.933Z",
+    "title": "Senior Site Reliability Engineer",
+    "company": "Nebius",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nebius/jobs/senior-site-reliability-engineer-8876640790",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-21T12:39:49.933Z",
+    "title": "Senior DevOps Engineer - Moldova",
+    "company": "Yopeso",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/yopeso/jobs/senior-devops-engineer-moldova",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-21T12:39:49.933Z",
+    "title": "Engineering Manager",
+    "company": "Amplemarket",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/amplemarket/jobs/engineering-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-21T12:39:49.933Z",
+    "title": "Python Software Developer Engineer",
+    "company": "Mercor",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/work-mercor/jobs/python-software-developer-engineer-2810395175",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-21T12:39:49.934Z",
+    "title": "Hot Cell Design Engineer",
+    "company": "Oklo",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/oklo/jobs/hot-cell-design-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-21T12:39:49.934Z",
+    "title": "Senior Security Engineer, Red Team",
+    "company": "Doordash",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/doordash/jobs/senior-security-engineer-red-team",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-21T12:39:49.934Z",
+    "title": "Machine Learning Engineer",
+    "company": "TerraClear",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/terraclear/jobs/machine-learning-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-21T12:39:49.934Z",
+    "title": "Développeur fullstack (H/F)",
+    "company": "CITECH",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/citech-pro/jobs/developpeur-fullstack-h-f",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-21T12:39:49.934Z",
+    "title": "Senior Database Reliability Engineer (DBRE) & Architect",
+    "company": "Alex Staff Agency",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/alex-staff-agency/jobs/senior-database-reliability-engineer-dbre-architect-6962758568",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 postgresql"
+    ]
+  },
+  {
+    "timestamp": "2026-03-21T12:39:49.934Z",
+    "title": "AI Engineer I",
+    "company": "Sezzle",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sezzle/jobs/ai-engineer-i-4774282371",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-21T12:39:49.934Z",
+    "title": "Sales Engineer QAQC-Testing",
+    "company": "Applus+ Renewable Energy Unit",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/applus-renewable-energy-unit/jobs/sales-engineer-qaqc-testing",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-21T12:39:49.934Z",
+    "title": "CPI Consultant",
+    "company": "NTT DATA",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nttdata/jobs/cpi-consultant",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-21T12:39:49.934Z",
+    "title": "Creative Workflow Specialist",
+    "company": "Runway",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/runway/jobs/creative-workflow-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-21T12:39:49.934Z",
+    "title": "Senior Engineer – AI / Agentic Development (488)",
+    "company": "Ubiminds",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ubiminds/jobs/senior-engineer-ai-agentic-development-488",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-21T12:39:49.934Z",
+    "title": "Software Development Engineer I (Full Stack - .NET, Angular)",
+    "company": "Spektra Systems",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/spektra-systems/jobs/software-development-engineer-i-full-stack-net-angular",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+1 rest api",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-21T12:39:49.934Z",
+    "title": "Prompt Engineer (Сupid Media)",
+    "company": "Social Discovery Ventures",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/social-discovery-ventures/jobs/prompt-engineer-upid-media",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-21T12:39:49.934Z",
+    "title": "Key Customers Solutions Architect",
+    "company": "Nebius",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nebius/jobs/key-customers-solutions-architect",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-21T12:39:49.934Z",
+    "title": "Staff Engineer",
+    "company": "Overstory",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/overstory/jobs/staff-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-21T12:39:49.934Z",
+    "title": "DevOps Engineer (Mid level)",
+    "company": "Soum",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/soum/jobs/devops-engineer-mid-level",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-21T12:39:49.934Z",
+    "title": "Workday Integrations Student Senior Architect",
+    "company": "Collaborative Solutions",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/collaborative-solutions/jobs/workday-integrations-student-senior-architect",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
   }
 ]
