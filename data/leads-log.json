@@ -36709,5 +36709,131 @@
       "-5 intern",
       "+2 salary"
     ]
+  },
+  {
+    "timestamp": "2026-03-21T19:21:17.425Z",
+    "title": "Async Agent Pipelines, Structured JSON, Node.js/React Stack | Remote | Budget Negotiable",
+    "company": "AI/LLM Engineering Team for Affordable Housing SaaS Platform",
+    "source": "reddit",
+    "score": 9,
+    "priority": "high",
+    "url": "https://www.reddit.com/r/forhire/comments/1rzspwb/hiring_aillm_engineering_team_for_affordable/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node.js",
+      "+3 node"
+    ]
+  },
+  {
+    "timestamp": "2026-03-21T19:21:17.425Z",
+    "title": "Copy paste on facebook marketplace",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rzwiaj/hiring_copy_paste_on_facebook_marketplace/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($40)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-21T19:21:17.425Z",
+    "title": "We checked thousands of dev complaints. Stop building AI resume screeners. Here is a better idea.",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1rzy219/we_checked_thousands_of_dev_complaints_stop/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-21T19:21:17.425Z",
+    "title": "8-15hrs/month)",
+    "company": "US/EU (21+) – Earn Extra Income($150~$200",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rzw2z1/hiringuseu_21_earn_extra_income150200_815hrsmonth/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-21T19:21:17.425Z",
+    "title": "Where can I find clients?",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rzvhbt/hiring_where_can_i_find_clients/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-21T19:21:17.425Z",
+    "title": "US/EU (21+) – looking for a few people for a simple side gig",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rzt2ha/hiringuseu_21_looking_for_a_few_people_for_a/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-21T19:21:17.425Z",
+    "title": "Serious People to complete Surveys for $7 each",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rzp0e1/hiring_serious_people_to_complete_surveys_for_7/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-21T19:21:17.425Z",
+    "title": "A unified tech hiring platform with custom 3D UI and interactive code execution",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1rztpbq/a_unified_tech_hiring_platform_with_custom_3d_ui/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-21T19:21:17.425Z",
+    "title": "Looking for 15(min) people interested in simple Ai training tasks (Remote) pays $500 /week",
+    "company": "",
+    "source": "reddit",
+    "score": -1,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rzz1tf/hiring_looking_for_15min_people_interested_in/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary($500)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-21T19:21:17.425Z",
+    "title": "Looking for the junior developer who can help with my business ($30~$50/hourly)",
+    "company": "",
+    "source": "reddit",
+    "score": -8,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rzph8j/hiring_looking_for_the_junior_developer_who_can/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 junior",
+      "-5 intern",
+      "+2 salary($30)"
+    ]
   }
 ]

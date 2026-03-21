@@ -16784,5 +16784,75 @@
     "score": 0,
     "emailSent": false,
     "source": "remoteok"
+  },
+  "edac3c9164968d7ddb7d1f9f350d8507": {
+    "hash": "edac3c9164968d7ddb7d1f9f350d8507",
+    "firstSeen": "2026-03-21T19:21:17.425Z",
+    "score": 9,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "713660d957da4e1cd9587eef19489c69": {
+    "hash": "713660d957da4e1cd9587eef19489c69",
+    "firstSeen": "2026-03-21T19:21:17.425Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "abf8769e901d8848e18f6ab28f82e414": {
+    "hash": "abf8769e901d8848e18f6ab28f82e414",
+    "firstSeen": "2026-03-21T19:21:17.425Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "a6ae0cc716f56f8355e55a8e849148e7": {
+    "hash": "a6ae0cc716f56f8355e55a8e849148e7",
+    "firstSeen": "2026-03-21T19:21:17.425Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "fb218189c9399eaca466d9eb876ccdb9": {
+    "hash": "fb218189c9399eaca466d9eb876ccdb9",
+    "firstSeen": "2026-03-21T19:21:17.425Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "4f31e8000b09b179dedcb3d3ff58c678": {
+    "hash": "4f31e8000b09b179dedcb3d3ff58c678",
+    "firstSeen": "2026-03-21T19:21:17.425Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "74fddc8edfe1c97979629fabf45b0864": {
+    "hash": "74fddc8edfe1c97979629fabf45b0864",
+    "firstSeen": "2026-03-21T19:21:17.425Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "83acfa301d8c7f309941dc74a94c2613": {
+    "hash": "83acfa301d8c7f309941dc74a94c2613",
+    "firstSeen": "2026-03-21T19:21:17.425Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "99eba873dd99d2eccfdba93e679ac6fc": {
+    "hash": "99eba873dd99d2eccfdba93e679ac6fc",
+    "firstSeen": "2026-03-21T19:21:17.425Z",
+    "score": -1,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "9ed891fe180af25c3a3ed60e5993c167": {
+    "hash": "9ed891fe180af25c3a3ed60e5993c167",
+    "firstSeen": "2026-03-21T19:21:17.425Z",
+    "score": -8,
+    "emailSent": false,
+    "source": "reddit"
   }
 }
