@@ -16728,5 +16728,26 @@
     "score": -3,
     "emailSent": false,
     "source": "himalayas"
+  },
+  "5a475b55e5effb3e7411b5d844634075": {
+    "hash": "5a475b55e5effb3e7411b5d844634075",
+    "firstSeen": "2026-03-21T13:39:34.014Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "c68e978d41b84170715c196e52022479": {
+    "hash": "c68e978d41b84170715c196e52022479",
+    "firstSeen": "2026-03-21T13:39:34.014Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "a001e7de324a426c67002630164c688d": {
+    "hash": "a001e7de324a426c67002630164c688d",
+    "firstSeen": "2026-03-21T13:39:34.014Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }
