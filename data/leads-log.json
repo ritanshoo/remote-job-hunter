@@ -36236,5 +36236,69 @@
     "matchedKeywords": [
       "-5 junior"
     ]
+  },
+  {
+    "timestamp": "2026-03-21T08:28:08.543Z",
+    "title": "now with 37 cases",
+    "company": "I built a browser game where you fight corporate AI bots using real consumer laws",
+    "source": "reddit",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/webdev/comments/1rzluht/i_built_a_browser_game_where_you_fight_corporate/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node",
+      "+2 ai",
+      "+1 express"
+    ]
+  },
+  {
+    "timestamp": "2026-03-21T08:28:08.543Z",
+    "title": "$40–$50/hr | Administrative + Light Technical Support",
+    "company": "Remote Part-Time Assistant",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rywqx3/hiring_remote_parttime_assistant_4050hr/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($40–$50/hr)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-21T08:28:08.543Z",
+    "title": "Virtual Assistants with a Verified LinkedIn Profile. Monthly Pay is 60$, Disbursed Weekly. And commissions (150$) when deals are closed",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rzh1l9/hiring_virtual_assistants_with_a_verified/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-21T08:28:08.543Z",
+    "title": "Remote Posting Task – Easy Marketing Work ($1–$10)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rz5fx5/hiring_remote_posting_task_easy_marketing_work_110/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-21T08:28:08.543Z",
+    "title": "$30–$60/hr",
+    "company": "Remote Interviewers (EU/UK) — Flexible Hours",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1rz7e1e/hiring_remote_interviewers_euuk_flexible_hours/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($30–$60/hr)"
+    ]
   }
 ]
