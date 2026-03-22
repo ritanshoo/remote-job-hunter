@@ -17666,5 +17666,19 @@
     "score": -8,
     "emailSent": false,
     "source": "himalayas"
+  },
+  "e2001757947cea0d01965077955c3da1": {
+    "hash": "e2001757947cea0d01965077955c3da1",
+    "firstSeen": "2026-03-22T20:22:31.191Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "d57b940db0d17af006a538ed67b9d733": {
+    "hash": "d57b940db0d17af006a538ed67b9d733",
+    "firstSeen": "2026-03-22T20:22:31.191Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }
