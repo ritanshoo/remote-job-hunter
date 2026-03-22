@@ -37978,5 +37978,464 @@
       "-5 junior",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-22T18:31:35.284Z",
+    "title": "Full Stack Developer (015 - 676)",
+    "company": "Hunt St",
+    "source": "himalayas",
+    "score": 11,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/hunt-st/jobs/full-stack-developer-015-676",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 next.js",
+      "+2 ai",
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T18:31:35.930Z",
+    "title": "Principal Software Engineer- React Native",
+    "company": "Creative Chaos",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/creative-chaos/jobs/principal-software-engineer-react-native",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 typescript",
+      "+1 graphql",
+      "+1 rest api"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T18:31:36.276Z",
+    "title": "Sr. Technical Account Manager",
+    "company": "DataVisor",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/datavisor/jobs/sr-technical-account-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T18:31:36.623Z",
+    "title": "Full Stack Engineer, Reporting Systems - Contract 6mo",
+    "company": "Polychain Capital",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/polychain-capital/jobs/full-stack-engineer-reporting-systems-contract-6mo",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+1 typescript",
+      "+1 graphql",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T18:31:36.973Z",
+    "title": "Shape the Future of AI —  Dutch Talent Hub",
+    "company": "Welocalize",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/welocalize/jobs/shape-the-future-of-ai-dutch-talent-hub",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 chatbot"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T18:31:37.319Z",
+    "title": "Site Reliability / Gitops Engineer",
+    "company": "Canonical",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/canonical/jobs/site-reliability-gitops-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T18:31:37.682Z",
+    "title": "Machine Learning Engineer",
+    "company": "Mutt Data",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/mutt-data/jobs/machine-learning-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T18:31:38.031Z",
+    "title": "SDET Engineer - Python, pytest and Selenium",
+    "company": "Jalasoft",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/jalasoft/jobs/sdet-engineer-python-pytest-and-selenium",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 express",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T18:31:38.417Z",
+    "title": "SDET Engineer - Python, pytest and Selenium",
+    "company": "Jalasoft",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/jalasoft/jobs/sdet-engineer-python-pytest-and-selenium",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 express",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T18:31:38.417Z",
+    "title": "Senior DevSecOps Engineer",
+    "company": "Stand Together",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/stand-together/jobs/senior-devsecops-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T18:31:38.417Z",
+    "title": "Cybersecurity Analyst",
+    "company": "Avint",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/avint/jobs/cybersecurity-analyst",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T18:31:38.417Z",
+    "title": "Engineering Manager, Guest Displays and Platforms",
+    "company": "Airbnb",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/airbnb/jobs/engineering-manager-guest-displays-and-platforms-9832701551",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T18:31:38.417Z",
+    "title": "Platform Engineer/Performance Tester",
+    "company": "General Dynamics Information Technology",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/general-dynamics-information-technology/jobs/platform-engineer-performance-tester-1597016001",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T18:31:38.417Z",
+    "title": "Sales Systems Engineer (Remote, US)",
+    "company": "Flowers Foods",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/flowers-foods/jobs/sales-systems-engineer-remote-us",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T18:31:38.417Z",
+    "title": "Solutions Consultant - FP&A (Product Implementation)",
+    "company": "Drivetrain",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/drivetrain/jobs/solutions-consultant-fp-a-product-implementation-8045964225",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T18:31:38.417Z",
+    "title": "Big Data Solutions Architect (Professional Services)",
+    "company": "Databricks",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/databricks/jobs/big-data-solutions-architect-professional-services",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T18:31:38.417Z",
+    "title": "Big Data Solutions Architect (Professional Services)",
+    "company": "Databricks",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/databricks/jobs/big-data-solutions-architect-professional-services",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T18:31:38.417Z",
+    "title": "New Business Account Executive, UK",
+    "company": "GitLab",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gitlab-com/jobs/new-business-account-executive-uk",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T18:31:38.417Z",
+    "title": "Director of Global Quality",
+    "company": "Ferguson",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ferguson-com/jobs/director-of-global-quality",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T18:31:38.417Z",
+    "title": "Sr. Machine Learning Engineer (Recommendation Systems)",
+    "company": "Philo",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/philo/jobs/sr-machine-learning-engineer-recommendation-systems",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T18:31:38.417Z",
+    "title": "Amazon Web Services",
+    "company": "Octal Philippines Inc.",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/octal-philippines-inc/jobs/amazon-web-services",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T18:31:38.417Z",
+    "title": "Professional Surveyor and Mapper - Transportation (Remote or Hybrid)",
+    "company": "KEITH",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/keithteam/jobs/professional-surveyor-and-mapper-transportation-remote-or-hybrid-7738439444",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-22T18:31:38.417Z",
+    "title": "Gift, Estate, Trust and HNWI Tax Supervisor",
+    "company": "Advantage Group",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/advantagegroupinc/jobs/gift-estate-trust-and-hnwi-tax-supervisor",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-22T18:31:38.417Z",
+    "title": "Senior IT Developer (Salesforce)",
+    "company": "Arista Networks",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/arista-networks/jobs/senior-it-developer-salesforce",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-22T18:31:38.417Z",
+    "title": "Fullstack Engineer (Digital Experience)",
+    "company": "Nex",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nex/jobs/fullstack-engineer-digital-experience",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T18:31:38.417Z",
+    "title": "Data Engineer - Relocation",
+    "company": "Medier",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/medier/jobs/data-engineer-relocation",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-22T18:31:38.417Z",
+    "title": "Data Engineer - Relocation",
+    "company": "Medier",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/medier/jobs/data-engineer-relocation",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-22T18:31:38.417Z",
+    "title": "Linux Platform Integration - Ubuntu Systems Senior Engineer",
+    "company": "Canonical",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/canonical/jobs/linux-platform-integration-ubuntu-systems-senior-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-22T18:31:38.417Z",
+    "title": "Senior Software Developer",
+    "company": "Thanx",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/thanx/jobs/senior-software-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T18:31:38.417Z",
+    "title": "Proposal Engineer",
+    "company": "NICE",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nice/jobs/proposal-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T18:31:38.417Z",
+    "title": "Civil Structural Substation Engineer - Remote - #2734",
+    "company": "Wade Trim",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/wade-trim/jobs/civil-structural-substation-engineer-remote-2734",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T18:31:38.417Z",
+    "title": "C++ Developer",
+    "company": "Eqvilent",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/eqvilent/jobs/c-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T18:31:38.417Z",
+    "title": "[C3T] PowerBI Developer",
+    "company": "Software Mind",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/software-mind/jobs/c3t-powerbi-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T18:31:38.417Z",
+    "title": "Software Engineer - Data Infrastructure",
+    "company": "Canonical",
+    "source": "himalayas",
+    "score": -8,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/canonical/jobs/software-engineer-data-infrastructure",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 junior",
+      "-5 intern"
+    ]
   }
 ]
