@@ -37465,5 +37465,518 @@
       "-5 junior",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-22T08:30:17.303Z",
+    "title": "Full-stack developer (PHP + TS)",
+    "company": "Planner 5D",
+    "source": "himalayas",
+    "score": 7,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/planner-5d/jobs/full-stack-developer-php-ts",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 mongodb",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T08:30:17.851Z",
+    "title": "Engineering Team Leader, DX Platform",
+    "company": "Fundraise Up",
+    "source": "himalayas",
+    "score": 7,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/fundraise-up/jobs/engineering-team-leader-dx-platform-8449738648",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+1 typescript",
+      "+1 mongodb",
+      "+1 nestjs",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T08:30:18.169Z",
+    "title": "Lead Frontend Developer (React, TypeScript)",
+    "company": "name",
+    "source": "himalayas",
+    "score": 7,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/github/jobs/lead-frontend-developer-react-typescript",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 web3",
+      "+1 javascript",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T08:30:18.483Z",
+    "title": "Mid Level Frontend Developer (Vue / React) - Remote",
+    "company": "Smeetz",
+    "source": "himalayas",
+    "score": 7,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/smeetz/jobs/mid-level-frontend-developer-vue-react-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+1 typescript",
+      "+1 graphql"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T08:30:18.784Z",
+    "title": "Principal R&D Systems Architect – Networked Electronic Warfare",
+    "company": "Silvus Technologies",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/silvus-technologies/jobs/principal-r-d-systems-architect-networked-electronic-warfare",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T08:30:19.088Z",
+    "title": "Fullstack Engineer, Feature Management",
+    "company": "LaunchDarkly",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/launchdarkly/jobs/fullstack-engineer-feature-management",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T08:30:19.395Z",
+    "title": "Sr Software Engineer, Search Discovery",
+    "company": "Cribl",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/cribl/jobs/sr-software-engineer-search-discovery-5163810772",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T08:30:19.703Z",
+    "title": "Senior Infrastructure Engineer",
+    "company": "Mercury",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/mercury/jobs/senior-infrastructure-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T08:30:20.009Z",
+    "title": "SDET II / SDET III",
+    "company": "Netomi",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/netomi/jobs/sdet-ii-sdet-iii",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T08:30:20.336Z",
+    "title": "Data Scientist Lead",
+    "company": "Mutt Data",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/mutt-data/jobs/data-scientist-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T08:30:20.642Z",
+    "title": "Systems Ops Administrator",
+    "company": "Twilio",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/twilio/jobs/systems-ops-administrator",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T08:30:20.642Z",
+    "title": "JR-162917 DevOps Engineer Senior",
+    "company": "Customertimes",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/customertimes/jobs/jr-162917-devops-engineer-senior",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 rag",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T08:30:20.642Z",
+    "title": "Software Engineer III, Commercial Services",
+    "company": "Natera",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/natera/jobs/software-engineer-iii-commercial-services",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 graphql",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T08:30:20.642Z",
+    "title": "Software Engineering Manager - Ubuntu Linux Kernel",
+    "company": "Canonical",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/canonical/jobs/software-engineering-manager-ubuntu-linux-kernel",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T08:30:20.642Z",
+    "title": "Ecommerce API/EDI Developer",
+    "company": "Pipe17",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pipe17/jobs/ecommerce-api-edi-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T08:30:20.642Z",
+    "title": "Sr. DevOps Engineer (Remote Position)",
+    "company": "Entefy",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/entefy/jobs/sr-devops-engineer-remote-position",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T08:30:20.642Z",
+    "title": "Lead Cloud Platform Engineer (Automation / Migration)",
+    "company": "name",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/3cloud/jobs/lead-cloud-platform-engineer-automation-migration",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T08:30:20.642Z",
+    "title": "Senior Platform Engineer",
+    "company": "name",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/rise8/jobs/senior-platform-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T08:30:20.642Z",
+    "title": "Principal Solutions Consultant",
+    "company": "Model N",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/model-n/jobs/principal-solutions-consultant",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T08:30:20.642Z",
+    "title": "Federal Sales Engineer - DOD/IC",
+    "company": "Chainguard",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/chainguard/jobs/federal-sales-engineer-dod-ic",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T08:30:20.642Z",
+    "title": "Senior Golang Engineer (Go, Python) (Remote, Full-Time) [AS218]",
+    "company": "name",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/smart-working/jobs/senior-golang-engineer-go-python-remote-full-time-as218",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T08:30:20.642Z",
+    "title": "Frontend Developer",
+    "company": "name",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/winning/jobs/frontend-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 next.js",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T08:30:20.642Z",
+    "title": "WEBSITE DEVELOPER",
+    "company": "VaVa Virtual Assistants",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/vava-virtual-assistants/jobs/website-developer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-22T08:30:20.642Z",
+    "title": "Business Testing Manager (QA)",
+    "company": "Enterra Solutions",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/enterra-solutions/jobs/business-testing-manager-qa",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-22T08:30:20.642Z",
+    "title": "Sales Executive",
+    "company": "name",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sailpoint/jobs/sales-executive-4877845854",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-22T08:30:20.642Z",
+    "title": "Data Engineer",
+    "company": "SQLI",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sqli/jobs/data-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-22T08:30:20.642Z",
+    "title": "iOS & Flutter Developer",
+    "company": "Immiland Canada",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/immiland-canada/jobs/ios-flutter-developer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-22T08:30:20.642Z",
+    "title": "Technical Project Manager",
+    "company": "Power Digital Marketing",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/power-digital-marketing/jobs/technical-project-manager",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-22T08:30:20.643Z",
+    "title": "ML Engineer, II - Birds Eye View (BEV)",
+    "company": "Torc Robotics",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/torc-robotics/jobs/ml-engineer-ii-birds-eye-view-bev",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-22T08:30:20.643Z",
+    "title": "PO/Data Business Analyst",
+    "company": "ALTEN",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/alten/jobs/po-data-business-analyst",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-22T08:30:20.643Z",
+    "title": "Business Development Associate (US, Silicon Valley)",
+    "company": "CertiK",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/certik/jobs/business-development-associate-us-silicon-valley",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T08:30:20.643Z",
+    "title": "Senior SRE/DevOps Engineer",
+    "company": "Metabase",
+    "source": "himalayas",
+    "score": -2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/metabase/jobs/senior-sre-devops-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T08:30:20.643Z",
+    "title": "AI Language Annotator - Vietnamese",
+    "company": "RWS Group",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/rws-group/jobs/ai-language-annotator-vietnamese",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T08:30:20.643Z",
+    "title": "Desenvolvedor Backend Java Pleno",
+    "company": "Experian",
+    "source": "himalayas",
+    "score": -4,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/experian/jobs/desenvolvedor-backend-java-pleno",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T08:30:20.643Z",
+    "title": "Care Experience Quality Lead",
+    "company": "Charlie Health",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/charlie-health/jobs/care-experience-quality-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T08:30:20.643Z",
+    "title": "Language Data Quality Reviewer for Finnish - Transcriptionist (Freelance)",
+    "company": "name",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/volga-partners/jobs/language-data-quality-reviewer-for-finnish-transcriptionist-freelance",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T08:30:20.643Z",
+    "title": "Junior - Intermediate ABAP Developer",
+    "company": "SAP Fioneer",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sapfioneer/jobs/junior-intermediate-abap-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-03-22T08:30:20.643Z",
+    "title": "Quant Developer",
+    "company": "Eqvilent",
+    "source": "himalayas",
+    "score": -10,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/eqvilent/jobs/quant-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 junior",
+      "-5 intern"
+    ]
   }
 ]
