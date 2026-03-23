@@ -39116,5 +39116,448 @@
       "-5 intern",
       "-5 based in the us"
     ]
+  },
+  {
+    "timestamp": "2026-03-23T06:08:27.959Z",
+    "title": "Binance Accelerator Program - Data Scientist (AI/LLM)",
+    "company": "Binance",
+    "source": "himalayas",
+    "score": 12,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/binance/jobs/binance-accelerator-program-data-scientist-ai-llm",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "+2 web3",
+      "+2 ai",
+      "+2 llm",
+      "+2 langchain",
+      "+2 rag"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T06:08:28.422Z",
+    "title": "Senior Frontend Engineer",
+    "company": "CSC Generation",
+    "source": "himalayas",
+    "score": 10,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/csc-generation/jobs/senior-frontend-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+2 automation",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T06:08:28.707Z",
+    "title": "Remote Frontend Software Engineer",
+    "company": "mercor",
+    "source": "himalayas",
+    "score": 9,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/mercor/jobs/remote-frontend-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+1 javascript",
+      "+1 typescript",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T06:08:28.999Z",
+    "title": "AI Product Engineer",
+    "company": "Mathspace",
+    "source": "himalayas",
+    "score": 8,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/mathspace/jobs/ai-product-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+2 llm",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T06:08:29.305Z",
+    "title": "Senior Devops Engineer (REF3966G)",
+    "company": "Deutsche Telekom IT Solutions",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/deutsche-telekom-it-solutions/jobs/senior-devops-engineer-ref3966g",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "+1 rest api",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T06:08:29.591Z",
+    "title": "Blockchain Security Engineer - (Solidity / Rust / Golang)",
+    "company": "CertiK",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/certik/jobs/blockchain-security-engineer-solidity-rust-golang",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node",
+      "+2 blockchain",
+      "+2 solana",
+      "+2 web3",
+      "+2 smart contract",
+      "+2 solidity",
+      "-5 junior",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T06:08:29.874Z",
+    "title": "Digital Workflow Specialist - Remote $65/hr",
+    "company": "mercor",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/mercor/jobs/digital-workflow-specialist-remote-65-hr",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T06:08:30.162Z",
+    "title": "Electrodynamics Engineer - Remote",
+    "company": "mercor",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/mercor/jobs/electrodynamics-engineer-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T06:08:30.444Z",
+    "title": "Director of Software Quality",
+    "company": "Crio",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/crio/jobs/director-of-software-quality",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T06:08:30.727Z",
+    "title": "Remote Basketball Specialist Up to $70/hr",
+    "company": "mercor",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/mercor/jobs/remote-basketball-specialist-up-to-70-hr",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T06:08:31.014Z",
+    "title": "Python Developer Remote",
+    "company": "mercor",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/mercor/jobs/python-developer-remote-8124062301",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T06:08:31.303Z",
+    "title": "Online Content Editor – $30/hr Max",
+    "company": "mercor",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/mercor/jobs/online-content-editor-30-hr-max",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T06:08:31.303Z",
+    "title": "iOS Mobile Developer",
+    "company": "InnovationTeam",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/innovationteam/jobs/ios-mobile-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T06:08:31.303Z",
+    "title": "Intermediate Software Engineer (Java, JavaScript, Node.js, Python) - OP02082",
+    "company": "Dev.Pro",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/dev-pro/jobs/intermediate-software-engineer-java-javascript-node-js-python-op02082",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node.js",
+      "+3 node",
+      "+1 javascript",
+      "+1 rest api",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T06:08:31.303Z",
+    "title": "Staff Engineer (Platform Architecture , JetBrains Cloud Platform)",
+    "company": "JetBrains",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/jetbrains/jobs/staff-engineer-platform-architecture-jetbrains-cloud-platform",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T06:08:31.303Z",
+    "title": "Senior Laser Engineer",
+    "company": "Voyant Photonics",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/voyant-photonics/jobs/senior-laser-engineer-6932208511",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T06:08:31.303Z",
+    "title": "Senior Identity Engineer",
+    "company": "Sophos",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sophos/jobs/senior-identity-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T06:08:31.303Z",
+    "title": "Sr. Software Engineer II (Distributed Systems)",
+    "company": "Narvar",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/narvar-com/jobs/sr-software-engineer-ii-distributed-systems",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T06:08:31.303Z",
+    "title": "Sales Engineer – Public Safety - Washington, DC",
+    "company": "Motorola Solutions",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/motorola-solutions/jobs/sales-engineer-public-safety-washington-dc",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T06:08:31.303Z",
+    "title": "Maatschappelijk werkstudent en young professional programma techniek & ICT bij S",
+    "company": "Society College",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/society-college/jobs/maatschappelijk-werkstudent-en-young-professional-programma-techniek-ict-bij-s",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T06:08:31.303Z",
+    "title": "Senior Civil Engineer - Data Center",
+    "company": "Olsson",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/olsson-com/jobs/senior-civil-engineer-data-center",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T06:08:31.303Z",
+    "title": "Web Developer (m/w/d)",
+    "company": "UPSTART",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/upstart-co/jobs/web-developer-m-w-d",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T06:08:31.303Z",
+    "title": "Business Development Manager",
+    "company": "Azeus Systems Limited",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/azeus-systems-limited/jobs/business-development-manager",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-23T06:08:31.303Z",
+    "title": "Scrum Developer (m/w/d)",
+    "company": "UPSTART",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/upstart-co/jobs/scrum-developer-m-w-d",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-23T06:08:31.303Z",
+    "title": "Linux Devices Software Engineer",
+    "company": "Canonical",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/canonical/jobs/linux-devices-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-23T06:08:31.303Z",
+    "title": "Data Analyst",
+    "company": "Airship",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/airship/jobs/data-analyst",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T06:08:31.303Z",
+    "title": "Freelance Mathematician (Python) - AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/freelance-mathematician-python-ai-trainer-9974860308",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T06:08:31.303Z",
+    "title": "Freelance Mathematician (Python) - AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/freelance-mathematician-python-ai-trainer-3234209186",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T06:08:31.303Z",
+    "title": "Network Architect & Cloud",
+    "company": "Kapres Technology, S.L.",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/kapres-technology-s-l/jobs/network-architect-cloud",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T06:08:31.303Z",
+    "title": "Software Engineer - App Stores",
+    "company": "Canonical",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/canonical/jobs/software-engineer-app-stores",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T06:08:31.303Z",
+    "title": "Sourcing Quality Operations Leader",
+    "company": "GE Aerospace",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ge-aerospace/jobs/sourcing-quality-operations-leader",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
