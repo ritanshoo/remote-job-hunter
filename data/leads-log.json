@@ -39688,5 +39688,157 @@
       "-5 intern",
       "-5 entry-level"
     ]
+  },
+  {
+    "timestamp": "2026-03-23T22:27:53.783Z",
+    "title": "(Online) Testing my SAAS tool",
+    "company": "",
+    "source": "reddit",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/forhire/comments/1s1q1kk/hiring_online_testing_my_saas_tool/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary($20)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T22:27:54.393Z",
+    "title": "Cloud/Infrastructure/Security | Remote | Competitive Senior Comp + Equity",
+    "company": "Head of Platform (Product GM) – 0→1 Enterprise SaaS",
+    "source": "reddit",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/forhire/comments/1s1q0ob/hiring_head_of_platform_product_gm_01_enterprise/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+2 salary($200)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T22:27:54.393Z",
+    "title": "Buying private GitHub repos with git history: $100-300 each",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s1qohc/hiring_buying_private_github_repos_with_git/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($100-300)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T22:27:54.393Z",
+    "title": "Reddit-native consultant, AI & Machine Learning niche",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s1mikl/hiring_redditnative_consultant_ai_machine/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T22:27:54.393Z",
+    "title": "Where can I find a Claude Code developer with real engineering experience in NJ?",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1s1v0dk/where_can_i_find_a_claude_code_developer_with/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T22:27:54.393Z",
+    "title": "Hi please help me out. I can do work",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s1r9bb/hiring_hi_please_help_me_out_i_can_do_work/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-23T22:27:54.393Z",
+    "title": "Print, Fold, Stuff & Mail Letters (Ongoing)",
+    "company": "US-Based Helper",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s1qet1/hiring_usbased_helper_print_fold_stuff_mail/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-23T22:27:54.393Z",
+    "title": "looking for feedback (UI/UX + dev perspective)",
+    "company": "Built a minimal image hosting interface concept",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1s1ja5m/built_a_minimal_image_hosting_interface_concept/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-23T22:27:54.393Z",
+    "title": "$500–$1,000/month",
+    "company": "Remote side gig for U.S. citizens",
+    "source": "reddit",
+    "score": -5,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s1tob6/hiring_remote_side_gig_for_us_citizens/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T22:27:54.393Z",
+    "title": "Looking for a few US/EU guys (21+) to help with a small task",
+    "company": "",
+    "source": "reddit",
+    "score": -5,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s1p6ri/hiringlooking_for_a_few_useu_guys_21_to_help_with/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 based in the us"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T22:27:54.393Z",
+    "title": "€ 15/h",
+    "company": "(EU/Online) Junior Sales Representative",
+    "source": "reddit",
+    "score": -5,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s1m4dg/hiring_euonline_junior_sales_representative_15h/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T22:27:54.393Z",
+    "title": "Contractor vs employee in remote dev teams, ran into a potential issue",
+    "company": "",
+    "source": "reddit",
+    "score": -5,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1s1njek/contractor_vs_employee_in_remote_dev_teams_ran/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
