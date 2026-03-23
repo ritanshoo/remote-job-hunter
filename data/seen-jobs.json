@@ -18247,5 +18247,19 @@
     "score": -3,
     "emailSent": false,
     "source": "jobicy"
+  },
+  "79b11f5f26a465dcd57138db1875d26c": {
+    "hash": "79b11f5f26a465dcd57138db1875d26c",
+    "firstSeen": "2026-03-23T14:17:47.293Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "263639a8712f4d0939336fd3c46118e0": {
+    "hash": "263639a8712f4d0939336fd3c46118e0",
+    "firstSeen": "2026-03-23T14:17:48.141Z",
+    "score": 6,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }
