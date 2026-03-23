@@ -39616,5 +39616,62 @@
       "+2 automation",
       "+2 salary($110-150)"
     ]
+  },
+  {
+    "timestamp": "2026-03-23T20:34:32.618Z",
+    "title": "Product Marketing Manager - Embedded Analytics",
+    "company": "Infragistics",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/infragistics-product-marketing-manager-embedded-analytics",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T20:34:32.618Z",
+    "title": "Customer Support - N2F",
+    "company": "N2jsoft",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/n2jsoft-customer-support-n2f",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T20:34:32.618Z",
+    "title": "Customer Support Specialist (iGaming) for TrueGroup",
+    "company": "Talentin",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/talentin-customer-support-specialist-igaming-for-truegroup",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T20:34:32.618Z",
+    "title": "Junior Project Coordinator",
+    "company": "C4Media Inc.",
+    "source": "weworkremotely",
+    "score": -15,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/c4media-inc-junior-project-coordinator",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 junior",
+      "-5 intern",
+      "-5 entry-level"
+    ]
   }
 ]
