@@ -39559,5 +39559,33 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-23T10:50:24.041Z",
+    "title": "Senior Oracle EPM Technical Consultant - Remote (Dallas, TX, US)",
+    "company": "NTT DATA",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nttdata/jobs/senior-oracle-epm-technical-consultant-remote-dallas-tx-us",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-23T10:50:24.041Z",
+    "title": "Sr. Software Engineer II – Data Solutions & Measurement",
+    "company": "Cint",
+    "source": "jobicy",
+    "score": -3,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/141094-sr-software-engineer-ii-data-solutions-measurement",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+1 docker",
+      "-5 intern"
+    ]
   }
 ]

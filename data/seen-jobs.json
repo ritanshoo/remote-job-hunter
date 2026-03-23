@@ -18233,5 +18233,19 @@
     "score": 0,
     "emailSent": false,
     "source": "remoteok"
+  },
+  "fe274b57e90c37818b5c8e5bac731c08": {
+    "hash": "fe274b57e90c37818b5c8e5bac731c08",
+    "firstSeen": "2026-03-23T10:50:24.041Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "himalayas"
+  },
+  "b9ea4b71a6d3867eb49f2e9f85519dd8": {
+    "hash": "b9ea4b71a6d3867eb49f2e9f85519dd8",
+    "firstSeen": "2026-03-23T10:50:24.041Z",
+    "score": -3,
+    "emailSent": false,
+    "source": "jobicy"
   }
 }
