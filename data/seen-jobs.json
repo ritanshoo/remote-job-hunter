@@ -18268,5 +18268,19 @@
     "score": 0,
     "emailSent": false,
     "source": "weworkremotely"
+  },
+  "ac1854781b5c226e541693692bc09ec2": {
+    "hash": "ac1854781b5c226e541693692bc09ec2",
+    "firstSeen": "2026-03-23T19:45:22.257Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "934da560cf9420a7aa9ef7990b634538": {
+    "hash": "934da560cf9420a7aa9ef7990b634538",
+    "firstSeen": "2026-03-23T19:45:23.189Z",
+    "score": 4,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }
