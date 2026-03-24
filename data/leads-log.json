@@ -39892,5 +39892,346 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-24T04:15:48.710Z",
+    "title": "Full Stack Software Engineer with TS/SCI clearance",
+    "company": "Prominent Edge LLC",
+    "source": "himalayas",
+    "score": 12,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/prominent-edge-llc/jobs/full-stack-software-engineer-with-ts-sci-clearance",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node",
+      "+1 javascript",
+      "+1 mongodb",
+      "+1 express"
+    ]
+  },
+  {
+    "timestamp": "2026-03-24T04:15:49.220Z",
+    "title": "Senior Forward Deployed Engineer, Mobile",
+    "company": "Spruce Power",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/spruce-power/jobs/senior-forward-deployed-engineer-mobile",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-24T04:15:49.522Z",
+    "title": "Offshore Data Tester (Bangalore, KA, IN)",
+    "company": "NTT DATA",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/nttdata/jobs/offshore-data-tester-bangalore-ka-in",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "+2 salary($30)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-24T04:15:49.522Z",
+    "title": "Sr. Site Reliability Engineer (Remote, Mexico)",
+    "company": "IO Connect Services",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/io-connect-services/jobs/sr-site-reliability-engineer-remote-mexico",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-24T04:15:49.522Z",
+    "title": "Data Engineer",
+    "company": "Screenverse",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/screenverse/jobs/data-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-24T04:15:49.522Z",
+    "title": "VP of Engineering, Enterprise Platform",
+    "company": "SailPoint",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sailpoint/jobs/vp-of-engineering-enterprise-platform",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 graphql",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-24T04:15:49.522Z",
+    "title": "Mobile Engineer, Digital Identity (Fully Remote)",
+    "company": "Spruce Power",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/spruce-power/jobs/mobile-engineer-digital-identity-fully-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-24T04:15:49.522Z",
+    "title": "Senior Forward Deployed Engineer",
+    "company": "Spruce Power",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/spruce-power/jobs/senior-forward-deployed-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-24T04:15:49.522Z",
+    "title": "Manager, Engineering",
+    "company": "CompanyCam",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/companycam/jobs/manager-engineering",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-24T04:15:49.522Z",
+    "title": "Principal Forward Deployed Engineer",
+    "company": "Spruce Power",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/spruce-power/jobs/principal-forward-deployed-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-24T04:15:49.522Z",
+    "title": "Offshore Test Engineer (Bangalore, KA, IN)",
+    "company": "NTT DATA",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nttdata/jobs/offshore-test-engineer-bangalore-ka-in",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($30)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-24T04:15:49.522Z",
+    "title": "OX Security: Cloud Security Researcher (CSPM/CNAPP Product)",
+    "company": "CommIT",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/commit/jobs/ox-security-cloud-security-researcher-cspm-cnapp-product",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-24T04:15:49.522Z",
+    "title": "Cloud Engineer (Remote, Mexico)",
+    "company": "IO Connect Services",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/io-connect-services/jobs/cloud-engineer-remote-mexico",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-24T04:15:49.522Z",
+    "title": "Integration Engineer (Remote, Mexico)",
+    "company": "IO Connect Services",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/io-connect-services/jobs/integration-engineer-remote-mexico",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-24T04:15:49.522Z",
+    "title": "MuleSoft Developer",
+    "company": "IO Connect Services",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/io-connect-services/jobs/mulesoft-developer-187866736",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-24T04:15:49.522Z",
+    "title": "MuleSoft Developer",
+    "company": "IO Connect Services",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/io-connect-services/jobs/mulesoft-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-24T04:15:49.522Z",
+    "title": "Senior Integration Engineer (Remote, Mexico)",
+    "company": "IO Connect Services",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/io-connect-services/jobs/senior-integration-engineer-remote-mexico",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-24T04:15:49.522Z",
+    "title": "Senior Android Developer",
+    "company": "IO Connect Services",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/io-connect-services/jobs/senior-android-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 automation",
+      "+1 graphql",
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-03-24T04:15:49.522Z",
+    "title": "Civil Estimator",
+    "company": "Outsourced Staff",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/outsourced-staff/jobs/civil-estimator",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-24T04:15:49.522Z",
+    "title": "M365/Azure Principal Systems Engineer - Remote",
+    "company": "Prime Therapeutics",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/prime-therapeutics/jobs/m365-azure-principal-systems-engineer-remote-7781375260",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-24T04:15:49.522Z",
+    "title": "Software Developer Engineer Sr.",
+    "company": "IO Connect Services",
+    "source": "himalayas",
+    "score": -4,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/io-connect-services/jobs/software-developer-engineer-sr",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-24T04:15:49.522Z",
+    "title": "Strategic Sales Executive",
+    "company": "SailPoint",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sailpoint/jobs/strategic-sales-executive-7428083234",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-24T04:15:49.522Z",
+    "title": "Strategic Account Executive",
+    "company": "SailPoint",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sailpoint/jobs/strategic-account-executive",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-24T04:15:49.522Z",
+    "title": "Dexter Robotics Launch Specialist",
+    "company": "Distalmotion",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/distalmotion/jobs/dexter-robotics-launch-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-24T04:15:49.522Z",
+    "title": "Field Services Engineer, Western Region",
+    "company": "Stryker",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/stryker/jobs/field-services-engineer-western-region",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
