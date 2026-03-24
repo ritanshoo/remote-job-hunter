@@ -40870,5 +40870,48 @@
       "+1 typescript",
       "+2 salary($200)"
     ]
+  },
+  {
+    "timestamp": "2026-03-24T20:37:27.673Z",
+    "title": "Instructional Design Lead (Remote)",
+    "company": "Jobgether",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-instructional-design-lead-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary($85,000-$95,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-24T20:37:27.673Z",
+    "title": "Staff Design Systems Designer",
+    "company": "Ethos Life",
+    "source": "weworkremotely",
+    "score": -2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/ethos-life-staff-design-systems-designer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 express",
+      "-5 intern",
+      "+2 salary($126,000 - $224,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-24T20:37:27.673Z",
+    "title": "Senior Product Manager - Endpoint Management & Patching",
+    "company": "Action1",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/action1-senior-product-manager-endpoint-management-patching",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]

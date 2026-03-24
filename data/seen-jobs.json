@@ -18982,5 +18982,26 @@
     "score": 20,
     "emailSent": false,
     "source": "weworkremotely"
+  },
+  "1c6ba4dda4a3ff960d06f709062f909f": {
+    "hash": "1c6ba4dda4a3ff960d06f709062f909f",
+    "firstSeen": "2026-03-24T20:37:27.673Z",
+    "score": -1,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "3102ca0464835e356a6b92453bfafc87": {
+    "hash": "3102ca0464835e356a6b92453bfafc87",
+    "firstSeen": "2026-03-24T20:37:27.673Z",
+    "score": -2,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "9d03d2b91262b204682856e1a3c2dd46": {
+    "hash": "9d03d2b91262b204682856e1a3c2dd46",
+    "firstSeen": "2026-03-24T20:37:27.673Z",
+    "score": -5,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }
