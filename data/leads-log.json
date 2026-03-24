@@ -39840,5 +39840,57 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-24T01:48:06.641Z",
+    "title": "Photoshop some images on to vehicle and look Realistic ($20 USD - work is easy/quick)",
+    "company": "NEED ASAP (No AI, no ChatGPT/Grok) Mock Ups",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s203xr/hiring_need_asap_no_ai_no_chatgptgrok_mock_ups/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($20)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-24T01:48:06.641Z",
+    "title": "Full-Time | Remote",
+    "company": "SEO Expert Needed – ₹8,000/month + Performance Bonus",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s1y0vu/hiring_seo_expert_needed_8000month_performance/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-24T01:48:06.641Z",
+    "title": "Full Stack Developer | $30-$50 per hour",
+    "company": "[Only US]",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/remotejs/comments/1s206e9/hiring_only_us_full_stack_developer_3050_per_hour/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "-5 junior",
+      "+2 salary($30-$50)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-24T01:48:06.641Z",
+    "title": "Remote Journalist / Research Contributor (Project-Based)",
+    "company": "",
+    "source": "reddit",
+    "score": -5,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s1xpwy/hiring_remote_journalist_research_contributor/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
