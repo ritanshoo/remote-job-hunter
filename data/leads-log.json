@@ -40849,5 +40849,26 @@
       "+1 express",
       "+2 salary($30/hr)"
     ]
+  },
+  {
+    "timestamp": "2026-03-24T19:54:02.335Z",
+    "title": "Senior Frontend Engineer (React / Next.js) — Full-Time, Contract",
+    "company": "Knack",
+    "source": "weworkremotely",
+    "score": 20,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/knack-senior-frontend-engineer-react-next-js-full-time-contract",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 next.js",
+      "+3 node.js",
+      "+3 node",
+      "+2 ai",
+      "+2 automation",
+      "+1 javascript",
+      "+1 typescript",
+      "+2 salary($200)"
+    ]
   }
 ]
