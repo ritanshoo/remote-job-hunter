@@ -41692,5 +41692,492 @@
       "+2 automation",
       "+2 rag"
     ]
+  },
+  {
+    "timestamp": "2026-03-25T10:44:17.431Z",
+    "title": "Senior DevOps Engineer",
+    "company": "Lemon.io",
+    "source": "workingnomads",
+    "score": 22,
+    "priority": "high",
+    "url": "https://www.workingnomads.com/job/go/1498609/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+2 blockchain",
+      "+2 solana",
+      "+2 web3",
+      "+2 solidity",
+      "+2 ai",
+      "+2 llm",
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T10:44:17.909Z",
+    "title": "Senior Frontend/Full stack Engineer",
+    "company": "Cacheflow",
+    "source": "himalayas",
+    "score": 13,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/cacheflow/jobs/senior-frontend-full-stack-engineer-2529056860",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node",
+      "+2 automation",
+      "+1 typescript",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T10:44:18.205Z",
+    "title": "JavaScript Technical Interviewer",
+    "company": "Intetics",
+    "source": "himalayas",
+    "score": 10,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/intetics/jobs/javascript-technical-interviewer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T10:44:18.496Z",
+    "title": "Research Scientist/Engineer L5/L6, AI for Member Systems",
+    "company": "Netflix",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/netflix/jobs/research-scientist-engineer-l5-l6-ai-for-member-systems",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T10:44:18.835Z",
+    "title": "Staff Cloud Infrastructure",
+    "company": "Lytx",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/lytx/jobs/staff-cloud-infrastructure",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T10:44:19.132Z",
+    "title": "Manager, Technical Support",
+    "company": "Elite Technology",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/elite-technology/jobs/manager-technical-support-72464003",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T10:44:19.421Z",
+    "title": "Automotive Engineer (Python) - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/mindrift/jobs/automotive-engineer-python-freelance-ai-trainer-9595787682",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T10:44:19.712Z",
+    "title": "React Frontend Software Engineer (6-Month Remote Contract)",
+    "company": "Slasify",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/slasify/jobs/react-frontend-software-engineer-6-month-remote-contract-3409206574",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T10:44:20.001Z",
+    "title": "Director of Deployment",
+    "company": "Robust AI",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/robust-ai/jobs/director-of-deployment",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T10:44:20.001Z",
+    "title": "Open Source Program Developer",
+    "company": "Datadog",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/datadog/jobs/open-source-program-developer-9670769072",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T10:44:20.001Z",
+    "title": "Engineering Manager, Wikidata Platform",
+    "company": "Wikimedia Foundation",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/wikimedia-foundation/jobs/engineering-manager-wikidata-platform-3828186227",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T10:44:20.001Z",
+    "title": "Senior Software Engineer, Telco Senior Integration Engineer",
+    "company": "Red Hat",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/red-hat/jobs/senior-software-engineer-telco-senior-integration-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T10:44:20.001Z",
+    "title": "Manager, Sales Engineering",
+    "company": "Greenhouse",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/greenhouse-com/jobs/manager-sales-engineering",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T10:44:20.001Z",
+    "title": "Infrastructure Engineer II",
+    "company": "Blue Cross Blue Shield of Michigan",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/blue-cross-blue-shield-of-michigan/jobs/infrastructure-engineer-ii",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T10:44:20.001Z",
+    "title": "Senior Genesys Cloud WFM Engineer",
+    "company": "Miratech",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/miratech/jobs/senior-genesys-cloud-wfm-engineer-4279776090",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T10:44:20.002Z",
+    "title": "ZCX Solutions Engineer",
+    "company": "Zoom Communications, Inc.",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/zoom-communications-inc/jobs/zcx-solutions-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T10:44:20.002Z",
+    "title": "Software Operations Engineer - Quality Assurance (.NET/Azure)",
+    "company": "J.S. Held",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/j-s-held/jobs/software-operations-engineer-quality-assurance-net-azure",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T10:44:20.002Z",
+    "title": "Structural Engineering Consultant 2 - Nuclear",
+    "company": "Sargent & Lundy",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sargent-lundy/jobs/structural-engineering-consultant-2-nuclear",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T10:44:20.002Z",
+    "title": "Business Intelligence Engineer",
+    "company": "Trinetix",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/trinetix/jobs/business-intelligence-engineer-6016824001",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T10:44:20.002Z",
+    "title": "Staff Cloud Security Engineer",
+    "company": "LastPass",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/lastpass/jobs/staff-cloud-security-engineer-8684392601",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-25T10:44:20.002Z",
+    "title": "Presales Solution Architect",
+    "company": "Unisys",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/unisys/jobs/presales-solution-architect",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-25T10:44:20.002Z",
+    "title": "Senior SAP BW Developer",
+    "company": "Mitel",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mitel/jobs/senior-sap-bw-developer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-25T10:44:20.002Z",
+    "title": "Senior Test Analyst",
+    "company": "Harris",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/harris/jobs/senior-test-analyst",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-25T10:44:20.002Z",
+    "title": "Pessoa Engenheira de Plataforma Pleno - Developer Experience",
+    "company": "RD Station",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/rd-station/jobs/pessoa-engenheira-de-plataforma-pleno-developer-experience-5399669756",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-25T10:44:20.002Z",
+    "title": "Senior Lead DevOps Engineer",
+    "company": "YPO",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ypo/jobs/senior-lead-devops-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T10:44:20.002Z",
+    "title": "Software Engineer - Platform Team",
+    "company": "Arista Networks",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/arista-networks/jobs/software-engineer-platform-team-8875891418",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-25T10:44:20.002Z",
+    "title": "Automotive Engineer (Python) - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/automotive-engineer-python-freelance-ai-trainer-7560843331",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T10:44:20.002Z",
+    "title": "Senior Enterprise Systems Engineer",
+    "company": "Autodesk",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/autodesk/jobs/senior-enterprise-systems-engineer-6956191676",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T10:44:20.002Z",
+    "title": "Programmer Developer",
+    "company": "Remote VA",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/remote-va/jobs/programmer-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 javascript",
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T10:44:20.002Z",
+    "title": "SharePoint / .Net Developer",
+    "company": "EUROPEAN DYNAMICS",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/european-dynamics/jobs/sharepoint-net-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 javascript",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T10:44:20.002Z",
+    "title": "Principal Engineer - Prediction",
+    "company": "Motional",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/motional/jobs/principal-engineer-prediction",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 junior",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T10:44:20.002Z",
+    "title": "Web Developer - WordPress / PHP / JS - (part-time, one-month-long project)",
+    "company": "Enroute",
+    "source": "himalayas",
+    "score": -4,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/enroute/jobs/web-developer-wordpress-php-js-part-time-one-month-long-project",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T10:44:20.002Z",
+    "title": "Field Application Engineer",
+    "company": "Littelfuse",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/littelfuse/jobs/field-application-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T10:44:20.002Z",
+    "title": "Junior Java Developer / DevOps Engineer (Remote/Thessaloniki)",
+    "company": "EUROPEAN DYNAMICS",
+    "source": "himalayas",
+    "score": -8,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/european-dynamics/jobs/junior-java-developer-devops-engineer-remote-thessaloniki",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "+1 docker",
+      "-5 junior",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T10:44:20.002Z",
+    "title": "Geotechnical (Design) Engineer 's",
+    "company": "Egis Group",
+    "source": "himalayas",
+    "score": -10,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/egis-group/jobs/geotechnical-design-engineer-s",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 junior",
+      "-5 intern"
+    ]
   }
 ]
