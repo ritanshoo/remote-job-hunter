@@ -19738,5 +19738,33 @@
     "score": 2,
     "emailSent": false,
     "source": "workingnomads"
+  },
+  "147bfa9b4e827d3d99af7a0205e227a6": {
+    "hash": "147bfa9b4e827d3d99af7a0205e227a6",
+    "firstSeen": "2026-03-25T17:55:37.059Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "eba31a82ad2568f044f4be138ffcd62b": {
+    "hash": "eba31a82ad2568f044f4be138ffcd62b",
+    "firstSeen": "2026-03-25T17:55:37.059Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "4563cb01567852533cbf01a670681087": {
+    "hash": "4563cb01567852533cbf01a670681087",
+    "firstSeen": "2026-03-25T17:55:37.060Z",
+    "score": -5,
+    "emailSent": false,
+    "source": "jobicy"
+  },
+  "52e78c5217d5a1b0f5b4c7ec43368c8e": {
+    "hash": "52e78c5217d5a1b0f5b4c7ec43368c8e",
+    "firstSeen": "2026-03-25T17:55:37.060Z",
+    "score": -5,
+    "emailSent": false,
+    "source": "jobicy"
   }
 }

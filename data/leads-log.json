@@ -42356,5 +42356,31 @@
     "matchedKeywords": [
       "+2 salary($100)"
     ]
+  },
+  {
+    "timestamp": "2026-03-25T17:55:37.060Z",
+    "title": "Senior Software Engineer – C/C++",
+    "company": "Tenable",
+    "source": "jobicy",
+    "score": -5,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/141202-senior-software-engineer-c-c",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 c/c++"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T17:55:37.060Z",
+    "title": "Software Engineer, Systems",
+    "company": "Meta",
+    "source": "jobicy",
+    "score": -5,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/141185-software-engineer-systems",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
