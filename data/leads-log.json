@@ -41369,5 +41369,293 @@
       "-5 internship",
       "+2 salary"
     ]
+  },
+  {
+    "timestamp": "2026-03-25T01:53:44.718Z",
+    "title": "Member of Technical Staff / Fullstack Engineer",
+    "company": "Clera",
+    "source": "himalayas",
+    "score": 13,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/clera/jobs/member-of-technical-staff-fullstack-engineer-5848131645",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+3 react",
+      "+2 ai",
+      "+2 llm",
+      "+2 automation",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T01:53:45.182Z",
+    "title": "Senior Software Engineer II - App Observability Team",
+    "company": "Honeycomb",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/honeycomb/jobs/senior-software-engineer-ii-app-observability-team-9004471025",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 typescript",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T01:53:45.473Z",
+    "title": "Software Engineer II (Full-Stack, Backend-leaning)",
+    "company": "Jerry",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/jerry/jobs/software-engineer-ii-full-stack-backend-leaning-5877867622",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T01:53:45.758Z",
+    "title": "Senior Backend Engineer, Assets",
+    "company": "Webflow",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/wfl/jobs/senior-backend-engineer-assets",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T01:53:46.044Z",
+    "title": "Software Quality Operations Specialist, Domain Expansion",
+    "company": "Waymo",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/waymo/jobs/software-quality-operations-specialist-domain-expansion",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T01:53:46.322Z",
+    "title": "Manager, Engineering Business Analytics and Operational Insights",
+    "company": "SOLV Energy",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/solv-energy/jobs/manager-engineering-business-analytics-and-operational-insights",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T01:53:46.610Z",
+    "title": "Python Engineer & AI Expert",
+    "company": "Mercor",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/work-mercor/jobs/python-engineer-ai-expert-2055422200",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T01:53:46.894Z",
+    "title": "Electrical Engineer (Python) - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/mindrift/jobs/electrical-engineer-python-freelance-ai-trainer-8452394232",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T01:53:47.179Z",
+    "title": "Lead GTM Analytics Engineer",
+    "company": "DigiCert",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/digicert/jobs/lead-gtm-analytics-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T01:53:47.179Z",
+    "title": "Sales Engineer, Channel Partnerships",
+    "company": "Yelp",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/yelp/jobs/sales-engineer-channel-partnerships",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T01:53:47.179Z",
+    "title": "Senior Salesforce Marketing Cloud Engineer",
+    "company": "Future PLC",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/future-plc/jobs/senior-salesforce-marketing-cloud-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T01:53:47.180Z",
+    "title": "Director of Advanced Analytics at Alex Lee",
+    "company": "Lowes Foods",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/lowes-foods/jobs/director-of-advanced-analytics-at-alex-lee",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T01:53:47.180Z",
+    "title": "Big Data Architect",
+    "company": "Sigma Software",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sigma-software-e561c036-16e4-4b2c-aa28-a33af9f3750b/jobs/big-data-architect",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T01:53:47.180Z",
+    "title": "Technical Field Support Engineer",
+    "company": "KONE",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/kone/jobs/technical-field-support-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-25T01:53:47.180Z",
+    "title": "Architect / BIM Coordinator",
+    "company": "Bureau Veritas",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bureauveritas/jobs/architect-bim-coordinator",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-25T01:53:47.180Z",
+    "title": "DFM Engineer",
+    "company": "Xometry Europe",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/xometry-europe/jobs/dfm-engineer-2887238063",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-25T01:53:47.180Z",
+    "title": "Senior ML-Engineer",
+    "company": "Fundraise Up",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/fundraise-up/jobs/senior-ml-engineer-9350344599",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-25T01:53:47.180Z",
+    "title": "Electrical Engineer (Python) - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/electrical-engineer-python-freelance-ai-trainer-1648269732",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T01:53:47.180Z",
+    "title": "Principal Software Developer (Ruby on Rails & React) - Freelancer",
+    "company": "Monterail",
+    "source": "himalayas",
+    "score": -2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/monterail/jobs/principal-software-developer-ruby-on-rails-react-freelancer-7553993660",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T01:53:47.180Z",
+    "title": "Senior Sales Executive, Higher Education",
+    "company": "D2L",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/d2l/jobs/senior-sales-executive-higher-education",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T01:53:47.180Z",
+    "title": "Junior QA Engineer",
+    "company": "Careerswift",
+    "source": "himalayas",
+    "score": -8,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/careerswift/jobs/junior-qa-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 junior",
+      "-5 intern"
+    ]
   }
 ]
