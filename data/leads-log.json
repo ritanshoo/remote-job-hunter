@@ -41676,5 +41676,21 @@
       "-5 intern",
       "-5 internship"
     ]
+  },
+  {
+    "timestamp": "2026-03-25T09:50:32.234Z",
+    "title": "(Senior) AI Solutions Engineer",
+    "company": "Aktor AI",
+    "source": "weworkremotely",
+    "score": 8,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/aktor-ai-senior-ai-solutions-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 automation",
+      "+2 rag"
+    ]
   }
 ]
