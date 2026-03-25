@@ -42417,5 +42417,625 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:14.825Z",
+    "title": "Full-Stack Engineer (Node.js, React, AI/LLM)",
+    "company": "Censia",
+    "source": "himalayas",
+    "score": 17,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/censia/jobs/full-stack-engineer-node-js-react-ai-llm",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+2 ai",
+      "+2 llm",
+      "+1 javascript",
+      "+1 mongodb",
+      "+1 postgresql",
+      "+1 express"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:15.366Z",
+    "title": "Full Stack Engineer (US hours)",
+    "company": "VirtuHire",
+    "source": "himalayas",
+    "score": 16,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/virtuhire/jobs/full-stack-engineer-us-hours",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+2 ai",
+      "+1 typescript",
+      "+1 postgresql"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:15.674Z",
+    "title": "Full Stack Engineer (US hours)",
+    "company": "VirtuHire",
+    "source": "himalayas",
+    "score": 16,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/virtuhire/jobs/full-stack-engineer-us-hours",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+2 ai",
+      "+1 typescript",
+      "+1 postgresql"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:15.975Z",
+    "title": "Founding Robot Learning Research Engineer",
+    "company": "Avomind",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/avomind/jobs/founding-robot-learning-research-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:16.268Z",
+    "title": "Full Stack Developer (Java, Spring Boot, Angular)",
+    "company": "Peraton",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/peraton/jobs/full-stack-developer-java-spring-boot-angular-3808431021",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:16.566Z",
+    "title": "Full Stack Developer (Java, Spring Boot, Angular)",
+    "company": "Peraton",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/peraton/jobs/full-stack-developer-java-spring-boot-angular-3808431021",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:16.859Z",
+    "title": "Principal Cloud Infrastructure Architect",
+    "company": "Egen",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/egen-ai/jobs/principal-cloud-infrastructure-architect",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.167Z",
+    "title": "Fellow, Machine Learning - Autonomy",
+    "company": "Motional",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/motional/jobs/fellow-machine-learning-autonomy",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 llm",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.471Z",
+    "title": "Staff Machine Learning Engineer, AI Researcher",
+    "company": "Cribl",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/cribl/jobs/staff-machine-learning-engineer-ai-researcher",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.775Z",
+    "title": "Engagement Manager",
+    "company": "Hike2",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/hike2/jobs/engagement-manager-8399637143",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.775Z",
+    "title": "Senior Software Engineer",
+    "company": "Cue",
+    "source": "weworkremotely",
+    "score": 3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/cue-senior-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 llm",
+      "+1 postgresql"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.775Z",
+    "title": "Senior Software Developer PHP",
+    "company": "Markup camp",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/markup-camp/jobs/senior-software-developer-php",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 postgresql",
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.775Z",
+    "title": "AI Principal Software Engineer (Java) (m/f/n)",
+    "company": "InPost",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/inpost/jobs/ai-principal-software-engineer-java-m-f-n",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.775Z",
+    "title": "Intermediate Software Engineer (.NET/Angular) - OP02020",
+    "company": "Dev.Pro",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/dev-pro/jobs/intermediate-software-engineer-net-angular-op02020",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "+1 typescript",
+      "+1 rest api"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.775Z",
+    "title": "SCADA Engineer",
+    "company": "Terabase Energy",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/terabase-energy/jobs/scada-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.775Z",
+    "title": "Cisco ACI Subject Matter Expert",
+    "company": "Logicalis Spain",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/logicalis-com/jobs/cisco-aci-subject-matter-expert",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.775Z",
+    "title": "Head of Sciborgs, EMEA",
+    "company": "TetraScience",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/tetrascience/jobs/head-of-sciborgs-emea-4173497709",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.775Z",
+    "title": "Lead Independent Safety Assessor (ISA)",
+    "company": "Egis Group",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/egis-group/jobs/lead-independent-safety-assessor-isa-56482678",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.775Z",
+    "title": "Senior Software Engineer, Data Platform",
+    "company": "MissionWired",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/missionwired/jobs/senior-software-engineer-data-platform",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.775Z",
+    "title": "Copy of Trabajo Programador/a - Clases Particulares - Fines de Semana",
+    "company": "Tusclasesparticulares",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/tusclasesparticulares/jobs/copy-of-trabajo-programador-a-clases-particulares-fines-de-semana",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.775Z",
+    "title": "Remote DevOps Cloud Engineer",
+    "company": "Jobgether",
+    "source": "weworkremotely",
+    "score": 1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-remote-devops-cloud-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 aws",
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.775Z",
+    "title": "Sr DevOps Engineer - REMOTE",
+    "company": "Jobgether",
+    "source": "weworkremotely",
+    "score": 1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-sr-devops-engineer-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 aws",
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.776Z",
+    "title": "Sr Solution Architect II",
+    "company": "CDW",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cdw/jobs/sr-solution-architect-ii",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 graphql"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.776Z",
+    "title": "Business Analyst",
+    "company": "Convatec",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/convatec/jobs/business-analyst-3235100945",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.776Z",
+    "title": "Golang Software Engineer (6-Month Remote Contract)",
+    "company": "Slasify",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/slasify/jobs/golang-software-engineer-6-month-remote-contract-952125015",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.776Z",
+    "title": "Quality Assurance Engineer -- Junior Product Manager | AI / Trucking",
+    "company": "Spotter Labs",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/spotter-labs/jobs/quality-assurance-engineer-junior-product-manager-ai-trucking-285902833",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.776Z",
+    "title": "Quality Assurance Tester",
+    "company": "Jonas Software",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/jonas-software/jobs/quality-assurance-tester",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.777Z",
+    "title": "Python Technical Interviewer preferably with a front",
+    "company": "Intetics",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/intetics/jobs/python-technical-interviewer-preferably-with-a-front",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.777Z",
+    "title": "Associate Application Development Analyst (.Net Developer)",
+    "company": "Genworth",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/genworth/jobs/associate-application-development-analyst-net-developer-5998321738",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.777Z",
+    "title": "Principal Stat Programmer(SDTM, ADAM & TLF)",
+    "company": "Syneos Health India Private Limited",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/syneos-health-india-private-limited/jobs/principal-stat-programmer-sdtm-adam-tlf-3561163738",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.777Z",
+    "title": "Remote Product Merchandising Lead",
+    "company": "Jobgether",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-remote-product-merchandising-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.777Z",
+    "title": "Product Merchandising Manager - REMOTE",
+    "company": "Jobgether",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-product-merchandising-manager-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.777Z",
+    "title": "Sr. Product Merchandising Manager (Remote)",
+    "company": "Jobgether",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-sr-product-merchandising-manager-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.777Z",
+    "title": "Staff Performance Engineer",
+    "company": "Cloudera",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cloudera/jobs/staff-performance-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node",
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.777Z",
+    "title": "Remote Product Marketing Manager Education and Workforce Solutions",
+    "company": "Jobgether",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-remote-product-marketing-manager-education-and-workforce-solutions",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.777Z",
+    "title": "Remote Member of Product Design",
+    "company": "Jobgether",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-remote-member-of-product-design",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.777Z",
+    "title": "Sr Product Marketing Manager - remote",
+    "company": "Jobgether",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-sr-product-marketing-manager-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.777Z",
+    "title": "Global Quality Systems Manager (Remote US) (Madison, WI, US)",
+    "company": "Getinge",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/getinge/jobs/global-quality-systems-manager-remote-us-madison-wi-us",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.777Z",
+    "title": "Python AI/ML Intern",
+    "company": "Solvative",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/solvative/jobs/python-ai-ml-intern",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.777Z",
+    "title": "Azure Data Engineer (f/m/div.)",
+    "company": "Bosch Group",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bosch-group/jobs/azure-data-engineer-f-m-div",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.777Z",
+    "title": "Enterprise Solutions Specialist -- Los Angeles/Orange County",
+    "company": "Abbott",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/abbott/jobs/enterprise-solutions-specialist-los-angeles-orange-county",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.777Z",
+    "title": "Controller for a US Software Company",
+    "company": "OnlyExperts",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/onlyexperts/jobs/controller-for-a-us-software-company",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.777Z",
+    "title": "Manager, ERP Applications",
+    "company": "Nordic Global",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nordic-global/jobs/manager-erp-applications",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-25T20:35:17.777Z",
+    "title": "IBM Filenet - Java Developer",
+    "company": "EUROPEAN DYNAMICS",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/european-dynamics/jobs/ibm-filenet-java-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
