@@ -19374,5 +19374,12 @@
     "score": -8,
     "emailSent": false,
     "source": "himalayas"
+  },
+  "df0256f5d68cada2d3c90e8dbd56e946": {
+    "hash": "df0256f5d68cada2d3c90e8dbd56e946",
+    "firstSeen": "2026-03-25T04:18:19.136Z",
+    "score": -6,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }

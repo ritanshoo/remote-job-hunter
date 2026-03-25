@@ -41657,5 +41657,24 @@
       "-5 junior",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-25T04:18:19.136Z",
+    "title": "Full-Stack Developer (Junior)",
+    "company": "LeadUp AI",
+    "source": "weworkremotely",
+    "score": -6,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/leadup-ai-full-stack-developer-junior",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 next.js",
+      "+2 ai",
+      "+1 postgresql",
+      "-5 junior",
+      "-5 intern",
+      "-5 internship"
+    ]
   }
 ]
