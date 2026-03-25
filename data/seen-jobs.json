@@ -19731,5 +19731,12 @@
     "score": -5,
     "emailSent": false,
     "source": "reddit"
+  },
+  "035e9c880d183170e7a935539c770cbf": {
+    "hash": "035e9c880d183170e7a935539c770cbf",
+    "firstSeen": "2026-03-25T16:08:01.277Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "workingnomads"
   }
 }
