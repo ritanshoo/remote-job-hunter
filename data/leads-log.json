@@ -42382,5 +42382,40 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-25T19:44:11.448Z",
+    "title": "Need help finishing an Adobe Illustrator infographic (quick job)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s3g4ja/hiring_need_help_finishing_an_adobe_illustrator/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-25T19:44:11.448Z",
+    "title": "Built a SaaS for video editing + subtitles + multi-platform publishing, but still 0 users after 14 months. Where would you attack this?",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1s3gwya/built_a_saas_for_video_editing_subtitles/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-25T19:44:11.448Z",
+    "title": "- Remote: Only #LATAM",
+    "company": "",
+    "source": "reddit",
+    "score": -5,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s3f0qq/hiring_remote_only_latam/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
