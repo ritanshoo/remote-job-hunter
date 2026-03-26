@@ -43895,5 +43895,203 @@
       "+1 aws",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-26T15:00:44.202Z",
+    "title": "Senior Fullstack Developer (React.js / Node.js)",
+    "company": "Proxify",
+    "source": "workingnomads",
+    "score": 13,
+    "priority": "high",
+    "url": "https://www.workingnomads.com/job/go/1501009/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+1 mongodb"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T15:00:44.676Z",
+    "title": "Senior Frontend Developer (React.js / Next.js)",
+    "company": "Proxify",
+    "source": "workingnomads",
+    "score": 8,
+    "priority": "high",
+    "url": "https://www.workingnomads.com/job/go/1501011/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 next.js",
+      "+1 javascript",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T15:00:44.966Z",
+    "title": "Senior Sharepoint Developer",
+    "company": "Proxify",
+    "source": "workingnomads",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://www.workingnomads.com/job/go/1501015/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 rest api"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T15:00:45.260Z",
+    "title": "Senior Data Engineer (Python)",
+    "company": "Proxify",
+    "source": "workingnomads",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://www.workingnomads.com/job/go/1501007/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T15:00:45.546Z",
+    "title": "Considering a career change because of AI anxiety?",
+    "company": "",
+    "source": "reddit",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/webdev/comments/1s3z3ih/considering_a_career_change_because_of_ai_anxiety/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T15:00:45.833Z",
+    "title": "Senior Golang Developer",
+    "company": "Proxify",
+    "source": "workingnomads",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://www.workingnomads.com/job/go/1501013/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 mongodb",
+      "+1 postgresql",
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T15:00:45.833Z",
+    "title": "Looking for a US based marketer, to help market my clients' websites.",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s407h3/hiring_looking_for_a_us_based_marketer_to_help/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($25)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T15:00:45.833Z",
+    "title": "Pokemon Nuzlocke YouTube video editor",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s3tvil/hiring_pokemon_nuzlocke_youtube_video_editor/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($125)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T15:00:45.833Z",
+    "title": "About to give up on frontend career",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1s3yt0y/about_to_give_up_on_frontend_career/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T15:00:45.833Z",
+    "title": "Purchasing Reddit Accounts (₹100 each)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s478c7/hiring_purchasing_reddit_accounts_100_each/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-26T15:00:45.833Z",
+    "title": "someone to lead edtech sales for a month (Remote / Mumbai)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s4566x/hiring_someone_to_lead_edtech_sales_for_a_month/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-26T15:00:45.833Z",
+    "title": "~~~~~~[Paid Task] $75 to a few people who could use help with groceries or a small bill.USA ONLY",
+    "company": "",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s496u2/hiringpaid_task_75_to_a_few_people_who_could_use/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 usa only",
+      "+2 salary($75)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T15:00:45.833Z",
+    "title": "Seeking Researchers (PoliSci, IR,GR)| $500−$2,000 |",
+    "company": "",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s40hoa/hiringseeking_researchers_polisci_irgr_5002000/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($500)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T15:00:45.833Z",
+    "title": "$15–$50/hr",
+    "company": "Remote Paid Audio Recording",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s3xqsl/hiring_remote_paid_audio_recording_1550hr/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($15–$50/hr)"
+    ]
   }
 ]
