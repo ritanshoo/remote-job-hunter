@@ -20634,5 +20634,19 @@
     "score": -3,
     "emailSent": false,
     "source": "reddit"
+  },
+  "27b3df171d1d6b85f28af191e12a843b": {
+    "hash": "27b3df171d1d6b85f28af191e12a843b",
+    "firstSeen": "2026-03-26T16:56:47.224Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "f539b5fb8bc449fa64e2b026f6e28715": {
+    "hash": "f539b5fb8bc449fa64e2b026f6e28715",
+    "firstSeen": "2026-03-26T16:56:47.225Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }

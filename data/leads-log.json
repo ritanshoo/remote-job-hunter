@@ -44093,5 +44093,16 @@
       "-5 intern",
       "+2 salary($15–$50/hr)"
     ]
+  },
+  {
+    "timestamp": "2026-03-26T16:56:47.225Z",
+    "title": "Customer service representative (US based)",
+    "company": "Onepilot",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/onepilot-customer-service-representative-us-based-1",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
