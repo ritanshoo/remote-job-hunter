@@ -44104,5 +44104,706 @@
     "url": "https://weworkremotely.com/remote-jobs/onepilot-customer-service-representative-us-based-1",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-26T20:32:38.246Z",
+    "title": "Tech Lead",
+    "company": "Prescient Security",
+    "source": "himalayas",
+    "score": 19,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/prescient-security/jobs/tech-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 mern",
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+2 ai",
+      "+1 mongodb",
+      "+1 express"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:38.760Z",
+    "title": "DevOps Engineer",
+    "company": "Prescient Security",
+    "source": "himalayas",
+    "score": 16,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/prescient-security/jobs/devops-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 mern",
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+2 ai",
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:39.062Z",
+    "title": "Senior Software Engineer (React / Node.js)",
+    "company": "Rumor Avenue",
+    "source": "himalayas",
+    "score": 14,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/rumor-avenue/jobs/senior-software-engineer-react-node-js",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 next.js",
+      "+3 node.js",
+      "+3 node",
+      "+1 typescript",
+      "+1 postgresql",
+      "+1 aws",
+      "+1 express",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:39.362Z",
+    "title": "Software Development Engineer III, Extensions",
+    "company": "QuillBot",
+    "source": "himalayas",
+    "score": 12,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/quillbot/jobs/software-development-engineer-iii-extensions",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+2 ai",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:39.666Z",
+    "title": "Senior Frontend Architect",
+    "company": "Binance",
+    "source": "himalayas",
+    "score": 11,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/binance/jobs/senior-frontend-architect-4743233903",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node",
+      "+2 blockchain",
+      "+2 web3",
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:39.962Z",
+    "title": "Integration Developer",
+    "company": "MaintainX",
+    "source": "himalayas",
+    "score": 10,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/maintainx/jobs/integration-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node",
+      "+1 typescript",
+      "+1 rest api",
+      "+2 salary($150)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:40.264Z",
+    "title": "Full-Stack Product Engineer USA",
+    "company": "TechBiz Global",
+    "source": "himalayas",
+    "score": 8,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/techbiz-global/jobs/full-stack-product-engineer-usa",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+1 mongodb",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:40.561Z",
+    "title": "Java Backend Engineer - Web3 Data",
+    "company": "Binance",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/binance/jobs/java-backend-engineer-web3-data-5814590906",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "+2 solana",
+      "+2 web3"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:40.868Z",
+    "title": "Senior Mobile Engineer (iOS, Android, Flutter)",
+    "company": "Binance",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/binance/jobs/senior-mobile-engineer-ios-android-flutter",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "+2 web3",
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:41.170Z",
+    "title": "Staff Engineer",
+    "company": "Akash Network",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/akash-network/jobs/staff-engineer-6593385628",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node",
+      "+2 blockchain",
+      "+2 ai",
+      "+1 javascript",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:41.476Z",
+    "title": "Développeur Frontend Senior – Vue.js (Vue 3) - Senior Frontend Developer",
+    "company": "PayFacto",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/payfacto/jobs/developpeur-frontend-senior-vue-js-vue-3-senior-frontend-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 javascript",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:41.779Z",
+    "title": "Senior UX Designer",
+    "company": "Netomi",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/netomi/jobs/senior-ux-designer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "Data Scientist, NLP & Trading Strategies (Quantitative)",
+    "company": "Binance",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/binance/jobs/data-scientist-nlp-trading-strategies-quantitative-4752618979",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "+2 web3"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "Field Service Engineer - North West Region",
+    "company": "Alexander-Dennis",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/alexander-dennis/jobs/field-service-engineer-north-west-region",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "Staff Software Engineer, Factory Infrastructure",
+    "company": "Redwood Materials",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/redwood-materials/jobs/staff-software-engineer-factory-infrastructure",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "Integrations Consultant",
+    "company": "MaintainX",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/maintainx/jobs/integrations-consultant-9509904909",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 rest api",
+      "+2 salary($150)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "Senior Integrations Consultant",
+    "company": "MaintainX",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/maintainx/jobs/senior-integrations-consultant",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 rest api",
+      "+2 salary($150)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "QA Engineering Manager - Lead Gen Team",
+    "company": "HighLevel",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/highlevel/jobs/qa-engineering-manager-lead-gen-team",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "Staff Research Engineer - Music",
+    "company": "Spotify",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/spotify/jobs/staff-research-engineer-music-8743944795",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "IT Support Engineer",
+    "company": "PubNub",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pubnub/jobs/it-support-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "Senior Analytics Engineer",
+    "company": "Khan Academy",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/khan-academy/jobs/senior-analytics-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "Senior Data Engineering Manager",
+    "company": "YipitData",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/yipitdata/jobs/senior-data-engineering-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($475)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "QA Engineer",
+    "company": "Prescient Security",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/prescient-security/jobs/qa-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "DevOps Cloud Engineer (Remote)",
+    "company": "Jobgether",
+    "source": "weworkremotely",
+    "score": 1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-devops-cloud-engineer-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 aws",
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "Remote Lead DevOps Cloud Engineer",
+    "company": "Jobgether",
+    "source": "weworkremotely",
+    "score": 1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-remote-lead-devops-cloud-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 aws",
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "Senior Software Engineer I (Mobile App)",
+    "company": "Outseer",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/outseer/jobs/senior-software-engineer-i-mobile-app",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "[job-27067] Senior Developer .NET , Brasil",
+    "company": "CI&T",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ci-t/jobs/job-27067-senior-developer-net-brasil",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "Ingénieur(e) Kubernetes (Francais)",
+    "company": "VEXXHOST Inc.",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/vexxhost-inc/jobs/ingenieur-e-kubernetes-francais",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "Java Angular Software Engineer",
+    "company": "3Pillar Global",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/3pillar-global/jobs/java-angular-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "Solutions Engineer",
+    "company": "Mako Financial Technologies",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mako-financial-technologies/jobs/solutions-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 javascript",
+      "-5 entry-level",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "Senior Site Reliability Engineer - B2B",
+    "company": "CookUnity",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cookunity/jobs/senior-site-reliability-engineer-b2b",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "Staff Fullstack Software Engineer, Marketing Technology",
+    "company": "Airbnb",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/airbnb/jobs/staff-fullstack-software-engineer-marketing-technology",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "Manager, Engineering",
+    "company": "Smartsheet",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/smartsheet/jobs/manager-engineering",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "Lead Product Merchandising Manager - remote",
+    "company": "Jobgether",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-lead-product-merchandising-manager-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "Software Engineer III - SpryCIS Core Product Team",
+    "company": "SpryPoint",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sprypoint/jobs/software-engineer-iii-sprycis-core-product-team",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 javascript",
+      "+1 aws",
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "Remote Product Design Member",
+    "company": "Jobgether",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-remote-product-design-member",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "Remote Product Manager Opportunity",
+    "company": "Jobgether",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-remote-product-manager-opportunity",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "Member of Product Design",
+    "company": "Jobgether",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-member-of-product-design",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "Product Design Member (Remote)",
+    "company": "Jobgether",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-product-design-member-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "DevOps Consultant - (Remote)",
+    "company": "Jobgether",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-devops-consultant-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "Remote E-commerce Product Designer",
+    "company": "Jobgether",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-remote-e-commerce-product-designer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "Senior Software Engineer (Platform)",
+    "company": "Chainguard",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/chainguard/jobs/senior-software-engineer-platform-9521246227",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "Systems Engineer - Intern",
+    "company": "General Dynamics Mission Systems",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/general-dynamics-mission-systems/jobs/systems-engineer-intern",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "Ingénieur(e) Ceph Storage (Francais)",
+    "company": "VEXXHOST Inc.",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/vexxhost-inc/jobs/ingenieur-e-ceph-storage-francais",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "Application Support Analyst and Developer (iOS/Android)",
+    "company": "V-Key Pte Ltd",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/v-key-pte-ltd/jobs/application-support-analyst-and-developer-ios-android",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "Senior Software Engineer(Java)",
+    "company": "V-Key Pte Ltd",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/v-key-pte-ltd/jobs/senior-software-engineer-java",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "Solution Architect",
+    "company": "Miquido",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/miquido/jobs/solution-architect",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T20:32:42.084Z",
+    "title": "Java Developer",
+    "company": "Miquido",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/miquido/jobs/java-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
