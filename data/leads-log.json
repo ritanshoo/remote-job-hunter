@@ -44805,5 +44805,59 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-26T21:28:11.757Z",
+    "title": "Principal Frontend Engineer (Relocation to Australia Required)",
+    "company": "Canva",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/canva/jobs/principal-frontend-engineer-relocation-to-australia-required-7003255131",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T21:28:12.443Z",
+    "title": "Web QA Engineer",
+    "company": "Skylum",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/skylum/jobs/web-qa-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T21:28:12.443Z",
+    "title": "Business Development Executive",
+    "company": "Azeus Systems Limited",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/azeus-systems-limited/jobs/business-development-executive",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-26T21:28:12.443Z",
+    "title": "Scrum Master (m/w/d) - full remote möglich (Remote work, DE)",
+    "company": "Körber",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/korber/jobs/scrum-master-m-w-d-full-remote-moglich-remote-work-de",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
   }
 ]
