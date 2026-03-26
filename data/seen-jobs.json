@@ -20529,5 +20529,12 @@
     "score": -5,
     "emailSent": false,
     "source": "himalayas"
+  },
+  "b4d6c53c574953216c7ae3ca66584dcb": {
+    "hash": "b4d6c53c574953216c7ae3ca66584dcb",
+    "firstSeen": "2026-03-26T13:05:46.307Z",
+    "score": 17,
+    "emailSent": false,
+    "source": "jobicy"
   }
 }

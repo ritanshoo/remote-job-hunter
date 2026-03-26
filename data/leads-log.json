@@ -43871,5 +43871,29 @@
     "matchedKeywords": [
       "-5 junior"
     ]
+  },
+  {
+    "timestamp": "2026-03-26T13:05:46.307Z",
+    "title": "Founding Software Engineer – Agentic Systems",
+    "company": "Veriff",
+    "source": "jobicy",
+    "score": 17,
+    "priority": "high",
+    "url": "https://jobicy.com/jobs/141252-founding-software-engineer-agentic-systems",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+2 ai",
+      "+2 llm",
+      "+2 automation",
+      "+2 langchain",
+      "+2 rag",
+      "+1 typescript",
+      "+1 postgresql",
+      "+1 aws",
+      "-5 intern"
+    ]
   }
 ]
