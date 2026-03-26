@@ -43410,5 +43410,466 @@
       "+1 aws",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-26T11:47:07.547Z",
+    "title": "Senior Full Stack Software Engineer",
+    "company": "Pavago",
+    "source": "himalayas",
+    "score": 16,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/pavago/jobs/senior-full-stack-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 mongodb",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T11:47:08.087Z",
+    "title": "Lead DevOps Engineer",
+    "company": "FDB",
+    "source": "himalayas",
+    "score": 8,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/fdb/jobs/lead-devops-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 automation",
+      "+1 docker",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T11:47:08.411Z",
+    "title": "Senior AI Engineer (Engineering Productivity)",
+    "company": "Binance",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/binance/jobs/senior-ai-engineer-engineering-productivity",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 automation",
+      "+2 langchain",
+      "+2 rag",
+      "+1 typescript",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T11:47:08.718Z",
+    "title": "Data Scientist (Search & Recommendation)",
+    "company": "Binance",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/binance/jobs/data-scientist-search-recommendation",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "+2 web3",
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T11:47:09.026Z",
+    "title": "Senior Backend Engineer - (.NET / AI Systems)",
+    "company": "Pavago",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/pavago/jobs/senior-backend-engineer-net-ai-systems-845494474",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+1 mongodb"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T11:47:09.336Z",
+    "title": "Lead DevOps Engineer",
+    "company": "Zynx Health",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/zynx-health/jobs/lead-devops-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 docker",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T11:47:09.643Z",
+    "title": "Golang Developer (Cloud Native)",
+    "company": "Binance",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/binance/jobs/golang-developer-cloud-native-8488399925",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "+2 web3",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T11:47:10.063Z",
+    "title": "AI Software Engineer - Specialist",
+    "company": "mercor",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/mercor/jobs/ai-software-engineer-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 javascript",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T11:47:10.383Z",
+    "title": "AI Software Engineer - Specialist",
+    "company": "mercor",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/mercor/jobs/ai-software-engineer-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 javascript",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T11:47:10.691Z",
+    "title": "Software Engineer",
+    "company": "Pavago",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/pavago/jobs/software-engineer-5787234512",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 javascript",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T11:47:10.691Z",
+    "title": "Quality Assurance Engineer",
+    "company": "Pavago",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pavago/jobs/quality-assurance-engineer-938523480",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T11:47:10.691Z",
+    "title": "Senior Analytics Engineer – Product & Customer Analytics",
+    "company": "HighLevel",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/highlevel/jobs/senior-analytics-engineer-product-customer-analytics",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T11:47:10.691Z",
+    "title": "Associate Director, Technology Sales Support - Solutions Consulting - Remote",
+    "company": "Wolters Kluwer",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/wolters-kluwer/jobs/associate-director-technology-sales-support-solutions-consulting-remote-2580972469",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T11:47:10.691Z",
+    "title": "CoE Technical Expert – AI & Object Storage (AMER)",
+    "company": "Hitachi",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/hitachi/jobs/coe-technical-expert-ai-object-storage-amer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T11:47:10.691Z",
+    "title": "Principal Solutions Architect",
+    "company": "Centene Corporation",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/centene-corporation/jobs/principal-solutions-architect",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T11:47:10.691Z",
+    "title": "Full-Stack AI Engineer",
+    "company": "Pavago",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pavago/jobs/full-stack-ai-engineer-3072831463",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T11:47:10.691Z",
+    "title": "Regional Vice President - Sales - Germany",
+    "company": "nCino, Inc.",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ncino-inc/jobs/regional-vice-president-sales-germany-5887946361",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T11:47:10.691Z",
+    "title": "Software Test Engineer",
+    "company": "SGS",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sgs/jobs/software-test-engineer-5063009558",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T11:47:10.691Z",
+    "title": "IT-Management, Digitalisierung & Prozesse - Vollzeit (m/w/d)",
+    "company": "Everlast Media GmbH",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/everlast-media-gmbh/jobs/it-management-digitalisierung-prozesse-vollzeit-m-w-d-235751720",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T11:47:10.691Z",
+    "title": "WordPress Developer",
+    "company": "Pavago",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pavago/jobs/wordpress-developer-3791517412",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T11:47:10.691Z",
+    "title": "WordPress Developer",
+    "company": "Pavago",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pavago/jobs/wordpress-developer-3791517412",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T11:47:10.691Z",
+    "title": "Senior Cyber Security Consultant - SOC",
+    "company": "EY",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ey/jobs/senior-cyber-security-consultant-soc",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-26T11:47:10.691Z",
+    "title": "Shopify Expert",
+    "company": "Remote VA",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/remote-va/jobs/shopify-expert",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-26T11:47:10.691Z",
+    "title": "Associate Principal Engineer, CRM Salesforce CPQ (Technical Architect)",
+    "company": "Nagarro",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nagarro/jobs/associate-principal-engineer-crm-salesforce-cpq-technical-architect",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-26T11:47:10.691Z",
+    "title": "Structural / Building Inspection Engineer",
+    "company": "Criterium-Twin Cities Engineers",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/criterium-twin-cities-engineers/jobs/structural-building-inspection-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-26T11:47:10.691Z",
+    "title": "Network Engineer",
+    "company": "Pavago",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pavago/jobs/network-engineer-1759027633",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-26T11:47:10.691Z",
+    "title": "Content Support Analyst",
+    "company": "AlphaSense",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/alphasense/jobs/content-support-analyst",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-26T11:47:10.691Z",
+    "title": "Electrical Takeoff Specialist",
+    "company": "Remote VA",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/remote-va/jobs/electrical-takeoff-specialist-47418691",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-26T11:47:10.691Z",
+    "title": "Test Tooling Specialist – ALM Octane (Contract)",
+    "company": "Tarkine Consulting Group",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/tarkine-consulting-group/jobs/test-tooling-specialist-alm-octane-contract",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T11:47:10.691Z",
+    "title": "AI Agents Engineer (Dealpump)",
+    "company": "Genesis",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/genesis/jobs/ai-agents-engineer-dealpump",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T11:47:10.691Z",
+    "title": "Cloud Engineer  (REF5058E)",
+    "company": "Deutsche Telekom IT Solutions",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/deutsche-telekom-it-solutions/jobs/cloud-engineer-ref5058e",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T11:47:10.691Z",
+    "title": "Salesforce Senior Developer",
+    "company": "Hitachi",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/hitachi/jobs/salesforce-senior-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T11:47:10.691Z",
+    "title": "Application/ Customer Support Engineer",
+    "company": "Inivos",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/inivosglobal/jobs/application-customer-support-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T11:47:10.691Z",
+    "title": "Lead Professional Services Engineer",
+    "company": "NICE",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nice/jobs/lead-professional-services-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 junior"
+    ]
   }
 ]
