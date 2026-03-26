@@ -43069,5 +43069,346 @@
       "+1 typescript",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-26T06:11:03.124Z",
+    "title": "Full Stack Engineer",
+    "company": "Ace 1 Media",
+    "source": "himalayas",
+    "score": 19,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/ace-1-media/jobs/full-stack-engineer-9213438495",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 next.js",
+      "+3 node.js",
+      "+3 node",
+      "+1 typescript",
+      "+1 postgresql",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T06:11:03.611Z",
+    "title": "Senior Full Stack Developer",
+    "company": "Pavago",
+    "source": "himalayas",
+    "score": 15,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/pavago/jobs/senior-full-stack-developer-2849457863",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T06:11:03.932Z",
+    "title": "Senior Backend Engineer - Stellar Ecosystem",
+    "company": "MLabs",
+    "source": "himalayas",
+    "score": 13,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/mlabs/jobs/senior-backend-engineer-stellar-ecosystem-603621226",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node.js",
+      "+3 node",
+      "+2 blockchain",
+      "+1 typescript",
+      "+1 mongodb",
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T06:11:04.242Z",
+    "title": "Protocol Integration Engineer",
+    "company": "MLabs",
+    "source": "himalayas",
+    "score": 9,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/mlabs/jobs/protocol-integration-engineer-4112701535",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 solana",
+      "+2 web3",
+      "+2 solidity",
+      "+1 typescript",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T06:11:04.540Z",
+    "title": "Staff Software Engineer - Smart Contracts Team",
+    "company": "MLabs",
+    "source": "himalayas",
+    "score": 8,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/mlabs/jobs/staff-software-engineer-smart-contracts-team-1555967825",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 web3",
+      "+2 smart contract",
+      "+2 solidity",
+      "+1 typescript",
+      "+1 graphql"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T06:11:04.845Z",
+    "title": "Staff Software Engineer - Smart Contracts Team",
+    "company": "MLabs",
+    "source": "himalayas",
+    "score": 8,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/mlabs/jobs/staff-software-engineer-smart-contracts-team-1555967825",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 web3",
+      "+2 smart contract",
+      "+2 solidity",
+      "+1 typescript",
+      "+1 graphql"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T06:11:05.200Z",
+    "title": "Senior Software Engineer - Fullstack, Remote",
+    "company": "Maximus",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/maximustribe/jobs/senior-software-engineer-fullstack-remote-9658693656",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T06:11:05.511Z",
+    "title": "DevOps Engineer",
+    "company": "Peek",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/peek/jobs/devops-engineer-1710278366",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T06:11:05.979Z",
+    "title": "AI QA Specialist",
+    "company": "Hitachi",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/hitachi/jobs/ai-qa-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 rag"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T06:11:05.979Z",
+    "title": "Senior Data Engineer",
+    "company": "HighLevel",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/highlevel/jobs/senior-data-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T06:11:05.979Z",
+    "title": "Staff Analytics Engineer – Customer Data Platform",
+    "company": "HighLevel",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/highlevel/jobs/staff-analytics-engineer-customer-data-platform",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T06:11:05.979Z",
+    "title": "Advisor Batch Developer (UNIX/LINIX/C/Healthcare Claims)",
+    "company": "Gainwell Technologies",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gainwell-technologies/jobs/advisor-batch-developer-unix-linix-c-healthcare-claims",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T06:11:05.979Z",
+    "title": "AI Researcher — Training Optimization",
+    "company": "Featherless AI",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/featherless-ai/jobs/ai-researcher-training-optimization-8729182154",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T06:11:05.979Z",
+    "title": "Staff Software Engineer (Technical Lead), Storage",
+    "company": "Airbnb",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/airbnb/jobs/staff-software-engineer-technical-lead-storage",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T06:11:05.979Z",
+    "title": "Network Architect (1037076) (65221)",
+    "company": "Hitachi",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/hitachi/jobs/network-architect-1037076-65221",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 express"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T06:11:05.979Z",
+    "title": "Senior Engineer, Application Development",
+    "company": "Celanese",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/celanese/jobs/senior-engineer-application-development",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-26T06:11:05.979Z",
+    "title": "Prozessingenieur :in - Life Science (all gender)",
+    "company": "ALTEN",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/alten/jobs/prozessingenieur-in-life-science-all-gender",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-26T06:11:05.979Z",
+    "title": "Senior Software Engineer - Full Remote (France) or Hybrid",
+    "company": "Voyage Privé",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/people-voyage-prive/jobs/senior-software-engineer-full-remote-france-or-hybrid",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-26T06:11:05.979Z",
+    "title": "Data Engineer",
+    "company": "Pavago",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pavago/jobs/data-engineer-3525534575",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-26T06:11:05.979Z",
+    "title": "Data Engineer - Transport - Nantes",
+    "company": "Sopra Steria",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sopra-steria/jobs/data-engineer-transport-nantes",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-26T06:11:05.979Z",
+    "title": "Head of Product & Engineering Delivery",
+    "company": "Marathon Talent",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/marathontalent/jobs/head-of-product-engineering-delivery-1187904731",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-26T06:11:05.979Z",
+    "title": "AI Automation Specialist",
+    "company": "Pavago",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pavago/jobs/ai-automation-specialist-786224433",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T06:11:05.979Z",
+    "title": "Senior DevOps Engineer - REF4482J",
+    "company": "Deutsche Telekom IT Solutions",
+    "source": "himalayas",
+    "score": -2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/deutsche-telekom-it-solutions/jobs/senior-devops-engineer-ref4482j",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-26T06:11:05.979Z",
+    "title": "Senior Front End Developer",
+    "company": "Clark Outsourcing",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/clark-outsourcing/jobs/senior-front-end-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 typescript",
+      "+1 aws",
+      "-5 intern"
+    ]
   }
 ]
