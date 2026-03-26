@@ -20291,5 +20291,19 @@
     "score": -3,
     "emailSent": false,
     "source": "himalayas"
+  },
+  "cfb1357bfc612aa316afbf69e8a1b921": {
+    "hash": "cfb1357bfc612aa316afbf69e8a1b921",
+    "firstSeen": "2026-03-26T09:57:44.999Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "4b32e86621fc6dac07006d6bed803fbc": {
+    "hash": "4b32e86621fc6dac07006d6bed803fbc",
+    "firstSeen": "2026-03-26T09:57:44.999Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }
