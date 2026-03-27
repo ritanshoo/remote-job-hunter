@@ -45253,5 +45253,384 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-27T16:50:53.097Z",
+    "title": "Senior Frontend Developer",
+    "company": "Sanctuary Computer",
+    "source": "weworkremotely",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/sanctuary-computer-senior-frontend-developer-1",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 next.js",
+      "+1 typescript",
+      "+1 postgresql",
+      "+1 graphql",
+      "+1 rest api",
+      "-5 intern",
+      "+2 salary($100/hr)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T16:50:53.612Z",
+    "title": "Staff Software Engineer, Developer Productivity",
+    "company": "Webflow",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/webflow/jobs/staff-software-engineer-developer-productivity",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T16:50:53.926Z",
+    "title": "AI Engineer",
+    "company": "HR Ways",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/hr-ways/jobs/ai-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T16:50:54.229Z",
+    "title": "Virtual EM Systems Engineer",
+    "company": "mercor",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/mercor/jobs/virtual-em-systems-engineer-4083773061",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T16:50:54.545Z",
+    "title": "Staff iOS Mobile Engineer (Swift)",
+    "company": "Wizard",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/wizard/jobs/staff-ios-mobile-engineer-swift",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T16:50:54.545Z",
+    "title": "Software Engineer - Go Specialist",
+    "company": "Pavago",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pavago/jobs/software-engineer-go-specialist-7999589436",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 typescript",
+      "+1 postgresql",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T16:50:54.545Z",
+    "title": "Data Engineer AWS (Inglés Avanzado)",
+    "company": "NEORIS",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/neoris/jobs/data-engineer-aws-ingles-avanzado",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T16:50:54.545Z",
+    "title": "Senior Software Engineer, Canada",
+    "company": "AutoScale Ventures",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/autoscale-ventures/jobs/senior-software-engineer-canada-1119256980",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T16:50:54.545Z",
+    "title": "AI Engineer Tech Lead",
+    "company": "Pragmatike",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pragmatike/jobs/ai-engineer-tech-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T16:50:54.545Z",
+    "title": "AI Engineer Tech Lead",
+    "company": "Pragmatike",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pragmatike/jobs/ai-engineer-tech-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T16:50:54.545Z",
+    "title": "Senior Data Scientist",
+    "company": "TailorCare",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/tailorcare/jobs/senior-data-scientist-7746103095",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T16:50:54.546Z",
+    "title": "Software Engineer II - Backend (F&G)",
+    "company": "Arco Educação",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/arco-educacao/jobs/software-engineer-ii-backend-f-g",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 mongodb",
+      "+1 postgresql"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T16:50:54.546Z",
+    "title": "Senior Product Engineer (Python, Typescript) (Remote, Full-Time) [AS223]",
+    "company": "Smart Working",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/smart-working/jobs/senior-product-engineer-python-typescript-remote-full-time-as223",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T16:50:54.546Z",
+    "title": "Senior Backend Engineer – PHP & Symfony (Remote, Full-Time) [HR129]",
+    "company": "Smart Working",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/smart-working/jobs/senior-backend-engineer-php-symfony-remote-full-time-hr129-4285212201",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-27T16:50:54.546Z",
+    "title": "IT Support Engineer - #34989",
+    "company": "Manila Recruitment",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/manila-recruitment/jobs/it-support-engineer-34989",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-27T16:50:54.546Z",
+    "title": "Senior PHP & Symfony: Backend Engineer (Remote, Full-Time) [HR129]",
+    "company": "Smart Working",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/smart-working/jobs/senior-php-symfony-backend-engineer-remote-full-time-hr129-7846884248",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-27T16:50:54.546Z",
+    "title": "Full-Stack Engineer (Frontend-Focused)",
+    "company": "CitizenShipper",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/citizenshipper/jobs/full-stack-engineer-frontend-focused",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-27T16:50:54.546Z",
+    "title": "Geospatial Reasoning Specialist (Senior) – AI Trainer",
+    "company": "Invisible Technologies",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/inv/jobs/geospatial-reasoning-specialist-senior-ai-trainer-5331433413",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T16:50:54.546Z",
+    "title": "Software Design Engineer(TC28592)",
+    "company": "Supermicro",
+    "source": "himalayas",
+    "score": -2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/supermicro/jobs/software-design-engineer-tc28592",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 docker",
+      "-5 c++"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T16:50:54.546Z",
+    "title": "Technical Account Manager",
+    "company": "Rithum",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/rithum/jobs/technical-account-manager-4383943536",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($50)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T16:50:54.546Z",
+    "title": "Electrical BIM Specialist",
+    "company": "Arcadis",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/arcadis/jobs/electrical-bim-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T16:50:54.546Z",
+    "title": "Senior Frontend Software Engineer, Feeds Experience",
+    "company": "Reddit",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/reddit/jobs/senior-frontend-software-engineer-feeds-experience",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T16:50:54.546Z",
+    "title": "Technical Account Manager",
+    "company": "Rithum",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/rithum/jobs/technical-account-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($50)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T16:50:54.546Z",
+    "title": "Platform Support Engineer (L1)",
+    "company": "NTT DATA",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/global/jobs/platform-support-engineer-l1",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($30)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T16:50:54.546Z",
+    "title": "Associate Mechanical Project Manager - Data Centres (Nordics)",
+    "company": "Arcadis",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/arcadis/jobs/associate-mechanical-project-manager-data-centres-nordics",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T16:50:54.546Z",
+    "title": "Senior Machine Learning Engineer, Ads",
+    "company": "Reddit",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/reddit/jobs/senior-machine-learning-engineer-ads-6424853590",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T16:50:54.546Z",
+    "title": "Assurance Qualité Global - Alternance (H/F)",
+    "company": "UPSA",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/upsa/jobs/assurance-qualite-global-alternance-h-f",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T16:50:54.546Z",
+    "title": "Technical Architect",
+    "company": "VeriPark",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/veripark/jobs/technical-architect-681600546",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
