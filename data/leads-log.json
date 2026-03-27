@@ -45122,5 +45122,57 @@
     "url": "https://www.reddit.com/r/forhire/comments/1s539c3/hiring_3050_interior_designer_3d_visualizer/",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-27T14:13:15.162Z",
+    "title": "Staff Software Engineer",
+    "company": "EngagedMD",
+    "source": "weworkremotely",
+    "score": 3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/engagedmd-staff-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node.js",
+      "+3 node",
+      "+1 typescript",
+      "+1 graphql",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T14:13:15.162Z",
+    "title": "AI Image Model Evaluator",
+    "company": "Contra",
+    "source": "weworkremotely",
+    "score": 2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/contra-ai-image-model-evaluator",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T14:13:15.162Z",
+    "title": "Customer Success Associate",
+    "company": "Close",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/close-customer-success-associate-2",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-27T14:13:15.162Z",
+    "title": "Need UI/UX designer for simple Figma dashboard (sample draft first)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s53nds/hiring_need_uiux_designer_for_simple_figma/",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
