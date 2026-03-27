@@ -21600,5 +21600,19 @@
     "score": -3,
     "emailSent": false,
     "source": "weworkremotely"
+  },
+  "c4410afc9ec834720e67649e0780a10b": {
+    "hash": "c4410afc9ec834720e67649e0780a10b",
+    "firstSeen": "2026-03-27T21:30:07.089Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "7416e32a5eda45d830ba4a773f5c9ac7": {
+    "hash": "7416e32a5eda45d830ba4a773f5c9ac7",
+    "firstSeen": "2026-03-27T21:30:07.089Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "jobicy"
   }
 }

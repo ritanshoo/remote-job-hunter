@@ -45808,5 +45808,27 @@
       "+2 ai",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-27T21:30:07.089Z",
+    "title": "I FEEL LOST in tech field pls help. I want to become IT support specialist or Software Tester but i dont know which tools to learn and what to do. I SEEK GUİDE AND HELP.",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1s5ghua/i_feel_lost_in_tech_field_pls_help_i_want_to/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-27T21:30:07.089Z",
+    "title": "Software Development Project Manager (Agile, DevOps)",
+    "company": "ECS",
+    "source": "jobicy",
+    "score": 0,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/141305-software-development-project-manager-agile-devops-2",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
