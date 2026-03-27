@@ -45033,5 +45033,55 @@
       "+3 react",
       "+2 salary($400)"
     ]
+  },
+  {
+    "timestamp": "2026-03-27T10:43:17.277Z",
+    "title": "Senior Full-stack Developer",
+    "company": "Lemon.io",
+    "source": "workingnomads",
+    "score": 27,
+    "priority": "high",
+    "url": "https://www.workingnomads.com/job/go/1502763/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 next.js",
+      "+3 node.js",
+      "+3 node",
+      "+2 blockchain",
+      "+2 solana",
+      "+2 web3",
+      "+2 solidity",
+      "+2 ai",
+      "+2 llm",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T10:43:17.277Z",
+    "title": "Short-Form Video Clippers (TikTok / Reels / Shorts)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s4zzoh/hiring_shortform_video_clippers_tiktok_reels/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-27T10:43:17.277Z",
+    "title": "Read Post (SMM, Video Editor, Ads)",
+    "company": "Multiple Positions",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s4zraj/hiring_multiple_positions_read_post_smm_video/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($25–$30)"
+    ]
   }
 ]

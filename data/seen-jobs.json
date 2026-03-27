@@ -21173,5 +21173,26 @@
     "score": 5,
     "emailSent": false,
     "source": "reddit"
+  },
+  "e560a86ca4c067ca97ed459c0edf779a": {
+    "hash": "e560a86ca4c067ca97ed459c0edf779a",
+    "firstSeen": "2026-03-27T10:43:17.277Z",
+    "score": 27,
+    "emailSent": false,
+    "source": "workingnomads"
+  },
+  "abf63f111b5f2039c7e8da09614df37e": {
+    "hash": "abf63f111b5f2039c7e8da09614df37e",
+    "firstSeen": "2026-03-27T10:43:17.277Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "9063f126604a0b93d834d8c2582af39f": {
+    "hash": "9063f126604a0b93d834d8c2582af39f",
+    "firstSeen": "2026-03-27T10:43:17.277Z",
+    "score": -3,
+    "emailSent": false,
+    "source": "reddit"
   }
 }
