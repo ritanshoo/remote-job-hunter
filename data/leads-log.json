@@ -45019,5 +45019,19 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-27T09:51:36.730Z",
+    "title": "$400",
+    "company": "Reddit Specialist",
+    "source": "reddit",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/forhire/comments/1s4yyr0/hiring_reddit_specialist_400/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 salary($400)"
+    ]
   }
 ]
