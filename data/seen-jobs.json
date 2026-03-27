@@ -21614,5 +21614,19 @@
     "score": 0,
     "emailSent": false,
     "source": "jobicy"
+  },
+  "e6f83d9dc2e18a5b0461088ef52ae005": {
+    "hash": "e6f83d9dc2e18a5b0461088ef52ae005",
+    "firstSeen": "2026-03-27T22:28:18.475Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "ee4e210b037569c30b3d1c5b4da5424a": {
+    "hash": "ee4e210b037569c30b3d1c5b4da5424a",
+    "firstSeen": "2026-03-27T22:28:18.475Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
   }
 }
