@@ -45632,5 +45632,37 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-27T17:46:21.679Z",
+    "title": "Senior Front End Engineer - Remote",
+    "company": "EventMobi",
+    "source": "weworkremotely",
+    "score": 7,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/eventmobi-senior-front-end-engineer-remote-1",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 aws",
+      "+1 rest api",
+      "+1 docker",
+      "-5 intern",
+      "+2 salary($50)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T17:46:21.679Z",
+    "title": "Looking for a web developer",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1s59qgd/looking_for_a_web_developer/",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
