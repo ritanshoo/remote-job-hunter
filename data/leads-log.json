@@ -45083,5 +45083,44 @@
       "-5 intern",
       "+2 salary($25–$30)"
     ]
+  },
+  {
+    "timestamp": "2026-03-27T12:57:48.109Z",
+    "title": "Senior Account Executive (Remote - SF - NYC - Boston)",
+    "company": "Visible",
+    "source": "weworkremotely",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/visible-senior-account-executive-remote-sf-nyc-boston",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+2 salary($215)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T12:57:48.109Z",
+    "title": "PLEASE HELP i can't make this work.",
+    "company": "",
+    "source": "reddit",
+    "score": 3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1s51ofc/please_help_i_cant_make_this_work/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T12:57:48.109Z",
+    "title": "30-50$ Interior Designer & 3D Visualizer – Modern Residential Test Project (Potential Long-Term) #hiring",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s539c3/hiring_3050_interior_designer_3d_visualizer/",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
