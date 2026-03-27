@@ -45706,5 +45706,107 @@
       "-5 us only",
       "+2 salary($70,000 – $90,000)"
     ]
+  },
+  {
+    "timestamp": "2026-03-27T20:34:39.287Z",
+    "title": "Product Designer | Contra Labs Network",
+    "company": "Contra",
+    "source": "weworkremotely",
+    "score": 2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/contra-product-designer-contra-labs-network",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T20:34:39.287Z",
+    "title": "Sr. DevOps Cloud Engineer (Remote)",
+    "company": "Jobgether",
+    "source": "weworkremotely",
+    "score": 1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-sr-devops-cloud-engineer-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 aws",
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T20:34:39.287Z",
+    "title": "Remote Cloud Engineer (DevOps)",
+    "company": "Jobgether",
+    "source": "weworkremotely",
+    "score": 1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-remote-cloud-engineer-devops",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 aws",
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T20:34:39.287Z",
+    "title": "Hello everyone, can you feedback on my First App?",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1s5fnua/hello_everyone_can_you_feedback_on_my_first_app/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-27T20:34:39.287Z",
+    "title": "Product Merchandising Manager (Remote)",
+    "company": "Jobgether",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-product-merchandising-manager-remote-1",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T20:34:39.287Z",
+    "title": "Senior Product Merchandising Manager (Remote)",
+    "company": "Jobgether",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-senior-product-merchandising-manager-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T20:34:39.287Z",
+    "title": "Sr Product Marketing Manager (REMOTE)",
+    "company": "Jobgether",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-sr-product-marketing-manager-remote-1",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
   }
 ]
