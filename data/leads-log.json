@@ -45664,5 +45664,18 @@
     "url": "https://www.reddit.com/r/webdev/comments/1s59qgd/looking_for_a_web_developer/",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-27T18:51:04.976Z",
+    "title": "Looking for someone who can get a us on a meeting with an angel investor or VC for a Fintech Startup. $100",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s5cf2t/hiring_looking_for_someone_who_can_get_a_us_on_a/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($100)"
+    ]
   }
 ]
