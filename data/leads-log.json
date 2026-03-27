@@ -44873,5 +44873,19 @@
       "-5 intern",
       "+2 salary($800)"
     ]
+  },
+  {
+    "timestamp": "2026-03-27T07:02:19.574Z",
+    "title": "Data Engineer, 80-100% (f/m/x), remote",
+    "company": "comparis.ch",
+    "source": "weworkremotely",
+    "score": 3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/comparis-ch-data-engineer-80-100-f-m-x-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 docker"
+    ]
   }
 ]
