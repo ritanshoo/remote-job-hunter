@@ -45941,5 +45941,16 @@
       "+2 ai",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-28T05:54:21.750Z",
+    "title": "looking for feedback",
+    "company": "I built a QR-based event photo tool that uploads straight to your Google Drive",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1s5s73c/i_built_a_qrbased_event_photo_tool_that_uploads/",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
