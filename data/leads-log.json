@@ -46575,5 +46575,29 @@
     "url": "https://www.reddit.com/r/webdev/comments/1s5zhh8/looking_for_feedback_for_this_website/",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-28T14:28:37.630Z",
+    "title": "Python + Playwright Developer for Automation Assistant (Async + Stability Focus)",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s61213/hiring_python_playwright_developer_for_automation/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-28T14:28:37.630Z",
+    "title": "Portfolio Advice",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1s61mp1/portfolio_advice/",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
