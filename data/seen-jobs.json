@@ -22006,5 +22006,12 @@
     "score": -6,
     "emailSent": false,
     "source": "himalayas"
+  },
+  "83880c504f3daf2297db1229a327ef83": {
+    "hash": "83880c504f3daf2297db1229a327ef83",
+    "firstSeen": "2026-03-28T11:25:17.777Z",
+    "score": -5,
+    "emailSent": false,
+    "source": "reddit"
   }
 }

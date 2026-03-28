@@ -46486,5 +46486,18 @@
       "-5 internship",
       "+2 salary"
     ]
+  },
+  {
+    "timestamp": "2026-03-28T11:25:17.777Z",
+    "title": "Copy paste on Facebook (10$/call)",
+    "company": "",
+    "source": "reddit",
+    "score": -5,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s5wte0/hiring_copy_paste_on_facebook_10call/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 based in the us"
+    ]
   }
 ]
