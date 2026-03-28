@@ -46599,5 +46599,20 @@
     "url": "https://www.reddit.com/r/webdev/comments/1s61mp1/portfolio_advice/",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-28T15:27:23.220Z",
+    "title": "Seeking a Co-builder for a High-Frequency Solana Launchpad SaaS.",
+    "company": "",
+    "source": "reddit",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/webdev/comments/1s62vqx/seeking_a_cobuilder_for_a_highfrequency_solana/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 solana",
+      "+2 web3",
+      "+1 typescript"
+    ]
   }
 ]
