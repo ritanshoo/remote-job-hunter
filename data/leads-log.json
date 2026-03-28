@@ -45927,5 +45927,19 @@
     "url": "https://www.reddit.com/r/webdev/comments/1s5lauf/showoff_saturady_im_building_the_antijira_project/",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-28T04:17:35.412Z",
+    "title": "Collaboration[USA,UK &CANADA]",
+    "company": "Remote AI Training Contributors – Up to $1K/Week",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s5oipt/hiring_remote_ai_training_contributors_up_to/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
   }
 ]
