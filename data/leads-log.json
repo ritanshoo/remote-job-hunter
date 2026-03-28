@@ -46513,5 +46513,67 @@
       "+2 ai",
       "+2 salary($225)"
     ]
+  },
+  {
+    "timestamp": "2026-03-28T13:48:28.259Z",
+    "title": "[Showoff Saturday] First attempt at building an addictive game",
+    "company": "",
+    "source": "reddit",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/webdev/comments/1s600xt/showoff_saturday_first_attempt_at_building_an/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 smart contract"
+    ]
+  },
+  {
+    "timestamp": "2026-03-28T13:48:28.259Z",
+    "title": ". wnt to make quick cash?",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s609d2/hiring_wnt_to_make_quick_cash/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($50)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-28T13:48:28.259Z",
+    "title": "Production-ready website themes marketplace. Looking for feedback!",
+    "company": "Just launched Bricks UI",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1s5zjq4/just_launched_bricks_ui_productionready_website/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-28T13:48:28.260Z",
+    "title": "Making the jump from senior to principal",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1s60ota/making_the_jump_from_senior_to_principal/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-28T13:48:28.260Z",
+    "title": "Looking for feedback for this website",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1s5zhh8/looking_for_feedback_for_this_website/",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
