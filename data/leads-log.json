@@ -45952,5 +45952,18 @@
     "url": "https://www.reddit.com/r/webdev/comments/1s5s73c/i_built_a_qrbased_event_photo_tool_that_uploads/",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-28T09:33:34.910Z",
+    "title": "Help, I'm starting to build a open-source mock exam taking web-based app ,The issue I'm facing is extract the question completely, but the I don't have any idea what to do with the mathematics of the question part,These expressions are not able to be copied , these questions are about 75+ in numbers",
+    "company": "",
+    "source": "reddit",
+    "score": 1,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1s5v3ay/help_im_starting_to_build_a_opensource_mock_exam/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 express"
+    ]
   }
 ]
