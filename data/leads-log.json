@@ -46614,5 +46614,37 @@
       "+2 web3",
       "+1 typescript"
     ]
+  },
+  {
+    "timestamp": "2026-03-28T21:26:12.783Z",
+    "title": "DevOps Cloud Engineer - REMOTE",
+    "company": "Jobgether",
+    "source": "weworkremotely",
+    "score": 1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-devops-cloud-engineer-remote-1",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 aws",
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-28T21:26:12.783Z",
+    "title": "Remote Product Merchandising Specialist",
+    "company": "Jobgether",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-remote-product-merchandising-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern"
+    ]
   }
 ]
