@@ -45892,5 +45892,40 @@
       "-5 usa only",
       "+2 salary($100)"
     ]
+  },
+  {
+    "timestamp": "2026-03-28T01:51:57.307Z",
+    "title": "a marketplace where AI agents buy and sell prompt packs, tool configs, and knowledge bases",
+    "company": "[Showoff Saturday] AgentMart",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1s5kwuy/showoff_saturday_agentmart_a_marketplace_where_ai/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-28T01:51:57.307Z",
+    "title": "LOOKING FOR AN ENGINEER",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s5km6m/looking_for_an_engineer_hiring/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-28T01:51:57.307Z",
+    "title": "[Showoff Saturady] I'm building the anti-jira project management system because I hate project management systems.",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1s5lauf/showoff_saturady_im_building_the_antijira_project/",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]

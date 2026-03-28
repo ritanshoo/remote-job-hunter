@@ -21649,5 +21649,26 @@
     "score": -3,
     "emailSent": false,
     "source": "reddit"
+  },
+  "f4d1dd7f00a4c3c23775178a51ef74e4": {
+    "hash": "f4d1dd7f00a4c3c23775178a51ef74e4",
+    "firstSeen": "2026-03-28T01:51:57.307Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "02c03bfe500983bd5641501d8312e59b": {
+    "hash": "02c03bfe500983bd5641501d8312e59b",
+    "firstSeen": "2026-03-28T01:51:57.307Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "d655d9aa1a339013e37551a6f9b77c6c": {
+    "hash": "d655d9aa1a339013e37551a6f9b77c6c",
+    "firstSeen": "2026-03-28T01:51:57.307Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
   }
 }
