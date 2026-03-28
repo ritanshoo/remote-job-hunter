@@ -22013,5 +22013,19 @@
     "score": -5,
     "emailSent": false,
     "source": "reddit"
+  },
+  "88e2c7508fc968ae6d1daeb5adca36fd": {
+    "hash": "88e2c7508fc968ae6d1daeb5adca36fd",
+    "firstSeen": "2026-03-28T12:45:41.649Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remotive"
+  },
+  "f06c8eb7a40edfb3d0436cd157fb27fe": {
+    "hash": "f06c8eb7a40edfb3d0436cd157fb27fe",
+    "firstSeen": "2026-03-28T12:45:42.370Z",
+    "score": 4,
+    "emailSent": false,
+    "source": "reddit"
   }
 }
