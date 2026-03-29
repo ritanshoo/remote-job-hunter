@@ -46661,5 +46661,629 @@
       "+1 typescript",
       "+1 graphql"
     ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:21.657Z",
+    "title": "Teacher/Lehrer (m/w/d) Web Development",
+    "company": "Digital Career Institute",
+    "source": "himalayas",
+    "score": 13,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/digital-career-institute/jobs/teacher-lehrer-m-w-d-web-development",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+1 javascript",
+      "+1 mongodb",
+      "+1 postgresql",
+      "+1 express"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:22.126Z",
+    "title": "Staff Engineer, NodeJS",
+    "company": "Nagarro",
+    "source": "himalayas",
+    "score": 10,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/nagarro/jobs/staff-engineer-nodejs",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node.js",
+      "+3 node",
+      "+1 javascript",
+      "+1 express",
+      "+1 graphql",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:22.420Z",
+    "title": "Staff Engineer, NodeJS",
+    "company": "Nagarro",
+    "source": "himalayas",
+    "score": 10,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/nagarro/jobs/staff-engineer-nodejs",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node.js",
+      "+3 node",
+      "+1 javascript",
+      "+1 express",
+      "+1 graphql",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:22.701Z",
+    "title": "Senior Backend Engineer - Pindrop",
+    "company": "Miratech",
+    "source": "himalayas",
+    "score": 10,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/miratech/jobs/senior-backend-engineer-pindrop",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+2 automation",
+      "+1 mongodb",
+      "+1 postgresql",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:22.985Z",
+    "title": "Engineer",
+    "company": "Nagarro",
+    "source": "himalayas",
+    "score": 8,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/nagarro/jobs/engineer-5887583931",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+3 react",
+      "+1 javascript",
+      "+1 rest api"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:23.273Z",
+    "title": "Full Stack Engineer Intern",
+    "company": "Splash Music",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/splash-music/jobs/full-stack-engineer-intern-7842797576",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+2 ai",
+      "+1 typescript",
+      "-5 intern",
+      "-5 internship"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:23.555Z",
+    "title": "Senior Professional Product Developer",
+    "company": "Gainwell Technologies",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/gainwell-technologies/jobs/senior-professional-product-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:23.844Z",
+    "title": "Data Engineer, Go To Market",
+    "company": "Crowdstrike",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/crowdstrike/jobs/data-engineer-go-to-market",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.126Z",
+    "title": "Senior Program Manager, Security Engineering",
+    "company": "Kong",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/kong/jobs/senior-program-manager-security-engineering-8480254066",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.407Z",
+    "title": "Senior Network Engineer",
+    "company": "Nebius",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/nebius/jobs/senior-network-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.691Z",
+    "title": "React Native Developer | Android |with 4+ years | IST Time | Remote",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/react-native-developer-android-with-4-years-ist-time-remote-1749405638",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.691Z",
+    "title": "Senior Infrastructure Engineer - AI/ML",
+    "company": "Mitratech",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mitratech/jobs/senior-infrastructure-engineer-ai-ml-7364536040",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.691Z",
+    "title": "Staff Engineer, Java",
+    "company": "Nagarro",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nagarro/jobs/staff-engineer-java-8902801481",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.691Z",
+    "title": "Data Scientist III (Remote, ROU)",
+    "company": "Crowdstrike",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/crowdstrike/jobs/data-scientist-iii-remote-rou",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.691Z",
+    "title": "Senior Mobile developer",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/senior-mobile-developer-8940589162",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.691Z",
+    "title": "Software Engineer",
+    "company": "Saab",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/saab/jobs/software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.691Z",
+    "title": "Sr. Data Engineering & Report Visualization Manager (100% Remote)",
+    "company": "ClearCaptions, LLC",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/clearcaptions-llc/jobs/sr-data-engineering-report-visualization-manager-100-remote-9540041878",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.691Z",
+    "title": "Senior Software Engineer - Spring Boot (Remote, Dubai)",
+    "company": "TalPods",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/talpods/jobs/senior-software-engineer-spring-boot-remote-dubai-9836731642",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.691Z",
+    "title": "Staff Software Engineer (India)",
+    "company": "Karat",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/karat/jobs/staff-software-engineer-india",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.691Z",
+    "title": "Senior Data Engineer",
+    "company": "Blockworks",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/blockworks/jobs/senior-data-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.691Z",
+    "title": "Remote Lead/Senior Appian Developer (Freelancer)",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/remote-lead-senior-appian-developer-freelancer-418612108",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.691Z",
+    "title": "Senior Data Engineer",
+    "company": "Data Edge",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/data-edge/jobs/senior-data-engineer-7689990813",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node",
+      "+1 postgresql",
+      "+1 aws",
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.691Z",
+    "title": "Salesforce B2B commerce | Brillio | Remote |",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/salesforce-b2b-commerce-brillio-remote-784952792",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.692Z",
+    "title": "Website Developer",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/website-developer-6814163568",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.692Z",
+    "title": "Senior Cloud DevOps Engineer",
+    "company": "Berkeley Square IT",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/berkeley-square-it/jobs/senior-cloud-devops-engineer-8551486327",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.692Z",
+    "title": "Associate Staff Engineer, PHP Magento",
+    "company": "Nagarro",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nagarro/jobs/associate-staff-engineer-php-magento-8720968609",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.692Z",
+    "title": "Senior Java Developer",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/senior-java-developer-5315398087",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.692Z",
+    "title": "Erland and Elixir Engineer",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/erland-and-elixir-engineer-2922446722",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.692Z",
+    "title": "Senior Staff Consultant, Business Analyst",
+    "company": "Nagarro",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nagarro/jobs/senior-staff-consultant-business-analyst-6292166102",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.692Z",
+    "title": "RPG Programmer",
+    "company": "LingaTech",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/lingatech/jobs/rpg-programmer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.692Z",
+    "title": "RPG Programmer",
+    "company": "LingaTech",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/lingatech/jobs/rpg-programmer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.692Z",
+    "title": "SAP for Utilities Energy Data Management Device Management Application Developer",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/sap-for-utilities-energy-data-management-device-management-application-developer-6607706046",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.692Z",
+    "title": "Senior Staff Engineer, ERP (Workday Technical Consultant )",
+    "company": "Nagarro",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nagarro/jobs/senior-staff-engineer-erp-workday-technical-consultant-451698529",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.692Z",
+    "title": "Senior Staff Engineer, Data Science",
+    "company": "Nagarro",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nagarro/jobs/senior-staff-engineer-data-science-9424439786",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.692Z",
+    "title": "Architect-Dell Boomi | with SFDC Expert |10+ Years Exp | Remote",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/architect-dell-boomi-with-sfdc-expert-10-years-exp-remote",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.692Z",
+    "title": "IT Systems Engineer",
+    "company": "QuillBot",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/quillbot/jobs/it-systems-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.692Z",
+    "title": "Pyspark & Databricks certified Developer",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/pyspark-databricks-certified-developer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.692Z",
+    "title": "Customer Service Representative",
+    "company": "Axalta",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/axalta/jobs/customer-service-representative",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.692Z",
+    "title": "Technical Project Manager",
+    "company": "Autodesk",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/autodesk/jobs/technical-project-manager",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.692Z",
+    "title": "Account Executive, West US - Digital Natives",
+    "company": "Cockroach Labs",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cockroach-labs/jobs/account-executive-west-us-digital-natives-3903942172",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.692Z",
+    "title": "Principal Systems Engineer",
+    "company": "Flex",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/flex-com/jobs/principal-systems-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.692Z",
+    "title": "Senior Automation Test Engineer",
+    "company": "Accesa & RaRo",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/accesa-raro/jobs/senior-automation-test-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.692Z",
+    "title": "Commercial Account Executive- Mid-Atlantic",
+    "company": "Cyberark",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cyberark/jobs/commercial-account-executive-mid-atlantic-3204483377",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.692Z",
+    "title": "Junior Data Scientist",
+    "company": "LifeRaft",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/liferaft/jobs/junior-data-scientist-578098292",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.692Z",
+    "title": "AEM Developer",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/aem-developer-710567049",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T05:07:24.692Z",
+    "title": "Site Reliability Engineer, ANZ",
+    "company": "Partly",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/partly/jobs/site-reliability-engineer-anz-9938088894",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
