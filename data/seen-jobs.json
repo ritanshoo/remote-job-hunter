@@ -22594,5 +22594,26 @@
     "score": 0,
     "emailSent": false,
     "source": "reddit"
+  },
+  "6cf9076b190f0074d78aac29ba78e6d1": {
+    "hash": "6cf9076b190f0074d78aac29ba78e6d1",
+    "firstSeen": "2026-03-29T11:25:33.289Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "cd03906e1e48cf3325d5eea5a08562d7": {
+    "hash": "cd03906e1e48cf3325d5eea5a08562d7",
+    "firstSeen": "2026-03-29T11:25:33.557Z",
+    "score": 3,
+    "emailSent": false,
+    "source": "jobicy"
+  },
+  "c8593a02d5f23e38e51b9e4157e5aef8": {
+    "hash": "c8593a02d5f23e38e51b9e4157e5aef8",
+    "firstSeen": "2026-03-29T11:25:33.557Z",
+    "score": -3,
+    "emailSent": false,
+    "source": "jobicy"
   }
 }

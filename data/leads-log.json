@@ -47404,5 +47404,33 @@
     "url": "https://www.reddit.com/r/webdev/comments/1s6c582/whats_the_most_painful_thing_about_running_a/",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-29T11:25:33.557Z",
+    "title": "Software Engineer",
+    "company": "Twilio",
+    "source": "jobicy",
+    "score": 3,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/141381-software-engineer-5",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 express"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T11:25:33.557Z",
+    "title": "Senior Software Engineer II, Developer Experience / Operational Excellence",
+    "company": "Samsara",
+    "source": "jobicy",
+    "score": -3,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/141361-senior-software-engineer-ii-developer-experience-operational-excellence",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
   }
 ]
