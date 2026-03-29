@@ -22524,5 +22524,75 @@
     "score": -5,
     "emailSent": false,
     "source": "himalayas"
+  },
+  "f6d46f245a26807364d0b5179f24e28e": {
+    "hash": "f6d46f245a26807364d0b5179f24e28e",
+    "firstSeen": "2026-03-29T10:28:57.680Z",
+    "score": 4,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "a1b3427fece4c3c28fc38826e19601c8": {
+    "hash": "a1b3427fece4c3c28fc38826e19601c8",
+    "firstSeen": "2026-03-29T10:28:57.680Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "da4e7e7ae22b7334659bf25205d0996d": {
+    "hash": "da4e7e7ae22b7334659bf25205d0996d",
+    "firstSeen": "2026-03-29T10:28:57.680Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "1060fc60773a87f16ef14b650506f13f": {
+    "hash": "1060fc60773a87f16ef14b650506f13f",
+    "firstSeen": "2026-03-29T10:28:57.680Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "c1c17b0842f6db272bc06ac15d13510d": {
+    "hash": "c1c17b0842f6db272bc06ac15d13510d",
+    "firstSeen": "2026-03-29T10:28:57.680Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "2811d63da27cfdc76740a0da2e6c94a1": {
+    "hash": "2811d63da27cfdc76740a0da2e6c94a1",
+    "firstSeen": "2026-03-29T10:28:57.680Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "e6030364c60f0fba3288a8b0cdc92e9b": {
+    "hash": "e6030364c60f0fba3288a8b0cdc92e9b",
+    "firstSeen": "2026-03-29T10:28:57.680Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "7375c62bbf6598ab7148108464956686": {
+    "hash": "7375c62bbf6598ab7148108464956686",
+    "firstSeen": "2026-03-29T10:28:57.680Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "d5bdb3f352c8b4689c15016d652aa189": {
+    "hash": "d5bdb3f352c8b4689c15016d652aa189",
+    "firstSeen": "2026-03-29T10:28:57.680Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "ab9a691a9cf9815e5109bc9a0ea29cc0": {
+    "hash": "ab9a691a9cf9815e5109bc9a0ea29cc0",
+    "firstSeen": "2026-03-29T10:28:57.680Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
   }
 }
