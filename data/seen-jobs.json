@@ -22622,5 +22622,19 @@
     "score": 0,
     "emailSent": false,
     "source": "remoteok"
+  },
+  "cd066c6ab7c97132c3c1a158b0a1e29b": {
+    "hash": "cd066c6ab7c97132c3c1a158b0a1e29b",
+    "firstSeen": "2026-03-29T15:27:53.202Z",
+    "score": 12,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "9517270c2f4dedf4c86bcde6cada738d": {
+    "hash": "9517270c2f4dedf4c86bcde6cada738d",
+    "firstSeen": "2026-03-29T15:27:53.202Z",
+    "score": -5,
+    "emailSent": false,
+    "source": "reddit"
   }
 }

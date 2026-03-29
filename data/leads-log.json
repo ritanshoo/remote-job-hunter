@@ -47432,5 +47432,34 @@
       "+2 ai",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-29T15:27:53.202Z",
+    "title": "Full Stack Developer (React.js + Node.js + python) Remote job",
+    "company": "",
+    "source": "reddit",
+    "score": 12,
+    "priority": "high",
+    "url": "https://www.reddit.com/r/forhire/comments/1s6rvc1/hiring_full_stack_developer_reactjs_nodejs_python/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node.js",
+      "+3 node"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T15:27:53.202Z",
+    "title": "Remote, Part Time",
+    "company": "Make $200-400/month uploading short clips online",
+    "source": "reddit",
+    "score": -5,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s6xg2q/hiring_make_200400month_uploading_short_clips/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
