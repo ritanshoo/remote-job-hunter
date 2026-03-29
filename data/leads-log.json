@@ -47461,5 +47461,65 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-29T21:28:08.804Z",
+    "title": "DB DevOps Engineer - REMOTE",
+    "company": "Jobgether",
+    "source": "weworkremotely",
+    "score": 1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-db-devops-engineer-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 mongodb",
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T21:28:08.804Z",
+    "title": "Remote Product Merchandising Manager",
+    "company": "Jobgether",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-remote-product-merchandising-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T21:28:08.804Z",
+    "title": "Remote Product Design Expert",
+    "company": "Jobgether",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-remote-product-design-expert",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-29T21:28:08.804Z",
+    "title": "Remote SAP Product Compliance Specialist",
+    "company": "Jobgether",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-remote-sap-product-compliance-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
   }
 ]
