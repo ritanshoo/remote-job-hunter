@@ -46646,5 +46646,20 @@
       "+2 automation",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-29T02:03:11.311Z",
+    "title": "React Frontend Developer",
+    "company": "The Corvus Group Inc",
+    "source": "weworkremotely",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/the-corvus-group-inc-react-frontend-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 typescript",
+      "+1 graphql"
+    ]
   }
 ]
