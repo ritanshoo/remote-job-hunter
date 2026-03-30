@@ -48948,5 +48948,65 @@
       "+2 ai",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-30T13:16:49.784Z",
+    "title": "AI Agent Architect / Builder",
+    "company": "ContentJet Inc.",
+    "source": "weworkremotely",
+    "score": 9,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/contentjet-inc-ai-agent-architect-builder",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+2 chatbot",
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-30T13:16:50.368Z",
+    "title": "Automation & Integration Engineer",
+    "company": "ContentJet Inc.",
+    "source": "weworkremotely",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/contentjet-inc-automation-integration-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node",
+      "+2 ai",
+      "+2 automation",
+      "+1 javascript",
+      "+1 postgresql",
+      "+1 rest api",
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-30T13:16:50.368Z",
+    "title": "up to $40 in gift cards to hang out in a cat Discord",
+    "company": "Cat lovers",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s7p3on/hiring_cat_lovers_up_to_40_in_gift_cards_to_hang/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($40)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-30T13:16:50.368Z",
+    "title": "Template Designer for NBA Platform Needed",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s7ott9/template_designer_for_nba_platform_needed_hiring/",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
