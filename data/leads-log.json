@@ -49008,5 +49008,32 @@
     "url": "https://www.reddit.com/r/forhire/comments/1s7ott9/template_designer_for_nba_platform_needed_hiring/",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-30T15:00:32.415Z",
+    "title": "Inside Sales Representative",
+    "company": "Committee for Children",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/committee-for-children-inside-sales-representative",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($31)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-30T15:00:32.415Z",
+    "title": "Crypto Trader (Remote, Full Training Provided)",
+    "company": "Elemental Terra",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/elemental-terra-crypto-trader-remote-full-training-provided",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
