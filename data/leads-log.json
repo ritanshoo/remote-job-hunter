@@ -48842,5 +48842,97 @@
       "-5 must reside in the united states",
       "+2 salary"
     ]
+  },
+  {
+    "timestamp": "2026-03-30T09:07:20.300Z",
+    "title": "Remote | $2,500–$3,000/month",
+    "company": "B2B Content & Copywriting Specialist",
+    "source": "reddit",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/forhire/comments/1s7kc99/hiring_b2b_content_copywriting_specialist_remote/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 salary($2,500–$3,000/mo)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-30T09:07:20.300Z",
+    "title": "security + DX critique wanted (SoulGate)",
+    "company": "Open-source local tool-using assistant for everything X work",
+    "source": "reddit",
+    "score": 3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1s762vd/opensource_local_toolusing_assistant_for/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-30T09:07:20.300Z",
+    "title": "$25",
+    "company": "Really quick & simple task",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s7ippq/hiring_really_quick_simple_task_25/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($25)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-30T09:07:20.300Z",
+    "title": "$150",
+    "company": "Simple Remote Paid Task",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s7hvv8/hiring_simple_remote_paid_task_150/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($150)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-30T09:07:20.300Z",
+    "title": "Virtual interior designer or design enthusiast to help decorate",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s727iw/hiring_virtual_interior_designer_or_design/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($50)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-30T09:07:20.300Z",
+    "title": "WooCommerce store, 6.55s load time, looking for advice",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1s7bk8n/woocommerce_store_655s_load_time_looking_for/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-30T09:07:20.300Z",
+    "title": "We’re  associates for remote paid Job (India)",
+    "company": "",
+    "source": "reddit",
+    "score": -5,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s7jonr/were_hiring_associates_for_remote_paid_job_india/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
