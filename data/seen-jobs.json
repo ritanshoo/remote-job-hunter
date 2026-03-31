@@ -22125,5 +22125,19 @@
     "score": -5,
     "emailSent": false,
     "source": "jobicy"
+  },
+  "b2a9f4ecb915bd1396d637e65c74cee8": {
+    "hash": "b2a9f4ecb915bd1396d637e65c74cee8",
+    "firstSeen": "2026-03-31T18:57:05.166Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "bffde6c7ef28093b595e3ee4243e9867": {
+    "hash": "bffde6c7ef28093b595e3ee4243e9867",
+    "firstSeen": "2026-03-31T18:57:05.936Z",
+    "score": 4,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }
