@@ -51966,5 +51966,122 @@
       "-5 intern",
       "+2 salary($40)"
     ]
+  },
+  {
+    "timestamp": "2026-03-31T19:54:37.052Z",
+    "title": "Looking for someone who's actually built AI agents (contract)",
+    "company": "",
+    "source": "reddit",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/webdev/comments/1s8ukcv/looking_for_someone_whos_actually_built_ai_agents/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T19:54:37.052Z",
+    "title": "SIDE HUSTLE OPPORTUNITY",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s8qjp1/hiring_side_hustle_opportunity/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($5–$20)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T19:54:37.052Z",
+    "title": "🚀 Work From Home Opportunity For Reddit Users Earn Money Online 💰",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s8swdz/hiring_work_from_home_opportunity_for_reddit/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-31T19:54:37.052Z",
+    "title": "Tools similar to Apibldr?",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1s8ptjg/tools_similar_to_apibldr/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-31T19:54:37.052Z",
+    "title": "looking for mates",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1s8n4yc/looking_for_mates/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-31T19:54:37.052Z",
+    "title": "Performance Ads / AI-Native (Remote)",
+    "company": "Full-Time Video Editor",
+    "source": "reddit",
+    "score": -1,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s8sxpy/hiring_fulltime_video_editor_performance_ads/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary($2,000 – $3,500/mo)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T19:54:37.052Z",
+    "title": "Geopolitics Researcher (India and Philippines based/Remote/Part-time) $300 per assignment",
+    "company": "",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s8uc9i/hiring_geopolitics_researcher_india_and/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($300)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T19:54:37.052Z",
+    "title": "Irving, TX",
+    "company": "Project Accountant",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s8q2eb/hiring_project_accountant_irving_tx/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($40)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T19:54:37.052Z",
+    "title": "Interviewer",
+    "company": "[Remote] [UK / Europe]",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s8oulm/hiring_remote_uk_europe_interviewer/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($30–$60/hour)"
+    ]
   }
 ]
