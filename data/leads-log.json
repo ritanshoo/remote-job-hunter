@@ -51908,5 +51908,45 @@
       "-5 internship",
       "+2 salary"
     ]
+  },
+  {
+    "timestamp": "2026-03-31T17:53:32.889Z",
+    "title": "Senior MTS – Software Development",
+    "company": "Aviatrix",
+    "source": "jobicy",
+    "score": 3,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/141433-senior-mts-software-development",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T17:53:32.889Z",
+    "title": "Protocol Review Specialist",
+    "company": "Sun Coast Sciences",
+    "source": "workingnomads",
+    "score": -5,
+    "priority": "low",
+    "url": "https://www.workingnomads.com/job/go/1508433/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T17:53:32.889Z",
+    "title": "Software Engineer III, Community Builders",
+    "company": "Reddit",
+    "source": "jobicy",
+    "score": -5,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/141439-software-engineer-iii-community-builders",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
