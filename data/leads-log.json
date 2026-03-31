@@ -51513,5 +51513,400 @@
       "-5 internship",
       "+2 salary"
     ]
+  },
+  {
+    "timestamp": "2026-03-31T11:44:32.480Z",
+    "title": "Founding Engineer",
+    "company": "Coreli",
+    "source": "workingnomads",
+    "score": 19,
+    "priority": "high",
+    "url": "https://www.workingnomads.com/job/go/1509667/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+2 ai",
+      "+2 llm",
+      "+1 typescript",
+      "+1 postgresql",
+      "+1 express"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T11:44:33.140Z",
+    "title": "Principal Backend Engineer - MPG - Fully remote from the UK or the EU",
+    "company": "Climax Studios",
+    "source": "himalayas",
+    "score": 11,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/climax-studios/jobs/principal-backend-engineer-mpg-fully-remote-from-the-uk-or-the-eu",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T11:44:33.494Z",
+    "title": "Senior Full-Stack Software Engineer (f/m/d) – Next / React / TypeScript",
+    "company": "Natuvion",
+    "source": "himalayas",
+    "score": 7,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/natuvion/jobs/senior-full-stack-software-engineer-f-m-d-next-react-typescript",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 next.js",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T11:44:33.842Z",
+    "title": "Senior React Native Engineer",
+    "company": "Team Up Services",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/team-up-services/jobs/senior-react-native-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T11:44:34.194Z",
+    "title": "Senior React Native Engineer",
+    "company": "Team Up Services",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/team-up-services/jobs/senior-react-native-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T11:44:34.542Z",
+    "title": "AI Test Automation Engineer",
+    "company": "Gravie",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/gravie/jobs/ai-test-automation-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T11:44:34.894Z",
+    "title": "Sr. Data Scientist Principal",
+    "company": "General Dynamics Information Technology",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/general-dynamics-information-technology/jobs/sr-data-scientist-principal",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T11:44:35.311Z",
+    "title": "Cyber Infrastructure Specialist SME",
+    "company": "General Dynamics Information Technology",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/general-dynamics-information-technology/jobs/cyber-infrastructure-specialist-sme-4396239134",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T11:44:35.658Z",
+    "title": "Integration Engineer iPaaS / Workato (m/w/d) — Remote (DE)",
+    "company": "TEVEO GmbH",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/teveo-gmbh/jobs/integration-engineer-ipaas-workato-m-w-d-remote-de-9751119618",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "+1 typescript",
+      "+1 graphql",
+      "+1 rest api"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T11:44:35.658Z",
+    "title": "Senior Front-End Developer",
+    "company": "Miratech",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/miratech/jobs/senior-front-end-developer-7716581240",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T11:44:35.658Z",
+    "title": "Senior Patching Engineer ( remote )",
+    "company": "AssistRx",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/assistrx/jobs/senior-patching-engineer-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T11:44:35.658Z",
+    "title": "Senior II Software Engineer - Akamai Inference Cloud - Remote/Poland",
+    "company": "Akamai Technologies",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/akamai-technologies/jobs/senior-ii-software-engineer-akamai-inference-cloud-remote-poland",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T11:44:35.658Z",
+    "title": "Senior Electrical Engineer",
+    "company": "GE Aerospace",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ge-aerospace/jobs/senior-electrical-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T11:44:35.658Z",
+    "title": "Diagnosis-Related Group (DRG) Trainer",
+    "company": "EXL",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/exl/jobs/diagnosis-related-group-drg-trainer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T11:44:35.658Z",
+    "title": "Transmission Line Engineer",
+    "company": "Leidos",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/leidos/jobs/transmission-line-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T11:44:35.658Z",
+    "title": "Senior Backend Engineer (Data-Focused)",
+    "company": "Akamai Technologies",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/akamai-technologies/jobs/senior-backend-engineer-data-focused",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T11:44:35.658Z",
+    "title": "Senior Backend Engineer (Data-Focused)",
+    "company": "Akamai Technologies",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/akamai-technologies/jobs/senior-backend-engineer-data-focused",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T11:44:35.658Z",
+    "title": "ServiceNow Senior Technical Lead",
+    "company": "RTX",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/rtx/jobs/servicenow-senior-technical-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T11:44:35.658Z",
+    "title": "DevOps Engineer (gn) / full-remote",
+    "company": "workidentity",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/workidentity-de/jobs/devops-engineer-gn-full-remote-1724603254",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T11:44:35.658Z",
+    "title": "Production Support Lead - PA-Auto-2026-Q2-R001",
+    "company": "SS&C Technologies",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ss-c-technologies/jobs/production-support-lead-pa-auto-2026-q2-r001",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-31T11:44:35.658Z",
+    "title": "QA Engineer",
+    "company": "Motorola Solutions",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/motorola-solutions/jobs/qa-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-31T11:44:35.658Z",
+    "title": "General Application",
+    "company": "IAM Cloud",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/iam-cloud/jobs/general-application",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-31T11:44:35.658Z",
+    "title": "Head of Product Management",
+    "company": "Adswerve, Inc.",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/adswerve-inc/jobs/head-of-product-management",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T11:44:35.658Z",
+    "title": "Cloud Sales Executive (EMEA)",
+    "company": "Akamai Technologies",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/akamai-technologies/jobs/cloud-sales-executive-emea",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T11:44:35.658Z",
+    "title": "Associate Software Engineer",
+    "company": "Clario",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/clario/jobs/associate-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T11:44:35.658Z",
+    "title": "Intern - Business Intelligence",
+    "company": "SAMC SitusAMC Holdings Corp",
+    "source": "himalayas",
+    "score": -6,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/samc-situsamc-holdings-corp/jobs/intern-business-intelligence",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "-5 internship",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T11:44:35.658Z",
+    "title": "Intern - Software Engineer (Mapping Engineering)",
+    "company": "Akamai Technologies",
+    "source": "himalayas",
+    "score": -7,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/akamai-technologies/jobs/intern-software-engineer-mapping-engineering",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "-5 intern",
+      "-5 internship",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T11:44:35.658Z",
+    "title": "Software Engineer, Systems",
+    "company": "Meta",
+    "source": "himalayas",
+    "score": -8,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/meta/jobs/software-engineer-systems",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "-5 internship",
+      "+2 salary"
+    ]
   }
 ]
