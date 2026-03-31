@@ -52083,5 +52083,65 @@
       "-5 intern",
       "+2 salary($30–$60/hour)"
     ]
+  },
+  {
+    "timestamp": "2026-03-31T20:39:19.751Z",
+    "title": "Staff Product Data Analyst",
+    "company": "Contentsquare",
+    "source": "weworkremotely",
+    "score": 2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/contentsquare-staff-product-data-analyst",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T20:39:19.751Z",
+    "title": "Sr. Cloud DevOps Engineer - REMOTE",
+    "company": "Jobgether",
+    "source": "weworkremotely",
+    "score": 1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-sr-cloud-devops-engineer-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 aws",
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T20:39:19.751Z",
+    "title": "Staff Product Designer, Districts",
+    "company": "Khan Academy",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/khan-academy-staff-product-designer-districts",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 express",
+      "-5 intern",
+      "+2 salary($152,908 - $160,553)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T20:39:19.751Z",
+    "title": "Remote Member of the Product Design Team",
+    "company": "Jobgether",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-remote-member-of-the-product-design-team",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
   }
 ]
