@@ -52143,5 +52143,447 @@
       "+2 ai",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-03-31T23:31:00.523Z",
+    "title": "Staff Software Engineer",
+    "company": "Fortive",
+    "source": "himalayas",
+    "score": 20,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/fortive/jobs/staff-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+2 ai",
+      "+2 llm",
+      "+2 automation",
+      "+2 rag",
+      "+1 typescript",
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T23:31:01.008Z",
+    "title": "React Native Android Dev – Fix VoIP Calling (FCM + WebRTC)",
+    "company": "",
+    "source": "reddit",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/forhire/comments/1s920p8/hiring_react_native_android_dev_fix_voip_calling/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 webrtc"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T23:31:01.289Z",
+    "title": "Principal Software Engineer, Data Platform",
+    "company": "ServiceTitan",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/servicetitan/jobs/principal-software-engineer-data-platform",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T23:31:01.289Z",
+    "title": "Manager, Software Engineering - Platform Delivery",
+    "company": "Rapid7",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/rapid7/jobs/manager-software-engineering-platform-delivery",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T23:31:01.289Z",
+    "title": "IT Infrastructure Engineer I",
+    "company": "Geisinger",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/geisinger/jobs/it-infrastructure-engineer-i",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T23:31:01.289Z",
+    "title": "Looking to  a day labourer Thursday April 2 cash pay. Calgary NE",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s91pl7/looking_to_hiring_a_day_labourer_thursday_april_2/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($25/hr)"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T23:31:01.289Z",
+    "title": "Sr Data Engineer",
+    "company": "Air Methods",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/air-methods/jobs/sr-data-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T23:31:01.289Z",
+    "title": "Technical Support Engineer",
+    "company": "Nooks",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nooks-ai/jobs/technical-support-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T23:31:01.289Z",
+    "title": "Civil Construction Engineer",
+    "company": "Leidos",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/leidos/jobs/civil-construction-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T23:31:01.289Z",
+    "title": "Technical Architect",
+    "company": "Mammoth Growth",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mammoth-growth/jobs/technical-architect-3113539477",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T23:31:01.289Z",
+    "title": "RN Clinical Quality Sustainment Coach - Evernorth Health Services - Remote",
+    "company": "The Cigna Group",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/the-cigna-group/jobs/rn-clinical-quality-sustainment-coach-evernorth-health-services-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T23:31:01.289Z",
+    "title": "Support Engineer - IBM Business Automation Workflow (BAW)",
+    "company": "BP3 Global, Inc.",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bp3-global-inc/jobs/support-engineer-ibm-business-automation-workflow-baw",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T23:31:01.289Z",
+    "title": "Service Now Integration Developer (VA EHR)",
+    "company": "General Dynamics Information Technology",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/general-dynamics-information-technology/jobs/service-now-integration-developer-va-ehr",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T23:31:01.289Z",
+    "title": "System Reliability Engineer",
+    "company": "Zoom Communications, Inc.",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/zoom-communications-inc/jobs/system-reliability-engineer-1430852235",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T23:31:01.289Z",
+    "title": "Open-source TypeScript project for IGCSE/A-Level students—looking for contributors",
+    "company": "",
+    "source": "reddit",
+    "score": 1,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1s909qr/opensource_typescript_project_for_igcsealevel/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T23:31:01.289Z",
+    "title": "UK based Software Engineer",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s939m8/hiring_uk_based_software_engineer/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-31T23:31:01.289Z",
+    "title": "[‎ Remote Marketing Assistant – $15/hour (Part-Time, Ongoing)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s8zgr3/hiring_remote_marketing_assistant_15hour_parttime/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-31T23:31:01.289Z",
+    "title": "Frustration with bugs",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1s90vxr/frustration_with_bugs/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-31T23:31:01.289Z",
+    "title": "Looking for a particular design!!",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1s90jhu/looking_for_a_particular_design/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-31T23:31:01.289Z",
+    "title": "French Language Specialist – Life Sciences & Medical Devices",
+    "company": "200510503Z Thermo Fisher Scientific Pte. Ltd.",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/200510503z-thermo-fisher-scientific-pte-ltd/jobs/french-language-specialist-life-sciences-medical-devices",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-31T23:31:01.289Z",
+    "title": "Gestionnaire de la qualité de livraison, SaaS",
+    "company": "Nesto Cloud",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nesto-cloud/jobs/gestionnaire-de-la-qualite-de-livraison-saas",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-31T23:31:01.289Z",
+    "title": "Associate Product Manager - Interfaces",
+    "company": "Fortive",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/fortive/jobs/associate-product-manager-interfaces",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-03-31T23:31:01.289Z",
+    "title": "Intern - .Net Software Developement",
+    "company": "SAMC SitusAMC Holdings Corp",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/samc-situsamc-holdings-corp/jobs/intern-net-software-developement",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+1 javascript",
+      "+1 aws",
+      "-5 intern",
+      "-5 internship",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T23:31:01.289Z",
+    "title": "Analyst-IT Business",
+    "company": "Total Deployment Solutions",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/total-deployment-solutions/jobs/analyst-it-business",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T23:31:01.289Z",
+    "title": "AI Agent Developer – Business Platforms",
+    "company": "Progressive Leasing",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/progressive-leasing/jobs/ai-agent-developer-business-platforms",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T23:31:01.289Z",
+    "title": "Customer Success Manager (Italian speaking)",
+    "company": "Hadrian",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/hadrian-io/jobs/customer-success-manager-italian-speaking",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T23:31:01.289Z",
+    "title": "AI Solution Developer II",
+    "company": "Parexel",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/parexel/jobs/ai-solution-developer-ii",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T23:31:01.289Z",
+    "title": "Data Analyst",
+    "company": "Akamai Technologies",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/akamai-technologies/jobs/data-analyst",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T23:31:01.289Z",
+    "title": "Junior Adobe Workfront Engineer - Advertising",
+    "company": "Truelogic",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/truelogic-io/jobs/junior-adobe-workfront-engineer-advertising-4465506490",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T23:31:01.289Z",
+    "title": "Software Engineer (Support)",
+    "company": "Akamai Technologies",
+    "source": "himalayas",
+    "score": -4,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/akamai-technologies/jobs/software-engineer-support",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T23:31:01.289Z",
+    "title": "Senior Site Reliability Engineer",
+    "company": "Akamai Technologies",
+    "source": "himalayas",
+    "score": -4,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/akamai-technologies/jobs/senior-site-reliability-engineer-5636893029",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 rest api",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T23:31:01.289Z",
+    "title": "Senior Software Engineer",
+    "company": "Wiley",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/wiley/jobs/senior-software-engineer-380288378",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T23:31:01.289Z",
+    "title": "Cloud Security Specialist",
+    "company": "Intrum",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/intrum/jobs/cloud-security-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
