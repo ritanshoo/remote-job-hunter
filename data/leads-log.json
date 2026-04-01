@@ -54106,5 +54106,63 @@
       "-5 intern",
       "+2 salary"
     ]
+  },
+  {
+    "timestamp": "2026-04-01T15:00:59.909Z",
+    "title": "UGC $20/vid (60 vids/month = $1200/month)",
+    "company": "",
+    "source": "reddit",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/forhire/comments/1s9me02/hiring_ugc_20vid_60_vidsmonth_1200month/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary($20)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T15:00:59.909Z",
+    "title": "need someone experienced in Photoshop, Illustrator & InDesign for my class assignment",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s9m0q3/hiring_need_someone_experienced_in_photoshop/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-01T15:00:59.909Z",
+    "title": "- Marketing Role (asap!)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s9h69m/hiring_marketing_role_asap/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-01T15:00:59.909Z",
+    "title": "Where Are All the Flutter Remote Roles Hiding?",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/remotejs/comments/1s9h6gh/where_are_all_the_flutter_remote_roles_hiding/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-01T15:00:59.909Z",
+    "title": "2 videos with one Camera at the same time App (Landscape + portrait )",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1s9mqa1/2_videos_with_one_camera_at_the_same_time_app/",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
