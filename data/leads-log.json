@@ -54407,5 +54407,128 @@
     "url": "https://weworkremotely.com/remote-jobs/hb-travels-travel-reservation-agent-remote",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-01T18:56:27.068Z",
+    "title": "Senior Software Engineers",
+    "company": "Cultivate AI",
+    "source": "hackernews",
+    "score": 11,
+    "priority": "high",
+    "url": "https://news.ycombinator.com/item?id=47604796",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+2 llm",
+      "+2 rag",
+      "+1 postgresql",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T18:56:27.617Z",
+    "title": "Backend Software Engineer",
+    "company": "Enveritas (YC S18, non-profit)",
+    "source": "hackernews",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://news.ycombinator.com/item?id=47604816",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 postgresql",
+      "+1 aws",
+      "+1 docker",
+      "+2 salary($135-$155)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T18:56:27.983Z",
+    "title": "Amsterdam, the Netherlands",
+    "company": "Stellar",
+    "source": "hackernews",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://news.ycombinator.com/item?id=47604566",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T18:56:27.983Z",
+    "title": "Contract, part-time (~20 hrs/week)",
+    "company": "ReadWorks (YC-backed nonprofit - Imagine K12 F'14)",
+    "source": "hackernews",
+    "score": 3,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47604449",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T18:56:27.983Z",
+    "title": "Staff Software Engineer",
+    "company": "Higharc",
+    "source": "hackernews",
+    "score": 2,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47604662",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T18:56:27.983Z",
+    "title": "Security Engineer",
+    "company": "Authentik Security",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47604611",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-01T18:56:27.983Z",
+    "title": "Geospatial Engineers (Data & Routing)",
+    "company": "LiveMap",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47604550",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-01T18:56:27.983Z",
+    "title": "Senior QA Engineer",
+    "company": "40GRID - Full-time Remote",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47604344",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-01T18:56:27.983Z",
+    "title": "SaaS B2B Presentation Software",
+    "company": "Beautiful.ai",
+    "source": "hackernews",
+    "score": -1,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47604210",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 junior",
+      "+2 salary($80,000 - $120,000)"
+    ]
   }
 ]

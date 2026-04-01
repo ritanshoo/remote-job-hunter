@@ -1,11 +1,4 @@
 {
-  "495fb03358e470682fa8133cd66031b5": {
-    "hash": "495fb03358e470682fa8133cd66031b5",
-    "firstSeen": "2026-03-02T18:40:38.442Z",
-    "score": -5,
-    "emailSent": false,
-    "source": "reddit"
-  },
   "0197f42b3a6dc64f14392e2a17547798": {
     "hash": "0197f42b3a6dc64f14392e2a17547798",
     "firstSeen": "2026-03-02T19:34:46.371Z",
@@ -23112,5 +23105,68 @@
     "score": 0,
     "emailSent": false,
     "source": "weworkremotely"
+  },
+  "b4346689df0f552c2cf412e25101a875": {
+    "hash": "b4346689df0f552c2cf412e25101a875",
+    "firstSeen": "2026-04-01T18:56:27.067Z",
+    "score": 11,
+    "emailSent": false,
+    "source": "hackernews"
+  },
+  "c500a151ec9b2ea6b801f1efaf22c9b2": {
+    "hash": "c500a151ec9b2ea6b801f1efaf22c9b2",
+    "firstSeen": "2026-04-01T18:56:27.617Z",
+    "score": 5,
+    "emailSent": false,
+    "source": "hackernews"
+  },
+  "e25c02b2a39a9e0fe0b00ab50885a3c3": {
+    "hash": "e25c02b2a39a9e0fe0b00ab50885a3c3",
+    "firstSeen": "2026-04-01T18:56:27.983Z",
+    "score": 5,
+    "emailSent": false,
+    "source": "hackernews"
+  },
+  "f338d3f83a3b51218e9d61a896f6fb3a": {
+    "hash": "f338d3f83a3b51218e9d61a896f6fb3a",
+    "firstSeen": "2026-04-01T18:56:27.983Z",
+    "score": 3,
+    "emailSent": false,
+    "source": "hackernews"
+  },
+  "4394e93008658f14babb119135fc8224": {
+    "hash": "4394e93008658f14babb119135fc8224",
+    "firstSeen": "2026-04-01T18:56:27.983Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "hackernews"
+  },
+  "763a5e667038f29cd4e48392decea882": {
+    "hash": "763a5e667038f29cd4e48392decea882",
+    "firstSeen": "2026-04-01T18:56:27.983Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "hackernews"
+  },
+  "29951b851cd6ad4cc8139916393d34eb": {
+    "hash": "29951b851cd6ad4cc8139916393d34eb",
+    "firstSeen": "2026-04-01T18:56:27.983Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "hackernews"
+  },
+  "8fc49b83493733ee24f21e0176d212e8": {
+    "hash": "8fc49b83493733ee24f21e0176d212e8",
+    "firstSeen": "2026-04-01T18:56:27.983Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "hackernews"
+  },
+  "3e11d3faecec9081e55d2076460665aa": {
+    "hash": "3e11d3faecec9081e55d2076460665aa",
+    "firstSeen": "2026-04-01T18:56:27.983Z",
+    "score": -1,
+    "emailSent": false,
+    "source": "hackernews"
   }
 }
