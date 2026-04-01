@@ -55203,5 +55203,18 @@
       "-5 intern",
       "+2 salary($50)"
     ]
+  },
+  {
+    "timestamp": "2026-04-01T23:32:55.938Z",
+    "title": "Frontend Engineer",
+    "company": "Foxglove",
+    "source": "hackernews",
+    "score": 2,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47607854",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
   }
 ]
