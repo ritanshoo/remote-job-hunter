@@ -55101,5 +55101,107 @@
       "-5 junior",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-01T22:33:26.212Z",
+    "title": "Searching 3 Remote Developer for US-Partners",
+    "company": "",
+    "source": "reddit",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/forhire/comments/1s9s8mt/hiring_searching_3_remote_developer_for_uspartners/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T22:33:26.212Z",
+    "title": "Product Engineer",
+    "company": "Baserow",
+    "source": "hackernews",
+    "score": 3,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47607001",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 postgresql"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T22:33:26.212Z",
+    "title": "$300",
+    "company": "UI / UX Designer for mobile app new features in 4 days",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s9rnd9/hiring_ui_ux_designer_for_mobile_app_new_features/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($300)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T22:33:26.212Z",
+    "title": "$20/hr senior software developer",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s9p23k/hiring_20hr_senior_software_developer/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($20/hr)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T22:33:26.212Z",
+    "title": "Reseller system (Argentina only)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s9x7g7/hiring_reseller_system_argentina_only/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-01T22:33:26.212Z",
+    "title": "Are the analytics solutions that get personally identifiable information worth the trouble?",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1s9rnj1/are_the_analytics_solutions_that_get_personally/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-01T22:33:26.212Z",
+    "title": "Product engineers, backend engineers, Technical AMs, sales leader",
+    "company": "PostHog",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47606922",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-01T22:33:26.212Z",
+    "title": "I’m looking to hire/collaborate with an overseas freelancer",
+    "company": "",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s9vtan/im_looking_to_hirecollaborate_with_an_overseas/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($50)"
+    ]
   }
 ]
