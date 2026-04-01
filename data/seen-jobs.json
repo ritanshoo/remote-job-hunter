@@ -1,25 +1,4 @@
 {
-  "1b054bd123fb56e28503c7f7db9f6c4f": {
-    "hash": "1b054bd123fb56e28503c7f7db9f6c4f",
-    "firstSeen": "2026-03-02T15:38:59.627Z",
-    "score": -3,
-    "emailSent": false,
-    "source": "weworkremotely"
-  },
-  "2950aa4ab1f91b92ef42ded99c157512": {
-    "hash": "2950aa4ab1f91b92ef42ded99c157512",
-    "firstSeen": "2026-03-02T16:40:35.597Z",
-    "score": 1,
-    "emailSent": false,
-    "source": "weworkremotely"
-  },
-  "aa5929b3722ba0fca99e0a18abd371ef": {
-    "hash": "aa5929b3722ba0fca99e0a18abd371ef",
-    "firstSeen": "2026-03-02T16:40:35.597Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "weworkremotely"
-  },
   "3a8452760debde6b5cf6b550c61b98b0": {
     "hash": "3a8452760debde6b5cf6b550c61b98b0",
     "firstSeen": "2026-03-02T17:41:35.445Z",
@@ -23007,5 +22986,82 @@
     "score": 0,
     "emailSent": false,
     "source": "reddit"
+  },
+  "fed46af55d4b4f9ca25085b0f56ccdd2": {
+    "hash": "fed46af55d4b4f9ca25085b0f56ccdd2",
+    "firstSeen": "2026-04-01T16:49:46.059Z",
+    "score": 7,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "1265155a26ca8c71a3e2d0599da20062": {
+    "hash": "1265155a26ca8c71a3e2d0599da20062",
+    "firstSeen": "2026-04-01T16:49:46.688Z",
+    "score": 4,
+    "emailSent": false,
+    "source": "hackernews"
+  },
+  "6ed4f5aa16b98adf370728bfb2657878": {
+    "hash": "6ed4f5aa16b98adf370728bfb2657878",
+    "firstSeen": "2026-04-01T16:49:47.034Z",
+    "score": 4,
+    "emailSent": false,
+    "source": "hackernews"
+  },
+  "96c72a84e5083fa455ccc0dafe51f674": {
+    "hash": "96c72a84e5083fa455ccc0dafe51f674",
+    "firstSeen": "2026-04-01T16:49:47.034Z",
+    "score": 3,
+    "emailSent": false,
+    "source": "hackernews"
+  },
+  "781851ac397d205c518ed36b1a1feffc": {
+    "hash": "781851ac397d205c518ed36b1a1feffc",
+    "firstSeen": "2026-04-01T16:49:47.034Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "hackernews"
+  },
+  "7925d86adefb7f2be203df788048b02b": {
+    "hash": "7925d86adefb7f2be203df788048b02b",
+    "firstSeen": "2026-04-01T16:49:47.034Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "hackernews"
+  },
+  "1e4bc9a8f007a4a75a16c32aade7dc23": {
+    "hash": "1e4bc9a8f007a4a75a16c32aade7dc23",
+    "firstSeen": "2026-04-01T16:49:47.034Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "hackernews"
+  },
+  "0c80df7c5beab44e7f43b38353776be4": {
+    "hash": "0c80df7c5beab44e7f43b38353776be4",
+    "firstSeen": "2026-04-01T16:49:47.034Z",
+    "score": 1,
+    "emailSent": false,
+    "source": "hackernews"
+  },
+  "60152fb0d85389ea1a7f8f06ddb227d7": {
+    "hash": "60152fb0d85389ea1a7f8f06ddb227d7",
+    "firstSeen": "2026-04-01T16:49:47.034Z",
+    "score": 1,
+    "emailSent": false,
+    "source": "hackernews"
+  },
+  "84d89ea4e5053a709073665321cad8a8": {
+    "hash": "84d89ea4e5053a709073665321cad8a8",
+    "firstSeen": "2026-04-01T16:49:47.034Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "hackernews"
+  },
+  "a423751697c9fdf0aae4bea10283d877": {
+    "hash": "a423751697c9fdf0aae4bea10283d877",
+    "firstSeen": "2026-04-01T16:49:47.034Z",
+    "score": -5,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }

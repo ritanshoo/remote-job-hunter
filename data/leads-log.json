@@ -54164,5 +54164,158 @@
     "url": "https://www.reddit.com/r/webdev/comments/1s9mqa1/2_videos_with_one_camera_at_the_same_time_app/",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-01T16:49:46.059Z",
+    "title": "Director of Conversion Rate Optimization",
+    "company": "LawnStarter",
+    "source": "weworkremotely",
+    "score": 7,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/lawnstarter-director-of-conversion-rate-optimization",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+2 ai",
+      "+2 salary($100)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T16:49:46.688Z",
+    "title": "Principal AI Engineer",
+    "company": "PhysicsX",
+    "source": "hackernews",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://news.ycombinator.com/item?id=47603284",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary($135)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T16:49:47.034Z",
+    "title": "AI in healthcare",
+    "company": "Neon Health",
+    "source": "hackernews",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://news.ycombinator.com/item?id=47603189",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary($170-225)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T16:49:47.034Z",
+    "title": "Software Engineer",
+    "company": "Oklo",
+    "source": "hackernews",
+    "score": 3,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47603039",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T16:49:47.034Z",
+    "title": "Product Engineers",
+    "company": "EQTY Lab",
+    "source": "hackernews",
+    "score": 2,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47603316",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T16:49:47.034Z",
+    "title": "Sr/Staff Software Engineers & PM",
+    "company": "Oscilar.com",
+    "source": "hackernews",
+    "score": 2,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47602825",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T16:49:47.034Z",
+    "title": "Squint is the leading manufacturing intelligence platform. We're leveraging the latest in AI, spatial, and hardware capabilities to accelerate human potential and spark the next industrial revolution.",
+    "company": "Squint",
+    "source": "hackernews",
+    "score": 2,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47602034",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T16:49:47.034Z",
+    "title": "Senior Developer Advocate",
+    "company": "MongoDB",
+    "source": "hackernews",
+    "score": 1,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47602386",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 mongodb"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T16:49:47.034Z",
+    "title": "UMH",
+    "company": "Cologne, Germany",
+    "source": "hackernews",
+    "score": 1,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47602509",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T16:49:47.034Z",
+    "title": "Software Engineer",
+    "company": "RINSE",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47603175",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+2 automation",
+      "+1 typescript",
+      "-5 junior",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T16:49:47.034Z",
+    "title": "Content Producer",
+    "company": "Ketone-IQ",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/ketone-iq-content-producer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
