@@ -54641,5 +54641,465 @@
     "url": "https://news.ycombinator.com/item?id=47606059",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-01T21:38:16.373Z",
+    "title": "Staff Software Engineer",
+    "company": "Goody",
+    "source": "hackernews",
+    "score": 12,
+    "priority": "high",
+    "url": "https://news.ycombinator.com/item?id=47606829",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+1 typescript",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T21:38:17.046Z",
+    "title": "Fullstack Engineer -Java",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "source": "himalayas",
+    "score": 9,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/fullstack-engineer-java",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+3 react",
+      "+1 javascript",
+      "+1 postgresql",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T21:38:17.362Z",
+    "title": "Senior Full-stack Engineer",
+    "company": "Qode",
+    "source": "himalayas",
+    "score": 8,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/qode/jobs/senior-full-stack-engineer-9678343079",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 typescript",
+      "+1 postgresql",
+      "+1 aws",
+      "+1 graphql",
+      "+1 rest api"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T21:38:17.669Z",
+    "title": "10 Engineering roles",
+    "company": "Atria",
+    "source": "hackernews",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://news.ycombinator.com/item?id=47606350",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+1 express"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T21:38:17.984Z",
+    "title": "Dot Net Full Stack | 5-6 Years Exp | IST Time | Remote",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/dot-net-full-stack-5-6-years-exp-ist-time-remote-6079398407",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 fullstack",
+      "+3 react",
+      "+1 javascript",
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T21:38:18.299Z",
+    "title": "Senior WASM Developer",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/senior-wasm-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node.js",
+      "+3 node",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 mongodb",
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T21:38:18.622Z",
+    "title": "Ruby on Rails Developer",
+    "company": "Pavago",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/pavago/jobs/ruby-on-rails-developer-6170695945",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 postgresql"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T21:38:18.930Z",
+    "title": "Staff Software Engineer, Android Platform Frameworks",
+    "company": "Airbnb",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/airbnb/jobs/staff-software-engineer-android-platform-frameworks",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T21:38:19.246Z",
+    "title": "Senior Backend Engineer (Node.js / AWS Serverless) FP037KA",
+    "company": "Coderio",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/coderio/jobs/senior-backend-engineer-node-js-aws-serverless-fp037ka",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node.js",
+      "+3 node",
+      "+1 typescript",
+      "+1 aws",
+      "+1 graphql",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T21:38:19.560Z",
+    "title": "Senior Data Engineer",
+    "company": "Astro Sirens LLC",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/astro-sirens-llc/jobs/senior-data-engineer-3381654908",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T21:38:19.898Z",
+    "title": "Senior Site Reliability Engineer",
+    "company": "Wand Synthesis AI Inc.",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/wand-synthesis-ai-inc/jobs/senior-site-reliability-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T21:38:19.898Z",
+    "title": "Salesforce QA Lead | Brillio | Remote",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/salesforce-qa-lead-brillio-remote-5699381986",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T21:38:19.898Z",
+    "title": "Business/Systems Analyst",
+    "company": "CACI International Inc",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/caci-international-inc/jobs/business-systems-analyst",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T21:38:19.898Z",
+    "title": "Software Engineer L1",
+    "company": "Funnel Leasing",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/funnel-leasing/jobs/software-engineer-l1-9012341334",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T21:38:19.898Z",
+    "title": "Business Intelligence (BI) Power BI Report Developer",
+    "company": "CACI International Inc",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/caci-international-inc/jobs/business-intelligence-bi-power-bi-report-developer-1669339236",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T21:38:19.898Z",
+    "title": "Senior Engineering Manager",
+    "company": "Legend",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/legend/jobs/senior-engineering-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T21:38:19.898Z",
+    "title": "Engineering Manager - Security Incident Response (EMEA)",
+    "company": "Datadog",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/datadog/jobs/engineering-manager-security-incident-response-emea",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T21:38:19.898Z",
+    "title": "Senior .NET Developer for Unified Feed Team",
+    "company": "GR8 Tech",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gr8-tech/jobs/senior-net-developer-for-unified-feed-team",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T21:38:19.898Z",
+    "title": "QA Automation Engineer",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/qa-automation-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T21:38:19.898Z",
+    "title": "Telemetry E2E Testing Technician",
+    "company": "Severn Trent",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/severn-trent/jobs/telemetry-e2e-testing-technician",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T21:38:19.898Z",
+    "title": "Hausa Speakers -  Test Voice Modes of AI Models",
+    "company": "Productive Playhouse",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/productive-playhouse/jobs/hausa-speakers-test-voice-modes-of-ai-models",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 chatbot",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T21:38:19.898Z",
+    "title": "Netzwerkadministrator (m/w/d)",
+    "company": "Karriere bei Celestec e.K.",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/karriere-bei-celestec-e-k/jobs/netzwerkadministrator-m-w-d-3105012610",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-01T21:38:19.898Z",
+    "title": "Senior SAP ABAP Developer",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/senior-sap-abap-developer-8517060990",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-01T21:38:19.898Z",
+    "title": "SAP ISU CRM Technical",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/sap-isu-crm-technical-2129813937",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-01T21:38:19.898Z",
+    "title": "Automation Technical Architect- 10-15 Yrs Relevant Experience(WFH)",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/automation-technical-architect-10-15-yrs-relevant-experience-wfh-600050757",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T21:38:19.898Z",
+    "title": "Financial Mathematics (Python) - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/financial-mathematics-python-freelance-ai-trainer-5464042391",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T21:38:19.898Z",
+    "title": "Financial Mathematics (Python) - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/financial-mathematics-python-freelance-ai-trainer-8483407942",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T21:38:19.898Z",
+    "title": "Senior Math Libraries Engineer – Emulation in AI and HPC",
+    "company": "NVIDIA",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nvidia/jobs/senior-math-libraries-engineer-emulation-in-ai-and-hpc-6088185561",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T21:38:19.898Z",
+    "title": "Senior Director, Quality & Compliance",
+    "company": "Precision Medicine Group",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/precision-medicine-group/jobs/senior-director-quality-compliance",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T21:38:19.898Z",
+    "title": "Sr. Network Engineer",
+    "company": "CACI International Inc",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/caci-international-inc/jobs/sr-network-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T21:38:19.898Z",
+    "title": "Senior Recruiter - (Technical or Engineering)",
+    "company": "Cielo",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cielo/jobs/senior-recruiter-technical-or-engineering",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T21:38:19.898Z",
+    "title": "2026 - VP, Engineering – HR Technology",
+    "company": "Flores Financial Services Inc.",
+    "source": "himalayas",
+    "score": -7,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/flores-financial-services-inc/jobs/2026-vp-engineering-hr-technology",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "-5 junior",
+      "-5 intern"
+    ]
   }
 ]
