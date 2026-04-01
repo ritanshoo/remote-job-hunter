@@ -53397,5 +53397,33 @@
     "url": "https://www.reddit.com/r/webdev/comments/1s9agxh/i_built_a_simple_instagram_story_viewer_tool/",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-01T08:59:32.361Z",
+    "title": "Software R&D Engineer",
+    "company": "WorkNomads",
+    "source": "jobicy",
+    "score": 2,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/141467-software-rd-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 postgresql",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T08:59:32.362Z",
+    "title": "Customer Success Team Lead (German Speaking)",
+    "company": "Filestage",
+    "source": "weworkremotely",
+    "score": -2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/filestage-customer-success-team-lead-german-speaking",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "-5 intern"
+    ]
   }
 ]
