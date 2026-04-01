@@ -54317,5 +54317,95 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-01T17:49:19.954Z",
+    "title": "Senior Full-Stack Engineer",
+    "company": "eventfirst",
+    "source": "hackernews",
+    "score": 14,
+    "priority": "high",
+    "url": "https://news.ycombinator.com/item?id=47604005",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 next.js",
+      "+2 ai",
+      "+2 llm",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T17:49:20.460Z",
+    "title": "Multiple Roles",
+    "company": "Oneleet (YC S22)",
+    "source": "hackernews",
+    "score": 9,
+    "priority": "high",
+    "url": "https://news.ycombinator.com/item?id=47603733",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+3 react",
+      "+2 ai",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T17:49:20.769Z",
+    "title": "Engineering",
+    "company": "RepSpark",
+    "source": "hackernews",
+    "score": 7,
+    "priority": "high",
+    "url": "https://news.ycombinator.com/item?id=47603843",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 typescript",
+      "+1 postgresql",
+      "+1 aws",
+      "+1 graphql"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T17:49:21.067Z",
+    "title": "Senior Java Engineer, Account Executive , Solutions Engineer",
+    "company": "FusionAuth",
+    "source": "hackernews",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://news.ycombinator.com/item?id=47603937",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 postgresql",
+      "+1 docker",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T17:49:21.067Z",
+    "title": "Staff Software Engineer",
+    "company": "Caribou",
+    "source": "hackernews",
+    "score": 2,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47604056",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T17:49:21.067Z",
+    "title": "Travel Reservation Agent (Remote)",
+    "company": "HB Travels",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/hb-travels-travel-reservation-agent-remote",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
