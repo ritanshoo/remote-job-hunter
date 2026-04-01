@@ -52585,5 +52585,352 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-01T02:10:07.000Z",
+    "title": "any where is best to host a web app host on docker image?",
+    "company": "",
+    "source": "reddit",
+    "score": 10,
+    "priority": "high",
+    "url": "https://www.reddit.com/r/webdev/comments/1s953hc/any_where_is_best_to_host_a_web_app_host_on/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T02:10:07.461Z",
+    "title": "AI Design Engineer",
+    "company": "GE Vernova",
+    "source": "himalayas",
+    "score": 8,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/ge-vernova/jobs/ai-design-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T02:10:07.736Z",
+    "title": "Senior ServiceNow Engineer",
+    "company": "Nesto Cloud",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/nesto-cloud/jobs/senior-servicenow-engineer-9657479716",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+2 salary($73)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T02:10:08.015Z",
+    "title": "Principal ServiceNow Developer",
+    "company": "General Dynamics Information Technology",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/general-dynamics-information-technology/jobs/principal-servicenow-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "+1 rest api",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T02:10:08.015Z",
+    "title": "Principal Specialist, Cloud Engineer",
+    "company": "RTX",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/rtx/jobs/principal-specialist-cloud-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T02:10:08.016Z",
+    "title": "CoE Technical Expert – Partner Technical Enablement Expert (AMER)",
+    "company": "Hitachi",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/hitachi/jobs/coe-technical-expert-partner-technical-enablement-expert-amer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T02:10:08.016Z",
+    "title": "Technical Consultant (Oracle) - Remote Work Type",
+    "company": "Directio Sp. z o.o.",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/directio-sp-z-o-o/jobs/technical-consultant-oracle-remote-work-type",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T02:10:08.016Z",
+    "title": "Agentic AI expert",
+    "company": "SAPSOL Technologies Inc.",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sapsol-technologies-inc/jobs/agentic-ai-expert",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 automation",
+      "-5 entry level"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T02:10:08.016Z",
+    "title": "Lead Systems Engineer/ Exchange Architect",
+    "company": "N-iX",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/n-ix/jobs/lead-systems-engineer-exchange-architect-219043056",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T02:10:08.016Z",
+    "title": "($20 - $30/hourly)",
+    "company": "Next.js Developer for Landing Page",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s96h9q/hiring_nextjs_developer_for_landing_page_20/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 next.js",
+      "-5 us-only",
+      "+2 salary($20 - $30/hour)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T02:10:08.016Z",
+    "title": "” Will pay to make a sound from a 3 minute audio file louder?",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s95rlt/hiring_will_pay_to_make_a_sound_from_a_3_minute/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-01T02:10:08.016Z",
+    "title": "Built a tool that finds UX / UI issues in websites looking for feedback",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1s95zh7/built_a_tool_that_finds_ux_ui_issues_in_websites/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-01T02:10:08.016Z",
+    "title": "Staff Site Reliability Engineer",
+    "company": "GE Aerospace",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ge-aerospace/jobs/staff-site-reliability-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-01T02:10:08.016Z",
+    "title": "Staff Site Reliability Engineer",
+    "company": "GE Aerospace",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ge-aerospace/jobs/staff-site-reliability-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-01T02:10:08.016Z",
+    "title": "Customer Support Engineer",
+    "company": "BR-DGE",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/br-dge/jobs/customer-support-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-01T02:10:08.016Z",
+    "title": "Licensed Insolvency Trustee - Bankruptcy Administration",
+    "company": "Bromwich+Smith",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bromwich-smith/jobs/licensed-insolvency-trustee-bankruptcy-administration-8012618213",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-01T02:10:08.016Z",
+    "title": "Développeur Front End senior",
+    "company": "Exposant 3",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/exposant-3/jobs/developpeur-front-end-senior",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-01T02:10:08.016Z",
+    "title": "Engineer Sr., Data Warehouse",
+    "company": "Holland America Group",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/princess/jobs/engineer-sr-data-warehouse",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-01T02:10:08.016Z",
+    "title": "Group Leader I CEO",
+    "company": "Cora Group, Inc.",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cora-group-inc/jobs/group-leader-i-ceo-4697852565",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T02:10:08.016Z",
+    "title": "Frontend Developer - Mid Position",
+    "company": "Ingenious.Build",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ingenious-build/jobs/frontend-developer-mid-position",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "+1 typescript",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T02:10:08.016Z",
+    "title": "Principal Software Engineer",
+    "company": "Akamai Technologies",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/akamai-technologies/jobs/principal-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 c/c++"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T02:10:08.016Z",
+    "title": "Senior Director – Warehouse Automation",
+    "company": "AmerisourceBergen",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/amerisourcebergen/jobs/senior-director-warehouse-automation-8358979291",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T02:10:08.016Z",
+    "title": "Claims Service Representative 3 - Quality Assurance",
+    "company": "AAA",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/aaa/jobs/claims-service-representative-3-quality-assurance",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T02:10:08.016Z",
+    "title": "Associate Director, Data Quality System Testing Expert",
+    "company": "Takeda",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/takeda/jobs/associate-director-data-quality-system-testing-expert",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T02:10:08.016Z",
+    "title": "Java Developer - Actimize IFM",
+    "company": "Matrix Global",
+    "source": "himalayas",
+    "score": -4,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/matrix-global/jobs/java-developer-actimize-ifm",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 rest api",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T02:10:08.016Z",
+    "title": "Sr Cybersecurity Analyst - Product Compliance - Remote",
+    "company": "Johnson Controls",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/johnson-controls/jobs/sr-cybersecurity-analyst-product-compliance-remote-4470070477",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
