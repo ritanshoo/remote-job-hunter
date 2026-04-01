@@ -54530,5 +54530,31 @@
       "-5 junior",
       "+2 salary($80,000 - $120,000)"
     ]
+  },
+  {
+    "timestamp": "2026-04-01T19:57:24.367Z",
+    "title": "Infrastructure Engineer",
+    "company": "Volunteer (unpaid)",
+    "source": "hackernews",
+    "score": 2,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47605023",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T19:57:24.367Z",
+    "title": "Product Engineer - Web & UI",
+    "company": "Stackable",
+    "source": "hackernews",
+    "score": 1,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47605460",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 typescript"
+    ]
   }
 ]
