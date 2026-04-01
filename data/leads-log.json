@@ -54556,5 +54556,90 @@
     "matchedKeywords": [
       "+1 typescript"
     ]
+  },
+  {
+    "timestamp": "2026-04-01T20:47:02.441Z",
+    "title": "Principal Product Lead  MarTech AI",
+    "company": "Bounteous",
+    "source": "weworkremotely",
+    "score": 10,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/bounteous-principal-product-lead-martech-ai",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 automation",
+      "+2 rag",
+      "+2 salary($160,000 - $175,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T20:47:03.060Z",
+    "title": "Data Pipeline Engineer",
+    "company": "Alphamatician (alphamatician.com)",
+    "source": "hackernews",
+    "score": 7,
+    "priority": "high",
+    "url": "https://news.ycombinator.com/item?id=47606136",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node.js",
+      "+3 node",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T20:47:03.382Z",
+    "title": "Fully REMOTE",
+    "company": "Bubblehouse",
+    "source": "hackernews",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://news.ycombinator.com/item?id=47606253",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 javascript",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T20:47:03.382Z",
+    "title": "Product Manager | GraphPad Prism",
+    "company": "Dotmatics",
+    "source": "weworkremotely",
+    "score": 3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/dotmatics-product-manager-graphpad-prism",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 express"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T20:47:03.382Z",
+    "title": "Multiple Roles",
+    "company": "DuckDuckGo",
+    "source": "hackernews",
+    "score": 2,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47605765",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T20:47:03.382Z",
+    "title": "Senior Software Engineer",
+    "company": "Against Malaria Foundation",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47606059",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
