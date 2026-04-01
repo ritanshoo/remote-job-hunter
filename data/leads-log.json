@@ -53452,5 +53452,185 @@
       "-5 usa only",
       "+2 salary($20)"
     ]
+  },
+  {
+    "timestamp": "2026-04-01T11:50:20.435Z",
+    "title": "Principal Solutions Architect",
+    "company": "GitLab",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/gitlab-com/jobs/principal-solutions-architect",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T11:50:20.914Z",
+    "title": "[Job 28559] AI Software Engineering Architect",
+    "company": "CI&T",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/ci-t/jobs/job-28559-ai-software-engineering-architect",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T11:50:21.211Z",
+    "title": "[Job 28264] Sênior AI Developer , Brazil",
+    "company": "CI&T",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/ci-t/jobs/job-28264-senior-ai-developer-brazil",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T11:50:21.512Z",
+    "title": "Senior Java Full Stack Developer",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/senior-java-full-stack-developer-6852539454",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+1 rest api"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T11:50:21.512Z",
+    "title": "Data Engineer",
+    "company": "Blackline Safety",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/blackline-safety/jobs/data-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T11:50:21.513Z",
+    "title": "Remote Appian Tester (Freelancer)",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/remote-appian-tester-freelancer-2869613230",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T11:50:21.513Z",
+    "title": "Student Representatives",
+    "company": "EDUopinions",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/eduopinions-student-representatives-17",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-01T11:50:21.513Z",
+    "title": "Infrastructure consultant / Solution Architect | 10-14 Years Exp | Remote",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/infrastructure-consultant-solution-architect-10-14-years-exp-remote-4056739718",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-01T11:50:21.513Z",
+    "title": "Senior Director, Global Sterility Assurance",
+    "company": "Viatris",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/viatris/jobs/senior-director-global-sterility-assurance",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-01T11:50:21.513Z",
+    "title": "Salesforce Developer[Senior Lead Engineer] - Brillio - Remote - 8 to 10 years",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/salesforce-developer-senior-lead-engineer-brillio-remote-8-to-10-years-6109025631",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-01T11:50:21.513Z",
+    "title": "Senior iOS Developer",
+    "company": "Applaudo Studios",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/applaudo-studios/jobs/senior-ios-developer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-01T11:50:21.513Z",
+    "title": "Scripting Developer",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/scripting-developer-6682857642",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-01T11:50:21.513Z",
+    "title": "Junior Web Developer",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "source": "himalayas",
+    "score": -4,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/junior-web-developer-6377992295",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T11:50:21.513Z",
+    "title": "Data Engineering  Internship",
+    "company": "Chartbeat",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/chartbeat/jobs/data-engineering-internship",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 javascript",
+      "+1 postgresql",
+      "-5 intern",
+      "-5 internship"
+    ]
   }
 ]
