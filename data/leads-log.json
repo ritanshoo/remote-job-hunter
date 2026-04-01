@@ -53333,5 +53333,69 @@
       "-5 internship",
       "+2 salary"
     ]
+  },
+  {
+    "timestamp": "2026-04-01T07:14:59.824Z",
+    "title": "[Miami,FL] [90-150kyr] [Onsite] AI NATIVE TECHNICAL LEAD ROLE",
+    "company": "",
+    "source": "reddit",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/forhire/comments/1s98ygg/hiring_miamifl_90150kyr_onsite_ai_native/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary($90–150)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T07:14:59.824Z",
+    "title": "Need someone to do our engineering project",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s9cdsi/hiring_need_someone_to_do_our_engineering_project/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T07:14:59.824Z",
+    "title": "(Youngstown, OH) Pick up some items from a FB seller & ship to me :) $50+",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s9c2ky/hiring_youngstown_oh_pick_up_some_items_from_a_fb/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($50)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T07:14:59.824Z",
+    "title": "Streamers / Creators",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s9bw18/hiring_streamers_creators/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($100)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T07:14:59.824Z",
+    "title": "I built a simple Instagram Story Viewer tool looking for feedback",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1s9agxh/i_built_a_simple_instagram_story_viewer_tool/",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
