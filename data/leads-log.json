@@ -53425,5 +53425,32 @@
       "+3 react",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-01T10:12:05.033Z",
+    "title": "simple 5 minutes tasks $50",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s9drot/hiring_simple_5_minutes_tasks_50/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($50)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-01T10:12:05.033Z",
+    "title": "$20 PAY",
+    "company": "",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1s9g2sq/hiring_20_pay/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 usa only",
+      "+2 salary($20)"
+    ]
   }
 ]
