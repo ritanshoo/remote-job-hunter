@@ -56096,5 +56096,417 @@
     "url": "https://news.ycombinator.com/item?id=47613445",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-02T14:52:33.764Z",
+    "title": "Staff Software Engineer",
+    "company": "DoseSpot",
+    "source": "himalayas",
+    "score": 10,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/dosespot/jobs/staff-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+2 ai",
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T14:52:34.246Z",
+    "title": "Cyber Security AI Engineer",
+    "company": "Hitachi",
+    "source": "himalayas",
+    "score": 7,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/hitachi/jobs/cyber-security-ai-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 rag",
+      "+1 rest api"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T14:52:34.526Z",
+    "title": "[Job-28530] Mid-Level Fullstack Developer (React+Python), Brazil",
+    "company": "CI&T",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/ci-t/jobs/job-28530-mid-level-fullstack-developer-react-python-brazil",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+3 react",
+      "+2 ai",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 rest api",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T14:52:34.819Z",
+    "title": "Software Verification & QA Specialist",
+    "company": "Codekeeper",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/codekeeper/jobs/software-verification-qa-specialist-2111044242",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node",
+      "+1 javascript",
+      "+1 mongodb",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T14:52:35.099Z",
+    "title": "CTO",
+    "company": "Denta",
+    "source": "hackernews",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://news.ycombinator.com/item?id=47614308",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T14:52:35.474Z",
+    "title": "Sr. AI Engineer",
+    "company": "Rula",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/rula/jobs/sr-ai-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T14:52:35.758Z",
+    "title": "MLOps Specialist",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/mlops-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T14:52:36.047Z",
+    "title": "Senior QA Test Automation Engineer (all genders)",
+    "company": "JustPlay GmbH",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/justplay-gmbh/jobs/senior-qa-test-automation-engineer-all-genders",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 javascript",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T14:52:36.334Z",
+    "title": "Engineer - HPC Platform",
+    "company": "Xenon7",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/xenon7/jobs/engineer-hpc-platform-5449100025",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T14:52:36.334Z",
+    "title": "(Senior) DevOps / Platform Engineer (SRE) 100 % remote (w/m/d)",
+    "company": "easybill GmbH",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/easybill-gmbh/jobs/senior-devops-platform-engineer-sre-100-remote-w-m-d",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T14:52:36.334Z",
+    "title": "Account Manager – US and Allied Defense and Intelligence",
+    "company": "Satellogic",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/satellogic/jobs/account-manager-us-and-allied-defense-and-intelligence",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T14:52:36.334Z",
+    "title": "Staff Software Engineer",
+    "company": "Redbook Software",
+    "source": "hackernews",
+    "score": 2,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47615101",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T14:52:36.334Z",
+    "title": "Engineering Manager, Entity Management",
+    "company": "Middesk",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/middesk/jobs/engineering-manager-entity-management",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T14:52:36.334Z",
+    "title": "Lead Warehouse Design Engineer - Atlanta, GA (Remote, TX, US, 99999)",
+    "company": "GXO Logistics",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gxo-logistics/jobs/lead-warehouse-design-engineer-atlanta-ga-remote-tx-us-99999-9293169592",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T14:52:36.334Z",
+    "title": "Lead Engineer - Simulation Assisted Engineering (Remote Eligible, U.S.)",
+    "company": "GE Vernova",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ge-vernova/jobs/lead-engineer-simulation-assisted-engineering-remote-eligible-u-s",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T14:52:36.334Z",
+    "title": "Director, Developer Relations",
+    "company": "VAST Data",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/vast-data/jobs/director-developer-relations",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T14:52:36.334Z",
+    "title": "Equity",
+    "company": "AREO",
+    "source": "hackernews",
+    "score": 1,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47615206",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T14:52:36.334Z",
+    "title": "Perry Street Software - Engineering Role",
+    "company": "Perry Street Software",
+    "source": "hackernews",
+    "score": 1,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47614969",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 express"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T14:52:36.334Z",
+    "title": "[job-28508] Sr. Data &amp; ML Engineer, Brazil.",
+    "company": "CI&T",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ci-t/jobs/job-28508-sr-data-amp-ml-engineer-brazil",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T14:52:36.334Z",
+    "title": "Field Clinical Specialist - Electrophysiology (m/w/d)",
+    "company": "Boston Scientific",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/boston-scientific/jobs/field-clinical-specialist-electrophysiology-m-w-d",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-02T14:52:36.334Z",
+    "title": "Offensive Security Manager",
+    "company": "Praetorian",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/praetorian/jobs/offensive-security-manager",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-02T14:52:36.334Z",
+    "title": "Analyst, IMD Data Management",
+    "company": "Aledade",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/aledade/jobs/analyst-imd-data-management",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-02T14:52:36.334Z",
+    "title": "Ingénieur d'Affaires F/H",
+    "company": "Sonergia",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sonergia/jobs/ingenieur-d-affaires-f-h",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-02T14:52:36.334Z",
+    "title": "Associate Network Architect",
+    "company": "Sequoia Connect",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sequoia-connect/jobs/associate-network-architect",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T14:52:36.334Z",
+    "title": "Staff Software Engineer (Gen AI)",
+    "company": "DataRobot",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/datarobot/jobs/staff-software-engineer-gen-ai",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T14:52:36.334Z",
+    "title": "Technical Support Engineer",
+    "company": "Recast Software",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/recast-software/jobs/technical-support-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T14:52:36.334Z",
+    "title": "Endeavour - 2026 Summer Systems Modeling Intern",
+    "company": "Edged Energy LLC",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/edged-energy-llc/jobs/endeavour-2026-summer-systems-modeling-intern-1114914593",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T14:52:36.334Z",
+    "title": "Principal Sales Engineer",
+    "company": "Watlow Recruitment Team",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/watlow-recruitment-team/jobs/principal-sales-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T14:52:36.334Z",
+    "title": "Junior Crypto Analyst & Trader",
+    "company": "White Bridge Ltd",
+    "source": "weworkremotely",
+    "score": -8,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/white-bridge-ltd-junior-crypto-analyst-trader-1",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "-5 junior",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T14:52:36.334Z",
+    "title": "Thermal Works - 2026 Summer Mechanical Engineering Intern",
+    "company": "Edged Energy LLC",
+    "source": "himalayas",
+    "score": -10,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/edged-energy-llc/jobs/thermal-works-2026-summer-mechanical-engineering-intern",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "-5 internship"
+    ]
   }
 ]
