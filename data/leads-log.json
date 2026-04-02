@@ -56751,5 +56751,29 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-02T18:52:18.804Z",
+    "title": "Customer Success Advisor (Part Time)",
+    "company": "TestGorilla",
+    "source": "weworkremotely",
+    "score": 2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/testgorilla-customer-success-advisor-part-time",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T18:52:18.804Z",
+    "title": "Redistricting Data Hub",
+    "company": "Data Analyst",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47617865",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
