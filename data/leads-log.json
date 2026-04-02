@@ -55706,5 +55706,59 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-02T04:32:07.952Z",
+    "title": "spruceid.com",
+    "company": "SpruceID (YC W21)",
+    "source": "hackernews",
+    "score": 3,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47609466",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T04:32:07.952Z",
+    "title": "Multiple Roles",
+    "company": "Innolitics",
+    "source": "hackernews",
+    "score": 2,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47609680",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T04:32:07.952Z",
+    "title": "BackNine Insurance - Engineering Role",
+    "company": "BackNine Insurance",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47609966",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-02T04:32:07.952Z",
+    "title": "Software Engineers",
+    "company": "MixRank (YC S11)",
+    "source": "hackernews",
+    "score": -2,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47609991",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "+1 typescript",
+      "+1 postgresql",
+      "-5 intern"
+    ]
   }
 ]
