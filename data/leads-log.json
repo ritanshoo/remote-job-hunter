@@ -55901,5 +55901,18 @@
       "-5 intern",
       "+2 salary($600)"
     ]
+  },
+  {
+    "timestamp": "2026-04-02T10:55:19.261Z",
+    "title": "Cross-Platform Mobile Developer (iOS & Android)",
+    "company": "",
+    "source": "reddit",
+    "score": 3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sadbjw/hiring_crossplatform_mobile_developer_ios_android/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react"
+    ]
   }
 ]

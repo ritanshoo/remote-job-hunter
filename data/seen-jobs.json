@@ -1,249 +1,4 @@
 {
-  "eecd85252d54d2084d136ff98c0cd21f": {
-    "hash": "eecd85252d54d2084d136ff98c0cd21f",
-    "firstSeen": "2026-03-03T10:35:19.546Z",
-    "score": 6,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "02944c3e58bd59f6d17564dee0b9e994": {
-    "hash": "02944c3e58bd59f6d17564dee0b9e994",
-    "firstSeen": "2026-03-03T10:35:20.051Z",
-    "score": 4,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "0a6938062ef6cbaeb0c6842895b1af22": {
-    "hash": "0a6938062ef6cbaeb0c6842895b1af22",
-    "firstSeen": "2026-03-03T10:35:20.390Z",
-    "score": 4,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "0ca3466c37966f864309516f7d729bf8": {
-    "hash": "0ca3466c37966f864309516f7d729bf8",
-    "firstSeen": "2026-03-03T10:35:20.390Z",
-    "score": 1,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "13755db3ef44276a08ef0476c33c6af6": {
-    "hash": "13755db3ef44276a08ef0476c33c6af6",
-    "firstSeen": "2026-03-03T10:35:20.390Z",
-    "score": 1,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "da54197575b9962b1ad95bb06bc0160b": {
-    "hash": "da54197575b9962b1ad95bb06bc0160b",
-    "firstSeen": "2026-03-03T10:35:20.390Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "bc6fb16b0ec53f880d1c9f50c1a19031": {
-    "hash": "bc6fb16b0ec53f880d1c9f50c1a19031",
-    "firstSeen": "2026-03-03T10:35:20.390Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "543821f9201be4c15606d81089ab1e96": {
-    "hash": "543821f9201be4c15606d81089ab1e96",
-    "firstSeen": "2026-03-03T10:35:20.390Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "c2d53893bb49d0c9b280f154eb20df71": {
-    "hash": "c2d53893bb49d0c9b280f154eb20df71",
-    "firstSeen": "2026-03-03T10:35:20.390Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "c6836109f15821ab7030a6477116cffa": {
-    "hash": "c6836109f15821ab7030a6477116cffa",
-    "firstSeen": "2026-03-03T10:35:20.390Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "cf7fe8c187c80572ae11cc9b3d46e0ed": {
-    "hash": "cf7fe8c187c80572ae11cc9b3d46e0ed",
-    "firstSeen": "2026-03-03T10:35:20.391Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "eb5b07d248c5ca529b1898358608661f": {
-    "hash": "eb5b07d248c5ca529b1898358608661f",
-    "firstSeen": "2026-03-03T10:35:20.391Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "133ccbafd1141e96c46d8d733a351f8f": {
-    "hash": "133ccbafd1141e96c46d8d733a351f8f",
-    "firstSeen": "2026-03-03T10:35:20.391Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "17284aeca3e09d44d0e5b128ffab3e02": {
-    "hash": "17284aeca3e09d44d0e5b128ffab3e02",
-    "firstSeen": "2026-03-03T10:35:20.391Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "9d942519cdd4950768487e8563e2c040": {
-    "hash": "9d942519cdd4950768487e8563e2c040",
-    "firstSeen": "2026-03-03T10:35:20.391Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "9f4d9cf58324490770c7b947ae52d23e": {
-    "hash": "9f4d9cf58324490770c7b947ae52d23e",
-    "firstSeen": "2026-03-03T10:35:20.391Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "ba27643f2e5dd7154b205020a2f9d202": {
-    "hash": "ba27643f2e5dd7154b205020a2f9d202",
-    "firstSeen": "2026-03-03T10:35:20.391Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "4d3ff16a9d3dfe4ce5ff2e3824e01d19": {
-    "hash": "4d3ff16a9d3dfe4ce5ff2e3824e01d19",
-    "firstSeen": "2026-03-03T10:35:20.391Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "03341c874e1de38d619863310af84d6d": {
-    "hash": "03341c874e1de38d619863310af84d6d",
-    "firstSeen": "2026-03-03T10:35:20.391Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "eabdd5261da4445ea269de05bfa5e5ec": {
-    "hash": "eabdd5261da4445ea269de05bfa5e5ec",
-    "firstSeen": "2026-03-03T10:35:20.391Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "c10f05e3296ea9d2b4f7fb55ef3c2cfe": {
-    "hash": "c10f05e3296ea9d2b4f7fb55ef3c2cfe",
-    "firstSeen": "2026-03-03T10:35:20.391Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "31a8c9dc36b644eda4ed292e1e748184": {
-    "hash": "31a8c9dc36b644eda4ed292e1e748184",
-    "firstSeen": "2026-03-03T10:35:20.391Z",
-    "score": -1,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "6c3b9e92415f18d5f066e82490fd53b4": {
-    "hash": "6c3b9e92415f18d5f066e82490fd53b4",
-    "firstSeen": "2026-03-03T10:35:20.391Z",
-    "score": -2,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "a7778b3dfa057834adb40afb7aca1e07": {
-    "hash": "a7778b3dfa057834adb40afb7aca1e07",
-    "firstSeen": "2026-03-03T10:35:20.391Z",
-    "score": -2,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "d13bdb5429927e1130dda5d0fd9da481": {
-    "hash": "d13bdb5429927e1130dda5d0fd9da481",
-    "firstSeen": "2026-03-03T10:35:20.391Z",
-    "score": -2,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "cf2a3ced1c632e14f1b24a0730e97205": {
-    "hash": "cf2a3ced1c632e14f1b24a0730e97205",
-    "firstSeen": "2026-03-03T10:35:20.391Z",
-    "score": -3,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "62e0a1115dcf35294be9f6b848d33e8d": {
-    "hash": "62e0a1115dcf35294be9f6b848d33e8d",
-    "firstSeen": "2026-03-03T10:35:20.391Z",
-    "score": -3,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "1ccd057b14860f825f3ddc5770da0dbe": {
-    "hash": "1ccd057b14860f825f3ddc5770da0dbe",
-    "firstSeen": "2026-03-03T10:35:20.391Z",
-    "score": -3,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "5f52256e2ffbeb90fa89bb23a59d9b20": {
-    "hash": "5f52256e2ffbeb90fa89bb23a59d9b20",
-    "firstSeen": "2026-03-03T10:35:20.391Z",
-    "score": -3,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "35d52c0cba507527607a4a14ae36ccac": {
-    "hash": "35d52c0cba507527607a4a14ae36ccac",
-    "firstSeen": "2026-03-03T10:35:20.391Z",
-    "score": -3,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "e9797ad4fa1bc00e155844b2877b8449": {
-    "hash": "e9797ad4fa1bc00e155844b2877b8449",
-    "firstSeen": "2026-03-03T10:35:20.391Z",
-    "score": -5,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "5c90f3cfbe18f878918a96b072b86f16": {
-    "hash": "5c90f3cfbe18f878918a96b072b86f16",
-    "firstSeen": "2026-03-03T10:35:20.391Z",
-    "score": -5,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "49e5f256b86df1593569ea25afb2c48c": {
-    "hash": "49e5f256b86df1593569ea25afb2c48c",
-    "firstSeen": "2026-03-03T10:35:20.391Z",
-    "score": -5,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "4253723442a9fb11e2e677420dd4552b": {
-    "hash": "4253723442a9fb11e2e677420dd4552b",
-    "firstSeen": "2026-03-03T10:35:20.391Z",
-    "score": -5,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "05b6673571d8a04c60a6a06845999d8c": {
-    "hash": "05b6673571d8a04c60a6a06845999d8c",
-    "firstSeen": "2026-03-03T10:35:20.391Z",
-    "score": -5,
-    "emailSent": false,
-    "source": "himalayas"
-  },
   "0a6db3c7c6cdf9c98845ffcf78388c49": {
     "hash": "0a6db3c7c6cdf9c98845ffcf78388c49",
     "firstSeen": "2026-03-03T11:29:38.298Z",
@@ -23761,6 +23516,27 @@
     "hash": "2fa98bc011fe9f556889fb9df8f8c74a",
     "firstSeen": "2026-04-02T09:58:12.415Z",
     "score": -3,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "8336230869b147b132d16784de93643e": {
+    "hash": "8336230869b147b132d16784de93643e",
+    "firstSeen": "2026-04-02T10:55:19.040Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "jobicy"
+  },
+  "aa59b4d45c8c3be3e5a79f1901a50688": {
+    "hash": "aa59b4d45c8c3be3e5a79f1901a50688",
+    "firstSeen": "2026-04-02T10:55:19.040Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "jobicy"
+  },
+  "cbf24adea5f9e8c172f4594d1d2a23a1": {
+    "hash": "cbf24adea5f9e8c172f4594d1d2a23a1",
+    "firstSeen": "2026-04-02T10:55:19.261Z",
+    "score": 3,
     "emailSent": false,
     "source": "reddit"
   }
