@@ -56835,5 +56835,636 @@
       "+2 automation",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-02T21:33:59.594Z",
+    "title": "[Job 27260] Developer Senior Fullstack React/Node.js/Python",
+    "company": "CI&T",
+    "source": "himalayas",
+    "score": 24,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/ci-t/jobs/job-27260-developer-senior-fullstack-react-node-js-python",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+3 react",
+      "+3 next.js",
+      "+3 node.js",
+      "+3 node",
+      "+2 ai",
+      "+2 llm",
+      "+2 langchain",
+      "+1 typescript",
+      "+1 graphql",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:00.046Z",
+    "title": "[Job  27265] Developer Mid Fullstack Node.js/Python/React",
+    "company": "CI&T",
+    "source": "himalayas",
+    "score": 16,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/ci-t/jobs/job-27265-developer-mid-fullstack-node-js-python-react",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+2 ai",
+      "+2 llm"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:00.327Z",
+    "title": "Full Stack AI Engineer",
+    "company": "Reveleer",
+    "source": "weworkremotely",
+    "score": 15,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node",
+      "+2 ai",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 mongodb",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:00.607Z",
+    "title": "Senior Developer",
+    "company": "Scite (scite.ai)",
+    "source": "hackernews",
+    "score": 15,
+    "priority": "high",
+    "url": "https://news.ycombinator.com/item?id=47613220",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+2 llm",
+      "+2 rag",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 postgresql",
+      "+1 aws",
+      "+1 express",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:00.888Z",
+    "title": "Senior React/Node.js Developer (FinTech Project)",
+    "company": "Sigma Software",
+    "source": "himalayas",
+    "score": 13,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/sigma-software-e561c036-16e4-4b2c-aa28-a33af9f3750b/jobs/senior-react-node-js-developer-fintech-project",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 aws",
+      "+1 graphql"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:01.164Z",
+    "title": "QA Engineer",
+    "company": "Upshop",
+    "source": "himalayas",
+    "score": 12,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/upshop-com/jobs/qa-engineer-6297427780",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node.js",
+      "+3 node",
+      "+2 automation",
+      "+1 javascript",
+      "+1 typescript",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:01.446Z",
+    "title": "QA Engineer",
+    "company": "Upshop",
+    "source": "himalayas",
+    "score": 10,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/upshop-com/jobs/qa-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node.js",
+      "+3 node",
+      "+2 automation",
+      "+1 javascript",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:01.726Z",
+    "title": "Senior SWE / Technical Lead",
+    "company": "Cenva Labs",
+    "source": "hackernews",
+    "score": 9,
+    "priority": "high",
+    "url": "https://news.ycombinator.com/item?id=47607508",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+1 typescript",
+      "+1 postgresql",
+      "+1 aws",
+      "-5 junior",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:02.012Z",
+    "title": "Senior Front-end  Developer",
+    "company": "Binance",
+    "source": "himalayas",
+    "score": 8,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/binance/jobs/senior-front-end-developer-8723303464",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 blockchain",
+      "+2 web3",
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:02.294Z",
+    "title": "Software Engineer",
+    "company": "Mighty Acorn Digital",
+    "source": "hackernews",
+    "score": 7,
+    "priority": "high",
+    "url": "https://news.ycombinator.com/item?id=47620067",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+2 automation",
+      "+1 typescript",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:02.585Z",
+    "title": "Founding Engineer",
+    "company": "GenTube",
+    "source": "hackernews",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://news.ycombinator.com/item?id=47616664",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node",
+      "+2 ai",
+      "+1 typescript",
+      "-5 intern",
+      "+2 salary($100-150)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:02.876Z",
+    "title": "Score Engine Engineer",
+    "company": "343 game",
+    "source": "hackernews",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://news.ycombinator.com/item?id=47617723",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node.js",
+      "+3 node"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:03.157Z",
+    "title": "Staff AI Software Engineer",
+    "company": "Cority",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/cority/jobs/staff-ai-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:03.429Z",
+    "title": "Founding Researcher",
+    "company": "Burnin",
+    "source": "hackernews",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://news.ycombinator.com/item?id=47612065",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:03.711Z",
+    "title": "Staff Network Operations Engineer - Load Balancers - F5 - Nginx - Federal",
+    "company": "ServiceNow",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/servicenow/jobs/staff-network-operations-engineer-load-balancers-f5-nginx-federal",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:03.988Z",
+    "title": "Staff Platform Site Reliability Specialist (Observability & Kubernetes)",
+    "company": "Everbridge",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/everbridge/jobs/staff-platform-site-reliability-specialist-observability-kubernetes",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:04.265Z",
+    "title": "Senior Software Engineer I (Backend)",
+    "company": "Inductive Automation",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/inductive-automation/jobs/senior-software-engineer-i-backend-6096772820",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 typescript",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:04.538Z",
+    "title": "Developer Evangelist",
+    "company": "Twilio",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/twilio/jobs/developer-evangelist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:04.815Z",
+    "title": "Principal Site Reliability Engineer",
+    "company": "Sezzle",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/sezzle/jobs/principal-site-reliability-engineer-490767870",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:05.091Z",
+    "title": "Principal Site Reliability Engineer",
+    "company": "Sezzle",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/sezzle/jobs/principal-site-reliability-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:05.091Z",
+    "title": "Full Stack Engineer (Java, Microservices)",
+    "company": "Infystrat",
+    "source": "hackernews",
+    "score": 3,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47614285",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:05.091Z",
+    "title": "Engineering Manager, Infrastructure/SRE",
+    "company": "Dealfront",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/dealfront/jobs/engineering-manager-infrastructure-sre",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:05.091Z",
+    "title": "ML Scientist & Engineering",
+    "company": "Matterworks.ai",
+    "source": "hackernews",
+    "score": 2,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47620144",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:05.091Z",
+    "title": "Sr. Data Engineer",
+    "company": "Mitek Systems",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mitek-systems/jobs/sr-data-engineer-1934177050",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:05.091Z",
+    "title": "Director of Project Implementations",
+    "company": "Bedrock Energy",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bedrock-energy/jobs/director-of-project-implementations",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:05.091Z",
+    "title": "Senior Software Engineer, Cloud Enablement",
+    "company": "Temporal Technologies",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/temporal-technologies/jobs/senior-software-engineer-cloud-enablement",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:05.091Z",
+    "title": "Senior Full-Stack Software Engineer",
+    "company": "AffiniPay",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/affinipay/jobs/senior-full-stack-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:05.091Z",
+    "title": "Technical Director",
+    "company": "Skydance",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/skydance/jobs/technical-director",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:05.091Z",
+    "title": "Principal Site Reliability Engineer",
+    "company": "Sezzle",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sezzle/jobs/principal-site-reliability-engineer-6671063102",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:05.091Z",
+    "title": "Staff Software Engineer - Data Sync Team (Golang, Python, AWS) - open to remote ",
+    "company": "Canva",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/canva/jobs/staff-software-engineer-data-sync-team-golang-python-aws-open-to-remote-3845611726",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:05.091Z",
+    "title": "Principal Propulsion Drawing Checker",
+    "company": "Venus Aerospace",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/venus-aerospace/jobs/principal-propulsion-drawing-checker",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-02T21:34:05.091Z",
+    "title": "Solutions Engineer II - APAC",
+    "company": "Echodyne",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/echodyne/jobs/solutions-engineer-ii-apac",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-02T21:34:05.091Z",
+    "title": "Key Account Support Engineer",
+    "company": "Entrata",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/entrata/jobs/key-account-support-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-02T21:34:05.091Z",
+    "title": "Associate Implementation Engineer (Public Warning)",
+    "company": "Everbridge",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/everbridge/jobs/associate-implementation-engineer-public-warning",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:05.091Z",
+    "title": "Staff Product Marketing Manager | United Kingdom | Remote",
+    "company": "Grafana Labs",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/grafana-labs-staff-product-marketing-manager-united-kingdom-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:05.091Z",
+    "title": "Senior Backend Engineer",
+    "company": "DICE",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/dice/jobs/senior-backend-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 graphql",
+      "+1 rest api",
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:05.091Z",
+    "title": "AI Software Installer",
+    "company": "ThisWay",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/thisway/jobs/ai-software-installer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:05.091Z",
+    "title": "Senior Android Engineer, Apps Platform (Performance)",
+    "company": "Reddit",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/reddit/jobs/senior-android-engineer-apps-platform-performance-7369285612",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:05.091Z",
+    "title": "Pre-Sales Engineer (Kazakhstan, Kyrgyzstan)",
+    "company": "Ajax Systems",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ajax-systems/jobs/pre-sales-engineer-kazakhstan-kyrgyzstan",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:05.091Z",
+    "title": "Pre-Sales Engineer (Georgia, Armenia)",
+    "company": "Ajax Systems",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ajax-systems/jobs/pre-sales-engineer-georgia-armenia",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:05.091Z",
+    "title": "Implementation Specialist",
+    "company": "Nova 401(k) Associates",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nova-401-k-associates/jobs/implementation-specialist-3283485241",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T21:34:05.091Z",
+    "title": "Senior Environmental Compliance Manager (on-call position)",
+    "company": "AECOM",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/aecom/jobs/senior-environmental-compliance-manager-on-call-position",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
   }
 ]
