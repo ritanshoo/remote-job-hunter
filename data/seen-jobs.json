@@ -23882,5 +23882,26 @@
     "score": 3,
     "emailSent": false,
     "source": "hackernews"
+  },
+  "944809d8ff839fad68b01a19c99afa0e": {
+    "hash": "944809d8ff839fad68b01a19c99afa0e",
+    "firstSeen": "2026-04-02T20:31:22.924Z",
+    "score": 5,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "e13f41c79902679b8c15ecc29e397c1e": {
+    "hash": "e13f41c79902679b8c15ecc29e397c1e",
+    "firstSeen": "2026-04-02T20:31:22.925Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "72c1c7ee6e73d8ad2745ec3a95200173": {
+    "hash": "72c1c7ee6e73d8ad2745ec3a95200173",
+    "firstSeen": "2026-04-02T20:31:22.925Z",
+    "score": -1,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }

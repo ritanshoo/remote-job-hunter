@@ -56789,5 +56789,51 @@
       "+2 ai",
       "+1 express"
     ]
+  },
+  {
+    "timestamp": "2026-04-02T20:31:22.925Z",
+    "title": "Senior Engineer - Growth Marketing",
+    "company": "Buffer",
+    "source": "weworkremotely",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/buffer-senior-engineer-growth-marketing",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 next.js",
+      "+2 ai",
+      "+1 typescript",
+      "+1 express",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T20:31:22.925Z",
+    "title": "AI Research Engineer",
+    "company": "Tether",
+    "source": "weworkremotely",
+    "score": 2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/tether-ai-research-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T20:31:22.925Z",
+    "title": "DACH Community Manager (Events)",
+    "company": "Binance",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/binance-dach-community-manager-events",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern"
+    ]
   }
 ]
