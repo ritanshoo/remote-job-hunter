@@ -56775,5 +56775,19 @@
     "url": "https://news.ycombinator.com/item?id=47617865",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-02T19:47:54.207Z",
+    "title": "Member of Technical Staff",
+    "company": "Eagle",
+    "source": "hackernews",
+    "score": 3,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47619045",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 express"
+    ]
   }
 ]
