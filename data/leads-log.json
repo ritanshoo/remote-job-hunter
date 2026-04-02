@@ -55914,5 +55914,187 @@
     "matchedKeywords": [
       "+3 react"
     ]
+  },
+  {
+    "timestamp": "2026-04-02T13:04:21.927Z",
+    "title": "1.5 YOE, Actively looking for frontend / Full stack developer positions",
+    "company": "",
+    "source": "reddit",
+    "score": 12,
+    "priority": "high",
+    "url": "https://www.reddit.com/r/webdev/comments/1saeu3n/15_yoe_actively_looking_for_frontend_full_stack/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node",
+      "+1 typescript",
+      "+1 mongodb",
+      "+1 express"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T13:04:22.407Z",
+    "title": "Senior Software Engineer, Full Stack",
+    "company": "Customer.io",
+    "source": "jobicy",
+    "score": 12,
+    "priority": "high",
+    "url": "https://jobicy.com/jobs/141527-senior-software-engineer-full-stack",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 fullstack",
+      "+3 react",
+      "+2 ai",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T13:04:22.696Z",
+    "title": "Senior Fullstack Software Engineer – JavaScript / TypeScript",
+    "company": "Rithum",
+    "source": "jobicy",
+    "score": 7,
+    "priority": "high",
+    "url": "https://jobicy.com/jobs/141530-senior-fullstack-software-engineer-javascript-typescript-2",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+1 javascript",
+      "+1 typescript",
+      "+2 salary($50)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T13:04:22.981Z",
+    "title": "Senior Software Engineer, Backend",
+    "company": "Customer.io",
+    "source": "jobicy",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://jobicy.com/jobs/141529-senior-software-engineer-backend-3",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T13:04:23.273Z",
+    "title": "Full-Stack Engineer (Go / React)",
+    "company": "BoWatt",
+    "source": "hackernews",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://news.ycombinator.com/item?id=47613424",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T13:04:23.273Z",
+    "title": "Fullstack Software Engineer (Security) – Tech Foundations",
+    "company": "Alan",
+    "source": "jobicy",
+    "score": 3,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/141539-fullstack-software-engineer-security-tech-foundations",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T13:04:23.273Z",
+    "title": "PayPal Invoice Processor Needed [$75–$100/week]",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1saga53/hiring_paypal_invoice_processor_needed_75100week/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($75–$100)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T13:04:23.273Z",
+    "title": "Senior Staff Software Engineer – Data Lakes",
+    "company": "Fivetran",
+    "source": "jobicy",
+    "score": 1,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/141537-senior-staff-software-engineer-data-lakes",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T13:04:23.273Z",
+    "title": "Senior Staff Software Engineer – Distributed Systems",
+    "company": "Fivetran",
+    "source": "jobicy",
+    "score": 1,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/141536-senior-staff-software-engineer-distributed-systems",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T13:04:23.273Z",
+    "title": "Software Engineers - Auditors - Support Engineers - Formal Verification Engineer",
+    "company": "Common Prefix",
+    "source": "hackernews",
+    "score": 1,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47613398",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "+2 smart contract",
+      "-5 junior",
+      "+2 salary($80,000–$171,000 / year)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T13:04:23.273Z",
+    "title": "Hiring $15/hr . Anyone from Europe and Asia.",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1safe4l/hiring_15hr_hiring_anyone_from_europe_and_asia/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-02T13:04:23.273Z",
+    "title": "Software Engineer (Security) – Tech Foundations",
+    "company": "Alan",
+    "source": "jobicy",
+    "score": 0,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/141540-software-engineer-security-tech-foundations",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-02T13:04:23.274Z",
+    "title": "PlantingSpace - Engineering Role",
+    "company": "PlantingSpace",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47613445",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
