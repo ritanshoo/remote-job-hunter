@@ -55760,5 +55760,67 @@
       "+1 postgresql",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-02T06:09:47.264Z",
+    "title": "Looking to hire a designer to come up with ideas for a design on a product. $20 an hour",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sa3jsn/hiring_looking_to_hire_a_designer_to_come_up_with/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($20)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T06:09:47.264Z",
+    "title": "Is there a service (or person) who can deeply curate a Japan itinerary based on my taste + organize everything into Google Maps?",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sa84mq/hiring_is_there_a_service_or_person_who_can/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-02T06:09:47.264Z",
+    "title": "2 Indian Video Editors (Short-Form Podcast Content)full time editor",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sa75w7/hiring_2_indian_video_editors_shortform_podcast/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-02T06:09:47.264Z",
+    "title": "U.S. Remote Participants – Company Computer Provided – $50",
+    "company": "",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sa8n2f/hiring_us_remote_participants_company_computer/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($50)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T06:09:47.264Z",
+    "title": "Customer Reliability Engineer (CRE)",
+    "company": "Supabase",
+    "source": "hackernews",
+    "score": -5,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47610467",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
