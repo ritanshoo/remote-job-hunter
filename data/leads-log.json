@@ -55863,5 +55863,43 @@
     "url": "https://www.reddit.com/r/forhire/comments/1sa9wus/hiring_short_term_cold_call_for_website_leads_50/",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-02T09:58:12.415Z",
+    "title": "Europe+USA",
+    "company": "Lago (YC S21)",
+    "source": "hackernews",
+    "score": 2,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47611767",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T09:58:12.415Z",
+    "title": "Help us ship bug-free apps!",
+    "company": "QA Engineer / Project Manager",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sacrsd/hiring_qa_engineer_project_manager_help_us_ship/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-02T09:58:12.415Z",
+    "title": "U.S. Remote Participants – Company Computer Provided – $600 weekly",
+    "company": "",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sacob1/hiring_us_remote_participants_company_computer/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($600)"
+    ]
   }
 ]
