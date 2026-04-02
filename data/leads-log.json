@@ -55822,5 +55822,46 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-02T08:05:44.835Z",
+    "title": "Founding Full Stack Developer (AI x Patent Intelligence x Graphs)",
+    "company": "Scout IP",
+    "source": "hackernews",
+    "score": 9,
+    "priority": "high",
+    "url": "https://news.ycombinator.com/item?id=47611314",
+    "emailSent": true,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+2 ai",
+      "+2 llm",
+      "+2 rag"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T08:05:45.313Z",
+    "title": "multiple roles",
+    "company": "Thirdfort",
+    "source": "hackernews",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://news.ycombinator.com/item?id=47610840",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T08:05:45.313Z",
+    "title": "short term cold call for website leads. 50 dollars per sale.",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sa9wus/hiring_short_term_cold_call_for_website_leads_50/",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
