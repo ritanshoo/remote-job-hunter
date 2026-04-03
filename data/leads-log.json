@@ -58565,5 +58565,16 @@
       "+2 ai",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-03T22:28:59.163Z",
+    "title": "I need a consumer and a company owner from Brazil - 150BRL/week",
+    "company": "Online",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sbrjvz/hiring_online_i_need_a_consumer_and_a_company/",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]

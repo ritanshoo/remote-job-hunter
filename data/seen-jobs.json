@@ -1,25 +1,4 @@
 {
-  "5603be9176f2df5c724b4f9bfb27d686": {
-    "hash": "5603be9176f2df5c724b4f9bfb27d686",
-    "firstSeen": "2026-03-04T22:27:33.058Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "remoteok"
-  },
-  "62b08958079a337aba39b29538b39c0a": {
-    "hash": "62b08958079a337aba39b29538b39c0a",
-    "firstSeen": "2026-03-04T22:27:33.058Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "remoteok"
-  },
-  "a044bdc29a7b75d9e2d60a5248bce1ee": {
-    "hash": "a044bdc29a7b75d9e2d60a5248bce1ee",
-    "firstSeen": "2026-03-04T22:27:33.059Z",
-    "score": -3,
-    "emailSent": false,
-    "source": "weworkremotely"
-  },
   "f3c7ea36144b6893006db8dbed5db91b": {
     "hash": "f3c7ea36144b6893006db8dbed5db91b",
     "firstSeen": "2026-03-04T23:26:06.374Z",
@@ -23840,5 +23819,12 @@
     "score": -3,
     "emailSent": false,
     "source": "weworkremotely"
+  },
+  "498c43385e9d2a18d71cbf1292f8d760": {
+    "hash": "498c43385e9d2a18d71cbf1292f8d760",
+    "firstSeen": "2026-04-03T22:28:59.163Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
   }
 }
