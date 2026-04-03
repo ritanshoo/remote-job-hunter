@@ -58510,5 +58510,60 @@
     "url": "https://news.ycombinator.com/item?id=47631468",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-03T21:29:37.916Z",
+    "title": "Pinehurst, TX - Engineering Role",
+    "company": "Pinehurst, TX",
+    "source": "hackernews",
+    "score": 2,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47632126",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T21:29:37.916Z",
+    "title": "Staff Product Marketing Manager | Germany | Remote",
+    "company": "Grafana Labs",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/grafana-labs-staff-product-marketing-manager-germany-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T21:29:37.916Z",
+    "title": "Staff Product Marketing Manager | Sweden | Remote",
+    "company": "Grafana Labs",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/grafana-labs-staff-product-marketing-manager-sweden-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T21:29:37.916Z",
+    "title": "Staff Product Marketing Manager | Spain | Remote",
+    "company": "Grafana Labs",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/grafana-labs-staff-product-marketing-manager-spain-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
   }
 ]

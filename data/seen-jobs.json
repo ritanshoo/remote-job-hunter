@@ -23812,5 +23812,33 @@
     "score": 0,
     "emailSent": false,
     "source": "hackernews"
+  },
+  "902c3020c8788074bfa1de5bda354ae3": {
+    "hash": "902c3020c8788074bfa1de5bda354ae3",
+    "firstSeen": "2026-04-03T21:29:37.916Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "hackernews"
+  },
+  "8ce52ca675293ad00a92bebc13c9aaf9": {
+    "hash": "8ce52ca675293ad00a92bebc13c9aaf9",
+    "firstSeen": "2026-04-03T21:29:37.916Z",
+    "score": -3,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "6da22804b7c49eb7f43a7ac5a51b4fa7": {
+    "hash": "6da22804b7c49eb7f43a7ac5a51b4fa7",
+    "firstSeen": "2026-04-03T21:29:37.916Z",
+    "score": -3,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "ab5dfd9dc4c5cef54ff1316b52475438": {
+    "hash": "ab5dfd9dc4c5cef54ff1316b52475438",
+    "firstSeen": "2026-04-03T21:29:37.916Z",
+    "score": -3,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }
