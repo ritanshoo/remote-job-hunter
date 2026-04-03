@@ -57821,5 +57821,29 @@
       "-5 internship",
       "+2 salary($35,000)"
     ]
+  },
+  {
+    "timestamp": "2026-04-03T06:10:27.396Z",
+    "title": "React Native Developer for 300$ for completing a bunch of features",
+    "company": "",
+    "source": "reddit",
+    "score": 3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sb4g0i/hiring_react_native_developer_for_300_for/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T06:10:27.396Z",
+    "title": "looking for an India based person with a pc and knowledge of bgmi",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sb4luh/hiring_looking_for_an_india_based_person_with_a/",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
