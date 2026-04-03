@@ -1,95 +1,4 @@
 {
-  "494ac2d9306f259833ea0391da54b11b": {
-    "hash": "494ac2d9306f259833ea0391da54b11b",
-    "firstSeen": "2026-03-04T13:55:23.367Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "remoteok"
-  },
-  "6f13e6aa1002efd3d7ab5c13bfa70813": {
-    "hash": "6f13e6aa1002efd3d7ab5c13bfa70813",
-    "firstSeen": "2026-03-04T13:55:30.869Z",
-    "score": 2,
-    "emailSent": false,
-    "source": "jobicy"
-  },
-  "89cedac12609245988616abfa1e26a10": {
-    "hash": "89cedac12609245988616abfa1e26a10",
-    "firstSeen": "2026-03-04T13:55:30.869Z",
-    "score": 1,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "c1c11bd41648e44922a625ece7eea015": {
-    "hash": "c1c11bd41648e44922a625ece7eea015",
-    "firstSeen": "2026-03-04T13:55:30.869Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "d8a86441a3762d472af51c09a6a6b973": {
-    "hash": "d8a86441a3762d472af51c09a6a6b973",
-    "firstSeen": "2026-03-04T13:55:30.869Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "ada42e00c65f3dc0bd9d1929bf1f6649": {
-    "hash": "ada42e00c65f3dc0bd9d1929bf1f6649",
-    "firstSeen": "2026-03-04T13:55:30.869Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "be49dfa3d261a20d5f834a6a835aad82": {
-    "hash": "be49dfa3d261a20d5f834a6a835aad82",
-    "firstSeen": "2026-03-04T13:55:30.869Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "7c8e5a4f6413f5c51d594234f18632c3": {
-    "hash": "7c8e5a4f6413f5c51d594234f18632c3",
-    "firstSeen": "2026-03-04T13:55:30.869Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "37023cdffd1c079e010071decaa9cad7": {
-    "hash": "37023cdffd1c079e010071decaa9cad7",
-    "firstSeen": "2026-03-04T13:55:30.869Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "e3e3be69cd47c1a0d01caedbfa90c063": {
-    "hash": "e3e3be69cd47c1a0d01caedbfa90c063",
-    "firstSeen": "2026-03-04T13:55:30.869Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "55ed0d1cfe176f144485cef7dec96abe": {
-    "hash": "55ed0d1cfe176f144485cef7dec96abe",
-    "firstSeen": "2026-03-04T13:55:30.869Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "jobicy"
-  },
-  "e36d84de47a76a1ddb5bb8710523549b": {
-    "hash": "e36d84de47a76a1ddb5bb8710523549b",
-    "firstSeen": "2026-03-04T13:55:30.869Z",
-    "score": -3,
-    "emailSent": false,
-    "source": "jobicy"
-  },
-  "b03a3f94456f17b5f62da141b07a146b": {
-    "hash": "b03a3f94456f17b5f62da141b07a146b",
-    "firstSeen": "2026-03-04T13:55:30.869Z",
-    "score": -5,
-    "emailSent": false,
-    "source": "reddit"
-  },
   "815af133421ce81a408e5fcba972d283": {
     "hash": "815af133421ce81a408e5fcba972d283",
     "firstSeen": "2026-03-04T14:36:30.056Z",
@@ -24295,5 +24204,19 @@
     "score": -5,
     "emailSent": false,
     "source": "himalayas"
+  },
+  "647d4a147198845aa9bf4516ceb9c19b": {
+    "hash": "647d4a147198845aa9bf4516ceb9c19b",
+    "firstSeen": "2026-04-03T14:01:28.074Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remotive"
+  },
+  "7832c55db7d7701267a64a6f7f4e67a5": {
+    "hash": "7832c55db7d7701267a64a6f7f4e67a5",
+    "firstSeen": "2026-04-03T14:01:28.074Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "hackernews"
   }
 }
