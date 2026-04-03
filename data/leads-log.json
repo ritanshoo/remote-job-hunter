@@ -57845,5 +57845,29 @@
     "url": "https://www.reddit.com/r/forhire/comments/1sb4luh/hiring_looking_for_an_india_based_person_with_a/",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-03T09:49:57.682Z",
+    "title": "Senior Python Backend Engineer - Engineering Role",
+    "company": "Senior Python Backend Engineer",
+    "source": "hackernews",
+    "score": 1,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47624241",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T09:49:57.682Z",
+    "title": "Technical Customer Support Specialist (EU Timezone)",
+    "company": "Crisp",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/crisp-technical-customer-support-specialist-eu-timezone-1",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
