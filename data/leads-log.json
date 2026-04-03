@@ -58363,5 +58363,58 @@
     "url": "https://news.ycombinator.com/item?id=47627006",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-03T16:35:34.188Z",
+    "title": "Call out for Testers on an Accessibility app I have been working on",
+    "company": "",
+    "source": "reddit",
+    "score": 3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1sbf1dk/call_out_for_testers_on_an_accessibility_app_i/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T16:35:34.188Z",
+    "title": "Quick Online Surveys 30min (USA & Europe)",
+    "company": "$300 per 3 Task",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sbhz9t/hiring_300_per_3_task_quick_online_surveys_30min/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($60)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T16:35:34.188Z",
+    "title": "[usa] Simple Paid Survey- $50",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sbbrtl/hiring_usa_simple_paid_survey_50/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($50)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T16:35:34.188Z",
+    "title": "Staff Product Marketing Manager (USA/EMEA - Remote)",
+    "company": "Hospitable.",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/hospitable-staff-product-marketing-manager-usa-emea-remote-1",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($164,000)"
+    ]
   }
 ]

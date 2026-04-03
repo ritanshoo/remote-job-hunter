@@ -1,32 +1,4 @@
 {
-  "f85f8cb43ae76ed898c7360a3ae957bc": {
-    "hash": "f85f8cb43ae76ed898c7360a3ae957bc",
-    "firstSeen": "2026-03-04T15:36:45.041Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "weworkremotely"
-  },
-  "2790c5e47aa3649c8783e7000629e75b": {
-    "hash": "2790c5e47aa3649c8783e7000629e75b",
-    "firstSeen": "2026-03-04T15:36:45.043Z",
-    "score": -5,
-    "emailSent": false,
-    "source": "weworkremotely"
-  },
-  "19159b5633efcc110a5c2d163022d244": {
-    "hash": "19159b5633efcc110a5c2d163022d244",
-    "firstSeen": "2026-03-04T15:36:45.043Z",
-    "score": -5,
-    "emailSent": false,
-    "source": "weworkremotely"
-  },
-  "b28a0e9c76359c39aae9c8f7a03f4680": {
-    "hash": "b28a0e9c76359c39aae9c8f7a03f4680",
-    "firstSeen": "2026-03-04T15:36:45.043Z",
-    "score": -5,
-    "emailSent": false,
-    "source": "weworkremotely"
-  },
   "4b53625509c2a8e7ce26967d5abddc4d": {
     "hash": "4b53625509c2a8e7ce26967d5abddc4d",
     "firstSeen": "2026-03-04T16:39:03.395Z",
@@ -24246,5 +24218,40 @@
     "score": 0,
     "emailSent": false,
     "source": "hackernews"
+  },
+  "815af133421ce81a408e5fcba972d283": {
+    "hash": "815af133421ce81a408e5fcba972d283",
+    "firstSeen": "2026-04-03T16:35:33.625Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "7b033952af46646b4ad8ebd0213febb4": {
+    "hash": "7b033952af46646b4ad8ebd0213febb4",
+    "firstSeen": "2026-04-03T16:35:34.188Z",
+    "score": 3,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "f2498811091c2ac3240760b17fbd8d47": {
+    "hash": "f2498811091c2ac3240760b17fbd8d47",
+    "firstSeen": "2026-04-03T16:35:34.188Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "eeea2367bddc73a6ee206d5e59aa7313": {
+    "hash": "eeea2367bddc73a6ee206d5e59aa7313",
+    "firstSeen": "2026-04-03T16:35:34.188Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "47b551971d5c7a7fa7e3389cd042c66d": {
+    "hash": "47b551971d5c7a7fa7e3389cd042c66d",
+    "firstSeen": "2026-04-03T16:35:34.188Z",
+    "score": -3,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }
