@@ -58429,5 +58429,59 @@
     "matchedKeywords": [
       "+2 salary($60)"
     ]
+  },
+  {
+    "timestamp": "2026-04-03T19:36:02.378Z",
+    "title": "Advice please",
+    "company": "",
+    "source": "reddit",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/webdev/comments/1sbkg27/advice_please/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T19:36:02.379Z",
+    "title": "Green to transparent",
+    "company": "Background replacement for Ui screen",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sblxat/hiring_background_replacement_for_ui_screen_green/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($20,)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T19:36:02.379Z",
+    "title": "Green to transparent",
+    "company": "Background replacement for Ui screen",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sbkzzx/hiring_background_replacement_for_ui_screen_green/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($20,)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T19:36:02.379Z",
+    "title": "MD, DE, NC, or TX",
+    "company": "Lead Software Engineer (IC3)",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sblqwg/hiring_lead_software_engineer_ic3_md_de_nc_or_tx/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 must be authorized to work in the us",
+      "+2 salary($70)"
+    ]
   }
 ]
