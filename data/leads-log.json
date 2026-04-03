@@ -57869,5 +57869,56 @@
     "url": "https://weworkremotely.com/remote-jobs/crisp-technical-customer-support-specialist-eu-timezone-1",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-03T11:34:46.230Z",
+    "title": "I was paying Railway $48/mo for managed Postgres, so I built something to run it on a $6 droplet instead",
+    "company": "",
+    "source": "reddit",
+    "score": 1,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1sb852p/i_was_paying_railway_48mo_for_managed_postgres_so/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 mongodb"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T11:34:46.230Z",
+    "title": "What lesser-known hosting providers do you actually use and recommend?",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1sbau3g/what_lesserknown_hosting_providers_do_you/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-03T11:34:46.230Z",
+    "title": "get paid $90 to $150 for every completed task. all countries eligible",
+    "company": "",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sb98vb/hiring_get_paid_90_to_150_for_every_completed/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($90)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T11:34:46.230Z",
+    "title": "[America/Europe] Need people to work as account managers (Sidehustle) (Remote) (Flexible) 150$+ a week",
+    "company": "",
+    "source": "reddit",
+    "score": -5,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sb9rts/hiringamericaeurope_need_people_to_work_as/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 based in the us"
+    ]
   }
 ]
