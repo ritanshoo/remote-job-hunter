@@ -58416,5 +58416,18 @@
       "-5 intern",
       "+2 salary($164,000)"
     ]
+  },
+  {
+    "timestamp": "2026-04-03T17:30:35.904Z",
+    "title": "Customer Support Engineer",
+    "company": "DownHome Solutions",
+    "source": "weworkremotely",
+    "score": 2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/downhome-solutions-customer-support-engineer-1",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($60)"
+    ]
   }
 ]
