@@ -58323,5 +58323,45 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-03T15:36:33.367Z",
+    "title": "Support Enablement Manager",
+    "company": "Filestage",
+    "source": "weworkremotely",
+    "score": 9,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/filestage-support-enablement-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+2 chatbot",
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T15:36:33.367Z",
+    "title": "Development Operations Support Contractor (Freelance, Remote)",
+    "company": "Accelerate Change",
+    "source": "weworkremotely",
+    "score": 2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/accelerate-change-development-operations-support-contractor-freelance-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($45 - $55)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T15:36:33.367Z",
+    "title": "Technical Co-Founder",
+    "company": "Art Tech Startup (stealth)",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47627006",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
