@@ -57920,5 +57920,408 @@
     "matchedKeywords": [
       "-5 based in the us"
     ]
+  },
+  {
+    "timestamp": "2026-04-03T12:56:07.749Z",
+    "title": "Full Stack Developer",
+    "company": "Invox Medical",
+    "source": "himalayas",
+    "score": 16,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/invox-medical/jobs/full-stack-developer-7716563659",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+2 chatbot",
+      "+1 typescript",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T12:56:08.317Z",
+    "title": "Sr Principal Software Engineer, GenAI",
+    "company": "Blackbaud",
+    "source": "himalayas",
+    "score": 9,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/blackbaud/jobs/sr-principal-software-engineer-genai",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T12:56:08.714Z",
+    "title": "[Job - 28628] Desenvolvedor Java Sênior, Brazil",
+    "company": "CI&T",
+    "source": "himalayas",
+    "score": 7,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/ci-t/jobs/job-28628-desenvolvedor-java-senior-brazil",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node",
+      "+2 ai",
+      "+1 rest api",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T12:56:09.024Z",
+    "title": "Fullstack Engineer with Python and React - Latin America, Remote position",
+    "company": "Bluelight Consulting",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/bluelightconsulting/jobs/fullstack-engineer-with-python-and-react-latin-america-remote-position-2069543247",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+3 react"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T12:56:09.298Z",
+    "title": "Relationship Lead",
+    "company": "Packt",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/packt/jobs/relationship-lead-8775096920",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T12:56:09.587Z",
+    "title": "CRM Marketing Automation Developer",
+    "company": "GoodRx",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/goodrx-com/jobs/crm-marketing-automation-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T12:56:09.866Z",
+    "title": "CRM Marketing Automation Developer",
+    "company": "GoodRx",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/goodrx-com/jobs/crm-marketing-automation-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T12:56:10.177Z",
+    "title": "QA Engineer",
+    "company": "mFax.io",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/mfax-io/jobs/qa-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T12:56:10.177Z",
+    "title": "French Speakers -  Test Voice Modes of AI Models",
+    "company": "Productive Playhouse",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/productive-playhouse/jobs/french-speakers-test-voice-modes-of-ai-models",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 chatbot",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T12:56:10.177Z",
+    "title": "Senior TypeScript/Vue.js Developer (Swedish Ad Platform)",
+    "company": "Sigma Software",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sigma-software-e561c036-16e4-4b2c-aa28-a33af9f3750b/jobs/senior-typescript-vue-js-developer-swedish-ad-platform-1596267200",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "+1 typescript",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T12:56:10.177Z",
+    "title": "Service Specialist II T&O",
+    "company": "BMO",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bmo/jobs/service-specialist-ii-t-o",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T12:56:10.177Z",
+    "title": "Wastewater Engineer / Project Manager",
+    "company": "Short Elliott Hendrickson, Inc",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/short-elliott-hendrickson-inc/jobs/wastewater-engineer-project-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T12:56:10.177Z",
+    "title": "Senior Software Development Engineer",
+    "company": "CSG",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/csg/jobs/senior-software-development-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T12:56:10.177Z",
+    "title": "Software Engineering Manager, Sodatone",
+    "company": "Warner Music Group",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/warner-music-group/jobs/software-engineering-manager-sodatone",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T12:56:10.177Z",
+    "title": "Software Engineer (Mid level - Clearance Required) - (US - Remote)",
+    "company": "ICF",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/icf/jobs/software-engineer-mid-level-clearance-required-us-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 javascript",
+      "+1 aws",
+      "-5 must reside in the united states",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T12:56:10.177Z",
+    "title": "AI Engineer + Data Engineer",
+    "company": "Enroute",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/enroute/jobs/ai-engineer-data-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T12:56:10.177Z",
+    "title": "Software QA Engineer Mgr (US, Remote)",
+    "company": "Arthrex",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/arthrex/jobs/software-qa-engineer-mgr-us-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T12:56:10.177Z",
+    "title": "Principal Electrical Engineer - SlingWorks",
+    "company": "Elbit America",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/elbit-america/jobs/principal-electrical-engineer-slingworks",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T12:56:10.177Z",
+    "title": "Senior SDET (Java/Angular - Playwright)",
+    "company": "3Pillar Global",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/3pillar-global/jobs/senior-sdet-java-angular-playwright-1999617488",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T12:56:10.177Z",
+    "title": "Senior Architect, Artificial Intelligence Security - AI Implementation  - Remote",
+    "company": "Molina Healthcare",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/molina-healthcare/jobs/senior-architect-artificial-intelligence-security-ai-implementation-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T12:56:10.177Z",
+    "title": "Senior Security Engineer, India (Remote, Full-Time) [AS219]",
+    "company": "Smart Working",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/smart-working/jobs/senior-security-engineer-india-remote-full-time-as219",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-03T12:56:10.177Z",
+    "title": "Solution Sales Executive - Product Stewardship",
+    "company": "Sphera",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sphera/jobs/solution-sales-executive-product-stewardship",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-03T12:56:10.177Z",
+    "title": "Windows Operating System Expert :in (all gender)",
+    "company": "ALTEN",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/alten/jobs/windows-operating-system-expert-in-all-gender",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-03T12:56:10.177Z",
+    "title": "Senior Systems Data Analyst",
+    "company": "200510503Z Thermo Fisher Scientific Pte. Ltd.",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/200510503z-thermo-fisher-scientific-pte-ltd/jobs/senior-systems-data-analyst",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-03T12:56:10.177Z",
+    "title": "Actuarial and Data Science Model Validation",
+    "company": "The Hartford",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/the-hartford/jobs/actuarial-and-data-science-model-validation",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T12:56:10.178Z",
+    "title": "Actuarial and Data Science Model Validation",
+    "company": "The Hartford",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/the-hartford/jobs/actuarial-and-data-science-model-validation",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T12:56:10.178Z",
+    "title": "Software Architect",
+    "company": "EnergyHub",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/energyhub/jobs/software-architect",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T12:56:10.178Z",
+    "title": "Live Sports Content Operator",
+    "company": "Storyteller",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/storyteller/jobs/live-sports-content-operator",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T12:56:10.178Z",
+    "title": "VoIP Network Engineer",
+    "company": "Pavago",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pavago/jobs/voip-network-engineer-7721002127",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
