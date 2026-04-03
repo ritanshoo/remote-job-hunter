@@ -58483,5 +58483,32 @@
       "-5 must be authorized to work in the us",
       "+2 salary($70)"
     ]
+  },
+  {
+    "timestamp": "2026-04-03T20:31:36.442Z",
+    "title": "Staff Product Designer, Platform",
+    "company": "Boulevard",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/boulevard-staff-product-designer-platform",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 express",
+      "-5 intern",
+      "+2 salary($128,800)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-03T20:31:36.443Z",
+    "title": "Staff Software Engineer",
+    "company": "Pomelo Care",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47631468",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
