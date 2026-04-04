@@ -58576,5 +58576,23 @@
     "url": "https://www.reddit.com/r/forhire/comments/1sbrjvz/hiring_online_i_need_a_consumer_and_a_company/",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-04T01:52:05.725Z",
+    "title": "Lead Platform Engineer",
+    "company": "BioLM",
+    "source": "hackernews",
+    "score": 13,
+    "priority": "high",
+    "url": "https://news.ycombinator.com/item?id=47634597",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+2 ai",
+      "+1 aws",
+      "+1 docker"
+    ]
   }
 ]
