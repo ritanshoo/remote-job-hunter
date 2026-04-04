@@ -1,67 +1,4 @@
 {
-  "d572b2573dad4f5c34996c27e925cb48": {
-    "hash": "d572b2573dad4f5c34996c27e925cb48",
-    "firstSeen": "2026-03-05T12:52:55.266Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "936cf3c644bf4bd5898ef6def5ded8a8": {
-    "hash": "936cf3c644bf4bd5898ef6def5ded8a8",
-    "firstSeen": "2026-03-05T12:52:55.266Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "f8737bb8d6905555b53009d82cb50a28": {
-    "hash": "f8737bb8d6905555b53009d82cb50a28",
-    "firstSeen": "2026-03-05T12:52:55.266Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "7b20579ebe3d35cf49f96abafd3bb1e6": {
-    "hash": "7b20579ebe3d35cf49f96abafd3bb1e6",
-    "firstSeen": "2026-03-05T12:52:55.266Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "72c6f4c02d3be97ef64e678443c312c0": {
-    "hash": "72c6f4c02d3be97ef64e678443c312c0",
-    "firstSeen": "2026-03-05T12:52:55.266Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "6688370e4a88a6db3f61de5e68a78092": {
-    "hash": "6688370e4a88a6db3f61de5e68a78092",
-    "firstSeen": "2026-03-05T12:52:55.266Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "f9888394f79f764e893acf3e2e225957": {
-    "hash": "f9888394f79f764e893acf3e2e225957",
-    "firstSeen": "2026-03-05T12:52:55.266Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "cb456d0ea177b62f6c883ebe0ed73116": {
-    "hash": "cb456d0ea177b62f6c883ebe0ed73116",
-    "firstSeen": "2026-03-05T12:52:55.266Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "d706841f2c6a676c57a5185dcd1cd991": {
-    "hash": "d706841f2c6a676c57a5185dcd1cd991",
-    "firstSeen": "2026-03-05T12:52:55.266Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "hackernews"
-  },
   "fdf40313fb2e5e177e2efcc0f4d63341": {
     "hash": "fdf40313fb2e5e177e2efcc0f4d63341",
     "firstSeen": "2026-03-05T13:59:35.235Z",
@@ -23833,5 +23770,26 @@
     "score": 0,
     "emailSent": false,
     "source": "weworkremotely"
+  },
+  "746f85cfc3410d1c00d3f0427c0f77c2": {
+    "hash": "746f85cfc3410d1c00d3f0427c0f77c2",
+    "firstSeen": "2026-04-04T13:50:34.342Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "48df1081fd98596259484ec9776dc27b": {
+    "hash": "48df1081fd98596259484ec9776dc27b",
+    "firstSeen": "2026-04-04T13:50:34.343Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "0a0d1ff688cbcaf63299953c1a39ba36": {
+    "hash": "0a0d1ff688cbcaf63299953c1a39ba36",
+    "firstSeen": "2026-04-04T13:50:34.343Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
   }
 }
