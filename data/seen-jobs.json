@@ -1,123 +1,4 @@
 {
-  "c0f30074846a15edd563b0406ece3231": {
-    "hash": "c0f30074846a15edd563b0406ece3231",
-    "firstSeen": "2026-03-05T04:09:54.091Z",
-    "score": 2,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "c480eae649ea77a966571a25350dd45e": {
-    "hash": "c480eae649ea77a966571a25350dd45e",
-    "firstSeen": "2026-03-05T04:09:54.091Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "09ce093c3f49c4b18e92948fa8202169": {
-    "hash": "09ce093c3f49c4b18e92948fa8202169",
-    "firstSeen": "2026-03-05T04:09:54.091Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "80206bbf2673184d99a100377ec1923c": {
-    "hash": "80206bbf2673184d99a100377ec1923c",
-    "firstSeen": "2026-03-05T04:09:54.091Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "68c3345b020a2f79392780c2a46af346": {
-    "hash": "68c3345b020a2f79392780c2a46af346",
-    "firstSeen": "2026-03-05T04:09:54.091Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "2e7310dc2630babf9550f44ca978bcbf": {
-    "hash": "2e7310dc2630babf9550f44ca978bcbf",
-    "firstSeen": "2026-03-05T04:09:54.091Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "ede273eb992d3da0e1ee4195e222e34f": {
-    "hash": "ede273eb992d3da0e1ee4195e222e34f",
-    "firstSeen": "2026-03-05T04:09:54.091Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "9610b7334663d69cbfbbd6ed3cd6a9e5": {
-    "hash": "9610b7334663d69cbfbbd6ed3cd6a9e5",
-    "firstSeen": "2026-03-05T04:09:54.091Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "2177584a9235a8591bc42ea06b1b5d3b": {
-    "hash": "2177584a9235a8591bc42ea06b1b5d3b",
-    "firstSeen": "2026-03-05T04:09:54.091Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "c93ac4810e7d56f9cf4283d0daad3c8c": {
-    "hash": "c93ac4810e7d56f9cf4283d0daad3c8c",
-    "firstSeen": "2026-03-05T04:09:54.091Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "89591b5b3349f35c34b76bbb71dcba2b": {
-    "hash": "89591b5b3349f35c34b76bbb71dcba2b",
-    "firstSeen": "2026-03-05T04:09:54.091Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "6db4ad0cc757726931b28c48a86f91d1": {
-    "hash": "6db4ad0cc757726931b28c48a86f91d1",
-    "firstSeen": "2026-03-05T04:09:54.091Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "783a7987594c9f78e204e5d31f0cb943": {
-    "hash": "783a7987594c9f78e204e5d31f0cb943",
-    "firstSeen": "2026-03-05T04:09:54.091Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "80dcefa7f65e0f4d007d4d2238804944": {
-    "hash": "80dcefa7f65e0f4d007d4d2238804944",
-    "firstSeen": "2026-03-05T04:09:54.091Z",
-    "score": -2,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "378722e121fcd25ec2076d69b1c27702": {
-    "hash": "378722e121fcd25ec2076d69b1c27702",
-    "firstSeen": "2026-03-05T04:09:54.092Z",
-    "score": -3,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "a3649b158e1089b05091d531e7cad4a1": {
-    "hash": "a3649b158e1089b05091d531e7cad4a1",
-    "firstSeen": "2026-03-05T04:09:54.092Z",
-    "score": -10,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "da91331870f887531ba4859d86edd06a": {
-    "hash": "da91331870f887531ba4859d86edd06a",
-    "firstSeen": "2026-03-05T04:09:54.092Z",
-    "score": -10,
-    "emailSent": false,
-    "source": "himalayas"
-  },
   "dbc31727cd276096fae427b52a2c7841": {
     "hash": "dbc31727cd276096fae427b52a2c7841",
     "firstSeen": "2026-03-05T06:46:05.989Z",
@@ -23735,5 +23616,194 @@
     "score": 13,
     "emailSent": false,
     "source": "hackernews"
+  },
+  "3eaa3cf122a1fad8ae9a83deb40d7cde": {
+    "hash": "3eaa3cf122a1fad8ae9a83deb40d7cde",
+    "firstSeen": "2026-04-04T04:14:12.694Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "bfb7c55b763b6786f20e230c0365a27b": {
+    "hash": "bfb7c55b763b6786f20e230c0365a27b",
+    "firstSeen": "2026-04-04T04:14:14.624Z",
+    "score": 15,
+    "emailSent": false,
+    "source": "himalayas"
+  },
+  "83bb3850bb3a2a4eda8bcfbdf7402d1c": {
+    "hash": "83bb3850bb3a2a4eda8bcfbdf7402d1c",
+    "firstSeen": "2026-04-04T04:14:15.133Z",
+    "score": 7,
+    "emailSent": false,
+    "source": "himalayas"
+  },
+  "8558176ee82efd5f7ee6466939ad8fc6": {
+    "hash": "8558176ee82efd5f7ee6466939ad8fc6",
+    "firstSeen": "2026-04-04T04:14:15.439Z",
+    "score": 6,
+    "emailSent": false,
+    "source": "himalayas"
+  },
+  "ade557284b67e350c73a0edf4997b52e": {
+    "hash": "ade557284b67e350c73a0edf4997b52e",
+    "firstSeen": "2026-04-04T04:14:15.736Z",
+    "score": 5,
+    "emailSent": false,
+    "source": "himalayas"
+  },
+  "9a8a843f7518e7a149499019140abace": {
+    "hash": "9a8a843f7518e7a149499019140abace",
+    "firstSeen": "2026-04-04T04:14:16.033Z",
+    "score": 5,
+    "emailSent": false,
+    "source": "himalayas"
+  },
+  "e74060cb86a52f088f44df6f081762ff": {
+    "hash": "e74060cb86a52f088f44df6f081762ff",
+    "firstSeen": "2026-04-04T04:14:16.330Z",
+    "score": 4,
+    "emailSent": false,
+    "source": "himalayas"
+  },
+  "70bbe0a8281c42a4fd5f80d43b9d6bf2": {
+    "hash": "70bbe0a8281c42a4fd5f80d43b9d6bf2",
+    "firstSeen": "2026-04-04T04:14:16.626Z",
+    "score": 4,
+    "emailSent": false,
+    "source": "himalayas"
+  },
+  "ed4f2514a35c0f2af15e33a1d24e1660": {
+    "hash": "ed4f2514a35c0f2af15e33a1d24e1660",
+    "firstSeen": "2026-04-04T04:14:16.626Z",
+    "score": 3,
+    "emailSent": false,
+    "source": "himalayas"
+  },
+  "1d52ef4334b4d3d97ca8ccc7c92db43d": {
+    "hash": "1d52ef4334b4d3d97ca8ccc7c92db43d",
+    "firstSeen": "2026-04-04T04:14:16.626Z",
+    "score": 3,
+    "emailSent": false,
+    "source": "himalayas"
+  },
+  "c7595f78594477a271a6b4e252928eaa": {
+    "hash": "c7595f78594477a271a6b4e252928eaa",
+    "firstSeen": "2026-04-04T04:14:16.626Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "himalayas"
+  },
+  "65a67c89710d140ed451933cb803daed": {
+    "hash": "65a67c89710d140ed451933cb803daed",
+    "firstSeen": "2026-04-04T04:14:16.626Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "himalayas"
+  },
+  "04a535619b83fd49a5429ad0ffe1e92c": {
+    "hash": "04a535619b83fd49a5429ad0ffe1e92c",
+    "firstSeen": "2026-04-04T04:14:16.626Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "himalayas"
+  },
+  "deb9d0649ef0bb062533fae3739d0f11": {
+    "hash": "deb9d0649ef0bb062533fae3739d0f11",
+    "firstSeen": "2026-04-04T04:14:16.626Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "himalayas"
+  },
+  "53666eae573f8974c18053489b031ec8": {
+    "hash": "53666eae573f8974c18053489b031ec8",
+    "firstSeen": "2026-04-04T04:14:16.626Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "himalayas"
+  },
+  "5411ed92cd7d48a239268a81a41977c7": {
+    "hash": "5411ed92cd7d48a239268a81a41977c7",
+    "firstSeen": "2026-04-04T04:14:16.626Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "himalayas"
+  },
+  "11ed5507bacde72e3566c1198b57fc0f": {
+    "hash": "11ed5507bacde72e3566c1198b57fc0f",
+    "firstSeen": "2026-04-04T04:14:16.626Z",
+    "score": 1,
+    "emailSent": false,
+    "source": "himalayas"
+  },
+  "9caf3f59acd331ab21681878a90b407d": {
+    "hash": "9caf3f59acd331ab21681878a90b407d",
+    "firstSeen": "2026-04-04T04:14:16.626Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "himalayas"
+  },
+  "ee4fa9e56807aa9fd8a222e3b72d1875": {
+    "hash": "ee4fa9e56807aa9fd8a222e3b72d1875",
+    "firstSeen": "2026-04-04T04:14:16.626Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "himalayas"
+  },
+  "936f26faa6d32ddc92ad19386f72f1b1": {
+    "hash": "936f26faa6d32ddc92ad19386f72f1b1",
+    "firstSeen": "2026-04-04T04:14:16.626Z",
+    "score": -1,
+    "emailSent": false,
+    "source": "himalayas"
+  },
+  "7fc77d3631773fe22e71b818f85ae6b7": {
+    "hash": "7fc77d3631773fe22e71b818f85ae6b7",
+    "firstSeen": "2026-04-04T04:14:16.626Z",
+    "score": -2,
+    "emailSent": false,
+    "source": "himalayas"
+  },
+  "b41d5af990428a7286b0ab1ef1193953": {
+    "hash": "b41d5af990428a7286b0ab1ef1193953",
+    "firstSeen": "2026-04-04T04:14:16.626Z",
+    "score": -2,
+    "emailSent": false,
+    "source": "himalayas"
+  },
+  "318f15b20ce5a9a47af225ada8d8b1c7": {
+    "hash": "318f15b20ce5a9a47af225ada8d8b1c7",
+    "firstSeen": "2026-04-04T04:14:16.626Z",
+    "score": -3,
+    "emailSent": false,
+    "source": "himalayas"
+  },
+  "032181b3bd5884c7a5c37430a2857618": {
+    "hash": "032181b3bd5884c7a5c37430a2857618",
+    "firstSeen": "2026-04-04T04:14:16.626Z",
+    "score": -3,
+    "emailSent": false,
+    "source": "himalayas"
+  },
+  "b59a1091b2b2da4c1815fdd94bd618dc": {
+    "hash": "b59a1091b2b2da4c1815fdd94bd618dc",
+    "firstSeen": "2026-04-04T04:14:16.626Z",
+    "score": -3,
+    "emailSent": false,
+    "source": "himalayas"
+  },
+  "1093fd1784e1b12f08006be1c9980f91": {
+    "hash": "1093fd1784e1b12f08006be1c9980f91",
+    "firstSeen": "2026-04-04T04:14:16.626Z",
+    "score": -4,
+    "emailSent": false,
+    "source": "himalayas"
+  },
+  "807e6f5031732175d82ca06d2f9a0702": {
+    "hash": "807e6f5031732175d82ca06d2f9a0702",
+    "firstSeen": "2026-04-04T04:14:16.626Z",
+    "score": -5,
+    "emailSent": false,
+    "source": "himalayas"
   }
 }

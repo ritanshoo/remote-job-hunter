@@ -58594,5 +58594,366 @@
       "+1 aws",
       "+1 docker"
     ]
+  },
+  {
+    "timestamp": "2026-04-04T04:14:14.624Z",
+    "title": "Senior Blockchain Engineer - Rust/Solana",
+    "company": "MetaWealth",
+    "source": "himalayas",
+    "score": 15,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/metawealth/jobs/senior-blockchain-engineer-rust-solana-8222736649",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node.js",
+      "+3 node",
+      "+2 blockchain",
+      "+2 solana",
+      "+2 ai",
+      "+1 postgresql",
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-04T04:14:15.133Z",
+    "title": "JAVA Developer",
+    "company": "Govcio LLC",
+    "source": "himalayas",
+    "score": 7,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/govcio-llc/jobs/java-developer-2418584778",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 rest api",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-04T04:14:15.439Z",
+    "title": "Full Stack Web Developer ( Front End focus)",
+    "company": "Anaconda",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/anaconda/jobs/full-stack-web-developer-front-end-focus-547492716",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+2 ai",
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-04T04:14:15.736Z",
+    "title": "ServiceNow Lead",
+    "company": "Peraton",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/peraton/jobs/servicenow-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-04T04:14:16.033Z",
+    "title": "Full Stack Principal Application Developer",
+    "company": "RTX",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/rtx/jobs/full-stack-principal-application-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-04T04:14:16.330Z",
+    "title": "Technical Support Engineer - 11376",
+    "company": "Coupa Software, Inc.",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/coupa-software-inc/jobs/technical-support-engineer-11376",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-04T04:14:16.626Z",
+    "title": "Machine Learning Evaluation Specialist",
+    "company": "G2i",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/g2i/jobs/machine-learning-evaluation-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-04T04:14:16.626Z",
+    "title": "Engineering Manager, Console",
+    "company": "Twelve Labs",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/twelve-labs/jobs/engineering-manager-console",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack"
+    ]
+  },
+  {
+    "timestamp": "2026-04-04T04:14:16.626Z",
+    "title": "Team lead R&D",
+    "company": "Harris",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/harris/jobs/team-lead-r-d-4507961367",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react"
+    ]
+  },
+  {
+    "timestamp": "2026-04-04T04:14:16.626Z",
+    "title": "Salesforce Developer",
+    "company": "Lyra Health",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/lyra-health/jobs/salesforce-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-04T04:14:16.626Z",
+    "title": "AI Software Engineer",
+    "company": "Cleveland Clinic",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cleveland-clinic/jobs/ai-software-engineer-2344703233",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-04T04:14:16.626Z",
+    "title": "Director Business Intelligence",
+    "company": "Highmark Health",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/highmark-health/jobs/director-business-intelligence",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-04T04:14:16.626Z",
+    "title": "AI Analytics Specialist",
+    "company": "Travel + Leisure Co.",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/travel-leisure-co/jobs/ai-analytics-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-04T04:14:16.626Z",
+    "title": "General Arrangements & Habitability Engineer",
+    "company": "ManTech",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mantech/jobs/general-arrangements-habitability-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-04T04:14:16.626Z",
+    "title": "Principal Machine Learning Engineer",
+    "company": "Sezzle",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sezzle/jobs/principal-machine-learning-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-04T04:14:16.626Z",
+    "title": "Backend Engineer",
+    "company": "MoonPay",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/moonpay/jobs/backend-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-04T04:14:16.626Z",
+    "title": "Manager, Enterprise Technical Sales",
+    "company": "Autodesk",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/autodesk/jobs/manager-enterprise-technical-sales",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-04T04:14:16.626Z",
+    "title": "Senior Solutions Engineer (Presales, Asia)",
+    "company": "iManage",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/imanage/jobs/senior-solutions-engineer-presales-asia",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-04T04:14:16.626Z",
+    "title": "Sr. Enterprise Security Engineer",
+    "company": "Databricks",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/databricks/jobs/sr-enterprise-security-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-04T04:14:16.626Z",
+    "title": "Senior Golang Engineer",
+    "company": "Globaldev Group",
+    "source": "himalayas",
+    "score": -2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/globaldev-group/jobs/senior-golang-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-04T04:14:16.626Z",
+    "title": "Frontend Splunk Engineer",
+    "company": "Peraton",
+    "source": "himalayas",
+    "score": -2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/peraton/jobs/frontend-splunk-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 rest api",
+      "-5 junior",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-04T04:14:16.626Z",
+    "title": "Cloud Service Engineer (m/w/d)",
+    "company": "glueckkanja AG",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/glueckkanja-ag/jobs/cloud-service-engineer-m-w-d",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-04T04:14:16.626Z",
+    "title": "Sr. Medical Quality Auditor Risk Adjustment",
+    "company": "Florida Blue",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/florida-blue/jobs/sr-medical-quality-auditor-risk-adjustment",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-04T04:14:16.626Z",
+    "title": "IT Engineer (Contractor)",
+    "company": "Typeform",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/typeform/jobs/it-engineer-contractor",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-04T04:14:16.626Z",
+    "title": "Observability Solutions Consultant",
+    "company": "Logicalis Spain",
+    "source": "himalayas",
+    "score": -4,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/logicalis-com/jobs/observability-solutions-consultant",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-04T04:14:16.626Z",
+    "title": "Master Security Architect",
+    "company": "Hitachi",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/hitachi/jobs/master-security-architect",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
