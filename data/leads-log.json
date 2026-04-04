@@ -59387,5 +59387,94 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-04T19:28:13.183Z",
+    "title": "Shopify Ecommerce Manager for New Anime Merch Store in USA",
+    "company": "",
+    "source": "reddit",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/forhire/comments/1sci4ej/hiring_shopify_ecommerce_manager_for_new_anime/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+2 salary($20 – $50)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-04T19:28:13.183Z",
+    "title": "$50",
+    "company": "Someone to build a typeform survey",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sccgoy/hiring_someone_to_build_a_typeform_survey_50/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($50)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-04T19:28:13.183Z",
+    "title": "looking for architecture feedback",
+    "company": "I built a self-hosted affiliate tracking engine (AGPL-3.0)",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1sci402/i_built_a_selfhosted_affiliate_tracking_engine/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 postgresql",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-04T19:28:13.183Z",
+    "title": "Commission-Based Sales Partner for Web Dev Agency 💰",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1scdlp9/hiring_commissionbased_sales_partner_for_web_dev/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-04T19:28:13.183Z",
+    "title": "Built an online trivia platform (looking for feedback)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1scgy1l/built_an_online_trivia_platform_looking_for/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-04T19:28:13.183Z",
+    "title": "I built a Pokémon naming game with duel + co-op modes (looking for feedback)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1scd0bo/i_built_a_pokémon_naming_game_with_duel_coop/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-04T19:28:13.183Z",
+    "title": "I built a curated gallery for the best 3D interactive websites on the internet",
+    "company": "",
+    "source": "reddit",
+    "score": -2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1scdv42/i_built_a_curated_gallery_for_the_best_3d/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 next.js",
+      "-5 intern"
+    ]
   }
 ]
