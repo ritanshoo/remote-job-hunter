@@ -23847,5 +23847,12 @@
     "score": -5,
     "emailSent": false,
     "source": "reddit"
+  },
+  "dbc31727cd276096fae427b52a2c7841": {
+    "hash": "dbc31727cd276096fae427b52a2c7841",
+    "firstSeen": "2026-04-04T07:47:39.480Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "jobicy"
   }
 }
