@@ -59489,5 +59489,57 @@
     "matchedKeywords": [
       "+2 automation"
     ]
+  },
+  {
+    "timestamp": "2026-04-04T22:25:57.815Z",
+    "title": "I built a modern React SaaS dashboard, looking for feedback",
+    "company": "",
+    "source": "reddit",
+    "score": 3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1scijsd/i_built_a_modern_react_saas_dashboard_looking_for/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react"
+    ]
+  },
+  {
+    "timestamp": "2026-04-04T22:25:57.815Z",
+    "title": "I need someone for $100-$500 task, USA, Germany and Australia only.",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1scm6o7/hiring_i_need_someone_for_100500_task_usa_germany/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($100-$500)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-04T22:25:57.815Z",
+    "title": "Need CAD + electronics help (Raspberry Pi / PCB) – small paid projects ($30–$75)",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1scjubh/hiring_need_cad_electronics_help_raspberry_pi_pcb/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($30–$75)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-04T22:25:57.815Z",
+    "title": "U.S. Remote Participants – Company Computer Provided – $1000 Bi- weekly",
+    "company": "",
+    "source": "reddit",
+    "score": -5,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sckac2/hiring_us_remote_participants_company_computer/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
