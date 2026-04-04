@@ -59040,5 +59040,24 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-04T10:29:27.554Z",
+    "title": "Barcelona, Spain",
+    "company": "Ploid AI",
+    "source": "hackernews",
+    "score": -2,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47637465",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 rag",
+      "+1 typescript",
+      "+1 aws",
+      "-5 intern",
+      "-5 internship"
+    ]
   }
 ]

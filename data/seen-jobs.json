@@ -1,25 +1,4 @@
 {
-  "827b1e12d5cb9632333053d5aebf9f5f": {
-    "hash": "827b1e12d5cb9632333053d5aebf9f5f",
-    "firstSeen": "2026-03-05T09:38:56.861Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "remoteok"
-  },
-  "5d3e83bf394fa0253c7c45e004439c32": {
-    "hash": "5d3e83bf394fa0253c7c45e004439c32",
-    "firstSeen": "2026-03-05T09:38:56.863Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "hackernews"
-  },
-  "e92360b97a93dcae07124a3ae95d4aa4": {
-    "hash": "e92360b97a93dcae07124a3ae95d4aa4",
-    "firstSeen": "2026-03-05T09:38:56.863Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "hackernews"
-  },
   "7b36f358882f14d5dc0a66b52c437cef": {
     "hash": "7b36f358882f14d5dc0a66b52c437cef",
     "firstSeen": "2026-03-05T10:35:24.220Z",
@@ -23854,5 +23833,12 @@
     "score": 0,
     "emailSent": false,
     "source": "jobicy"
+  },
+  "5efb56e32b94e660493c6f6553e7b4a3": {
+    "hash": "5efb56e32b94e660493c6f6553e7b4a3",
+    "firstSeen": "2026-04-04T10:29:27.554Z",
+    "score": -2,
+    "emailSent": false,
+    "source": "hackernews"
   }
 }
