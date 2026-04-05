@@ -60016,5 +60016,32 @@
     "url": "https://news.ycombinator.com/item?id=47649165",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-05T15:28:10.239Z",
+    "title": "Remote",
+    "company": "Data Modeler (GCP & Analytics) FHIR Datasets",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sd3h0w/hiring_data_modeler_gcp_analytics_fhir_datasets/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($60/Hr)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T15:28:10.239Z",
+    "title": ".NET Engineer Roles",
+    "company": "Kredit",
+    "source": "hackernews",
+    "score": -4,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47649882",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 postgresql",
+      "-5 intern"
+    ]
   }
 ]
