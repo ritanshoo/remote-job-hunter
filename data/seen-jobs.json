@@ -1,25 +1,4 @@
 {
-  "50932b44fd89a24440a883a735bdc08a": {
-    "hash": "50932b44fd89a24440a883a735bdc08a",
-    "firstSeen": "2026-03-06T11:25:29.647Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "remoteok"
-  },
-  "b801fec0565b12e5c1dc68e6fd205a28": {
-    "hash": "b801fec0565b12e5c1dc68e6fd205a28",
-    "firstSeen": "2026-03-06T11:25:29.647Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "remotive"
-  },
-  "6fdd47a0a4779ecbe588fd32fa59e30a": {
-    "hash": "6fdd47a0a4779ecbe588fd32fa59e30a",
-    "firstSeen": "2026-03-06T11:25:29.649Z",
-    "score": -1,
-    "emailSent": false,
-    "source": "weworkremotely"
-  },
   "cdd551692a4d3619d2f500a3242f9e06": {
     "hash": "cdd551692a4d3619d2f500a3242f9e06",
     "firstSeen": "2026-03-06T12:45:37.363Z",
@@ -23833,5 +23812,19 @@
     "score": -5,
     "emailSent": false,
     "source": "himalayas"
+  },
+  "a330d980fc6ecdae494dfc7d54a5e4bf": {
+    "hash": "a330d980fc6ecdae494dfc7d54a5e4bf",
+    "firstSeen": "2026-04-05T11:26:46.343Z",
+    "score": 5,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "673197214fb035cce652d7463312a8c9": {
+    "hash": "673197214fb035cce652d7463312a8c9",
+    "firstSeen": "2026-04-05T11:26:46.346Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
   }
 }

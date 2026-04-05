@@ -59980,5 +59980,30 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-05T11:26:46.343Z",
+    "title": "ugc content shoot -$150 USA based",
+    "company": "",
+    "source": "reddit",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/forhire/comments/1sd16rr/hiring_ugc_content_shoot_150_usa_based/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 salary($150)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T11:26:46.346Z",
+    "title": "Quant etc 500k/Year",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sd03jm/hiring_quant_etc_500kyear/",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
