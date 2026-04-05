@@ -1,25 +1,4 @@
 {
-  "e2eff5c51edf0a2a30ba9441420247e6": {
-    "hash": "e2eff5c51edf0a2a30ba9441420247e6",
-    "firstSeen": "2026-03-06T17:31:55.841Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "jobicy"
-  },
-  "27e1a2d41dc761a8a8d0a1684734eece": {
-    "hash": "27e1a2d41dc761a8a8d0a1684734eece",
-    "firstSeen": "2026-03-06T17:31:55.841Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "hackernews"
-  },
-  "0083e48dabe187ba4d509ae9bd821527": {
-    "hash": "0083e48dabe187ba4d509ae9bd821527",
-    "firstSeen": "2026-03-06T17:31:55.841Z",
-    "score": -3,
-    "emailSent": false,
-    "source": "jobicy"
-  },
   "5fe5bef11a24f7df9d47f97e1b669e17": {
     "hash": "5fe5bef11a24f7df9d47f97e1b669e17",
     "firstSeen": "2026-03-06T18:38:53.731Z",
