@@ -60057,5 +60057,33 @@
       "+2 ai",
       "+2 salary($36,000)"
     ]
+  },
+  {
+    "timestamp": "2026-04-05T21:28:05.174Z",
+    "title": "Product Designer | Growth",
+    "company": "8am",
+    "source": "weworkremotely",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/8am-product-designer-growth",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary($120,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T21:28:05.174Z",
+    "title": "Staff Product Manager, Link Consumer Product",
+    "company": "Stripe",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/stripe-staff-product-manager-link-consumer-product",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
   }
 ]
