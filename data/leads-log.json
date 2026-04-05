@@ -60085,5 +60085,328 @@
       "+2 ai",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-05T22:27:09.774Z",
+    "title": "Cybersecurity Software Engineer",
+    "company": "Arista Networks",
+    "source": "himalayas",
+    "score": 12,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/arista-networks/jobs/cybersecurity-software-engineer-9082757293",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+2 automation",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 postgresql",
+      "+1 aws",
+      "+1 express",
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T22:27:10.374Z",
+    "title": "Product Engineer",
+    "company": "Teamified",
+    "source": "himalayas",
+    "score": 7,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/teamified/jobs/product-engineer-895090500",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 langchain",
+      "+2 rag",
+      "+1 mongodb"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T22:27:10.705Z",
+    "title": "Sr Strategic Account Manager, Major US Telco",
+    "company": "Red Hat",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/red-hat/jobs/sr-strategic-account-manager-major-us-telco",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T22:27:11.029Z",
+    "title": "Senior Virtual Desktop Engineer",
+    "company": "Govcio LLC",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/govcio-llc/jobs/senior-virtual-desktop-engineer-143719059",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T22:27:11.349Z",
+    "title": "Software Dev Engr Sr",
+    "company": "CSG",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/csg/jobs/software-dev-engr-sr",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T22:27:11.670Z",
+    "title": "Principal Infrastructure Engineer",
+    "company": "Voxel51",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/voxel51/jobs/principal-infrastructure-engineer-1370666586",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T22:27:11.670Z",
+    "title": "Software Developer w Angular - Full Stack ( remote )",
+    "company": "AssistRx",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/assistrx/jobs/software-developer-w-angular-full-stack-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T22:27:11.670Z",
+    "title": "Principal Engineer, Healthcare",
+    "company": "Inmar Intelligence",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/inmar-intelligence/jobs/principal-engineer-healthcare",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 docker",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T22:27:11.670Z",
+    "title": "Fire Protection/Plumbing Engineer III",
+    "company": "DLB Associates",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/dlb-associates/jobs/fire-protection-plumbing-engineer-iii",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T22:27:11.670Z",
+    "title": "Application Security Engineer",
+    "company": "Palantir Technologies",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/palantir-technologies/jobs/application-security-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T22:27:11.670Z",
+    "title": "Virtualization Backup Engineer (French Speaker)",
+    "company": "Veeam Software",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/veeam-software/jobs/virtualization-backup-engineer-french-speaker-2314339298",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T22:27:11.670Z",
+    "title": "Mid Market Account Executive",
+    "company": "BlueCat Networks",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bluecat-networks/jobs/mid-market-account-executive",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T22:27:11.670Z",
+    "title": "Senior Project Manager - Mobile",
+    "company": "360Learning",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/360learning/jobs/senior-project-manager-mobile",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T22:27:11.670Z",
+    "title": "Staff Site Reliability Engineer - Cloud",
+    "company": "Trimble",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/trimble/jobs/staff-site-reliability-engineer-cloud",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T22:27:11.670Z",
+    "title": "Inside Sales Representative – Laboratory Informatics & Automation Solutions",
+    "company": "200510503Z Thermo Fisher Scientific Pte. Ltd.",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/200510503z-thermo-fisher-scientific-pte-ltd/jobs/inside-sales-representative-laboratory-informatics-automation-solutions",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T22:27:11.670Z",
+    "title": "Built a free invoice generator with API",
+    "company": "",
+    "source": "reddit",
+    "score": 1,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1sdf20h/built_a_free_invoice_generator_with_api/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 rest api"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T22:27:11.670Z",
+    "title": "Sr Data Engineer",
+    "company": "BeyondTrust",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/beyondtrust/jobs/sr-data-engineer-3386774781",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-05T22:27:11.670Z",
+    "title": "HL7 Integration Engineer",
+    "company": "Merative",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/merative/jobs/hl7-integration-engineer-1838638865",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T22:27:11.670Z",
+    "title": "Solutions Architect (Insurance) - Fully Remote",
+    "company": "CoverGo",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/covergo/jobs/solutions-architect-insurance-fully-remote-2138511694",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+1 express",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T22:27:11.670Z",
+    "title": "Team Leader / Jefe de equipo / Líder de Equipe - Technical Support",
+    "company": "Genetec",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/genetec/jobs/team-leader-jefe-de-equipo-lider-de-equipe-technical-support",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T22:27:11.670Z",
+    "title": "Senior Legacy Systems Engineer",
+    "company": "The Newberry Group",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/the-newberry-group/jobs/senior-legacy-systems-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 must reside in the united states"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T22:27:11.670Z",
+    "title": "Looking for Social Media Influencers (Students / University / Journalism / Productivity)",
+    "company": "",
+    "source": "reddit",
+    "score": -8,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sde2nr/hiring_looking_for_social_media_influencers/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "-5 internship",
+      "+2 salary($50-500)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T22:27:11.670Z",
+    "title": "Senior Account Executive - SAP",
+    "company": "Spinnaker Support",
+    "source": "himalayas",
+    "score": -10,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/spinnaker-support/jobs/senior-account-executive-sap-4309505630",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "-5 based in the us"
+    ]
   }
 ]
