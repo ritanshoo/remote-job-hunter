@@ -1,18 +1,4 @@
 {
-  "84c7affce29c04a2ac4156fddfdca511": {
-    "hash": "84c7affce29c04a2ac4156fddfdca511",
-    "firstSeen": "2026-03-06T15:33:42.527Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "remoteok"
-  },
-  "4e21fc5b2ffdd8b6dfc5bb9561aac891": {
-    "hash": "4e21fc5b2ffdd8b6dfc5bb9561aac891",
-    "firstSeen": "2026-03-06T15:33:42.527Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "weworkremotely"
-  },
   "93be24ab7efeb2caaf03f2a7be9eaad5": {
     "hash": "93be24ab7efeb2caaf03f2a7be9eaad5",
     "firstSeen": "2026-03-06T16:36:12.986Z",
