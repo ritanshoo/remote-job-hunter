@@ -59622,5 +59622,363 @@
       "-5 europe only",
       "+2 salary($30)"
     ]
+  },
+  {
+    "timestamp": "2026-04-05T08:38:42.721Z",
+    "title": "Senior Frontend Developer (React)",
+    "company": "Codekeeper",
+    "source": "himalayas",
+    "score": 7,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/codekeeper/jobs/senior-frontend-developer-react",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 javascript",
+      "+1 typescript",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T08:38:43.362Z",
+    "title": "Ara Zeta Project - AI Safety Evaluator - Korean (Korea)",
+    "company": "Welocalize",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/welocalize/jobs/ara-zeta-project-ai-safety-evaluator-korean-korea",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T08:38:43.709Z",
+    "title": "Advisory Solution Consultant - Identity & Security",
+    "company": "ServiceNow",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/servicenow/jobs/advisory-solution-consultant-identity-security-1438675555",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T08:38:44.050Z",
+    "title": "Binance Accelerator Program - Security (Identity and Access Management)",
+    "company": "Binance",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/binance/jobs/binance-accelerator-program-security-identity-and-access-management-6963497558",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "+2 web3"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T08:38:44.050Z",
+    "title": "Staff Engineer, QA Automation (Mobile & API Testing)",
+    "company": "Nagarro",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nagarro/jobs/staff-engineer-qa-automation-mobile-api-testing",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T08:38:44.050Z",
+    "title": "Software Customer Support Specialist",
+    "company": "Campspot",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/campspot/jobs/software-customer-support-specialist-8119391475",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T08:38:44.050Z",
+    "title": "Staff Product Security Engineer",
+    "company": "Affirm",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/affirm/jobs/staff-product-security-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T08:38:44.050Z",
+    "title": "Staff Salesforce Engineer (Agentforce & Revenue Cloud)",
+    "company": "Growth Acceleration Partners",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/wearegap/jobs/staff-salesforce-engineer-agentforce-revenue-cloud",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T08:38:44.050Z",
+    "title": "Field Support Specialist FAST - Remote (Lindon, UT, US, 84042)",
+    "company": "NRG",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nrgenergy/jobs/field-support-specialist-fast-remote-lindon-ut-us-84042-5308535072",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T08:38:44.050Z",
+    "title": "Account Executive: Higher Education",
+    "company": "Concept3D",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/concept3d/jobs/account-executive-higher-education-901910062",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T08:38:44.050Z",
+    "title": "Software Engineer",
+    "company": "Bitsight",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bitsight/jobs/software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T08:38:44.050Z",
+    "title": "Senior Software Engineer, Backend (Merchant Advocacy)",
+    "company": "Affirm",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/affirm/jobs/senior-software-engineer-backend-merchant-advocacy",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T08:38:44.050Z",
+    "title": "LINUX Systems Engineer",
+    "company": "Nightwing Intelligence Solutions, LLC",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nightwing-intelligence-solutions-llc/jobs/linux-systems-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T08:38:44.050Z",
+    "title": "Software Development Engineer",
+    "company": "CSG",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/csg/jobs/software-development-engineer-3387318421",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T08:38:44.050Z",
+    "title": "(Senior) Cloud Engineer (all genders)",
+    "company": "Dein Einstieg bei der ]init[ AG",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/dein-einstieg-bei-der-init-ag/jobs/senior-cloud-engineer-all-genders",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T08:38:44.050Z",
+    "title": "Senior Netsuite Developer (FSM)",
+    "company": "Ryz Labs",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ryz-labs/jobs/senior-netsuite-developer-fsm",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-05T08:38:44.050Z",
+    "title": "SEA Compliance Specialist",
+    "company": "Red Hat",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/red-hat/jobs/sea-compliance-specialist",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-05T08:38:44.050Z",
+    "title": "Future Technology Account Executive Openings",
+    "company": "Covetrus",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/covetrus/jobs/future-technology-account-executive-openings",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-05T08:38:44.050Z",
+    "title": "Berater (m/w/d) für Cybersecurity und normenkonforme Softwareentwicklung",
+    "company": "Johner Institut GmbH",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/johner-institut-gmbh/jobs/berater-m-w-d-fur-cybersecurity-und-normenkonforme-softwareentwicklung-4561653079",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-05T08:38:44.050Z",
+    "title": "Support Engineer - EU",
+    "company": "Imagicle",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/imagicle/jobs/support-engineer-eu",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T08:38:44.050Z",
+    "title": "Senior Frontend Engineer - React JS - Robusta Studio",
+    "company": "robusta",
+    "source": "himalayas",
+    "score": -2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/robusta/jobs/senior-frontend-engineer-react-js-robusta-studio",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T08:38:44.050Z",
+    "title": "AWS Engineer",
+    "company": "Baringa",
+    "source": "himalayas",
+    "score": -2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/baringa/jobs/aws-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T08:38:44.050Z",
+    "title": "Reporting QC Specialist - Air Emissions (Stack)",
+    "company": "Enthalpy Analytical",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/enthalpy-analytical/jobs/reporting-qc-specialist-air-emissions-stack",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T08:38:44.050Z",
+    "title": "Project Manager West Coast - US Remote",
+    "company": "Motorola Solutions",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/motorola-solutions/jobs/project-manager-west-coast-us-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T08:38:44.050Z",
+    "title": "Manager, Data Platform & Integrations",
+    "company": "CrossCountry Consulting",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/crosscountry-consulting/jobs/manager-data-platform-integrations",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T08:38:44.050Z",
+    "title": "Principal Engineer",
+    "company": "EHS Support, LLC",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ehs-support-llc/jobs/principal-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T08:38:44.050Z",
+    "title": "QA ENGINEER- Contrato Temporal Larga Duración",
+    "company": "METRO/MAKRO",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/metro-makro/jobs/qa-engineer-contrato-temporal-larga-duracion",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
