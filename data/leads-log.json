@@ -59541,5 +59541,86 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-05T07:00:56.833Z",
+    "title": "Javascript ? Full-Stack Developers => { Node.js + React } ; Part-Time ? $40–$50/hr || Remote (EST timezone)",
+    "company": "",
+    "source": "reddit",
+    "score": 15,
+    "priority": "high",
+    "url": "https://www.reddit.com/r/remotejs/comments/1scub4z/hiring_javascript_fullstack_developers_nodejs/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+1 javascript",
+      "+2 salary($40–$50/hr)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T07:00:56.833Z",
+    "title": "Quantitative Research $500 000/year",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sco09b/hiring_quantitative_research_500_000year/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($500)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T07:00:56.833Z",
+    "title": "We're running an online 4-week hackathon series with $4,000 in prizes, open to all skill levels!",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1scscdy/were_running_an_online_4week_hackathon_series/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T07:00:56.833Z",
+    "title": "[Showoff Saturday] Looking for feedback on site I made to see if it's confusing to use.",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1scsu0h/showoff_saturday_looking_for_feedback_on_site_i/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-05T07:00:56.833Z",
+    "title": "Yet another, \"Save Image As Type\" replacement + BONUS reddit feature",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1scs8jv/yet_another_save_image_as_type_replacement_bonus/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-05T07:00:56.833Z",
+    "title": "Earn $30 per survey (USA, Canada & Europe only)",
+    "company": "Remote Survey Task",
+    "source": "reddit",
+    "score": -8,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1scpvka/hiring_remote_survey_task_earn_30_per_survey_usa/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 based in the us",
+      "-5 europe only",
+      "+2 salary($30)"
+    ]
   }
 ]
