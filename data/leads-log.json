@@ -60475,5 +60475,32 @@
     "url": "https://www.reddit.com/r/forhire/comments/1sdl2ie/hiring_a_body_double_and_virtual_assistant/",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-06T10:53:52.933Z",
+    "title": "Chrome Extension Developer — iGaming Product (New Build)",
+    "company": "Elevated Leads Limited",
+    "source": "weworkremotely",
+    "score": 8,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/elevated-leads-limited-chrome-extension-developer-igaming-product-new-build",
+    "emailSent": true,
+    "matchedKeywords": [
+      "+3 node.js",
+      "+3 node",
+      "+1 javascript",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T10:53:52.933Z",
+    "title": "$250/mo, minimal effort",
+    "company": "US-Based Authorized Signer for LLC",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sduwmq/hiring_usbased_authorized_signer_for_llc_250mo/",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
