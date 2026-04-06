@@ -60423,5 +60423,20 @@
       "+2 llm",
       "+2 chatbot"
     ]
+  },
+  {
+    "timestamp": "2026-04-06T05:20:18.160Z",
+    "title": "Sr. Frontend Eng",
+    "company": "ArtCraft",
+    "source": "hackernews",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://news.ycombinator.com/item?id=47656827",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+1 typescript"
+    ]
   }
 ]
