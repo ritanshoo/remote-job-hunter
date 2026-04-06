@@ -61036,5 +61036,627 @@
     "url": "https://news.ycombinator.com/item?id=47663613",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-06T18:53:24.481Z",
+    "title": "DevOps Engineer - Decentralized Identity Solutions",
+    "company": "Cardano Foundation",
+    "source": "weworkremotely",
+    "score": 9,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/cardano-foundation-devops-engineer-decentralized-identity-solutions",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node",
+      "+2 blockchain",
+      "+2 automation",
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.182Z",
+    "title": "Senior Back-End Engineer (Java) - Product Foundation",
+    "company": "Ataccama",
+    "source": "weworkremotely",
+    "score": 8,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/ataccama-senior-back-end-engineer-java-product-foundation",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+1 typescript",
+      "+1 aws",
+      "+1 graphql"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.531Z",
+    "title": "Software Engineer, Web Core Product & Chrome Extension",
+    "company": "Speechify",
+    "source": "weworkremotely",
+    "score": 8,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/speechify-software-engineer-web-core-product-chrome-extension",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+1 typescript",
+      "+2 salary($140,000-$200,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.888Z",
+    "title": "(Senior) Data Product & Visualization Analyst - Remote or Hamburg",
+    "company": "Baqend Gmbh",
+    "source": "weworkremotely",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/baqend-gmbh-senior-data-product-visualization-analyst-remote-or-hamburg",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node.js",
+      "+3 node",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 mongodb",
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.888Z",
+    "title": "DevOps Engineer (Homeoffice möglich)",
+    "company": "Zollsoft Gmbh",
+    "source": "weworkremotely",
+    "score": 2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/zollsoft-gmbh-devops-engineer-homeoffice-moglich",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.888Z",
+    "title": "Staff Digital Design Engineer - CPU Architecture & RISC-V (S)",
+    "company": "Innatera",
+    "source": "weworkremotely",
+    "score": 2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/innatera-staff-digital-design-engineer-cpu-architecture-risc-v-s",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.888Z",
+    "title": "Senior Product Manager - Supply Chain Data Products",
+    "company": "Lobster",
+    "source": "weworkremotely",
+    "score": 2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/lobster-senior-product-manager-supply-chain-data-products",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.888Z",
+    "title": "DevOps Engineer (gn) / full-remote",
+    "company": "Workidentity",
+    "source": "weworkremotely",
+    "score": 1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/workidentity-devops-engineer-gn-full-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "(Senior) DevOps Engineer / Consultant (m/w/d)",
+    "company": "Nscon Network, Security & Consulting Gmbh",
+    "source": "weworkremotely",
+    "score": 1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/nscon-network-security-consulting-gmbh-senior-devops-engineer-consultant-m-w-d",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "Senior Product Manager, Integrations",
+    "company": "Payrails",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/payrails-senior-product-manager-integrations",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "Refa / Refawi (w/m/d) im Customer-Support für Kanzleisoftware",
+    "company": "Stp.One",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/stp-one-refa-refawi-w-m-d-im-customer-support-fur-kanzleisoftware",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "(Senior) Berater Product Lifecycle Management (m/w/d)",
+    "company": "Gambit Consulting Gmbh",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/gambit-consulting-gmbh-senior-berater-product-lifecycle-management-m-w-d",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "Senior GCP DevOps Engineer",
+    "company": "Spectrum It Recruitment",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/spectrum-it-recruitment-senior-gcp-devops-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "Product Sales Manager -Cybersecurity - Jamaica",
+    "company": "Adistec",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/adistec-product-sales-manager-cybersecurity-jamaica",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "Platform And Product Security Officer H/F",
+    "company": "Mirakl",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/mirakl-platform-and-product-security-officer-h-f",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 aws",
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "Product Sales Manager -Cybersecurity - Dominican Republic",
+    "company": "Adistec",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/adistec-product-sales-manager-cybersecurity-dominican-republic",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "(Senior) Product Manager (all genders) | ClimateTech",
+    "company": "Carbmee",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/carbmee-senior-product-manager-all-genders-climatetech",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "Senior Product Manager (M/W/D/X)",
+    "company": "Dieproduktmacher Gmbh",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/dieproduktmacher-gmbh-senior-product-manager-m-w-d-x",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "Junior Customer Support Specialist (German speaking)",
+    "company": "Priceloop",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/priceloop-junior-customer-support-specialist-german-speaking",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "Product Engineer for Cloud Solutions",
+    "company": "HMS INDUSTRIAL NETWORKS, SLU",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/hms-industrial-networks-slu-product-engineer-for-cloud-solutions",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "Application Product Manager - Accounts Payable",
+    "company": "Celonis",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/celonis-application-product-manager-accounts-payable",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "Principal Product Specialist",
+    "company": "Instructure",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/instructure-principal-product-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($160,000 - $180,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "Product Manager b2b SaaS",
+    "company": "Workwize",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/workwize-product-manager-b2b-saas",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "Product Marketing Senior Manager (Go-to-Market)",
+    "company": "Fadata Group",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/fadata-group-product-marketing-senior-manager-go-to-market",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "Product Designer H/F",
+    "company": "Joko",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/joko-product-designer-h-f",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "Machine Learning Engineer - Applied / Product  (Multiple Positions & Levels)",
+    "company": "Yobi",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/yobi-machine-learning-engineer-applied-product-multiple-positions-levels",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "Product Analyst (all genders)",
+    "company": "Justplay",
+    "source": "weworkremotely",
+    "score": -4,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/justplay-product-analyst-all-genders",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "Product Owner Frontend (all)",
+    "company": "1nce",
+    "source": "weworkremotely",
+    "score": -4,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/1nce-product-owner-frontend-all",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "Ingénieur Zscaler Confirmé - Design & Implémentation H/F",
+    "company": "Espritek",
+    "source": "weworkremotely",
+    "score": -4,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/espritek-ingenieur-zscaler-confirme-design-implementation-h-f",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "Senior Product Manager - Engagement (all genders)",
+    "company": "Justplay",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/justplay-senior-product-manager-engagement-all-genders",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "Product Designer (f/m/d)",
+    "company": "Tidely",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/tidely-product-designer-f-m-d",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "Product & Monetization Lead (w/m/d)",
+    "company": "Relevo",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/relevo-product-monetization-lead-w-m-d",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "Product Owner (w/m/d)",
+    "company": "Hum Systems Gmbh",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/hum-systems-gmbh-product-owner-w-m-d",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "Product Assessor - Soft Tissue Team",
+    "company": "Sgs",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/sgs-product-assessor-soft-tissue-team-1",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "Junior Product Owner",
+    "company": "Castille Resources",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/castille-resources-junior-product-owner",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "Product Manager (m/f/d)",
+    "company": "Valve",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/valve-product-manager-m-f-d",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "Lead Product Design Gaming F - M H/F",
+    "company": "Betclic Group",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/betclic-group-lead-product-design-gaming-f-m-h-f",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "Product Assessor - Soft Tissue Team",
+    "company": "Sgs",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/sgs-product-assessor-soft-tissue-team",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "Product Assessor - Cardiovascular and Soft Tissue",
+    "company": "Sgs",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/sgs-product-assessor-cardiovascular-and-soft-tissue",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "Product Marketing Associate (m/f/d)",
+    "company": "Infinite Roots",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/infinite-roots-product-marketing-associate-m-f-d",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "UI/UX Design - Intern (Remote)",
+    "company": "Customersuccessbox Careers",
+    "source": "weworkremotely",
+    "score": -6,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/customersuccessbox-careers-ui-ux-design-intern-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern",
+      "-5 internship"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "Senior Sre - DevOps H/F",
+    "company": "Amadeus",
+    "source": "weworkremotely",
+    "score": -6,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/amadeus-senior-sre-devops-h-f",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "+1 express",
+      "-5 junior",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "STAFF / PRINCIPAL ANALOG / MIXED-SIGNAL DESIGN ENGINEER (M/F/D)",
+    "company": "Extoll Gmbh",
+    "source": "weworkremotely",
+    "score": -7,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/extoll-gmbh-staff-principal-analog-mixed-signal-design-engineer-m-f-d",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node",
+      "-5 intern",
+      "-5 internship"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "Associate 3D Design Director, Experience Design",
+    "company": "Dxa Circa",
+    "source": "weworkremotely",
+    "score": -7,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/dxa-circa-associate-3d-design-director-experience-design",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 express",
+      "-5 junior",
+      "-5 intern",
+      "+2 salary($125,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T18:53:25.889Z",
+    "title": "Customer Support Internship",
+    "company": "Mapon",
+    "source": "weworkremotely",
+    "score": -8,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/mapon-customer-support-internship",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "-5 internship"
+    ]
   }
 ]
