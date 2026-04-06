@@ -61011,5 +61011,30 @@
     "matchedKeywords": [
       "+2 ai"
     ]
+  },
+  {
+    "timestamp": "2026-04-06T17:41:14.372Z",
+    "title": "VISA SPONSORSHIP",
+    "company": "Baseten Labs",
+    "source": "hackernews",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://news.ycombinator.com/item?id=47663311",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary($300)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T17:41:14.373Z",
+    "title": "Firmware Engineer",
+    "company": "Guardian Lynx",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47663613",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]

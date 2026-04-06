@@ -23252,5 +23252,26 @@
     "score": 2,
     "emailSent": false,
     "source": "hackernews"
+  },
+  "7e080f1eb097ca29296c9efa3c353759": {
+    "hash": "7e080f1eb097ca29296c9efa3c353759",
+    "firstSeen": "2026-04-06T17:41:13.595Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "5f27762a95b23c1fb4c11f7e995d1544": {
+    "hash": "5f27762a95b23c1fb4c11f7e995d1544",
+    "firstSeen": "2026-04-06T17:41:14.372Z",
+    "score": 4,
+    "emailSent": false,
+    "source": "hackernews"
+  },
+  "08b129db43eabeec5826895aea151d00": {
+    "hash": "08b129db43eabeec5826895aea151d00",
+    "firstSeen": "2026-04-06T17:41:14.373Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "hackernews"
   }
 }
