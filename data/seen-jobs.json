@@ -23700,5 +23700,19 @@
     "score": -5,
     "emailSent": false,
     "source": "weworkremotely"
+  },
+  "52630a0e9793a3af35ee6bd54c899d8d": {
+    "hash": "52630a0e9793a3af35ee6bd54c899d8d",
+    "firstSeen": "2026-04-06T22:32:06.563Z",
+    "score": 20,
+    "emailSent": false,
+    "source": "hackernews"
+  },
+  "0dda11ad08c2c330667a29dcf39799a0": {
+    "hash": "0dda11ad08c2c330667a29dcf39799a0",
+    "firstSeen": "2026-04-06T22:32:07.171Z",
+    "score": 10,
+    "emailSent": false,
+    "source": "hackernews"
   }
 }
