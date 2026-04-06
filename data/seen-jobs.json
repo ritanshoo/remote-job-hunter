@@ -1,11 +1,4 @@
 {
-  "5555c463cad1d45989dcb4b7298592d1": {
-    "hash": "5555c463cad1d45989dcb4b7298592d1",
-    "firstSeen": "2026-03-07T15:19:52.028Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "remotive"
-  },
   "11a0114cced1c53b4516ccc18093e965": {
     "hash": "11a0114cced1c53b4516ccc18093e965",
     "firstSeen": "2026-03-07T16:22:47.324Z",
@@ -23266,5 +23259,12 @@
     "score": 7,
     "emailSent": true,
     "source": "hackernews"
+  },
+  "694fe45903ef67bebf00049cde973e7a": {
+    "hash": "694fe45903ef67bebf00049cde973e7a",
+    "firstSeen": "2026-04-06T15:42:04.675Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }
