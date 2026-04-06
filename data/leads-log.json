@@ -60502,5 +60502,469 @@
     "url": "https://www.reddit.com/r/forhire/comments/1sduwmq/hiring_usbased_authorized_signer_for_llc_250mo/",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-06T13:01:46.178Z",
+    "title": "Fullstack (RoR/ React/ React Native)",
+    "company": "Idego Group",
+    "source": "himalayas",
+    "score": 20,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/idego/jobs/fullstack-ror-react-react-native",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+2 ai",
+      "+2 automation",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 postgresql",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T13:01:46.697Z",
+    "title": "Full Stack Staff Engineer – GraphQL",
+    "company": "Experian",
+    "source": "himalayas",
+    "score": 15,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/experian/jobs/full-stack-staff-engineer-graphql",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+1 typescript",
+      "+1 aws",
+      "+1 graphql"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T13:01:46.998Z",
+    "title": "DevOps Engineer",
+    "company": "Drexel University",
+    "source": "himalayas",
+    "score": 9,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/drexel-university/jobs/devops-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node",
+      "+2 ai",
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T13:01:47.317Z",
+    "title": "Senior Front End Engineer - Remote",
+    "company": "InnovationTeam",
+    "source": "himalayas",
+    "score": 8,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/innovationteam/jobs/senior-front-end-engineer-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 next.js",
+      "+3 node.js",
+      "+3 node",
+      "+1 javascript",
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T13:01:47.646Z",
+    "title": "Principal Cloud Platform Engineer",
+    "company": "Centene Corporation",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/centene-corporation/jobs/principal-cloud-platform-engineer-1172136471",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 typescript",
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T13:01:47.948Z",
+    "title": "Frontend Engineer (React, Remote, Europe)",
+    "company": "Spacelift",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/spacelift/jobs/frontend-engineer-react-remote-europe-880879493",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 salary($82)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T13:01:48.249Z",
+    "title": "VP, Systems Engineer",
+    "company": "SAMC SitusAMC Holdings Corp",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/samc-situsamc-holdings-corp/jobs/vp-systems-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T13:01:48.249Z",
+    "title": "Staff Software Engineer - Java, AWS, Mongo",
+    "company": "Global Healthcare Exchange (GHX)",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/global-healthcare-exchange-ghx/jobs/staff-software-engineer-java-aws-mongo-7619599051",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T13:01:48.249Z",
+    "title": "Sr. Customer Support Engineer, Deployments - Europe",
+    "company": "Zededa",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/zededa/jobs/sr-customer-support-engineer-deployments-europe-669391543",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T13:01:48.249Z",
+    "title": "looking for honest first impressions",
+    "company": "Built a SaaS where an AI agent catalogs data sources but architecturally can't access sensitive columns",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1sdxw9h/built_a_saas_where_an_ai_agent_catalogs_data/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T13:01:48.249Z",
+    "title": "Recruiting Manager, Engineering",
+    "company": "Plaid",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/plaid/jobs/recruiting-manager-engineering",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T13:01:48.249Z",
+    "title": "Technical Sales Engineer (Remote - Germany)",
+    "company": "Constructor",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/constructor/jobs/technical-sales-engineer-remote-germany",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T13:01:48.249Z",
+    "title": "Azure Data Engineer",
+    "company": "ProArch",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/proarch/jobs/azure-data-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T13:01:48.249Z",
+    "title": "Platform Architect",
+    "company": "Redox",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/redox-com/jobs/platform-architect",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T13:01:48.249Z",
+    "title": "Informatica Enterprise Account Executive, Public Sector: Federal (Intelligence C",
+    "company": "Salesforce",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/salesforce/jobs/informatica-enterprise-account-executive-public-sector-federal-intelligence-c",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T13:01:48.249Z",
+    "title": "Tech Lead/Software Engineer III",
+    "company": "Kapitus",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/kapitus/jobs/tech-lead-software-engineer-iii-5330124314",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T13:01:48.249Z",
+    "title": "I'm in need of 20-30 people who can promote products on social media, pay ranges from 2$ to 10$ per post",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sdw4h0/hiring_im_in_need_of_2030_people_who_can_promote/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-06T13:01:48.249Z",
+    "title": "developer has gone silent. Looking for advice and possibly help",
+    "company": "Paid in full for a website that was never delivered",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1sdx4s0/paid_in_full_for_a_website_that_was_never/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-06T13:01:48.249Z",
+    "title": "Associate Consultant",
+    "company": "Flexera",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/flexera/jobs/associate-consultant-3884221846",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-06T13:01:48.249Z",
+    "title": "Network Engineer",
+    "company": "Nature's Way",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nature-s-way/jobs/network-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-06T13:01:48.249Z",
+    "title": "Senior Technical Consultant – VMware Cloud Foundation (VCF)",
+    "company": "AHEAD",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ahead/jobs/senior-technical-consultant-vmware-cloud-foundation-vcf",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 express",
+      "-5 junior",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T13:01:48.249Z",
+    "title": "Technical Product Owner (m/w/d) Schwerpunkt Java - Konstanz, Berlin oder remote",
+    "company": "SEITENBAU",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/seitenbau/jobs/technical-product-owner-m-w-d-schwerpunkt-java-konstanz-berlin-oder-remote",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-06T13:01:48.249Z",
+    "title": "Engineer, InfraOps",
+    "company": "Nagarro",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nagarro/jobs/engineer-infraops-1611411354",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-06T13:01:48.249Z",
+    "title": "Presales Consultant",
+    "company": "NICE",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nice/jobs/presales-consultant-6799585936",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-06T13:01:48.249Z",
+    "title": "S/4 ABAP Developer",
+    "company": "Sequoia Connect",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sequoia-connect/jobs/s-4-abap-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T13:01:48.249Z",
+    "title": "Ads Quality Rater - Mandarin (Taiwan)",
+    "company": "Welocalize",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/welocalize/jobs/ads-quality-rater-mandarin-taiwan-716780683",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T13:01:48.249Z",
+    "title": "Quality Assurance Analyst II - DroneSense",
+    "company": "Versaterm",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/versaterm/jobs/quality-assurance-analyst-ii-dronesense",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T13:01:48.249Z",
+    "title": "(energy domain), Senior Information Developer (Technical Writer), TSCM-43867, TS",
+    "company": "ELEKS",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/eleks/jobs/energy-domain-senior-information-developer-technical-writer-tscm-43867-ts",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T13:01:48.249Z",
+    "title": "Solution Engineer - France/Spain",
+    "company": "Yubico",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/yubico/jobs/solution-engineer-france-spain-5809786302",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T13:01:48.249Z",
+    "title": "Automotive Technical Helpdesk Specialist (French and English)",
+    "company": "MSX International",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/msx-international/jobs/automotive-technical-helpdesk-specialist-french-and-english-399023644",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T13:01:48.249Z",
+    "title": "Project Manager (talent pool)",
+    "company": "Viseven",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/viseven/jobs/project-manager-talent-pool-6031976261",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T13:01:48.249Z",
+    "title": "Solutions Architect",
+    "company": "Coderio",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/coderio/jobs/solutions-architect-56229544",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T13:01:48.249Z",
+    "title": "Consultant Senior Securité Réseaux",
+    "company": "Devoteam",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/devoteam/jobs/consultant-senior-securite-reseaux-2014881013",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T13:01:48.249Z",
+    "title": "Junior Product Manager - AgriTech Food Systems",
+    "company": "FAI Farms",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/fai-farms/jobs/junior-product-manager-agritech-food-systems",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 junior"
+    ]
   }
 ]
