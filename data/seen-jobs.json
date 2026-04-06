@@ -23252,5 +23252,26 @@
     "score": 6,
     "emailSent": false,
     "source": "hackernews"
+  },
+  "2bdc416c474df3a44a18a48d14ae8a59": {
+    "hash": "2bdc416c474df3a44a18a48d14ae8a59",
+    "firstSeen": "2026-04-06T07:24:26.632Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "0d3b8995321cf7b8e35e49546c72dbc8": {
+    "hash": "0d3b8995321cf7b8e35e49546c72dbc8",
+    "firstSeen": "2026-04-06T07:24:26.632Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "cd2a7e48dbbf175220c00a96fac549bd": {
+    "hash": "cd2a7e48dbbf175220c00a96fac549bd",
+    "firstSeen": "2026-04-06T07:24:26.632Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
   }
 }

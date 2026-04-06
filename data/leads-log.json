@@ -60438,5 +60438,42 @@
       "+2 ai",
       "+1 typescript"
     ]
+  },
+  {
+    "timestamp": "2026-04-06T07:24:26.632Z",
+    "title": "[usa] Simple Paid Survey- $300",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sdrg19/hiring_usa_simple_paid_survey_300/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($300)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T07:24:26.632Z",
+    "title": "Afrobeats/RnB DJ in Boston.",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sdkzr1/hiring_afrobeatsrnb_dj_in_boston/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($50)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T07:24:26.632Z",
+    "title": "a body double and virtual assistant",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sdl2ie/hiring_a_body_double_and_virtual_assistant/",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
