@@ -1,11 +1,4 @@
 {
-  "694fe45903ef67bebf00049cde973e7a": {
-    "hash": "694fe45903ef67bebf00049cde973e7a",
-    "firstSeen": "2026-03-07T13:36:10.034Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "weworkremotely"
-  },
   "5555c463cad1d45989dcb4b7298592d1": {
     "hash": "5555c463cad1d45989dcb4b7298592d1",
     "firstSeen": "2026-03-07T15:19:52.028Z",
@@ -23259,5 +23252,19 @@
     "score": -5,
     "emailSent": false,
     "source": "himalayas"
+  },
+  "3d6cb92955ac54192710885f111fae4a": {
+    "hash": "3d6cb92955ac54192710885f111fae4a",
+    "firstSeen": "2026-04-06T14:42:34.921Z",
+    "score": 9,
+    "emailSent": false,
+    "source": "hackernews"
+  },
+  "d8a9251e0c5c5507ae35332ceaee426b": {
+    "hash": "d8a9251e0c5c5507ae35332ceaee426b",
+    "firstSeen": "2026-04-06T14:44:27.078Z",
+    "score": 7,
+    "emailSent": true,
+    "source": "hackernews"
   }
 }

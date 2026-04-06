@@ -60966,5 +60966,37 @@
     "matchedKeywords": [
       "-5 junior"
     ]
+  },
+  {
+    "timestamp": "2026-04-06T14:42:34.921Z",
+    "title": "Senior Software Engineer (React Native)",
+    "company": "Instinct Science",
+    "source": "hackernews",
+    "score": 9,
+    "priority": "high",
+    "url": "https://news.ycombinator.com/item?id=47661037",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+1 typescript",
+      "+1 graphql",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-06T14:44:27.078Z",
+    "title": "Full Stack Engineer",
+    "company": "Goodchat",
+    "source": "hackernews",
+    "score": 7,
+    "priority": "high",
+    "url": "https://news.ycombinator.com/item?id=47660915",
+    "emailSent": true,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 fullstack",
+      "+1 typescript"
+    ]
   }
 ]
