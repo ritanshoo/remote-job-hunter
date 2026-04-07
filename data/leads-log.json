@@ -63839,5 +63839,660 @@
     "url": "https://news.ycombinator.com/item?id=47678523",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-07T20:42:20.431Z",
+    "title": "Head of AI & Engineering",
+    "company": "BrandMultiplier",
+    "source": "hackernews",
+    "score": 21,
+    "priority": "high",
+    "url": "https://news.ycombinator.com/item?id=47679881",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 next.js",
+      "+3 node.js",
+      "+3 node",
+      "+2 ai",
+      "+2 automation",
+      "+2 langchain",
+      "+2 rag",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:20.889Z",
+    "title": "Senior Product Engineer (m/f/d)",
+    "company": "Journee Technologies",
+    "source": "weworkremotely",
+    "score": 14,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/journee-technologies-senior-product-engineer-m-f-d",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+2 ai",
+      "+1 typescript",
+      "+1 aws",
+      "+1 webrtc"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:21.174Z",
+    "title": "Full-Stack Product Dev",
+    "company": "Colonist",
+    "source": "hackernews",
+    "score": 13,
+    "priority": "high",
+    "url": "https://news.ycombinator.com/item?id=47680673",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+2 ai",
+      "+1 typescript",
+      "+1 postgresql"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:21.466Z",
+    "title": "Fullstack Engineer (with DevOps focus) (f/m/d) at climate tech start-up",
+    "company": "Exnaton Ag",
+    "source": "weworkremotely",
+    "score": 12,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/exnaton-ag-fullstack-engineer-with-devops-focus-f-m-d-at-climate-tech-start-up",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+3 next.js",
+      "+2 automation",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:21.745Z",
+    "title": "Senior GCP DevOps con Especialización en MLOps & GenAI",
+    "company": "Dacodes",
+    "source": "weworkremotely",
+    "score": 12,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/dacodes-senior-gcp-devops-con-especializacion-en-mlops-genai",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node",
+      "+2 ai",
+      "+2 llm",
+      "+2 langchain",
+      "+2 rag",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:22.020Z",
+    "title": "Full Stack Developer - Backend Focus",
+    "company": "31 Green Ltd",
+    "source": "weworkremotely",
+    "score": 11,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/31-green-ltd-full-stack-developer-backend-focus",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+2 ai",
+      "+2 automation",
+      "+1 mongodb",
+      "+1 postgresql",
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:22.304Z",
+    "title": "Senior Software Engineer, AI Product",
+    "company": "Vanta",
+    "source": "weworkremotely",
+    "score": 11,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/vanta-senior-software-engineer-ai-product",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+2 ai",
+      "+2 llm",
+      "+2 rag",
+      "+1 typescript",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:22.578Z",
+    "title": "Future Opportunities at Comet - Engineering and Product",
+    "company": "Comet",
+    "source": "weworkremotely",
+    "score": 7,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/comet-future-opportunities-at-comet-engineering-and-product",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+1 express",
+      "+2 salary($63)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:22.860Z",
+    "title": "Future Opportunities at Comet - Sales and Marketing",
+    "company": "Comet",
+    "source": "weworkremotely",
+    "score": 7,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/comet-future-opportunities-at-comet-sales-and-marketing",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+1 express",
+      "+2 salary($63)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.140Z",
+    "title": "Senior/Staff Product Manager, Flights",
+    "company": "Engine",
+    "source": "weworkremotely",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/engine-senior-staff-product-manager-flights",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+2 salary($147,500 - $246,100)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.420Z",
+    "title": "Product Manager | Matcha",
+    "company": "0x",
+    "source": "weworkremotely",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/0x-product-manager-matcha",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 web3",
+      "+1 express",
+      "+2 salary($140)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.713Z",
+    "title": "Product Marketing Manager, Experiment",
+    "company": "Amplitude",
+    "source": "weworkremotely",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/amplitude-product-marketing-manager-experiment",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary($166,000 - $250,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.713Z",
+    "title": "Senior Product Marketing Manager, Market Strategy",
+    "company": "Housecall Pro",
+    "source": "weworkremotely",
+    "score": 3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/housecall-pro-senior-product-marketing-manager-market-strategy",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 express",
+      "+2 salary($129,000-$152,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.713Z",
+    "title": "Full Stack Developer (m/w/d)",
+    "company": "Miragon",
+    "source": "weworkremotely",
+    "score": 3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/miragon-full-stack-developer-m-w-d",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+1 typescript",
+      "+1 postgresql",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.713Z",
+    "title": "Full-stack Developer (SP)",
+    "company": "act digital",
+    "source": "weworkremotely",
+    "score": 2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/act-digital-full-stack-developer-sp",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+1 rest api",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.713Z",
+    "title": "Senior Product Manager - Search Quality and Query Interpretation",
+    "company": "Constructor",
+    "source": "weworkremotely",
+    "score": 1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/constructor-senior-product-manager-search-quality-and-query-interpretation",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 express"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.713Z",
+    "title": "Product Manager - Prospect Data Teams",
+    "company": "Constructor",
+    "source": "weworkremotely",
+    "score": 1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/constructor-product-manager-prospect-data-teams",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 javascript",
+      "+1 express",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.713Z",
+    "title": "UNPAID VOLUNTEER - Technology Officers (Data Scientists/DevOps/Full Stack)",
+    "company": "Blockchain & Climate Institute/ BCI America Inc.",
+    "source": "weworkremotely",
+    "score": 1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/blockchain-climate-institute-bci-america-inc-unpaid-volunteer-technology-officers-data-scientists-devops-full-stack-1",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+2 blockchain",
+      "+1 javascript",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.713Z",
+    "title": "UNPAID VOLUNTEER - Technology Officers (Data Scientists/DevOps/Full Stack)",
+    "company": "Blockchain & Climate Institute/ Bci America Inc.",
+    "source": "weworkremotely",
+    "score": 1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/blockchain-climate-institute-bci-america-inc-unpaid-volunteer-technology-officers-data-scientists-devops-full-stack",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+2 blockchain",
+      "+1 javascript",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.713Z",
+    "title": "Manager, Brand Design",
+    "company": "Later",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/later-manager-brand-design",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 express",
+      "-5 intern",
+      "+2 salary($140,000 - 160,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.713Z",
+    "title": "Senior DevOps Engineer (CloudInfra)",
+    "company": "Evolutioniq",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/evolutioniq-senior-devops-engineer-cloudinfra",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 docker",
+      "-5 intern",
+      "+2 salary($180-225)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.713Z",
+    "title": "Product Marketing Manager - Emerging",
+    "company": "Pindrop",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/pindrop-product-marketing-manager-emerging",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 express",
+      "-5 intern",
+      "+2 salary($100,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.713Z",
+    "title": "Senior Product Development Manager (gn) - Vitamins, Minerals, Supplements",
+    "company": "The Quality Group",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/the-quality-group-senior-product-development-manager-gn-vitamins-minerals-supplements",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.713Z",
+    "title": "Product Marketing Manager EHSQ",
+    "company": "Valsoft Corporation",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/valsoft-corporation-product-marketing-manager-ehsq",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.713Z",
+    "title": "Senior Backend Application Engineer - Product & Platform",
+    "company": "Manifest Cyber Public",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/manifest-cyber-public-senior-backend-application-engineer-product-platform",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 typescript",
+      "+1 mongodb",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.714Z",
+    "title": "Product Content Marketing Manager",
+    "company": "Smarttel Plus Oü",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/smarttel-plus-ou-product-content-marketing-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.714Z",
+    "title": "Business Analyst - HubSpot Product Owner",
+    "company": "Goglobal",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/goglobal-business-analyst-hubspot-product-owner",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.714Z",
+    "title": "Group Product Manager - Integrations",
+    "company": "Roompricegenie",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/roompricegenie-group-product-manager-integrations",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.714Z",
+    "title": "Product Owner (Remote or Relocate)",
+    "company": "Propellerhead",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/propellerhead-product-owner-remote-or-relocate",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.714Z",
+    "title": "Technical Product Marketer",
+    "company": "Openmined",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/openmined-technical-product-marketer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.714Z",
+    "title": "(English and Russian) Customer Support Consultant, crypto (remote)",
+    "company": "Supportyourapp",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/supportyourapp-english-and-russian-customer-support-consultant-crypto-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.714Z",
+    "title": "(Fluent English and Russian) Customer Support Consultant, crypto (remote)",
+    "company": "Supportyourapp",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/supportyourapp-fluent-english-and-russian-customer-support-consultant-crypto-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.714Z",
+    "title": "Senior DevOps Engineer (m/w/d)",
+    "company": "blau direkt",
+    "source": "weworkremotely",
+    "score": -4,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/blau-direkt-senior-devops-engineer-m-w-d",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.714Z",
+    "title": "Senior Product/UX Designer B2B SaaS REMOTE (m/f/d)",
+    "company": "Allocnow",
+    "source": "weworkremotely",
+    "score": -4,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/allocnow-senior-product-ux-designer-b2b-saas-remote-m-f-d",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.714Z",
+    "title": "Adventure Travel Product Specialist",
+    "company": "The Natural Adventure",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/the-natural-adventure-adventure-travel-product-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.714Z",
+    "title": "Telecommunication Customer Support Specialist",
+    "company": "Digital Direction",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/digital-direction-telecommunication-customer-support-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.714Z",
+    "title": "SMB Product Sales Specialist",
+    "company": "Appspace",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/appspace-smb-product-sales-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.714Z",
+    "title": "***TALENT POOLING*** Customer Support Representative",
+    "company": "Virco Talent",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/virco-talent-talent-pooling-customer-support-representative",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.714Z",
+    "title": "(fluent Czech) Customer Support Consultant (LATAM, remotely)",
+    "company": "Supportyourapp",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/supportyourapp-fluent-czech-customer-support-consultant-latam-remotely",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.714Z",
+    "title": "(fluent Ukrainian) Customer Support Consultant, fintech industry (remotely)",
+    "company": "Supportyourapp",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/supportyourapp-fluent-ukrainian-customer-support-consultant-fintech-industry-remotely",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.714Z",
+    "title": "(Polish and English) Customer Support Consultant, crypto (Łódź, remotely)",
+    "company": "Supportyourapp",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/supportyourapp-polish-and-english-customer-support-consultant-crypto-lodz-remotely",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.714Z",
+    "title": "(Polish and English) Customer Support Consultant, crypto (Gdansk, remotely)",
+    "company": "Supportyourapp",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/supportyourapp-polish-and-english-customer-support-consultant-crypto-gdansk-remotely",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T20:42:23.714Z",
+    "title": "Retool and NoCode/Low Code Engineer & Junior Product Manager",
+    "company": "Fabulous",
+    "source": "weworkremotely",
+    "score": -9,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/fabulous-retool-and-nocode-low-code-engineer-junior-product-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "-5 junior",
+      "-5 intern"
+    ]
   }
 ]
