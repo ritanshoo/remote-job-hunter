@@ -63020,5 +63020,79 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-07T10:08:57.882Z",
+    "title": "Python+Full-Stack (JS) Developer needed",
+    "company": "",
+    "source": "reddit",
+    "score": 3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1sepcb4/pythonfullstack_js_developer_needed/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T10:08:57.882Z",
+    "title": "Senior Software Engineer-LLM Evaluation (US/Canada/WEU based)",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sep34z/hiring_senior_software_engineerllm_evaluation/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 llm"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T10:08:57.882Z",
+    "title": "Just some crying from hobbyist programmer",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1seqrne/just_some_crying_from_hobbyist_programmer/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T10:08:57.883Z",
+    "title": "Looking for collaborators on a web builder project (student project).",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1seql3a/looking_for_collaborators_on_a_web_builder/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-07T10:08:57.883Z",
+    "title": "A simple free pastebin service",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1sepvz0/a_simple_free_pastebin_service/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-07T10:08:57.883Z",
+    "title": "First subscription stuck between “Waiting for Review” / “In Review”, app version still “Prepare for Submission” for over a month 😫",
+    "company": "",
+    "source": "reddit",
+    "score": -5,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1serm1y/first_subscription_stuck_between_waiting_for/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
