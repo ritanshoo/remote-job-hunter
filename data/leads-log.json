@@ -62477,5 +62477,406 @@
       "-5 intern",
       "-5 us only"
     ]
+  },
+  {
+    "timestamp": "2026-04-07T02:02:14.412Z",
+    "title": "Senior Engineer AI",
+    "company": "Delta Exchange",
+    "source": "himalayas",
+    "score": 9,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/delta-exchange/jobs/senior-engineer-ai",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+2 ai",
+      "+2 rag",
+      "+1 postgresql",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T02:02:15.079Z",
+    "title": "Partner Intelligence Lead II - Ads",
+    "company": "Instacart",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/instacart/jobs/partner-intelligence-lead-ii-ads",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T02:02:15.419Z",
+    "title": "Mobile App Developer - (iOS/Android)",
+    "company": "Pavago",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/pavago/jobs/mobile-app-developer-ios-android-1232422810",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 automation",
+      "+1 graphql"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T02:02:15.767Z",
+    "title": "Senior Full Stack Developer - Ruby on Rails & React (m/w/d)",
+    "company": "Eshop Guide",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/eshop-guide/jobs/senior-full-stack-developer-ruby-on-rails-react-m-w-d",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 fullstack",
+      "+3 react",
+      "+1 postgresql",
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T02:02:16.109Z",
+    "title": "Director, Solutions Consultants",
+    "company": "Sprinklr",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/sprinklr/jobs/director-solutions-consultants",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T02:02:16.457Z",
+    "title": "Technical Project Manager QVAC (100% remote Worldwide)",
+    "company": "Tether Operations Limited",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/tether-operations-limited/jobs/technical-project-manager-qvac-100-remote-worldwide",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T02:02:16.457Z",
+    "title": "Hybrid QA Engineer",
+    "company": "Sporty Group",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sporty-group/jobs/hybrid-qa-engineer-7442787334",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T02:02:16.457Z",
+    "title": "Associate Principal Engineer ,Mobile Developer (React Native)",
+    "company": "Nagarro",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nagarro/jobs/associate-principal-engineer-mobile-developer-react-native-1728269932",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T02:02:16.457Z",
+    "title": "Director, Global Quality Systems Governance - Remote (Gaithersburg, MD, US, 2087",
+    "company": "Emergent BioSolutions",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/emergent-biosolutions/jobs/director-global-quality-systems-governance-remote-gaithersburg-md-us-2087",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T02:02:16.457Z",
+    "title": "Salesforce Admin/Release Engineer, CRM Systems",
+    "company": "GitLab",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gitlab-com/jobs/salesforce-admin-release-engineer-crm-systems-1543979811",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T02:02:16.457Z",
+    "title": "Senior Lead Account Executive - Enterprise",
+    "company": "Emburse",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/emburse/jobs/senior-lead-account-executive-enterprise",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T02:02:16.457Z",
+    "title": "Associate ML Engineer",
+    "company": "Derq",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/derq-com/jobs/associate-ml-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T02:02:16.457Z",
+    "title": "LLM Engineer (Mid)",
+    "company": "Tooploox",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/tooploox/jobs/llm-engineer-mid",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 rag",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T02:02:16.457Z",
+    "title": "Senior Product Engineer",
+    "company": "Subsalt (getsubsalt.com)",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47669324",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node",
+      "+1 typescript",
+      "+1 graphql",
+      "-5 us only"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T02:02:16.457Z",
+    "title": "Staff Engineer, Machine Learning",
+    "company": "Nagarro",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nagarro/jobs/staff-engineer-machine-learning-3095297380",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-07T02:02:16.457Z",
+    "title": "Frontend Web Development - Online Instructor - BYU-Pathway Worldwide",
+    "company": "The Church of Jesus Christ of Latter-day Saints",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/the-church-of-jesus-christ-of-latter-day-saints/jobs/frontend-web-development-online-instructor-byu-pathway-worldwide",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-07T02:02:16.457Z",
+    "title": "Senior C++ Developer",
+    "company": "Teramind",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/teramind/jobs/senior-c-developer-4241962741",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws",
+      "-5 c++",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T02:02:16.457Z",
+    "title": "Senior Software Development Engineer, Android",
+    "company": "Ford",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ford/jobs/senior-software-development-engineer-android",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-07T02:02:16.457Z",
+    "title": "Solution Architect for Dynamics 365 Customer Engagement – Customer Insights",
+    "company": "Concentrix",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/concentrix/jobs/solution-architect-for-dynamics-365-customer-engagement-customer-insights-9394085047",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-07T02:02:16.457Z",
+    "title": "Líder de Ingeniería de Datos",
+    "company": "Tenpo",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/tenpo/jobs/lider-de-ingenieria-de-datos",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-07T02:02:16.457Z",
+    "title": "Senior Oracle Reporting Analyst - Remote",
+    "company": "Community Health Systems",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/community-health-systems/jobs/senior-oracle-reporting-analyst-remote",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-07T02:02:16.457Z",
+    "title": "Sr Technical Delivery Manager",
+    "company": "Coderio",
+    "source": "himalayas",
+    "score": -2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/coderio/jobs/sr-technical-delivery-manager-6858444910",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T02:02:16.457Z",
+    "title": "Cloud Integration Engineer",
+    "company": "InTalent Asia",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/intalentglobal/jobs/cloud-integration-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T02:02:16.457Z",
+    "title": "Senior Software Engineer, Developer Productivity",
+    "company": "Cribl",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cribl/jobs/senior-software-engineer-developer-productivity-4497829151",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T02:02:16.457Z",
+    "title": "Senior Trust Accounting Executive",
+    "company": "ProfitCoach",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/profitcoach/jobs/senior-trust-accounting-executive-9323005807",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T02:02:16.457Z",
+    "title": "Senior Estimator",
+    "company": "Boomering Inc",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/boomering-inc/jobs/senior-estimator",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 junior",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T02:02:16.457Z",
+    "title": "Database Platform Administrator (PostgreSQL)",
+    "company": "Infotree Global Solutions",
+    "source": "himalayas",
+    "score": -4,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/infotree-global-solutions/jobs/database-platform-administrator-postgresql",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 postgresql",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T02:02:16.457Z",
+    "title": "AI Engineering Intern",
+    "company": "Actian",
+    "source": "himalayas",
+    "score": -6,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/actian/jobs/ai-engineering-intern",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "-5 internship",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T02:02:16.457Z",
+    "title": "Engineering Intern, Streaming Observability",
+    "company": "Actian",
+    "source": "himalayas",
+    "score": -8,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/actian/jobs/engineering-intern-streaming-observability",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "-5 internship",
+      "+2 salary"
+    ]
   }
 ]
