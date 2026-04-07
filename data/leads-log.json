@@ -63133,5 +63133,670 @@
     "url": "https://www.reddit.com/r/webdev/comments/1setjur/humans_map_an_interactive_graph_visualization/",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-07T15:04:06.176Z",
+    "title": "Senior Full Stack Developer",
+    "company": "Stride, Inc.",
+    "source": "himalayas",
+    "score": 21,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/stride-inc/jobs/senior-full-stack-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 next.js",
+      "+3 node.js",
+      "+3 node",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 aws",
+      "+1 graphql",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:06.639Z",
+    "title": "Shopify Developer m/w/d",
+    "company": "NETFORMIC GmbH",
+    "source": "himalayas",
+    "score": 10,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/netformic-gmbh/jobs/shopify-developer-m-w-d-1858235797",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:06.938Z",
+    "title": "ML Ops Infrastructure Engineer",
+    "company": "Deepgram",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/deepgram/jobs/ml-ops-infrastructure-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:07.213Z",
+    "title": "AI Data Engineer (m/w/d)",
+    "company": "Woodmark Consulting GmbH",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/woodmark-consulting-gmbh/jobs/ai-data-engineer-m-w-d",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 rag",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:07.502Z",
+    "title": "Account Executive",
+    "company": "Tenzir",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/tenzir/jobs/account-executive-2207838735",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:07.794Z",
+    "title": "Software Engineer, Web Product",
+    "company": "Mirage",
+    "source": "wellfound",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://wellfound.com/jobs/4063757-software-engineer-web-product",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.086Z",
+    "title": "Software Engineer, iOS",
+    "company": "Mirage",
+    "source": "wellfound",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://wellfound.com/jobs/4063756-software-engineer-ios",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.383Z",
+    "title": "Software Engineer, Backend",
+    "company": "Mirage",
+    "source": "wellfound",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://wellfound.com/jobs/4063754-software-engineer-backend",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.669Z",
+    "title": "AI-Forward Software Engineer",
+    "company": "Ground Signal",
+    "source": "wellfound",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://wellfound.com/jobs/3612864-ai-forward-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.669Z",
+    "title": "Senior Site Reliability Engineer, HyperShift (Golang, OpenShift/AWS, Linux)",
+    "company": "Red Hat",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/red-hat/jobs/senior-site-reliability-engineer-hypershift-golang-openshift-aws-linux",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.669Z",
+    "title": "Enterprise Account Manager",
+    "company": "Trend Micro",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/trend-micro/jobs/enterprise-account-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.669Z",
+    "title": "Lead Utilization Management Specialist - Appeals",
+    "company": "Sanford Health",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sanford-health/jobs/lead-utilization-management-specialist-appeals-9357893243",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.669Z",
+    "title": "Director of Engineering VistaView & Enterprise CX Intelligence",
+    "company": "Infovista",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/infovista/jobs/director-of-engineering-vistaview-enterprise-cx-intelligence",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.669Z",
+    "title": "Technical Integration Engineer",
+    "company": "Method Financial",
+    "source": "wellfound",
+    "score": 2,
+    "priority": "low",
+    "url": "https://wellfound.com/jobs/3306034-technical-integration-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.669Z",
+    "title": "Software Engineer",
+    "company": "Method Financial",
+    "source": "wellfound",
+    "score": 2,
+    "priority": "low",
+    "url": "https://wellfound.com/jobs/4063748-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.669Z",
+    "title": "Software Engineer",
+    "company": "Metriport",
+    "source": "wellfound",
+    "score": 2,
+    "priority": "low",
+    "url": "https://wellfound.com/jobs/3938137-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.669Z",
+    "title": "Senior Software Engineer",
+    "company": "Metriport",
+    "source": "wellfound",
+    "score": 2,
+    "priority": "low",
+    "url": "https://wellfound.com/jobs/3938136-senior-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.669Z",
+    "title": "Implementation Engineer",
+    "company": "Metriport",
+    "source": "wellfound",
+    "score": 2,
+    "priority": "low",
+    "url": "https://wellfound.com/jobs/3938134-implementation-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.669Z",
+    "title": "Electrical Engineer",
+    "company": "Starfish Space",
+    "source": "wellfound",
+    "score": 2,
+    "priority": "low",
+    "url": "https://wellfound.com/jobs/2726189-electrical-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.669Z",
+    "title": "Software Engineer (Recent Graduate)",
+    "company": "Starfish Space",
+    "source": "wellfound",
+    "score": 2,
+    "priority": "low",
+    "url": "https://wellfound.com/jobs/4063678-software-engineer-recent-graduate",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.669Z",
+    "title": "Experienced Software Engineer",
+    "company": "Starfish Space",
+    "source": "wellfound",
+    "score": 2,
+    "priority": "low",
+    "url": "https://wellfound.com/jobs/3413591-experienced-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.669Z",
+    "title": "Software Engineer - SDET",
+    "company": "Sigma Computing",
+    "source": "wellfound",
+    "score": 2,
+    "priority": "low",
+    "url": "https://wellfound.com/jobs/4063288-software-engineer-sdet",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.669Z",
+    "title": "Software Engineer - Compiler",
+    "company": "Sigma Computing",
+    "source": "wellfound",
+    "score": 2,
+    "priority": "low",
+    "url": "https://wellfound.com/jobs/4063286-software-engineer-compiler",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.670Z",
+    "title": "Software Engineer - Compiler",
+    "company": "Sigma Computing",
+    "source": "wellfound",
+    "score": 2,
+    "priority": "low",
+    "url": "https://wellfound.com/jobs/4063285-software-engineer-compiler",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.670Z",
+    "title": "Staff Software Engineer",
+    "company": "Traba",
+    "source": "wellfound",
+    "score": 2,
+    "priority": "low",
+    "url": "https://wellfound.com/jobs/4063776-staff-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.670Z",
+    "title": "Software Engineer",
+    "company": "Traba",
+    "source": "wellfound",
+    "score": 2,
+    "priority": "low",
+    "url": "https://wellfound.com/jobs/4063775-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.670Z",
+    "title": "Senior Software Engineer",
+    "company": "Traba",
+    "source": "wellfound",
+    "score": 2,
+    "priority": "low",
+    "url": "https://wellfound.com/jobs/4063774-senior-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.670Z",
+    "title": "Software Engineer - SDET",
+    "company": "Sigma Computing",
+    "source": "wellfound",
+    "score": 2,
+    "priority": "low",
+    "url": "https://wellfound.com/jobs/4063124-software-engineer-sdet",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.670Z",
+    "title": "Software Engineer - Compiler",
+    "company": "Sigma Computing",
+    "source": "wellfound",
+    "score": 2,
+    "priority": "low",
+    "url": "https://wellfound.com/jobs/4063122-software-engineer-compiler",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.670Z",
+    "title": "Software Engineer - Compiler",
+    "company": "Sigma Computing",
+    "source": "wellfound",
+    "score": 2,
+    "priority": "low",
+    "url": "https://wellfound.com/jobs/4063121-software-engineer-compiler",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.670Z",
+    "title": "Senior Backend Software Engineer",
+    "company": "Feathr",
+    "source": "wellfound",
+    "score": 2,
+    "priority": "low",
+    "url": "https://wellfound.com/jobs/4063424-senior-backend-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.670Z",
+    "title": "Platform Engineer",
+    "company": "Feathr",
+    "source": "wellfound",
+    "score": 2,
+    "priority": "low",
+    "url": "https://wellfound.com/jobs/4063423-platform-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.670Z",
+    "title": "Service Enablement Team - Engineering Lead (m/w/d)",
+    "company": "shopware AG",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/shopware-ag/jobs/service-enablement-team-engineering-lead-m-w-d",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.670Z",
+    "title": "Matrix42 Developer (w/m/d)",
+    "company": "karriere tutor GmbH",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/karriere-tutor-gmbh/jobs/matrix42-developer-w-m-d-7745364771",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.670Z",
+    "title": "DATA & AI SENIOR PRESALES SOLUTION ARCHITECT - US",
+    "company": "DXC Technology",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/dxc-technology/jobs/data-ai-senior-presales-solution-architect-us",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 rag",
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.670Z",
+    "title": "Procurement Specialist (High Voltage)",
+    "company": "Primoris Services Corporation",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/primoris-services-corporation/jobs/procurement-specialist-high-voltage",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.670Z",
+    "title": "Ascendion - ServiceNow Architect",
+    "company": "Nexthire",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nexthire/jobs/ascendion-servicenow-architect",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.670Z",
+    "title": "Quality Assurance Engineer (m/w/d) - remote DE",
+    "company": "PROLOGA",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/prologa/jobs/quality-assurance-engineer-m-w-d-remote-de-4417862761",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.670Z",
+    "title": "Lead Solutions Engineer",
+    "company": "Verifiable",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/verifiable/jobs/lead-solutions-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.670Z",
+    "title": "Life Sciences Localization Quality Manager",
+    "company": "Welocalize",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/welocalize/jobs/life-sciences-localization-quality-manager",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.670Z",
+    "title": "Cloud Engineer",
+    "company": "iZeno",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/izeno-com/jobs/cloud-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.670Z",
+    "title": "Initiativbewerbung (Festanstellung)",
+    "company": "DEKOM GmbH",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/dekom-gmbh/jobs/initiativbewerbung-festanstellung-8414397809",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.670Z",
+    "title": "Software Engineer",
+    "company": "webstacks",
+    "source": "wellfound",
+    "score": 0,
+    "priority": "low",
+    "url": "https://wellfound.com/jobs/3228951-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.670Z",
+    "title": "Automation Specialist",
+    "company": "SmartPA",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/smartpa/jobs/automation-specialist-7063451128",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.670Z",
+    "title": "Auditor, Clinical Support (Part-time Per Diem)",
+    "company": "DaVita Kidney Care",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/davita-kidney-care/jobs/auditor-clinical-support-part-time-per-diem",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.670Z",
+    "title": "Business Specialist",
+    "company": "CACI International Inc",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/caci-international-inc/jobs/business-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.670Z",
+    "title": "Data Analyst (m/f/d)",
+    "company": "PlentyONE GmbH",
+    "source": "himalayas",
+    "score": -4,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/plentyone-gmbh/jobs/data-analyst-m-f-d",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.670Z",
+    "title": "Crypto Trader (Remote, Full Training Provided)",
+    "company": "Fox Global Assets Ltd",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/fox-global-assets-ltd-crypto-trader-remote-full-training-provided",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.670Z",
+    "title": "Network Engineer",
+    "company": "ScalableOS",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/scalableos/jobs/network-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T15:04:08.670Z",
+    "title": "Strategic Security Consultant (m/f/d) - Key Accounts",
+    "company": "Greenbone AG",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/greenbone-ag/jobs/strategic-security-consultant-m-f-d-key-accounts-8099410613",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
