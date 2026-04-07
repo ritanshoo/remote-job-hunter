@@ -63798,5 +63798,19 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-07T16:53:35.138Z",
+    "title": "Remote Sales - $20/hr - United States",
+    "company": "Remote Talent Cloud",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/remote-talent-cloud-remote-sales-20-hr-united-states",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($20/hr)"
+    ]
   }
 ]
