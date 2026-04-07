@@ -62991,5 +62991,34 @@
       "+2 ai",
       "-5 junior"
     ]
+  },
+  {
+    "timestamp": "2026-04-07T08:57:33.460Z",
+    "title": "Security, Machine Learning",
+    "company": "ThreatMark",
+    "source": "hackernews",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://news.ycombinator.com/item?id=47672075",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 typescript",
+      "+1 postgresql",
+      "+1 aws",
+      "+2 salary($100)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T08:57:33.460Z",
+    "title": "SaaS Product Specialist (German-speaking, EMEA)",
+    "company": "Creative Force",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/creative-force-saas-product-specialist-german-speaking-emea-2",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
