@@ -63812,5 +63812,32 @@
       "-5 intern",
       "+2 salary($20/hr)"
     ]
+  },
+  {
+    "timestamp": "2026-04-07T17:56:02.129Z",
+    "title": "Full-stack/Backend developers LLM focused.",
+    "company": "CloudDevs",
+    "source": "weworkremotely",
+    "score": 7,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/clouddevs-full-stack-backend-developers-llm-focused",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 automation",
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T17:56:02.129Z",
+    "title": "100% Remote",
+    "company": "SafetyWing",
+    "source": "hackernews",
+    "score": 0,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47678523",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
