@@ -1,25 +1,4 @@
 {
-  "8b57e0273910d7c208b67d7ac0c61d3c": {
-    "hash": "8b57e0273910d7c208b67d7ac0c61d3c",
-    "firstSeen": "2026-03-08T10:21:19.521Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "71b2938e6dd84f8f455325bb37874e11": {
-    "hash": "71b2938e6dd84f8f455325bb37874e11",
-    "firstSeen": "2026-03-08T10:21:19.521Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "himalayas"
-  },
-  "d981c759c5e9c1153ac43054195ccc69": {
-    "hash": "d981c759c5e9c1153ac43054195ccc69",
-    "firstSeen": "2026-03-08T11:18:14.980Z",
-    "score": -3,
-    "emailSent": false,
-    "source": "himalayas"
-  },
   "3a720e63eaf22356cd7fee9e81c24604": {
     "hash": "3a720e63eaf22356cd7fee9e81c24604",
     "firstSeen": "2026-03-08T12:40:02.702Z",
@@ -23700,5 +23679,19 @@
     "score": -5,
     "emailSent": false,
     "source": "reddit"
+  },
+  "678b01a6eefb50d650fb1b7d621c7157": {
+    "hash": "678b01a6eefb50d650fb1b7d621c7157",
+    "firstSeen": "2026-04-07T11:51:20.149Z",
+    "score": 5,
+    "emailSent": false,
+    "source": "hackernews"
+  },
+  "43412c3a1816c304ff049c1c95840655": {
+    "hash": "43412c3a1816c304ff049c1c95840655",
+    "firstSeen": "2026-04-07T11:51:20.149Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "hackernews"
   }
 }

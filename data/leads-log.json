@@ -63094,5 +63094,33 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-07T11:51:20.149Z",
+    "title": "Customer Success Engineer",
+    "company": "Trustle",
+    "source": "hackernews",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://news.ycombinator.com/item?id=47673384",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T11:51:20.149Z",
+    "title": "Senior Agentic AI Engineers",
+    "company": "MinimalistechOS (minimalistechos.polsia.app)",
+    "source": "hackernews",
+    "score": 2,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47673019",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
   }
 ]
