@@ -65100,5 +65100,529 @@
     "matchedKeywords": [
       "+2 salary($18)"
     ]
+  },
+  {
+    "timestamp": "2026-04-08T15:06:37.386Z",
+    "title": "Administrator - Full Stack Developer",
+    "company": "Aristo Sourcing",
+    "source": "himalayas",
+    "score": 12,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/aristo-sourcing/jobs/administrator-full-stack-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node",
+      "+1 javascript",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T15:06:37.906Z",
+    "title": "Full Stack Cloud Engineer (AI Security Platform)",
+    "company": "HiddenLayer",
+    "source": "himalayas",
+    "score": 10,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/hiddenlayer/jobs/full-stack-cloud-engineer-ai-security-platform",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+2 ai",
+      "+1 typescript",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T15:06:38.209Z",
+    "title": "Vice President of Engineering, UX/Commercial Applications",
+    "company": "Natera",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/natera/jobs/vice-president-of-engineering-ux-commercial-applications-9770121584",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+2 automation",
+      "+1 typescript",
+      "+1 aws",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T15:06:38.492Z",
+    "title": "Senior Software Engineer",
+    "company": "ZenBusiness",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/zenbusiness/jobs/senior-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T15:06:38.779Z",
+    "title": "Tech Admin (P2) GTM Systems",
+    "company": "Twilio",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/twilio/jobs/tech-admin-p2-gtm-systems",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T15:06:39.069Z",
+    "title": "Ansible Automation Platform (AAP) Architect (Remote, 12-Month Contract)",
+    "company": "Alegra Group AG",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/alegra-group-ag/jobs/ansible-automation-platform-aap-architect-remote-12-month-contract",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T15:06:39.358Z",
+    "title": "Lead Substation Engineer (15+ Years) - V6645VVR",
+    "company": "AP Recruiters & Associates",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/ap-recruiters-associates/jobs/lead-substation-engineer-15-years-v6645vvr",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T15:06:39.649Z",
+    "title": "Customer Engineer, Platform, SLED, New York, Google Public Sector - or",
+    "company": "wewe",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/wewe/jobs/customer-engineer-platform-sled-new-york-google-public-sector-or",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T15:06:39.955Z",
+    "title": "Field CTO, Public Sector",
+    "company": "GitLab",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/gitlab-com/jobs/field-cto-public-sector",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T15:06:40.253Z",
+    "title": "Senior Principal, Technical Program Management (Research & Development)",
+    "company": "Twilio",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/twilio/jobs/senior-principal-technical-program-management-research-development",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T15:06:40.542Z",
+    "title": "Product Engineer (Remote Friendly)",
+    "company": "Nova (branded on job board as \"Nova Talent\")",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/nova-branded-on-job-board-as-nova-talent/jobs/product-engineer-remote-friendly-4681133461",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T15:06:40.835Z",
+    "title": "Senior Backend Engineer II - Devices Cloud",
+    "company": "Life360",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/life360/jobs/senior-backend-engineer-ii-devices-cloud",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T15:06:40.835Z",
+    "title": "Senior Engineer, API and Data (Open to Remote) (New York, NY, US, NY 10019)",
+    "company": "Bertelsmann SE & Co. KGaA",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bertelsmann-se-co-kgaa/jobs/senior-engineer-api-and-data-open-to-remote-new-york-ny-us-ny-10019",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 postgresql",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T15:06:40.835Z",
+    "title": "Senior Backend Engineer",
+    "company": "AffiniPay",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/affinipay/jobs/senior-backend-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T15:06:40.835Z",
+    "title": "SEO Manager",
+    "company": "George Dimov CPA",
+    "source": "weworkremotely",
+    "score": 2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/george-dimov-cpa-seo-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 next.js",
+      "+1 javascript",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T15:06:40.835Z",
+    "title": "Senior Project Manager (m/w/d) für GU Projekte in der Intralogistik - full remot",
+    "company": "Körber",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/korber/jobs/senior-project-manager-m-w-d-fur-gu-projekte-in-der-intralogistik-full-remot",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T15:06:40.835Z",
+    "title": "Account Executive, Stablecoin Payments",
+    "company": "talents lab",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/talents-lab/jobs/account-executive-stablecoin-payments-4316158782",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T15:06:40.835Z",
+    "title": "Ruby on Rails Developer (m/w/d) - Fully remote within Germany",
+    "company": "foodforecast",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/foodforecast/jobs/ruby-on-rails-developer-m-w-d-fully-remote-within-germany-3932106183",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 postgresql",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T15:06:40.835Z",
+    "title": "Data Engineer",
+    "company": "phData",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/phdata/jobs/data-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T15:06:40.835Z",
+    "title": "Journeyman Computer Systems Engineer & Architect",
+    "company": "DMI",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/dmi/jobs/journeyman-computer-systems-engineer-architect",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-08T15:06:40.835Z",
+    "title": "Oracle Consulting Services - Senior Client Executive (Sales) - Northeast",
+    "company": "Argano",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/argano/jobs/oracle-consulting-services-senior-client-executive-sales-northeast",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-08T15:06:40.835Z",
+    "title": "Technical EngineerUtility & Risk Management Analyst (REMOTE, Remote, US)",
+    "company": "Bureau Veritas",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bureau-veritas/jobs/technical-engineerutility-risk-management-analyst-remote-remote-us",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-08T15:06:40.835Z",
+    "title": "Senior Analytics Engineer",
+    "company": "Pion",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pion/jobs/senior-analytics-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 aws",
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T15:06:40.835Z",
+    "title": "Engineering Manager - Fonts & Images Processing",
+    "company": "Canva",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/canva/jobs/engineering-manager-fonts-images-processing",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-08T15:06:40.835Z",
+    "title": "Senior Statistical Programmer FSP",
+    "company": "Cytel",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cytel/jobs/senior-statistical-programmer-fsp-7351476785",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-08T15:06:40.835Z",
+    "title": "Senior Flight Control Software Engineer (Brazil)",
+    "company": "Archer",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/archer/jobs/senior-flight-control-software-engineer-brazil",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-08T15:06:40.835Z",
+    "title": "Network Planning & Provisioning Analyst (WFH)",
+    "company": "Comcast",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/comcast/jobs/network-planning-provisioning-analyst-wfh",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-08T15:06:40.835Z",
+    "title": "Initiativbewerbung",
+    "company": "microtech GmbH",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/microtech-gmbh/jobs/initiativbewerbung-3476731191",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-08T15:06:40.835Z",
+    "title": "Senior Consultant- Oracle EPM Data Integrations",
+    "company": "Argano",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/argano/jobs/senior-consultant-oracle-epm-data-integrations",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-08T15:06:40.835Z",
+    "title": "Senior Localization Technical Program Manager",
+    "company": "Mozilla",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mozilla/jobs/senior-localization-technical-program-manager-605062391",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T15:06:40.835Z",
+    "title": "Backend Developer",
+    "company": "R77 Global",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/r77-global/jobs/backend-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 rest api",
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T15:06:40.835Z",
+    "title": "Coding Expert (US & International)",
+    "company": "HumanSignal",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/humansignal/jobs/coding-expert-us-international",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T15:06:40.835Z",
+    "title": "Blockchain Security Engineer",
+    "company": "ChainSecurity",
+    "source": "hackernews",
+    "score": -3,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47690735",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T15:06:40.835Z",
+    "title": "Backend Developer(Ruby)",
+    "company": "People Profilers Vietnam",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/people-profilers-vietnam/jobs/backend-developer-ruby",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 postgresql",
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T15:06:40.835Z",
+    "title": "Senior Cyber Security Analyst, Application & Infrastructure",
+    "company": "iRhythm",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/irhythm/jobs/senior-cyber-security-analyst-application-infrastructure",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T15:06:40.835Z",
+    "title": "Principal Engineer - Java, Microservice, Kubernetes, Cloud backend development",
+    "company": "HARMAN International",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/harman-international/jobs/principal-engineer-java-microservice-kubernetes-cloud-backend-development",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T15:06:40.835Z",
+    "title": "Sales & Technical Professional for Concrete Block Admixture",
+    "company": "Rust-Oleum",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/rust-oleum/jobs/sales-technical-professional-for-concrete-block-admixture-8452991731",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T15:06:40.835Z",
+    "title": "Remote Backend Python Engineer Internship (Unpaid) - BridgeItApp.org",
+    "company": "Bridge-it",
+    "source": "himalayas",
+    "score": -7,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bridge-it/jobs/remote-backend-python-engineer-internship-unpaid-bridgeitapp-org",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 rest api",
+      "-5 intern",
+      "-5 internship"
+    ]
   }
 ]
