@@ -65794,5 +65794,543 @@
       "-5 intern",
       "-5 internship"
     ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:06.690Z",
+    "title": "Staff AI Product Builder",
+    "company": "Brightwheel",
+    "source": "weworkremotely",
+    "score": 17,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/brightwheel-staff-ai-product-builder",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node",
+      "+2 ai",
+      "+2 automation",
+      "+2 rag",
+      "+1 typescript",
+      "+1 postgresql",
+      "+1 aws",
+      "+1 express",
+      "+1 docker",
+      "-5 intern",
+      "+2 salary($175)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:07.145Z",
+    "title": "Full Stack Developer (Mobile & Expo Focus)",
+    "company": "All Generation Tech",
+    "source": "weworkremotely",
+    "score": 9,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/all-generation-tech-full-stack-developer-mobile-expo-focus",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+1 typescript",
+      "+1 graphql",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:07.424Z",
+    "title": "Full-Stack Developer, AI Applications",
+    "company": "Titan Ai",
+    "source": "weworkremotely",
+    "score": 9,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/titan-ai-full-stack-developer-ai-applications",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+1 typescript",
+      "+1 postgresql",
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:07.700Z",
+    "title": "Senior Product Manager, Payments",
+    "company": "Seatgeek",
+    "source": "weworkremotely",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/seatgeek-senior-product-manager-payments",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 express",
+      "+2 salary($25)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:07.981Z",
+    "title": "Senior ML Infrastructure / DevOps Engineer",
+    "company": "Pathway",
+    "source": "weworkremotely",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/pathway-senior-ml-infrastructure-devops-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:08.253Z",
+    "title": "Senior Product Manager - PLG",
+    "company": "Agiloft",
+    "source": "weworkremotely",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/agiloft-senior-product-manager-plg",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 express"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:08.529Z",
+    "title": "Lead Product Manager - PLG",
+    "company": "Agiloft",
+    "source": "weworkremotely",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/agiloft-lead-product-manager-plg",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 express"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:08.801Z",
+    "title": "Product Designer - All Levels",
+    "company": "Owner",
+    "source": "weworkremotely",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/owner-product-designer-all-levels",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary($200)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:09.075Z",
+    "title": "Senior Product Manager, Security",
+    "company": "Clickhouse",
+    "source": "weworkremotely",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/clickhouse-senior-product-manager-security",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+1 express",
+      "+2 salary($500)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:09.075Z",
+    "title": "Senior Data Analyst, Supply Product",
+    "company": "Seatgeek",
+    "source": "weworkremotely",
+    "score": 3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/seatgeek-senior-data-analyst-supply-product",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 express",
+      "+2 salary($25)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:09.075Z",
+    "title": "Lead Backend Software Engineer (Product API)",
+    "company": "Philo",
+    "source": "weworkremotely",
+    "score": 3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/philo-lead-backend-software-engineer-product-api",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node",
+      "+1 aws",
+      "+1 graphql",
+      "+1 docker",
+      "-5 intern",
+      "+2 salary($200)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:09.075Z",
+    "title": "Technical Product Manager (OTE $70,000/year USD), Sparkrock Finance",
+    "company": "Ionic Partners",
+    "source": "weworkremotely",
+    "score": 2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/ionic-partners-technical-product-manager-ote-70-000-year-usd-sparkrock-finance",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 aws",
+      "-5 intern",
+      "+2 salary($70,000/year)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:09.075Z",
+    "title": "Senior Product Designer - Institutional Custody",
+    "company": "Ava Labs",
+    "source": "weworkremotely",
+    "score": 2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/ava-labs-senior-product-designer-institutional-custody",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "+2 web3",
+      "+1 express",
+      "-5 intern",
+      "+2 salary($153,006)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:09.075Z",
+    "title": "Senior Sales Strategy Manager, New Product",
+    "company": "Samsara",
+    "source": "weworkremotely",
+    "score": 2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/samsara-senior-sales-strategy-manager-new-product",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:09.075Z",
+    "title": "Sr Director, Product Marketing and Strategy",
+    "company": "Accela",
+    "source": "weworkremotely",
+    "score": 2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/accela-sr-director-product-marketing-and-strategy",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($200,000 - $220,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:09.075Z",
+    "title": "Product analyst for Magnetics",
+    "company": "Talentin",
+    "source": "weworkremotely",
+    "score": 2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/talentin-product-analyst-for-magnetics",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 postgresql",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:09.075Z",
+    "title": "Staff Product Designer, Ads Platform",
+    "company": "Reddit",
+    "source": "weworkremotely",
+    "score": 1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/reddit-staff-product-designer-ads-platform",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern",
+      "+2 salary($194,600 - $272,400)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:09.075Z",
+    "title": "Sr. Product Designer II",
+    "company": "Addepar",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/addepar-sr-product-designer-ii",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-08T20:42:09.075Z",
+    "title": "Senior Product Designer, Motion",
+    "company": "Underdog Sports",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/underdog-sports-senior-product-designer-motion",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-08T20:42:09.075Z",
+    "title": "Principal Data Center Design Electrical Engineer",
+    "company": "Montera",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/montera-principal-data-center-design-electrical-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 junior",
+      "+2 salary($220,000 - $250,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:09.075Z",
+    "title": "Staff Product Designer, New Initiatives",
+    "company": "Dropbox",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/dropbox-staff-product-designer-new-initiatives",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary($178,500)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:09.075Z",
+    "title": "Aerospace Product Manager/ Lead Auditor (Remote)",
+    "company": "Sgs Brightsight",
+    "source": "weworkremotely",
+    "score": -2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/sgs-brightsight-aerospace-product-manager-lead-auditor-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 express",
+      "-5 intern",
+      "+2 salary($115,000-$130,000/yr)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:09.075Z",
+    "title": "Senior Product Marketing",
+    "company": "Dlocal",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/dlocal-senior-product-marketing",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:09.075Z",
+    "title": "Product Manager Engagement",
+    "company": "Sparteo",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/sparteo-product-manager-engagement",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:09.075Z",
+    "title": "Senior Director of Product Marketing",
+    "company": "Bitwarden",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/bitwarden-senior-director-of-product-marketing",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($180,000 - $250,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:09.075Z",
+    "title": "Senior AI consultant/GenAI Product Owner",
+    "company": "Hiflylabs",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/hiflylabs-senior-ai-consultant-genai-product-owner",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:09.075Z",
+    "title": "Principal Product Marketing Manager",
+    "company": "Kentik",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/kentik-principal-product-marketing-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($157,000 - $210,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:09.075Z",
+    "title": "Director of Product Compliance",
+    "company": "Upstart",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/upstart-director-of-product-compliance",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:09.075Z",
+    "title": "DevOps Engineer - Observability",
+    "company": "Lingaro",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/lingaro-devops-engineer-observability",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 postgresql",
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:09.075Z",
+    "title": "Lead Fire Protection Engineer - Fire Alarm Design",
+    "company": "Jensen Hughes",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jensen-hughes-lead-fire-protection-engineer-fire-alarm-design",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:09.075Z",
+    "title": "Director of Sales – US Commercial Space",
+    "company": "Kepler",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/kepler-director-of-sales-us-commercial-space",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:09.075Z",
+    "title": "Product Manager II - Reporting & Analytics",
+    "company": "Equip Health",
+    "source": "weworkremotely",
+    "score": -4,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/equip-health-product-manager-ii-reporting-analytics",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 express",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:09.075Z",
+    "title": "Principal Product Manager, Security & Compliance",
+    "company": "Gitlab",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/gitlab-principal-product-manager-security-compliance",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 express",
+      "-5 intern",
+      "-5 united states only",
+      "+2 salary($145,600 - $312,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:09.075Z",
+    "title": "Product Data and Labeling Specialist",
+    "company": "Hire Overseas",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/hire-overseas-product-data-and-labeling-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:09.075Z",
+    "title": "(Fluent English) Customer Support Consultant, E-commerce (remote)",
+    "company": "Supportyourapp",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/supportyourapp-fluent-english-customer-support-consultant-e-commerce-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T20:42:09.075Z",
+    "title": "Principal, Visual Design",
+    "company": "Dept",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/dept-principal-visual-design",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
