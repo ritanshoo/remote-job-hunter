@@ -64494,5 +64494,401 @@
       "-5 junior",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-08T02:03:16.191Z",
+    "title": "Senior Backend Developer",
+    "company": "name",
+    "source": "himalayas",
+    "score": 12,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/xpate/jobs/senior-backend-developer-1248083391",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node.js",
+      "+3 node",
+      "+2 ai",
+      "+1 typescript",
+      "+1 postgresql",
+      "+1 aws",
+      "+1 rest api"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T02:03:16.647Z",
+    "title": "Web3 Security Specialist",
+    "company": "Binance",
+    "source": "himalayas",
+    "score": 8,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/binance/jobs/web3-security-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "+2 web3",
+      "+2 smart contract",
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T02:03:16.922Z",
+    "title": "ShareCare - Front-end Engineer",
+    "company": "name",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/silver-dev/jobs/sharecare-front-end-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+1 rest api"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T02:03:17.193Z",
+    "title": "QA Tester",
+    "company": "Motorola Solutions",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/motorola-solutions/jobs/qa-tester-7545245850",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T02:03:17.479Z",
+    "title": "Engineer, IT Auto & Monitoring - IT Infrastructure - Full Time",
+    "company": "Guthrie",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/guthrie/jobs/engineer-it-auto-monitoring-it-infrastructure-full-time-9578028618",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T02:03:17.756Z",
+    "title": "Senior Software Engineer I (Frontend)",
+    "company": "Inductive Automation",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/inductive-automation/jobs/senior-software-engineer-i-frontend-3805171287",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T02:03:17.756Z",
+    "title": "Senior Developer Advocate, Partner Ecosystem",
+    "company": "Deepgram",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/deepgram/jobs/senior-developer-advocate-partner-ecosystem",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T02:03:17.756Z",
+    "title": "Lead Network Engineer - Remote US",
+    "company": "SAMC SitusAMC Holdings Corp",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/samc-situsamc-holdings-corp/jobs/lead-network-engineer-remote-us-812687063",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T02:03:17.756Z",
+    "title": "Site Quality Lead BIM",
+    "company": "name",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/general-dynamics-information-technology/jobs/site-quality-lead-bim",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T02:03:17.756Z",
+    "title": "[Job-28465] Senior Java Developer, Brazil",
+    "company": "CI&T",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ci-t/jobs/job-28465-senior-java-developer-brazil",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 postgresql",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T02:03:17.756Z",
+    "title": "Senior Azure Data Engineer",
+    "company": "Parexel",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/parexel/jobs/senior-azure-data-engineer-3456190905",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T02:03:17.756Z",
+    "title": "Account Executive",
+    "company": "Rocket Software",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/rocket-software/jobs/account-executive-4621832685",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T02:03:17.756Z",
+    "title": "Data Pipelines Engineer",
+    "company": "Leidos",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/leidos/jobs/data-pipelines-engineer-4024733752",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T02:03:17.756Z",
+    "title": "Entrepreneur in Residence - Technical Co-founder (CTO)",
+    "company": "FutureSight",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/futuresight/jobs/entrepreneur-in-residence-technical-co-founder-cto-553702314",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T02:03:17.756Z",
+    "title": "ServiceNow Engineer",
+    "company": "Employbridge",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/employbridge/jobs/servicenow-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T02:03:17.756Z",
+    "title": "Digital Designer & Web Developer",
+    "company": "Adventure Travel 365",
+    "source": "weworkremotely",
+    "score": 1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/adventure-travel-365-digital-designer-web-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T02:03:17.756Z",
+    "title": "Senior Data Engineer",
+    "company": "name",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mckesson/jobs/senior-data-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-08T02:03:17.756Z",
+    "title": "Technical Lead, Power System Studies",
+    "company": "name",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/stantec/jobs/technical-lead-power-system-studies-6222721323",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-08T02:03:17.756Z",
+    "title": "Enterprise Account Executive DACH (m/f/x)",
+    "company": "name",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/makersite/jobs/enterprise-account-executive-dach-m-f-x",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-08T02:03:17.756Z",
+    "title": "Team Lead Operations (all genders)",
+    "company": "envelio",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/envelio/jobs/team-lead-operations-all-genders-305959498",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-08T02:03:17.756Z",
+    "title": "Senior Test engineer_Cards domain",
+    "company": "Expleo",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/expleogroup/jobs/senior-test-engineer_cards-domain",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-08T02:03:17.756Z",
+    "title": "Engineer - Equipment Support",
+    "company": "MKS Instruments",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mks-instruments/jobs/engineer-equipment-support",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-08T02:03:17.756Z",
+    "title": "Senior Data Engineer",
+    "company": "CoverMyMeds",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/covermymeds/jobs/senior-data-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-08T02:03:17.756Z",
+    "title": "(Senior) Data Consultant (all genders)",
+    "company": "Dein Einstieg bei der ]init[ AG",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/dein-einstieg-bei-der-init-ag/jobs/senior-data-consultant-all-genders-5001109150",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-08T02:03:17.756Z",
+    "title": "Cloud Security Architect - Mid",
+    "company": "name",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ais-applied-information-sciences/jobs/cloud-security-architect-mid-6206932996",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 junior",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T02:03:17.756Z",
+    "title": "Global Quality Systems & Compliance Lead",
+    "company": "name",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/kindeva-drug-delivery/jobs/global-quality-systems-compliance-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T02:03:17.756Z",
+    "title": "Technology Communications Specialist",
+    "company": "name",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/netflix/jobs/technology-communications-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T02:03:17.756Z",
+    "title": "Neue Talente - Initiativbewerbung (all genders)",
+    "company": "envelio",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/envelio/jobs/neue-talente-initiativbewerbung-all-genders",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T02:03:17.756Z",
+    "title": "Director, BISO (LATAM)",
+    "company": "Foundever",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/foundever/jobs/director-biso-latam",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T02:03:17.756Z",
+    "title": "Senior SRE / DevOps Engineer DF025BG",
+    "company": "Coderio",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/coderio/jobs/senior-sre-devops-engineer-df025bg",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
