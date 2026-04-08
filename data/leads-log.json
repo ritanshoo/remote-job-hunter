@@ -65624,5 +65624,32 @@
       "-5 intern",
       "-5 internship"
     ]
+  },
+  {
+    "timestamp": "2026-04-08T16:57:34.403Z",
+    "title": "Case Processing Manager (Remote - Texas)",
+    "company": "Sneed|Mitchell LLP",
+    "source": "workingnomads",
+    "score": 3,
+    "priority": "low",
+    "url": "https://www.workingnomads.com/job/go/1527355/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 express",
+      "+2 salary($18)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T16:57:34.403Z",
+    "title": "Fractional Growth Marketer",
+    "company": "Coreli",
+    "source": "workingnomads",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.workingnomads.com/job/go/1527356/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
   }
 ]
