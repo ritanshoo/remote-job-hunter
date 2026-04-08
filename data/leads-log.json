@@ -65040,5 +65040,36 @@
       "-5 intern",
       "+2 salary($20-$25)"
     ]
+  },
+  {
+    "timestamp": "2026-04-08T08:56:56.817Z",
+    "title": "QA Engineer - AI, Automation & Intelligent Testing",
+    "company": "Secure Privacy",
+    "source": "weworkremotely",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/secure-privacy-qa-engineer-ai-automation-intelligent-testing",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 javascript",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T08:56:56.817Z",
+    "title": "Engagement Manager (US - ET)",
+    "company": "Chooose",
+    "source": "weworkremotely",
+    "score": -2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/chooose-engagement-manager-us-et",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 express",
+      "-5 intern",
+      "+2 salary($50)"
+    ]
   }
 ]
