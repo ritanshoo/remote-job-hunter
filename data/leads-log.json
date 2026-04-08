@@ -65071,5 +65071,34 @@
       "-5 intern",
       "+2 salary($50)"
     ]
+  },
+  {
+    "timestamp": "2026-04-08T11:53:50.264Z",
+    "title": "Vibe Coder Wanted",
+    "company": "Wonder Dog",
+    "source": "weworkremotely",
+    "score": 9,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/wonder-dog-vibe-coder-wanted",
+    "emailSent": true,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 next.js",
+      "+2 ai",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T11:53:50.264Z",
+    "title": "Growth Marketer – Korea",
+    "company": "Arno",
+    "source": "weworkremotely",
+    "score": 2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/arno-growth-marketer-korea",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($18)"
+    ]
   }
 ]
