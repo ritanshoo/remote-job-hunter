@@ -64890,5 +64890,155 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-08T05:09:45.210Z",
+    "title": "Remote US",
+    "company": "Senior Software Engineer (IC2)",
+    "source": "reddit",
+    "score": 8,
+    "priority": "high",
+    "url": "https://www.reddit.com/r/forhire/comments/1sf525f/hiring_senior_software_engineer_ic2_remote_us/",
+    "emailSent": true,
+    "matchedKeywords": [
+      "+3 node.js",
+      "+3 node",
+      "+1 typescript",
+      "+1 postgresql",
+      "+1 aws",
+      "+1 graphql",
+      "+1 rest api",
+      "-5 must be authorized to work in the us",
+      "+2 salary($65)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T05:09:45.861Z",
+    "title": "Head of Customer Success & Operations",
+    "company": "Socialware",
+    "source": "weworkremotely",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/socialware-head-of-customer-success-operations",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 web3",
+      "+2 salary($4,000-8,000/mo)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T05:09:45.861Z",
+    "title": "Scaling to EU/US market: Is WordPress still the king, and where do Nuxt/React stand?",
+    "company": "",
+    "source": "reddit",
+    "score": 3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1sexphm/scaling_to_euus_market_is_wordpress_still_the/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T05:09:45.861Z",
+    "title": "(Online) Part Time Social Media Manager ($25/hr)",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sfg5xb/hiring_online_part_time_social_media_manager_25hr/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($25/hr)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T05:09:45.861Z",
+    "title": "Instagram Content Creator – Remote – $150–$250/month",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sfbw49/hiring_instagram_content_creator_remote/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T05:09:45.861Z",
+    "title": "This might be the easiest remote job I’ve seen ($35/hr)",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sfamby/hiring_this_might_be_the_easiest_remote_job_ive/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($35/hr)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T05:09:45.861Z",
+    "title": "GENERATE HIGH QUALITY AI IMAGE $10 PAY",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sf54sn/hiring_generate_high_quality_ai_image_10_pay/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T05:09:45.861Z",
+    "title": "Manage my SaaS Instagram account",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sf8ijz/hiring_manage_my_saas_instagram_account/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-08T05:09:45.861Z",
+    "title": "What do hiring managers look for in portfolio websites?",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1sf7jrm/what_do_hiring_managers_look_for_in_portfolio/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-08T05:09:45.861Z",
+    "title": "Looking for the developer who can help with my business ($30~$50/hourly)",
+    "company": "",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sf7bmf/hiring_looking_for_the_developer_who_can_help/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 junior",
+      "+2 salary($30)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-08T05:09:45.861Z",
+    "title": "Remote Chat Manager $20-$25/h",
+    "company": "",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sf2upz/hiring_remote_chat_manager_2025h/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($20-$25)"
+    ]
   }
 ]
