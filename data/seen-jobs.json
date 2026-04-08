@@ -25107,5 +25107,26 @@
     "score": 2,
     "emailSent": false,
     "source": "workingnomads"
+  },
+  "04569fa02b555756ab0b4eb0ce369007": {
+    "hash": "04569fa02b555756ab0b4eb0ce369007",
+    "firstSeen": "2026-04-08T18:08:03.234Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "3d2da7d85d8fa2b77011f501e0e1e90e": {
+    "hash": "3d2da7d85d8fa2b77011f501e0e1e90e",
+    "firstSeen": "2026-04-08T18:08:03.234Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "57c1d03f353dbd61ee784a44b0800e11": {
+    "hash": "57c1d03f353dbd61ee784a44b0800e11",
+    "firstSeen": "2026-04-08T18:08:03.234Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remotive"
   }
 }
