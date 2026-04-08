@@ -66332,5 +66332,22 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-08T21:38:06.676Z",
+    "title": "AI Engineer",
+    "company": "Curie",
+    "source": "hackernews",
+    "score": 7,
+    "priority": "high",
+    "url": "https://news.ycombinator.com/item?id=47696074",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 rag",
+      "+1 postgresql",
+      "+1 aws",
+      "+1 graphql"
+    ]
   }
 ]
