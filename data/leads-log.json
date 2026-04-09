@@ -67296,5 +67296,18 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-09T17:03:15.176Z",
+    "title": "Backend Engineer",
+    "company": "Twindo (Formerly Canvas; The Spatial Computing Company)",
+    "source": "hackernews",
+    "score": 3,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47705982",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack"
+    ]
   }
 ]

@@ -1,11 +1,4 @@
 {
-  "dbd1ab955937e62723f16184a4175fb5": {
-    "hash": "dbd1ab955937e62723f16184a4175fb5",
-    "firstSeen": "2026-03-10T16:06:38.475Z",
-    "score": -5,
-    "emailSent": false,
-    "source": "weworkremotely"
-  },
   "6fee10d24b819fcb2105c81940d5fa7d": {
     "hash": "6fee10d24b819fcb2105c81940d5fa7d",
     "firstSeen": "2026-03-10T17:43:06.528Z",
@@ -25450,5 +25443,47 @@
     "score": -5,
     "emailSent": false,
     "source": "himalayas"
+  },
+  "c1f055217e056dffa36382c205e9a6f9": {
+    "hash": "c1f055217e056dffa36382c205e9a6f9",
+    "firstSeen": "2026-04-09T17:03:14.906Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "96f223722e290eef14601d6b94cbe56f": {
+    "hash": "96f223722e290eef14601d6b94cbe56f",
+    "firstSeen": "2026-04-09T17:03:14.906Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "5343e074166ed7eb3bee05305a90559a": {
+    "hash": "5343e074166ed7eb3bee05305a90559a",
+    "firstSeen": "2026-04-09T17:03:14.906Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "a6cc20aacd26b4ba45f47f1663fc3a48": {
+    "hash": "a6cc20aacd26b4ba45f47f1663fc3a48",
+    "firstSeen": "2026-04-09T17:03:14.906Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "8f5a9c542da12e7869e444e5ec17e3bc": {
+    "hash": "8f5a9c542da12e7869e444e5ec17e3bc",
+    "firstSeen": "2026-04-09T17:03:14.906Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "d706841f2c6a676c57a5185dcd1cd991": {
+    "hash": "d706841f2c6a676c57a5185dcd1cd991",
+    "firstSeen": "2026-04-09T17:03:15.176Z",
+    "score": 3,
+    "emailSent": false,
+    "source": "hackernews"
   }
 }
