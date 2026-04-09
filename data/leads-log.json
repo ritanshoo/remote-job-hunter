@@ -66364,5 +66364,42 @@
       "+1 aws",
       "+2 salary"
     ]
+  },
+  {
+    "timestamp": "2026-04-09T01:54:53.273Z",
+    "title": "high quality YouTube shorts type editor",
+    "company": "",
+    "source": "reddit",
+    "score": 3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sg47nv/hiring_high_quality_youtube_shorts_type_editor/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react"
+    ]
+  },
+  {
+    "timestamp": "2026-04-09T01:54:53.273Z",
+    "title": "here's what actually worked and what didn't",
+    "company": "I built a full SaaS product in ~10 hours using Claude Code",
+    "source": "reddit",
+    "score": 3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1sg93te/i_built_a_full_saas_product_in_10_hours_using/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react"
+    ]
+  },
+  {
+    "timestamp": "2026-04-09T01:54:53.274Z",
+    "title": "Commission-Based Website Leads (50/50 Split)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sg589y/hiring_commissionbased_website_leads_5050_split/",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
