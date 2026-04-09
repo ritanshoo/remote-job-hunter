@@ -25310,5 +25310,19 @@
     "score": -5,
     "emailSent": false,
     "source": "himalayas"
+  },
+  "685d581cc473d69865e2d925085f7676": {
+    "hash": "685d581cc473d69865e2d925085f7676",
+    "firstSeen": "2026-04-09T06:20:04.933Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "3f48ef48ecdf0672f97fb193363129bb": {
+    "hash": "3f48ef48ecdf0672f97fb193363129bb",
+    "firstSeen": "2026-04-09T06:20:05.300Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "workingnomads"
   }
 }
