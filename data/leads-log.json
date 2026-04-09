@@ -66770,5 +66770,48 @@
     "matchedKeywords": [
       "+2 salary($20)"
     ]
+  },
+  {
+    "timestamp": "2026-04-09T08:18:25.207Z",
+    "title": "This is what a North Korean state sponsored hackers wallet looks like when you score it",
+    "company": "",
+    "source": "reddit",
+    "score": 8,
+    "priority": "high",
+    "url": "https://www.reddit.com/r/webdev/comments/1sge1c6/this_is_what_a_north_korean_state_sponsored/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 next.js",
+      "+2 ethereum",
+      "+1 typescript",
+      "+2 salary($625)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-09T08:18:25.207Z",
+    "title": "UK 🇬🇧 | Canada 🇨🇦 Only",
+    "company": "Virtual Assistants – $90 per Task (Remote) 💼 USA 🇺🇸",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sgcj8x/hiring_virtual_assistants_90_per_task_remote_usa/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($90)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-09T08:18:25.207Z",
+    "title": "Video Project Manager (Direct Response / Ads / VSL)",
+    "company": "Brook Hiddink - Highticket.io",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/brook-hiddink-highticket-io-video-project-manager-direct-response-ads-vsl",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 junior"
+    ]
   }
 ]
