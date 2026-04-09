@@ -66813,5 +66813,16 @@
       "+2 ai",
       "-5 junior"
     ]
+  },
+  {
+    "timestamp": "2026-04-09T10:09:48.438Z",
+    "title": "Executive Assistant",
+    "company": "Better",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/better-executive-assistant",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
