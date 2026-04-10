@@ -68464,5 +68464,44 @@
       "-5 usa only",
       "+2 salary($500)"
     ]
+  },
+  {
+    "timestamp": "2026-04-10T10:50:19.859Z",
+    "title": "Senior AI Engineer / Data Annotator",
+    "company": "Lemon.io",
+    "source": "weworkremotely",
+    "score": 29,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-ai-engineer-data-annotator",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 next.js",
+      "+3 node.js",
+      "+3 node",
+      "+2 blockchain",
+      "+2 solana",
+      "+2 web3",
+      "+2 solidity",
+      "+2 ai",
+      "+2 llm",
+      "+2 langchain",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T10:50:19.859Z",
+    "title": "Senior JS developer",
+    "company": "Digital Vitamins",
+    "source": "hackernews",
+    "score": 3,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47715598",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react"
+    ]
   }
 ]
