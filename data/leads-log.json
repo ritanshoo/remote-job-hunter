@@ -68314,5 +68314,155 @@
       "-5 intern",
       "-5 c/c++"
     ]
+  },
+  {
+    "timestamp": "2026-04-10T09:07:14.195Z",
+    "title": "$4–6K USD/month — Next.js 14 + Claude API — Remote (EU / LatAm / India)",
+    "company": "Senior Full-Stack Engineer",
+    "source": "reddit",
+    "score": 12,
+    "priority": "high",
+    "url": "https://www.reddit.com/r/remotejs/comments/1sh9f2t/hiring_senior_fullstack_engineer_46k_usdmonth/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 next.js",
+      "+2 ai",
+      "+2 llm",
+      "+1 typescript",
+      "+1 postgresql"
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T09:07:14.670Z",
+    "title": "CTO/Lead Engineer and a Cybersecurity Consultant",
+    "company": "",
+    "source": "reddit",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/forhire/comments/1sgyxh6/hiring_ctolead_engineer_and_a_cybersecurity/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary($175,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T09:07:14.670Z",
+    "title": "(Online) Need Digital PDF Sewing Patterns Layered $15 per file",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1shbz06/hiring_online_need_digital_pdf_sewing_patterns/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T09:07:14.670Z",
+    "title": "Technical Blogger / Writer Needed for Startup Up to $10,000",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1shbnre/technical_blogger_writer_needed_for_startup_up_to/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T09:07:14.670Z",
+    "title": "$30–$40/hr)",
+    "company": "English–Portuguese Interpreter (Onsite – Indianapolis, IN",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sh29jj/hiring_englishportuguese_interpreter_onsite/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($30–$40/hr)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T09:07:14.670Z",
+    "title": "$30–$40/hr)",
+    "company": "English–Portuguese Interpreter (Onsite – Indianapolis, IN",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sh28h0/hiring_englishportuguese_interpreter_onsite/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($30–$40/hr)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T09:07:14.670Z",
+    "title": "[USA]Those online, Simple Paid Survey of $45 in 40 minutes today [usa]",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sh1yta/hiring_usathose_online_simple_paid_survey_of_45/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($45)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T09:07:14.670Z",
+    "title": "Remote Part-Time Support Role ($15–$18/hour)",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sh1kbp/hiring_remote_parttime_support_role_1518hour/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($15–$18/hour)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T09:07:14.670Z",
+    "title": "1 Hour)",
+    "company": "Wearable Tech Sensory Study Participant (Redmond, WA) ($75",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sgwtr3/hiring_wearable_tech_sensory_study_participant/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($75)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T09:07:14.670Z",
+    "title": "What are people using for onboarding tours that isn't a SaaS black box?",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1sh1c01/what_are_people_using_for_onboarding_tours_that/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-10T09:07:14.670Z",
+    "title": "Looking for 15(min) people interested in simple Ai training tasks (Remote) pays $500 /week. USA ONLY",
+    "company": "",
+    "source": "reddit",
+    "score": -6,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sh8del/hiring_looking_for_15min_people_interested_in/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "-5 usa only",
+      "+2 salary($500)"
+    ]
   }
 ]
