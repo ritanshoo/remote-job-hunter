@@ -67921,5 +67921,34 @@
       "-5 intern",
       "-5 internship"
     ]
+  },
+  {
+    "timestamp": "2026-04-10T02:08:10.416Z",
+    "title": "Senior Full-Stack Engineer",
+    "company": "RDE Advisors",
+    "source": "hackernews",
+    "score": 9,
+    "priority": "high",
+    "url": "https://news.ycombinator.com/item?id=47712573",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 next.js",
+      "+2 llm",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T02:08:10.416Z",
+    "title": "Supply Chain Manager (LATAM)",
+    "company": "WALTER",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/walter-supply-chain-manager-latam",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
