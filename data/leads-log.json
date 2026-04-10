@@ -69122,5 +69122,91 @@
     "matchedKeywords": [
       "+1 aws"
     ]
+  },
+  {
+    "timestamp": "2026-04-10T20:31:55.966Z",
+    "title": "Full Stack Developer (.NET & React) (WFH) - #34881",
+    "company": "Manila Recruitment",
+    "source": "weworkremotely",
+    "score": 9,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/manila-recruitment-full-stack-developer-net-react-wfh-34881",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+1 typescript",
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T20:31:56.434Z",
+    "title": "Customer Support Executive  AI Platform",
+    "company": "Sai Group Ltd",
+    "source": "weworkremotely",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/sai-group-ltd-customer-support-executive-ai-platform",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 mongodb",
+      "+1 postgresql"
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T20:31:56.434Z",
+    "title": "System Design / Solution Architect",
+    "company": "Ssc Hr Solutions",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/ssc-hr-solutions-system-design-solution-architect",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-10T20:31:56.434Z",
+    "title": "Customer Support Specialist (AI SaaS Platform)",
+    "company": "Hire Overseas",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/hire-overseas-customer-support-specialist-ai-saas-platform",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T20:31:56.434Z",
+    "title": "Head of Experience Design",
+    "company": "Jimdo",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/jimdo-head-of-experience-design",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T20:31:56.434Z",
+    "title": "Senior FinCrime Product Owner",
+    "company": "Deblock",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/deblock-senior-fincrime-product-owner",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 web3",
+      "-5 intern"
+    ]
   }
 ]
