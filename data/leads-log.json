@@ -68517,5 +68517,118 @@
       "+2 blockchain",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-10T15:48:11.064Z",
+    "title": "Remote | $18/hr | No CS degree or experience required",
+    "company": "Vibe Coder",
+    "source": "reddit",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/forhire/comments/1sho0m5/hiring_vibe_coder_remote_18hr_no_cs_degree_or/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 next.js",
+      "+2 ai",
+      "-5 intern",
+      "+2 salary($18/hr)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T15:48:11.064Z",
+    "title": "100$",
+    "company": "Need a wix developer / designer to build a website fully",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1shpv4u/hiring_need_a_wix_developer_designer_to_build_a/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($100)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T15:48:11.064Z",
+    "title": "Looking for Python developer experienced in screen automation (PyAutoGUI, OpenCV). Game-related project",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1shotoz/hiring_looking_for_python_developer_experienced/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T15:48:11.064Z",
+    "title": "Translators ENG > Many languages. ---->Romantasy romantic fantasy NSFW novel",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1shhhow/hiring_translators_eng_many_languages_romantasy/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T15:48:11.064Z",
+    "title": "Tricks to build a website today (without ending up with something that looks like everyone else’s)",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1shmkdr/tricks_to_build_a_website_today_without_ending_up/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T15:48:11.064Z",
+    "title": "UP TO $1270 BASEPAY",
+    "company": "Paid Tech UGC",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1shlcim/hiring_paid_tech_ugc_up_to_1270_basepay/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-10T15:48:11.064Z",
+    "title": "Remote | 21-27 per hour)",
+    "company": "Operations Coordinator (Part-Time",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1shkkx9/hiring_operations_coordinator_parttime_remote/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-10T15:48:11.064Z",
+    "title": "What are the best residential proxies you've used and would recommend?",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1shp2yr/what_are_the_best_residential_proxies_youve_used/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-10T15:48:11.064Z",
+    "title": "Any OpenRouter alternatives?",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1shkdl1/any_openrouter_alternatives/",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
