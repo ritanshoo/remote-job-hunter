@@ -1,95 +1,4 @@
 {
-  "c71367fb5fd843f7fb4dcdb715e652cc": {
-    "hash": "c71367fb5fd843f7fb4dcdb715e652cc",
-    "firstSeen": "2026-03-11T21:29:07.835Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "remoteok"
-  },
-  "04fea0d9840952a49081c59e5c7f64fb": {
-    "hash": "04fea0d9840952a49081c59e5c7f64fb",
-    "firstSeen": "2026-03-11T21:29:07.835Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "weworkremotely"
-  },
-  "86000a761fddaff8c1e1451eb97c1304": {
-    "hash": "86000a761fddaff8c1e1451eb97c1304",
-    "firstSeen": "2026-03-11T21:29:15.108Z",
-    "score": 5,
-    "emailSent": false,
-    "source": "weworkremotely"
-  },
-  "48ad5d9df218b8cc6d39d67b74b0224c": {
-    "hash": "48ad5d9df218b8cc6d39d67b74b0224c",
-    "firstSeen": "2026-03-11T21:29:15.108Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "weworkremotely"
-  },
-  "53c6d20858d4edd44721334a49374c7e": {
-    "hash": "53c6d20858d4edd44721334a49374c7e",
-    "firstSeen": "2026-03-11T21:29:15.108Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "weworkremotely"
-  },
-  "ee7ad69b016915e4f1d3feada9a881d9": {
-    "hash": "ee7ad69b016915e4f1d3feada9a881d9",
-    "firstSeen": "2026-03-11T21:29:15.108Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "weworkremotely"
-  },
-  "2fdb4c3616ce8be0ef88264cee03b3a8": {
-    "hash": "2fdb4c3616ce8be0ef88264cee03b3a8",
-    "firstSeen": "2026-03-11T21:29:15.108Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "weworkremotely"
-  },
-  "03f09d996bbccede3974ee5a85bd47d7": {
-    "hash": "03f09d996bbccede3974ee5a85bd47d7",
-    "firstSeen": "2026-03-11T21:29:15.108Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "weworkremotely"
-  },
-  "593753d9002f48c73b3ac4786fe54a6f": {
-    "hash": "593753d9002f48c73b3ac4786fe54a6f",
-    "firstSeen": "2026-03-11T21:29:15.108Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "hackernews"
-  },
-  "31d9e1b89968f9631afdf575498c7b78": {
-    "hash": "31d9e1b89968f9631afdf575498c7b78",
-    "firstSeen": "2026-03-11T21:29:15.108Z",
-    "score": -1,
-    "emailSent": false,
-    "source": "weworkremotely"
-  },
-  "2eefd22b83dbe769bae643e190eec67b": {
-    "hash": "2eefd22b83dbe769bae643e190eec67b",
-    "firstSeen": "2026-03-11T21:29:15.108Z",
-    "score": -2,
-    "emailSent": false,
-    "source": "weworkremotely"
-  },
-  "9b71e27ca4e26641c7aad80c7644cb23": {
-    "hash": "9b71e27ca4e26641c7aad80c7644cb23",
-    "firstSeen": "2026-03-11T21:29:15.108Z",
-    "score": -3,
-    "emailSent": false,
-    "source": "weworkremotely"
-  },
-  "014a1cf2a92565be9cf2ecd8b2ca5a88": {
-    "hash": "014a1cf2a92565be9cf2ecd8b2ca5a88",
-    "firstSeen": "2026-03-11T21:29:15.108Z",
-    "score": -4,
-    "emailSent": false,
-    "source": "weworkremotely"
-  },
   "2a057955909ca2fcb6e234d589b514b3": {
     "hash": "2a057955909ca2fcb6e234d589b514b3",
     "firstSeen": "2026-03-11T22:23:47.886Z",
@@ -25534,5 +25443,40 @@
     "score": -3,
     "emailSent": false,
     "source": "weworkremotely"
+  },
+  "46acfe3514eda1da262aac9c67e2f7a3": {
+    "hash": "46acfe3514eda1da262aac9c67e2f7a3",
+    "firstSeen": "2026-04-10T21:33:26.862Z",
+    "score": 8,
+    "emailSent": false,
+    "source": "hackernews"
+  },
+  "958a923edde0243fc4f9f9fe3d9bed62": {
+    "hash": "958a923edde0243fc4f9f9fe3d9bed62",
+    "firstSeen": "2026-04-10T21:33:27.313Z",
+    "score": 7,
+    "emailSent": false,
+    "source": "jobicy"
+  },
+  "774b1eeaba9060ecb251902f78068a8b": {
+    "hash": "774b1eeaba9060ecb251902f78068a8b",
+    "firstSeen": "2026-04-10T21:33:27.313Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "hackernews"
+  },
+  "9fea7081e42b572ae46933022b3178e1": {
+    "hash": "9fea7081e42b572ae46933022b3178e1",
+    "firstSeen": "2026-04-10T21:33:27.313Z",
+    "score": -5,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "e7127602600a7ce977d0d58314b360e6": {
+    "hash": "e7127602600a7ce977d0d58314b360e6",
+    "firstSeen": "2026-04-10T21:33:27.313Z",
+    "score": -5,
+    "emailSent": false,
+    "source": "jobicy"
   }
 }

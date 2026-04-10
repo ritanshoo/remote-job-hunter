@@ -69208,5 +69208,80 @@
       "+2 web3",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-10T21:33:26.862Z",
+    "title": "HostGPO - Engineering Role",
+    "company": "HostGPO",
+    "source": "hackernews",
+    "score": 8,
+    "priority": "high",
+    "url": "https://news.ycombinator.com/item?id=47723411",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 graphql",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T21:33:27.313Z",
+    "title": "Full-Stack Software Engineer (AI-Enhanced Development)",
+    "company": "World Wide Technology",
+    "source": "jobicy",
+    "score": 7,
+    "priority": "high",
+    "url": "https://jobicy.com/jobs/141760-full-stack-software-engineer-ai-enhanced-development",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+1 mongodb",
+      "+1 postgresql"
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T21:33:27.313Z",
+    "title": "Business Development Representative",
+    "company": "Engineering Square",
+    "source": "hackernews",
+    "score": 2,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47723777",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T21:33:27.313Z",
+    "title": "Customer Support Email Specialist",
+    "company": "Giftly, Inc",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/giftly-inc-customer-support-email-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T21:33:27.313Z",
+    "title": "Principal Software Engineer (React/.Net)",
+    "company": "Claritev",
+    "source": "jobicy",
+    "score": -5,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/141762-principal-software-engineer-react-net",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 automation",
+      "-5 junior",
+      "-5 intern"
+    ]
   }
 ]
