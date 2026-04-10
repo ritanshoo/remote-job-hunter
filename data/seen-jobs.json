@@ -25422,5 +25422,12 @@
     "score": 3,
     "emailSent": false,
     "source": "hackernews"
+  },
+  "bdd592374c1b7fe55ab76fcbddc7f694": {
+    "hash": "bdd592374c1b7fe55ab76fcbddc7f694",
+    "firstSeen": "2026-04-10T13:01:24.768Z",
+    "score": -3,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }
