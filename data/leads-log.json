@@ -69109,5 +69109,18 @@
       "-5 entry-level",
       "+2 salary"
     ]
+  },
+  {
+    "timestamp": "2026-04-10T19:40:30.895Z",
+    "title": "Senior Java Developer (Microservices)",
+    "company": "Toptal",
+    "source": "weworkremotely",
+    "score": 1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-senior-java-developer-microservices",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
   }
 ]
