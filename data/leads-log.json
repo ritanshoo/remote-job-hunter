@@ -70133,5 +70133,18 @@
     "url": "https://www.reddit.com/r/webdev/comments/1sikeqt/im_working_for_a_design_agency_is_there_something/",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-11T20:28:20.018Z",
+    "title": "hourly consultant",
+    "company": "Confluence",
+    "source": "hackernews",
+    "score": 2,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47733725",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($100-300/hr)"
+    ]
   }
 ]
