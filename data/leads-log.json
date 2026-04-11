@@ -70082,5 +70082,56 @@
     "url": "https://www.reddit.com/r/webdev/comments/1sii6jx/managing_deployments_across_multiple_client/",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-11T16:31:57.604Z",
+    "title": "I made a website to find the exact type of horror movie experience you're looking for.",
+    "company": "",
+    "source": "reddit",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/webdev/comments/1simpqf/i_made_a_website_to_find_the_exact_type_of_horror/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 express"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T16:31:57.605Z",
+    "title": "I built this personal Reddit dash so I knew what I was doing. It help. A lot.",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1sink35/i_built_this_personal_reddit_dash_so_i_knew_what/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T16:31:57.605Z",
+    "title": "A Wordle inspired daily guessing game for films",
+    "company": "Screendle",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1silffy/screendle_a_wordle_inspired_daily_guessing_game/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T16:31:57.605Z",
+    "title": "I'm working for a design agency, is there something wrong or is this the obvious process?",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1sikeqt/im_working_for_a_design_agency_is_there_something/",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
