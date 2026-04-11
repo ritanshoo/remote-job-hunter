@@ -70045,5 +70045,42 @@
     "url": "https://www.reddit.com/r/webdev/comments/1sidnlm/i_spent_3_weeks_manually_scrolling_reddit_to_find/",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-11T13:53:33.942Z",
+    "title": "– Part-Time Client Call Help",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1siizev/hiring_parttime_client_call_help/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($20)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T13:53:33.942Z",
+    "title": "Remote Admin / Data Support (Flexible, $25-30/hr)",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sifjl3/hiring_remote_admin_data_support_flexible_2530hr/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($25-30/hr)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T13:53:33.942Z",
+    "title": "Managing deployments across multiple client projects. How do you keep it from becoming a mess?",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1sii6jx/managing_deployments_across_multiple_client/",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
