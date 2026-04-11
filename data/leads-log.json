@@ -69297,5 +69297,192 @@
       "+2 ai",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-11T07:04:52.426Z",
+    "title": "I'm building a low cost automated content moderation system: ISO adversarial testing",
+    "company": "",
+    "source": "reddit",
+    "score": 7,
+    "priority": "high",
+    "url": "https://www.reddit.com/r/webdev/comments/1shuxan/im_building_a_low_cost_automated_content/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node.js",
+      "+3 node",
+      "+1 express"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T07:04:52.897Z",
+    "title": "AI Developers & Data Scientists ($50-$100/hr)",
+    "company": "",
+    "source": "reddit",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/forhire/comments/1si4gtr/hiring_ai_developers_data_scientists_50100hr/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws",
+      "+2 salary($50-$100/hr)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T07:04:52.897Z",
+    "title": "Remote Onboarding Phone Support, US Hours (Establishing Client Relationship and Trust)",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1si80ly/hiring_remote_onboarding_phone_support_us_hours/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($15-$20)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T07:04:52.897Z",
+    "title": "Looking for a Storytelling Video Editor (India-based preferred) ($15-$30 per video)",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1si4fy6/hiring_looking_for_a_storytelling_video_editor/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($15-$30)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T07:04:52.897Z",
+    "title": "AI Script Fact-Checker/Rewriter $15/Task",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1si42y5/hiring_ai_script_factcheckerrewriter_15task/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T07:04:52.897Z",
+    "title": "Remote (East Coast)",
+    "company": "Technical Product Manager",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1shv34a/hiring_technical_product_manager_remote_east_coast/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($85)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T07:04:52.897Z",
+    "title": "creation of a Cargo photography portfolio website. PDF mockup (assets/copy) already prepared. $50 USD upon completion of two-page website.",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1shs8zn/hiring_creation_of_a_cargo_photography_portfolio/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($50)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T07:04:52.897Z",
+    "title": "Remote (EST/CST)",
+    "company": "Global Process Data Consultant (RTR/Finance)",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1shqveo/hiring_global_process_data_consultant_rtrfinance/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T07:04:52.897Z",
+    "title": "An experiment in AI Organization (Non-profit)",
+    "company": "[Showoff Saturday] Heya",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1sibraw/showoff_saturday_heya_an_experiment_in_ai/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T07:04:52.897Z",
+    "title": "Base + Commission | Warm Leads Provided",
+    "company": "Remote Sales Specialist (US & Canada)",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1si13pv/hiring_remote_sales_specialist_us_canada_base/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-11T07:04:52.897Z",
+    "title": "a Sales Person/Closer",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1shwbq6/hiring_a_sales_personcloser/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-11T07:04:52.897Z",
+    "title": "Designer to refine premium tea brand (website, email, packaging)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1shticd/hiring_designer_to_refine_premium_tea_brand/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-11T07:04:52.897Z",
+    "title": "£20 to £100 for ~15 minutes of work",
+    "company": "UK Fintech App User Testers",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1shrh2e/hiring_uk_fintech_app_user_testers_20_to_100_for/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-11T07:04:52.897Z",
+    "title": "I build a cursor-inspired LaTeX-template resume building software",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1si23n5/i_build_a_cursorinspired_latextemplate_resume/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-11T07:04:52.897Z",
+    "title": "Update on my coding progress",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1sht5zo/update_on_my_coding_progress/",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
