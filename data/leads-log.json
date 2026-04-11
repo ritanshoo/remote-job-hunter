@@ -70226,5 +70226,386 @@
       "-5 based in the us",
       "+2 salary($15–$30/hour)"
     ]
+  },
+  {
+    "timestamp": "2026-04-11T22:28:04.621Z",
+    "title": "Cloud Architect (Senior)",
+    "company": "Peraton",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/peraton/jobs/cloud-architect-senior",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T22:28:05.229Z",
+    "title": "Power Platform DevOps Engineer",
+    "company": "Global Channel Management, Inc.",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/global-channel-management-inc/jobs/power-platform-devops-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T22:28:05.550Z",
+    "title": "Senior Full Stack Developer",
+    "company": "High Tech Genesis",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/high-tech-genesis/jobs/senior-full-stack-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+2 ai",
+      "+1 typescript",
+      "+1 docker",
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T22:28:05.890Z",
+    "title": "Integration Engineer (Python &amp; AWS)",
+    "company": "MasterBorn",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/masterborn/jobs/integration-engineer-python-amp-aws",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+1 rest api",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T22:28:05.890Z",
+    "title": "Manager/Sr. Manager, Clinical GCP Quality Assurance",
+    "company": "Rakuten Medical, Inc.",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/rakuten-medical-inc/jobs/manager-sr-manager-clinical-gcp-quality-assurance",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T22:28:05.890Z",
+    "title": "Engineer, Global AME Logistic Automation",
+    "company": "HARMAN International",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/harman-international/jobs/engineer-global-ame-logistic-automation",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T22:28:05.890Z",
+    "title": "Advisor System Operations Manager (ASOM) - Remote in USA (Any city, AK, US, 9999",
+    "company": "Gainwell Technologies",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gainwell-technologies/jobs/advisor-system-operations-manager-asom-remote-in-usa-any-city-ak-us-9999",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T22:28:05.890Z",
+    "title": ".NET C# Technical Lead",
+    "company": "Jalasoft",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/jalasoft/jobs/net-c-technical-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+1 aws",
+      "+1 docker",
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T22:28:05.890Z",
+    "title": "Senior Director, Field Engineering (Remote Eligible)",
+    "company": "Smartsheet",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/smartsheet/jobs/senior-director-field-engineering-remote-eligible",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T22:28:05.890Z",
+    "title": "Engineering Manager",
+    "company": "Interview Kickstart",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/interview-kickstart/jobs/engineering-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T22:28:05.890Z",
+    "title": "Application Support Engineer, Service Reliability Engineering",
+    "company": "Ciena",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ciena/jobs/application-support-engineer-service-reliability-engineering",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T22:28:05.890Z",
+    "title": "Info Sec Staff Engineer (EIS700)",
+    "company": "One Identity",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/one-identity/jobs/info-sec-staff-engineer-eis700",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T22:28:05.890Z",
+    "title": "Senior MLOps Engineer – Digital Transformation (Mexico Only)",
+    "company": "Truelogic",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/truelogic-io/jobs/senior-mlops-engineer-digital-transformation-mexico-only",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-11T22:28:05.890Z",
+    "title": "Associate, Asset Management",
+    "company": "Altisource",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/altisource/jobs/associate-asset-management",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-11T22:28:05.890Z",
+    "title": "Join Our North America Talent Community for Future Opportunities!",
+    "company": "CECO Environmental",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ceco-environmental/jobs/join-our-north-america-talent-community-for-future-opportunities",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-11T22:28:05.890Z",
+    "title": "1012 | Data Review Specialist (без досвіду, нічна зміна, робота з дому)",
+    "company": "Intetics",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/intetics/jobs/1012-data-review-specialist",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-11T22:28:05.890Z",
+    "title": "Quality Assurance Analyst",
+    "company": "SpaceCoast AV Consultants, LLC",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/spacecoast-av-consultants-llc/jobs/quality-assurance-analyst",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 docker",
+      "-5 u.s. only",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T22:28:05.890Z",
+    "title": "Senior Platform Engineer",
+    "company": "TechStarsGroup",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/techstarsgroup/jobs/senior-platform-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-11T22:28:05.890Z",
+    "title": "Financial Data Sales Associate, APAC",
+    "company": "Databento",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/databento/jobs/financial-data-sales-associate-apac",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-11T22:28:05.890Z",
+    "title": "Data Architect  #6632",
+    "company": "1950Labs",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/1950labs/jobs/data-architect-6632",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-11T22:28:05.890Z",
+    "title": "Sales Executive, Aligne Energy Solutions",
+    "company": "FIS",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/fis/jobs/sales-executive-aligne-energy-solutions",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-11T22:28:05.890Z",
+    "title": "Senior Forward Deployed AI Engineer (Remote Eligible)",
+    "company": "Smartsheet",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/smartsheet/jobs/senior-forward-deployed-ai-engineer-remote-eligible",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 junior",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T22:28:05.890Z",
+    "title": "Insurance SME - Technical Lead",
+    "company": "Inizio Partners Corp",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/inizio-partners-corp/jobs/insurance-sme-technical-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T22:28:05.890Z",
+    "title": "Advanced Engineer, Embedded C -Linux Kernel/Drivers Development (Ethernet/Networ",
+    "company": "HARMAN International",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/harman-international/jobs/advanced-engineer-embedded-c-linux-kernel-drivers-development-ethernet-networ",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T22:28:05.890Z",
+    "title": "AEM Component QA Lead (Adobe Experience Manager)",
+    "company": "HRTx, Inc.",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/hrtx-inc/jobs/aem-component-qa-lead-adobe-experience-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T22:28:05.890Z",
+    "title": "Sr. Contracts Engineer",
+    "company": "Star Services LLC",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/star-services-llc/jobs/sr-contracts-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T22:28:05.890Z",
+    "title": "Data Engineering Lead - Tieto Tech Consulting (m/f/d)",
+    "company": "Tietoevry",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/tietoevry/jobs/data-engineering-lead-tieto-tech-consulting-m-f-d",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T22:28:05.890Z",
+    "title": "Especialista de Desenvolvimento de Software (Java)",
+    "company": "Experian",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/experian/jobs/especialista-de-desenvolvimento-de-software-java",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T22:28:05.890Z",
+    "title": "Sales Executive, Treasury Solutions",
+    "company": "FIS",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/fis/jobs/sales-executive-treasury-solutions",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
