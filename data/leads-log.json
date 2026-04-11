@@ -70146,5 +70146,85 @@
     "matchedKeywords": [
       "+2 salary($100-300/hr)"
     ]
+  },
+  {
+    "timestamp": "2026-04-11T21:28:50.209Z",
+    "title": "Circle - Principal Product Manager",
+    "company": "Decircle",
+    "source": "weworkremotely",
+    "score": 1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/decircle-circle-principal-product-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "+2 ai",
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T21:28:50.209Z",
+    "title": "Request: I'm looking for silly ideas for a landing page for my personal email domain",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1siuxw6/request_im_looking_for_silly_ideas_for_a_landing/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-11T21:28:50.209Z",
+    "title": "Looking for suggestions for new APIs",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1siqsjx/looking_for_suggestions_for_new_apis/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-11T21:28:50.209Z",
+    "title": "Product Design Manager, Engagement",
+    "company": "Discord",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/discord-product-design-manager-engagement",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($220,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T21:28:50.210Z",
+    "title": "Graphic Designer Ongoing Work (Ecommerce Brand)",
+    "company": "",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sistat/hiring_graphic_designer_ongoing_work_ecommerce/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($200–$500)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T21:28:50.210Z",
+    "title": "Part-time remote support role (US/EU, flexible hours)",
+    "company": "",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sio7w1/hiring_parttime_remote_support_role_useu_flexible/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 based in the us",
+      "+2 salary($15–$30/hour)"
+    ]
   }
 ]
