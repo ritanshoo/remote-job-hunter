@@ -71067,5 +71067,31 @@
       "-5 intern",
       "+2 salary"
     ]
+  },
+  {
+    "timestamp": "2026-04-12T15:32:51.174Z",
+    "title": "Technical Solutions Architect III – Application Modernization and Software Strategy (AWS Focused)",
+    "company": "World Wide Technology",
+    "source": "jobicy",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://jobicy.com/jobs/141787-technical-solutions-architect-iii-application-modernization-and-software-strategy-aws-focused",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+2 ai",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-12T15:32:51.175Z",
+    "title": "Senior Software Developer",
+    "company": "ManTech",
+    "source": "jobicy",
+    "score": 0,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/141798-senior-software-developer-2",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
