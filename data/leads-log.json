@@ -70607,5 +70607,71 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-12T10:35:29.659Z",
+    "title": "(US) 1-2 Beta testers $20",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sja3qu/hiring_us_12_beta_testers_20/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($20)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-12T10:35:29.659Z",
+    "title": "[USA]Those online, Simple Paid app survey for $55 [usa] active now",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1siyfod/hiring_usathose_online_simple_paid_app_survey_for/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($55)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-12T10:35:29.659Z",
+    "title": "Meta X Scaler Hackathon!",
+    "company": "Selected for Grand Finale",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1sj53ru/selected_for_grand_finale_meta_x_scaler_hackathon/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-12T10:35:29.659Z",
+    "title": "Remote US, 1099, Commission-Only (Auction Platform + Car Consignment)",
+    "company": "Sales Rep",
+    "source": "reddit",
+    "score": -1,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sj1ncs/hiring_sales_rep_remote_us_1099_commissiononly/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 junior",
+      "+2 salary($100)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-12T10:35:29.659Z",
+    "title": "We Are Hiring: Marketing Head – ShieldGuard Protocol",
+    "company": "",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sj9hxo/hiring_we_are_hiring_marketing_head_shieldguard/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 web3",
+      "-5 entry-level"
+    ]
   }
 ]

@@ -1,32 +1,4 @@
 {
-  "2a4a292f28c9e410cc20c74e17091d2c": {
-    "hash": "2a4a292f28c9e410cc20c74e17091d2c",
-    "firstSeen": "2026-03-13T10:32:43.334Z",
-    "score": 1,
-    "emailSent": false,
-    "source": "jobicy"
-  },
-  "3d4cb2ed244e5e60be47adab4561d139": {
-    "hash": "3d4cb2ed244e5e60be47adab4561d139",
-    "firstSeen": "2026-03-13T10:32:43.334Z",
-    "score": 1,
-    "emailSent": false,
-    "source": "jobicy"
-  },
-  "45ce59d4814c23a73abc097f26ece94a": {
-    "hash": "45ce59d4814c23a73abc097f26ece94a",
-    "firstSeen": "2026-03-13T10:32:43.334Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "jobicy"
-  },
-  "5d19dd65c77edb60963a77255b551579": {
-    "hash": "5d19dd65c77edb60963a77255b551579",
-    "firstSeen": "2026-03-13T10:32:43.334Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "jobicy"
-  },
   "75db6c318d53103500fedc92d886f399": {
     "hash": "75db6c318d53103500fedc92d886f399",
     "firstSeen": "2026-03-13T11:28:15.614Z",
@@ -25303,5 +25275,40 @@
     "score": 0,
     "emailSent": false,
     "source": "remoteok"
+  },
+  "d90b1a70708c7de446a14b7f362d8a0b": {
+    "hash": "d90b1a70708c7de446a14b7f362d8a0b",
+    "firstSeen": "2026-04-12T10:35:29.659Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "37b034ec96039a7352b6a7262c73f272": {
+    "hash": "37b034ec96039a7352b6a7262c73f272",
+    "firstSeen": "2026-04-12T10:35:29.659Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "5e32329caeb29e2f67d5c80009cbde9f": {
+    "hash": "5e32329caeb29e2f67d5c80009cbde9f",
+    "firstSeen": "2026-04-12T10:35:29.659Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "9251ef78d31ed594b60cf4e7ea6629fe": {
+    "hash": "9251ef78d31ed594b60cf4e7ea6629fe",
+    "firstSeen": "2026-04-12T10:35:29.659Z",
+    "score": -1,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "3f6cf29493d508a578898f745f503dd5": {
+    "hash": "3f6cf29493d508a578898f745f503dd5",
+    "firstSeen": "2026-04-12T10:35:29.659Z",
+    "score": -3,
+    "emailSent": false,
+    "source": "reddit"
   }
 }
