@@ -1,18 +1,4 @@
 {
-  "bdf2a78fb057a9effb4354ab9e6c4792": {
-    "hash": "bdf2a78fb057a9effb4354ab9e6c4792",
-    "firstSeen": "2026-03-13T04:09:28.354Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "hackernews"
-  },
-  "7f2573cccb4cec0b74e7924f9ab189e0": {
-    "hash": "7f2573cccb4cec0b74e7924f9ab189e0",
-    "firstSeen": "2026-03-13T04:09:28.354Z",
-    "score": -1,
-    "emailSent": false,
-    "source": "weworkremotely"
-  },
   "215be93e221e552a5595223d5dac97c0": {
     "hash": "215be93e221e552a5595223d5dac97c0",
     "firstSeen": "2026-03-13T07:42:49.603Z",
