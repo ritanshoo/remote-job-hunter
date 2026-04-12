@@ -70673,5 +70673,19 @@
       "+2 web3",
       "-5 entry-level"
     ]
+  },
+  {
+    "timestamp": "2026-04-12T11:31:29.754Z",
+    "title": "Multiple Roles",
+    "company": "Farmer Sam LLC",
+    "source": "hackernews",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://news.ycombinator.com/item?id=47738222",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai"
+    ]
   }
 ]
