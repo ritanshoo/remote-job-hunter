@@ -71093,5 +71093,432 @@
     "url": "https://jobicy.com/jobs/141798-senior-software-developer-2",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-12T23:30:44.440Z",
+    "title": "Fullstack Engineer (Go/React) – Scraping Team",
+    "company": "Corsearch",
+    "source": "himalayas",
+    "score": 8,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/corsearch/jobs/fullstack-engineer-go-react-scraping-team",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+3 react",
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-12T23:30:44.939Z",
+    "title": "UI Developer_Offshore",
+    "company": "Photon",
+    "source": "himalayas",
+    "score": 7,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/photon/jobs/ui-developer_offshore-3348687476",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 javascript",
+      "+1 postgresql",
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-12T23:30:45.222Z",
+    "title": "Senior Full Stack Engineer",
+    "company": "Aura",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/aura/jobs/senior-full-stack-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node",
+      "+1 typescript",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-12T23:30:45.222Z",
+    "title": "Software Engineer - Java Backend - Offshore",
+    "company": "Photon",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/photon/jobs/software-engineer-java-backend-offshore",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "+1 rest api",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-12T23:30:45.222Z",
+    "title": "Network Security Analyst | Offshore",
+    "company": "Photon",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/photon/jobs/network-security-analyst-offshore",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-12T23:30:45.223Z",
+    "title": "Auditor Technical Trainer (Outpatient/Specialty Audits)",
+    "company": "Cotiviti",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cotiviti/jobs/auditor-technical-trainer-outpatient-specialty-audits",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-12T23:30:45.223Z",
+    "title": "Site Reliability Engineer II",
+    "company": "Sezzle",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sezzle/jobs/site-reliability-engineer-ii-2636926555",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-12T23:30:45.223Z",
+    "title": "Enterprise Account Executive",
+    "company": "Measurabl",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/measurabl/jobs/enterprise-account-executive",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-12T23:30:45.223Z",
+    "title": "Software Engineer 6 - Evidence Engineering",
+    "company": "Netflix",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/netflix/jobs/software-engineer-6-evidence-engineering",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-12T23:30:45.223Z",
+    "title": "Senior TPF Systems Engineer / TPF Platform Architect",
+    "company": "DXC Technology",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/dxc-technology/jobs/senior-tpf-systems-engineer-tpf-platform-architect",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-12T23:30:45.223Z",
+    "title": "Software Engineer III, Backend",
+    "company": "ClassPass",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/classpass/jobs/software-engineer-iii-backend",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-12T23:30:45.223Z",
+    "title": "Senior Software Engineer",
+    "company": "Fi",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/fi/jobs/senior-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-12T23:30:45.223Z",
+    "title": "Water Engineer and LCA Analyst",
+    "company": "ERG",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/erg/jobs/water-engineer-and-lca-analyst",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-12T23:30:45.223Z",
+    "title": "Cloud Security Lead | Offshore",
+    "company": "Photon",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/photon/jobs/cloud-security-lead-offshore",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-12T23:30:45.223Z",
+    "title": "Cloud Security Lead | Offshore",
+    "company": "Photon",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/photon/jobs/cloud-security-lead-offshore",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-12T23:30:45.223Z",
+    "title": "Senior Data Engineer",
+    "company": "Military, Veterans and Diverse Job Seekers",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/military-veterans-and-diverse-job-seekers/jobs/senior-data-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-12T23:30:45.223Z",
+    "title": ".NET Developer",
+    "company": "Aretum",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/aretum/jobs/net-developer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-12T23:30:45.223Z",
+    "title": "XTN-FF28878 | SALESFORCE DEVELOPER",
+    "company": "KMC Solutions Inc",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/kmc-solutions-inc/jobs/xtn-ff28878-salesforce-developer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-12T23:30:45.223Z",
+    "title": "Microsoft Azure Database Administrator",
+    "company": "Destination Workplace",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/destination-workplace/jobs/microsoft-azure-database-administrator",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-12T23:30:45.223Z",
+    "title": "Information System Security Officer (ISSO)",
+    "company": "BCMC",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bcmc/jobs/information-system-security-officer-isso",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-12T23:30:45.223Z",
+    "title": "Strategic Account Executive",
+    "company": "Kore.ai",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/kore-ai/jobs/strategic-account-executive",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-12T23:30:45.223Z",
+    "title": "Automation Solutions Developer",
+    "company": "C.H. Robinson",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/c-h-robinson/jobs/automation-solutions-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-12T23:30:45.223Z",
+    "title": "Cloud Engineer (m/w/d)",
+    "company": "coeo Inkasso GmbH",
+    "source": "himalayas",
+    "score": -4,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/coeo-inkasso-gmbh/jobs/cloud-engineer-m-w-d-2371037520",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-12T23:30:45.223Z",
+    "title": "Cloud Engineer (L2)",
+    "company": "Protera",
+    "source": "himalayas",
+    "score": -4,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/protera/jobs/cloud-engineer-l2",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-12T23:30:45.223Z",
+    "title": "SQL Developer",
+    "company": "Bromcom Computers Plc",
+    "source": "himalayas",
+    "score": -4,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bromcom-computers-plc/jobs/sql-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 rest api",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-12T23:30:45.223Z",
+    "title": "XTN-439C495 | SAP ABAP DEVELOPER",
+    "company": "KMC Solutions Inc",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/kmc-solutions-inc/jobs/xtn-439c495-sap-abap-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-12T23:30:45.223Z",
+    "title": "Data Surveillance Assistant Manager - Remote",
+    "company": "Military, Veterans and Diverse Job Seekers",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/military-veterans-and-diverse-job-seekers/jobs/data-surveillance-assistant-manager-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-12T23:30:45.223Z",
+    "title": "Freelance Translators/Translation Checkers - English to Japanese - Structural En",
+    "company": "Ulatus",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ulatus/jobs/freelance-translators-translation-checkers-english-to-japanese-structural-en",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-12T23:30:45.223Z",
+    "title": "ARCHITECT ENGINEER/BUILDINGS ENGINEER",
+    "company": "Connect Energy",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/connect-energy/jobs/architect-engineer-buildings-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-12T23:30:45.223Z",
+    "title": "Geospatial Data Scientist (French speaking)",
+    "company": "VIDA.place",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/vida-place/jobs/geospatial-data-scientist-french-speaking-203005354",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-12T23:30:45.223Z",
+    "title": "Integration Architect",
+    "company": "WIRE IT",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/wire-it/jobs/integration-architect",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-12T23:30:45.223Z",
+    "title": "Integration Architect",
+    "company": "WIRE IT",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/wire-it/jobs/integration-architect",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
