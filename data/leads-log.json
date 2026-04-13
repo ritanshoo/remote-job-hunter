@@ -72970,5 +72970,330 @@
       "-5 intern",
       "+2 salary($20/hr)"
     ]
+  },
+  {
+    "timestamp": "2026-04-13T18:11:13.530Z",
+    "title": "Full Stack Support  Engineer",
+    "company": "SambaNova Systems",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/sambanova/jobs/full-stack-support-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T18:11:13.998Z",
+    "title": "AI Trainer Coding - 今話題の AI トレーナー (コーディング ー 日本語)",
+    "company": "ReachExt K.K.",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/reachext-k-k/jobs/ai-trainer-coding-ai",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 javascript",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T18:11:14.279Z",
+    "title": "Senior Software Engineer",
+    "company": "Voxel51",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/voxel51/jobs/senior-software-engineer-3427435219",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T18:11:14.562Z",
+    "title": "DevOps Engineer - Zoom Phone",
+    "company": "Zoom Communications, Inc.",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/zoom-communications-inc/jobs/devops-engineer-zoom-phone",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T18:11:14.562Z",
+    "title": "Backend Developer",
+    "company": "AV Group",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/av-group/jobs/backend-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "+1 mongodb",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T18:11:14.562Z",
+    "title": "Sr. Software Engineer",
+    "company": "Alkami Technology, Inc.",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/alkami-technology-inc/jobs/sr-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T18:11:14.562Z",
+    "title": "Senior Intune Engineer",
+    "company": "AIS (Applied Information Sciences)",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ais-applied-information-sciences/jobs/senior-intune-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T18:11:14.562Z",
+    "title": "【Japanese-English Bilingual】Sales Engineer（Remote, Illinois-Based)",
+    "company": "Lraough LLC",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/lraough-llc/jobs/japanese-english-bilingual-sales-engineer-remote-illinois-based",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T18:11:14.562Z",
+    "title": "Sr. Quality Engineer",
+    "company": "Shyft6",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/shyft6/jobs/sr-quality-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T18:11:14.562Z",
+    "title": "RQ08895 - DataOps/Cloud Data Engineer - Senior",
+    "company": "Rubicon Path",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/rubicon-path/jobs/rq08895-dataops-cloud-data-engineer-senior",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T18:11:14.562Z",
+    "title": "【Japanese-English Bilingual】Sales Engineer (Remote, Michigan-Based)",
+    "company": "Lraough LLC",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/lraough-llc/jobs/japanese-english-bilingual-sales-engineer-remote-michigan-based",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T18:11:14.562Z",
+    "title": "HRIS Analyst I (IN, India, Virtual, APAC)",
+    "company": "BCD Travel",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bcd-travel/jobs/hris-analyst-i-in-india-virtual-apac-182558075",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 rest api"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T18:11:14.562Z",
+    "title": "Openshift Container platform",
+    "company": "Pyramid Global Technologies",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pyramid-global-technologies/jobs/openshift-container-platform",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T18:11:14.562Z",
+    "title": "WooCommerce & WordPress Developer - WP Overnight",
+    "company": "TeamUpdraft",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/teamupdraft/jobs/woocommerce-wordpress-developer-wp-overnight",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T18:11:14.562Z",
+    "title": "IT Support Engineer_L8337Y73",
+    "company": "Axiom Technologies",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/axiom-technologies/jobs/it-support-engineer_l8337y73",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-13T18:11:14.562Z",
+    "title": "Solution Architect",
+    "company": "Kainos",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/kainos/jobs/solution-architect",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-13T18:11:14.562Z",
+    "title": "Mechanical Design Engineer",
+    "company": "ReachExt K.K.",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/reachext-k-k/jobs/mechanical-design-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-13T18:11:14.562Z",
+    "title": "Lead Azure Data Engineer",
+    "company": "Info Resume Edge",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/info-resume-edge/jobs/lead-azure-data-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-13T18:11:14.562Z",
+    "title": "Principal Sales Systems Engineer",
+    "company": "Nokia",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nokia/jobs/principal-sales-systems-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-13T18:11:14.562Z",
+    "title": "Embedded Software Engineer",
+    "company": "ReachExt K.K.",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/reachext-k-k/jobs/embedded-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-13T18:11:14.562Z",
+    "title": "Manager - Engineering",
+    "company": "nCino, Inc.",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ncino-inc/jobs/manager-engineering",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T18:11:14.562Z",
+    "title": "Robotics Software Engineer Intern",
+    "company": "UPS",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ups-com/jobs/robotics-software-engineer-intern",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T18:11:14.562Z",
+    "title": "Data Migration Engineer",
+    "company": "Applied Systems",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/applied-systems/jobs/data-migration-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T18:11:14.562Z",
+    "title": "Senior QA Engineer (V)",
+    "company": "Blue Coding",
+    "source": "himalayas",
+    "score": -4,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/blue-coding/jobs/senior-qa-engineer-v",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T18:11:14.562Z",
+    "title": "Senior Data Engineer",
+    "company": "Tractian",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/tractian/jobs/senior-data-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
