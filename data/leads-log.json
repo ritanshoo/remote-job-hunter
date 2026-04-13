@@ -73369,5 +73369,16 @@
       "-5 intern",
       "-5 internship"
     ]
+  },
+  {
+    "timestamp": "2026-04-13T22:39:54.328Z",
+    "title": "Full-Stack Developer",
+    "company": "ELECTE",
+    "source": "jobspresso",
+    "score": 0,
+    "priority": "low",
+    "url": "https://jobspresso.co/job/electe-s-r-l-worldwide-developer-full-stack-developer/",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
