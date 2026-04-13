@@ -73295,5 +73295,79 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-13T21:43:45.091Z",
+    "title": "Engineering Manager (Analytics Product)",
+    "company": "Greenhouse Software",
+    "source": "hackernews",
+    "score": 7,
+    "priority": "high",
+    "url": "https://news.ycombinator.com/item?id=47757571",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 javascript",
+      "+1 typescript",
+      "+2 salary($142,700 - $214,100)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T21:43:45.643Z",
+    "title": "Senior Director, Product Management",
+    "company": "Yugabytedb",
+    "source": "weworkremotely",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/yugabytedb-senior-director-product-management",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 postgresql",
+      "+1 express",
+      "+2 salary($64)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T21:43:45.643Z",
+    "title": "Engineering Manager I/II, Infrastructure & DevOps",
+    "company": "Stackadapt",
+    "source": "weworkremotely",
+    "score": 3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/stackadapt-engineering-manager-i-ii-infrastructure-devops",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T21:43:45.643Z",
+    "title": "QA Analyst",
+    "company": "Proven Software",
+    "source": "hackernews",
+    "score": 2,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47757674",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T21:43:45.643Z",
+    "title": "CX Video Content Design Intern (Summer 2026)",
+    "company": "Dropbox",
+    "source": "weworkremotely",
+    "score": -6,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/dropbox-cx-video-content-design-intern-summer-2026",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern",
+      "-5 internship"
+    ]
   }
 ]
