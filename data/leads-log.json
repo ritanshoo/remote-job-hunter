@@ -72337,5 +72337,561 @@
       "-5 intern",
       "+2 salary"
     ]
+  },
+  {
+    "timestamp": "2026-04-13T07:57:03.635Z",
+    "title": "Senior Full Stack Developer (React, TypeScript)",
+    "company": "Xablu",
+    "source": "himalayas",
+    "score": 13,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/xablu/jobs/senior-full-stack-developer-react-typescript",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T07:57:04.090Z",
+    "title": "Senior Software Engineer",
+    "company": "Nearmap",
+    "source": "himalayas",
+    "score": 11,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/nearmap/jobs/senior-software-engineer-3531014905",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 node.js",
+      "+3 node",
+      "+1 javascript",
+      "+1 postgresql"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T07:57:04.383Z",
+    "title": "Frontend Engineer",
+    "company": "Collectly",
+    "source": "himalayas",
+    "score": 10,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/collectly/jobs/frontend-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+2 automation",
+      "+1 typescript",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T07:57:04.672Z",
+    "title": "Principal Quality Automation Architect",
+    "company": "Shyft6",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/shyft6/jobs/principal-quality-automation-architect",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T07:57:04.948Z",
+    "title": "Front End Developer",
+    "company": "Veriday",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/veriday/jobs/front-end-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 javascript",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T07:57:05.228Z",
+    "title": "Human seeking human for collaboration",
+    "company": "",
+    "source": "reddit",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/webdev/comments/1sjvrsi/human_seeking_human_for_collaboration/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T07:57:05.508Z",
+    "title": "Sr. Cybersecurity Engineer - Cloud",
+    "company": "Visa",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/visa/jobs/sr-cybersecurity-engineer-cloud",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T07:57:05.801Z",
+    "title": "RQ08848 - Systems Testing/QA Specialist - Senior",
+    "company": "Rubicon Path",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/rubicon-path/jobs/rq08848-systems-testing-qa-specialist-senior",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 javascript",
+      "+1 nestjs"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.077Z",
+    "title": "Enterprise Account Executive",
+    "company": "Eve",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/eve/jobs/enterprise-account-executive",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.370Z",
+    "title": "Material Scientist with Python - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/mindrift/jobs/material-scientist-with-python-freelance-ai-trainer-5522932059",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.370Z",
+    "title": "Looking for someone to create small batch of shirts for race team",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sjn14a/hiring_looking_for_someone_to_create_small_batch/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($100)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.370Z",
+    "title": "people who can upload short videos on social media $50-$120/Day",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sjkj1n/hiring_people_who_can_upload_short_videos_on/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($50-$120)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.370Z",
+    "title": "Senior Fullstack Software Engineer I (Strong Frontend)",
+    "company": "Axon",
+    "source": "jobicy",
+    "score": 2,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/141853-senior-fullstack-software-engineer-i-strong-frontend",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+3 react",
+      "+1 graphql",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.370Z",
+    "title": "Systems Administration, Advisor",
+    "company": "Peraton",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/peraton/jobs/systems-administration-advisor",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.370Z",
+    "title": "Senior DevOps Engineer (Cloud + MongoDB + Terraform), (Remote, Full-Time) [HR154",
+    "company": "Smart Working",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/smart-working/jobs/senior-devops-engineer-cloud-mongodb-terraform-remote-full-time-hr154-1072015027",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 mongodb",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.370Z",
+    "title": "Material Scientist with Python - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/material-scientist-with-python-freelance-ai-trainer-6490322859",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.370Z",
+    "title": "Senior Director, Enterprise Accreditations & Continual Improvement",
+    "company": "Leidos",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/leidos/jobs/senior-director-enterprise-accreditations-continual-improvement",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.370Z",
+    "title": "DevOps Engineering (m/w/d)",
+    "company": "Stackmeister Jobs",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/stackmeister-jobs/jobs/devops-engineering-m-w-d",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.370Z",
+    "title": "Senior Ground Software Operations Engineer",
+    "company": "Orbital Sidekick",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/orbital-sidekick/jobs/senior-ground-software-operations-engineer-4882003800",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.370Z",
+    "title": "RQ08858 - DevOPS/Cloud Engineer - Senior",
+    "company": "Rubicon Path",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/rubicon-path/jobs/rq08858-devops-cloud-engineer-senior",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.370Z",
+    "title": "Looking for a senior architect to peer-review a vendor technical proposal analysis",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sk40mi/hiring_looking_for_a_senior_architect_to/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.370Z",
+    "title": "I'm offering work and stay for a handyman/construction worker👷🏻‍♂️ in LAS VEGAS",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sjq4sl/hiring_im_offering_work_and_stay_for_a/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.370Z",
+    "title": "the thing that actually got me my first few clients wasn't my portfolio",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1sk3cii/the_thing_that_actually_got_me_my_first_few/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.370Z",
+    "title": "Solar PV engineering firm needs a web studio. Moderate budget, who've you actually worked with?",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1sjwhmp/solar_pv_engineering_firm_needs_a_web_studio/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.370Z",
+    "title": "Draftsperson - Civil Designer (015 - 0749)",
+    "company": "Hunt St",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/hunt-st/jobs/draftsperson-civil-designer-015-0749",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.370Z",
+    "title": "Draftsperson - Civil Designer (015 - 0749)",
+    "company": "Hunt St",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/hunt-st/jobs/draftsperson-civil-designer-015-0749",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.370Z",
+    "title": "Network Engineer",
+    "company": "Pyramid Global Technologies",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pyramid-global-technologies/jobs/network-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.370Z",
+    "title": "Systems Engineer",
+    "company": "Motravay.mu",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/motravay-mu/jobs/systems-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.370Z",
+    "title": "OIM Developer",
+    "company": "Pyramid Global Technologies",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pyramid-global-technologies/jobs/oim-developer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.370Z",
+    "title": "Microsoft 365 Engineer - Intune & Endpoint Management",
+    "company": "AIS (Applied Information Sciences)",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ais-applied-information-sciences/jobs/microsoft-365-engineer-intune-endpoint-management",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 junior",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.370Z",
+    "title": "Zscaler App support Engineer",
+    "company": "NTT DATA",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nttdata/jobs/zscaler-app-support-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 javascript",
+      "+1 express",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.370Z",
+    "title": "Frontend Developer Pl",
+    "company": "Nuuvem Inc",
+    "source": "himalayas",
+    "score": -2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nuuvem-inc/jobs/frontend-developer-pl",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.370Z",
+    "title": "AI & Technology Trainer",
+    "company": "Shyft6",
+    "source": "himalayas",
+    "score": -2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/shyft6/jobs/ai-technology-trainer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.370Z",
+    "title": "Email Marketer for Fast-Growing Ecommerce Brand",
+    "company": "",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sji4vw/hiring_email_marketer_for_fastgrowing_ecommerce/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($20–$30)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.370Z",
+    "title": "Tech Leader (Ruby)",
+    "company": "Nuuvem Inc",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nuuvem-inc/jobs/tech-leader-ruby",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.370Z",
+    "title": "iOS Engineer, Mobile",
+    "company": "Mozilla",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mozilla/jobs/ios-engineer-mobile",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.370Z",
+    "title": "Software Engineer, Android",
+    "company": "Adstify Search",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/adstify-search/jobs/software-engineer-android",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.370Z",
+    "title": "Assistant QA Manager (Retail Food & Beverage)",
+    "company": "Elegant TD Consulting Co., Ltd",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/elegant-td-consulting-co-ltd/jobs/assistant-qa-manager-retail-food-beverage",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.370Z",
+    "title": "System Analyst",
+    "company": "Hyred",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/hyred/jobs/system-analyst",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.370Z",
+    "title": "MMM Data Ingestion",
+    "company": "WNS Global Services",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/wns-global-services/jobs/mmm-data-ingestion",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T07:57:06.370Z",
+    "title": "Front Office Engineer",
+    "company": "Paysend",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/paysend/jobs/front-office-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
