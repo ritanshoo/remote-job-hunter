@@ -72893,5 +72893,18 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-13T09:55:49.592Z",
+    "title": "AI Engineer",
+    "company": "Matcha",
+    "source": "hackernews",
+    "score": 2,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47749158",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
   }
 ]
