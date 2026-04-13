@@ -71916,5 +71916,426 @@
       "-5 intern",
       "-5 internship"
     ]
+  },
+  {
+    "timestamp": "2026-04-13T05:37:44.390Z",
+    "title": "Full Stack Developer",
+    "company": "Wing Assistant",
+    "source": "himalayas",
+    "score": 7,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/wing-assistant/jobs/full-stack-developer-5896344991",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 node",
+      "+2 blockchain",
+      "+2 solana",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T05:37:44.993Z",
+    "title": "AI Development Engineer - Remote (Toronto, ON, CA)",
+    "company": "NTT DATA",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/nttdata/jobs/ai-development-engineer-remote-toronto-on-ca",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws",
+      "+1 docker",
+      "+2 salary($30)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T05:37:45.345Z",
+    "title": "Senior Application Security Engineer, AI",
+    "company": "ServiceTitan",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/servicetitan/jobs/senior-application-security-engineer-ai",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T05:37:45.674Z",
+    "title": "Software Qlty Assurance Sr. Specialist (Arlington, VA, US)",
+    "company": "NTT DATA",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/nttdata/jobs/software-qlty-assurance-sr-specialist-arlington-va-us",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T05:37:46.005Z",
+    "title": "Sr Software Engineer",
+    "company": "Harris Global Business Services Inc.",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/harris-global-business-services-inc/jobs/sr-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T05:37:46.331Z",
+    "title": "Staff / Senior Software Engineer (Back-end, SaaS, Python)",
+    "company": "Iterative",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/iterative/jobs/staff-senior-software-engineer-back-end-saas-python-9442801337",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+2 ai",
+      "+1 typescript",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T05:37:46.683Z",
+    "title": "Cloud Infrastructure Engineer (with some Cloud Security focused)",
+    "company": "GSB Solutions",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/gsb-solutions/jobs/cloud-infrastructure-engineer-with-some-cloud-security-focused",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T05:37:47.009Z",
+    "title": "XTN-B926637 | SHOPIFY DEVELOPER",
+    "company": "KMC Solutions Inc",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/kmc-solutions-inc/jobs/xtn-b926637-shopify-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T05:37:47.009Z",
+    "title": "Oracle CPQ Developer - REMOTE (Chicago, IL, US)",
+    "company": "NTT DATA",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nttdata/jobs/oracle-cpq-developer-remote-chicago-il-us",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T05:37:47.009Z",
+    "title": "AI Automation & Architecture Lead",
+    "company": "Kogan.com",
+    "source": "weworkremotely",
+    "score": 2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/kogan-com-ai-automation-architecture-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 automation",
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T05:37:47.009Z",
+    "title": "Senior Backend Engineer (Node.js)",
+    "company": "ChurchDesk",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/churchdesk/jobs/senior-backend-engineer-node-js",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node.js",
+      "+3 node",
+      "+1 typescript",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T05:37:47.010Z",
+    "title": "Analyste qualité - Télétravail (Canada) (Virtuel, Toute province, Canada)",
+    "company": "Foundever",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/foundever/jobs/analyste-qualite-teletravail-canada-virtuel-toute-province-canada",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T05:37:47.010Z",
+    "title": "Infrastructure Administrator - Midwest",
+    "company": "AmerisourceBergen",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/amerisourcebergen/jobs/infrastructure-administrator-midwest",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T05:37:47.010Z",
+    "title": "ML & Agentic Solutions Engineer",
+    "company": "Provoke Solutions",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/provoke-solutions/jobs/ml-agentic-solutions-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 rag",
+      "+1 rest api",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T05:37:47.010Z",
+    "title": "Windows and Citrix Engineer",
+    "company": "Pyramid Global Technologies",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pyramid-global-technologies/jobs/windows-and-citrix-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T05:37:47.010Z",
+    "title": "Data Engineer",
+    "company": "Macee",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/macee/jobs/data-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T05:37:47.010Z",
+    "title": "Freelance Data Scraping Engineer (Python)",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/freelance-data-scraping-engineer-python-8527729894",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 javascript",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T05:37:47.010Z",
+    "title": "Freelance Data Scraping Engineer (Python)",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/freelance-data-scraping-engineer-python-1101065578",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 javascript",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T05:37:47.010Z",
+    "title": "Data Engineer Advisor (Remote, KA, IN)",
+    "company": "NTT DATA",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nttdata/jobs/data-engineer-advisor-remote-ka-in",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-13T05:37:47.010Z",
+    "title": "Developer Relations",
+    "company": "Nebius",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nebius/jobs/developer-relations",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 javascript",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T05:37:47.010Z",
+    "title": "RQ09106 - Applications Architect - Senior",
+    "company": "Rubicon Path",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/rubicon-path/jobs/rq09106-applications-architect-senior",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-13T05:37:47.010Z",
+    "title": "XTN-7233352 | L2 INTEGRATION ENGINEER",
+    "company": "KMC Solutions Inc",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/kmc-solutions-inc/jobs/xtn-7233352-l2-integration-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-13T05:37:47.010Z",
+    "title": "Engineering and Product Recruiter - Fully Remote and Sourcing-Heavy",
+    "company": "Nova (branded on job board as \"Nova Talent\")",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nova-branded-on-job-board-as-nova-talent/jobs/engineering-and-product-recruiter-fully-remote-and-sourcing-heavy-8381401777",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-13T05:37:47.010Z",
+    "title": "Mobile Engineer, Android",
+    "company": "Mozilla",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mozilla/jobs/mobile-engineer-android-2366274311",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T05:37:47.010Z",
+    "title": "Mobile Engineer, Android",
+    "company": "Mozilla",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mozilla/jobs/mobile-engineer-android-8203238902",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T05:37:47.010Z",
+    "title": "AI Writing Evaluators (Domain Experts) - English Expertise",
+    "company": "Volga Partners",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/volga-partners/jobs/ai-writing-evaluators-domain-experts-english-expertise",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T05:37:47.010Z",
+    "title": "Jr DevSecOps Engineer",
+    "company": "Shyft6",
+    "source": "himalayas",
+    "score": -2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/shyft6/jobs/jr-devsecops-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws",
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T05:37:47.010Z",
+    "title": "Solutions Architect",
+    "company": "Axiata Digital Labs",
+    "source": "himalayas",
+    "score": -4,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/axiata-digital-labs/jobs/solutions-architect",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T05:37:47.010Z",
+    "title": "Developer Relations Associate/Intern (Partnerships) Boston-Based",
+    "company": "Featherless AI",
+    "source": "himalayas",
+    "score": -6,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/featherless-ai/jobs/developer-relations-associate-intern-partnerships-boston-based",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 junior",
+      "-5 intern",
+      "+2 salary"
+    ]
   }
 ]
