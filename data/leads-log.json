@@ -72943,5 +72943,32 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-13T17:00:21.017Z",
+    "title": "Customer Success Manager (Tech Startup)",
+    "company": "Rankbreeze",
+    "source": "weworkremotely",
+    "score": 2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/rankbreeze-customer-success-manager-tech-startup",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T17:00:21.017Z",
+    "title": "Remote Customer Support - $20/hr - United States",
+    "company": "Remote Talent Cloud",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/remote-talent-cloud-remote-customer-support-20-hr-united-states-4",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($20/hr)"
+    ]
   }
 ]
