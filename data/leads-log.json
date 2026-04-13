@@ -71520,5 +71520,401 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-13T02:14:01.076Z",
+    "title": "Fullstack Architect | Offshore",
+    "company": "Photon",
+    "source": "himalayas",
+    "score": 12,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/photon/jobs/fullstack-architect-offshore",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+3 react",
+      "+2 ai",
+      "+1 mongodb",
+      "+1 postgresql",
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T02:14:01.705Z",
+    "title": "Cloud Engineer (Clearance required)",
+    "company": "ICF",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/icf/jobs/cloud-engineer-clearance-required",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "+1 docker",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T02:14:02.035Z",
+    "title": "Solutions Engineer",
+    "company": "Neo4j",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/neo4j/jobs/solutions-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T02:14:02.366Z",
+    "title": "Tech Lead",
+    "company": "Valsoft Corporation",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/valsoft-corporation/jobs/tech-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T02:14:02.703Z",
+    "title": "Full-Stack Developer",
+    "company": "Lifelancer",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/lifelancer/jobs/full-stack-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T02:14:03.072Z",
+    "title": "Senior Mobile Software Engineer | Contractor",
+    "company": "Very LLC",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/very-llc/jobs/senior-mobile-software-engineer-contractor-9058739383",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T02:14:03.072Z",
+    "title": "Full-Stack Developer",
+    "company": "Uni Systems",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/uni-systems/jobs/full-stack-developer-9020630420",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T02:14:03.072Z",
+    "title": "Staff Full Stack Engineer",
+    "company": "Virtasant",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/virtasant/jobs/staff-full-stack-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T02:14:03.072Z",
+    "title": "Full-Stack Developer",
+    "company": "Uni Systems",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/uni-systems/jobs/full-stack-developer-9020630420",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T02:14:03.072Z",
+    "title": "Staff Full Stack Engineer",
+    "company": "Virtasant",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/virtasant/jobs/staff-full-stack-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T02:14:03.072Z",
+    "title": "Contract: Senior Quality Assurance Engineer",
+    "company": "Lifted (an Upwork Company)",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/lifted-an-upwork-company/jobs/contract-senior-quality-assurance-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T02:14:03.072Z",
+    "title": "Strategic Account Executive",
+    "company": "Pluralsight",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pluralsight/jobs/strategic-account-executive",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T02:14:03.072Z",
+    "title": "Desarrollador Fullstack Senior MF057ST",
+    "company": "Coderio",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/coderio/jobs/desarrollador-fullstack-senior-mf057st",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+2 llm",
+      "+1 typescript",
+      "+1 postgresql",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T02:14:03.072Z",
+    "title": "Principal Technical Consultant (AI), Platform Products Expert Implementation Ser",
+    "company": "ServiceNow",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/servicenow/jobs/principal-technical-consultant-ai-platform-products-expert-implementation-ser-1523678581",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T02:14:03.072Z",
+    "title": "Backend Engineer, Contract",
+    "company": "66degrees",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/66degrees/jobs/backend-engineer-contract",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T02:14:03.072Z",
+    "title": "Senior Front-end Engineer",
+    "company": "Dikshatek",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/dikshatek-vn/jobs/senior-front-end-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 rest api"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T02:14:03.072Z",
+    "title": "Sales Engineer",
+    "company": "Corsearch",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/corsearch/jobs/sales-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-13T02:14:03.072Z",
+    "title": "Sales Engineer",
+    "company": "Corsearch",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/corsearch/jobs/sales-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-13T02:14:03.072Z",
+    "title": "Microsoft Fabric Data Engineer",
+    "company": "QHR",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ovationhc/jobs/microsoft-fabric-data-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-13T02:14:03.072Z",
+    "title": "XTN-0FE1470 | TECHNICAL SUPPORT COORDINATOR",
+    "company": "KMC Solutions Inc",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/kmc-solutions-inc/jobs/xtn-0fe1470-technical-support-coordinator",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-13T02:14:03.072Z",
+    "title": "iOS Developer",
+    "company": "5centsCDN",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/5centscdn/jobs/ios-developer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-13T02:14:03.072Z",
+    "title": "Technical Revenue Manager",
+    "company": "Cohere",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cohere-com/jobs/technical-revenue-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T02:14:03.073Z",
+    "title": "(Senior) Fullstack Engineer - Frontend Focus (all genders)",
+    "company": "Chargecloud GmbH",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/chargecloud-gmbh/jobs/senior-fullstack-engineer-frontend-focus-all-genders",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+1 typescript",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T02:14:03.073Z",
+    "title": "Salesforce Software Engineer",
+    "company": "Resource Innovations",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/resource-innovations/jobs/salesforce-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T02:14:03.073Z",
+    "title": "Virtual Engineering Educator",
+    "company": "Fullmind",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/fullmind/jobs/virtual-engineering-educator-5975548271",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 must be authorized to work in the united states",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T02:14:03.073Z",
+    "title": "Cyber Security Analyst",
+    "company": "A+E Networks",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/a-e-networks/jobs/cyber-security-analyst",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T02:14:03.073Z",
+    "title": "Senior Software Test and Evaluation Specialist",
+    "company": "PingWind",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pingwind/jobs/senior-software-test-and-evaluation-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T02:14:03.073Z",
+    "title": "XTN-C2D6967 | GLOBAL NOC TIER 1 ENGINEER",
+    "company": "KMC Solutions Inc",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/kmc-solutions-inc/jobs/xtn-c2d6967-global-noc-tier-1-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T02:14:03.073Z",
+    "title": "Python Developer Intern",
+    "company": "TechFlow, Inc",
+    "source": "himalayas",
+    "score": -6,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/techflow-inc/jobs/python-developer-intern",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern",
+      "-5 internship"
+    ]
   }
 ]
