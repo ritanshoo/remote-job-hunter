@@ -72917,5 +72917,31 @@
     "url": "https://news.ycombinator.com/item?id=47750043",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-13T15:13:24.501Z",
+    "title": "Copyeditor",
+    "company": "J & P Co. Inc.",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/j-p-co-inc-copyeditor",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T15:13:24.501Z",
+    "title": "Inside Sales - Account Executive",
+    "company": "Credit Wellness LLC",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/credit-wellness-llc-inside-sales-account-executive",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]

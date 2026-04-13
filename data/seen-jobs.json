@@ -1,18 +1,4 @@
 {
-  "3bfbf97ce69f374b5b5fe0ed7ecefd41": {
-    "hash": "3bfbf97ce69f374b5b5fe0ed7ecefd41",
-    "firstSeen": "2026-03-14T13:42:25.152Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "remoteok"
-  },
-  "2aef811077a0493fc9b94a4fdcfca5f6": {
-    "hash": "2aef811077a0493fc9b94a4fdcfca5f6",
-    "firstSeen": "2026-03-14T13:42:25.152Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "weworkremotely"
-  },
   "5bb57584cbbbe86cdd4cbd47f984907c": {
     "hash": "5bb57584cbbbe86cdd4cbd47f984907c",
     "firstSeen": "2026-03-14T15:23:47.715Z",
@@ -25723,5 +25709,19 @@
     "score": 0,
     "emailSent": false,
     "source": "hackernews"
+  },
+  "0719ab0d3beaa532a8f0ceb08e4dfb2b": {
+    "hash": "0719ab0d3beaa532a8f0ceb08e4dfb2b",
+    "firstSeen": "2026-04-13T15:13:24.501Z",
+    "score": -5,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "42424e6d627dbb3cc54b573871fe12fe": {
+    "hash": "42424e6d627dbb3cc54b573871fe12fe",
+    "firstSeen": "2026-04-13T15:13:24.501Z",
+    "score": -5,
+    "emailSent": false,
+    "source": "weworkremotely"
   }
 }
