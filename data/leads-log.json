@@ -73397,5 +73397,465 @@
       "+1 aws",
       "+1 docker"
     ]
+  },
+  {
+    "timestamp": "2026-04-14T05:20:14.399Z",
+    "title": "Senior or Staff Software Engineer",
+    "company": "Writesonic",
+    "source": "himalayas",
+    "score": 8,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/writesonic/jobs/senior-or-staff-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 automation",
+      "+2 rag"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T05:20:15.029Z",
+    "title": "Senior Fullstack Software Engineer",
+    "company": "Quorum",
+    "source": "himalayas",
+    "score": 7,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/quorum/jobs/senior-fullstack-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+2 ai",
+      "+1 postgresql",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T05:20:15.361Z",
+    "title": "Senior Technical Support Engineer",
+    "company": "Unstructured Technologies",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/unstructured-technologies/jobs/senior-technical-support-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws",
+      "+1 docker",
+      "+2 salary($65)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T05:20:15.709Z",
+    "title": "AI Engineer III",
+    "company": "CareSource",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/caresource/jobs/ai-engineer-iii-6815610128",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 rag",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T05:20:16.041Z",
+    "title": "Senior Consulting Engineer - India",
+    "company": "Clickhouse",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/clickhouse/jobs/senior-consulting-engineer-india",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary($400)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T05:20:16.400Z",
+    "title": "Mass Market Solutions Engineer",
+    "company": "Zoom Communications, Inc.",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/zoom-communications-inc/jobs/mass-market-solutions-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T05:20:16.736Z",
+    "title": "Business Analyst",
+    "company": "Sutherland",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/sutherland/jobs/business-analyst",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T05:20:17.078Z",
+    "title": "Machine Learning Evaluation Specialist - Remote",
+    "company": "G2i",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/g2i/jobs/machine-learning-evaluation-specialist-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T05:20:17.409Z",
+    "title": "Senior Full Stack Engineer (Platform)",
+    "company": "Chaos Labs",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/chaos-labs/jobs/senior-full-stack-engineer-platform",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 node.js",
+      "+3 node",
+      "+2 ai",
+      "+1 graphql",
+      "-5 junior",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T05:20:17.409Z",
+    "title": "Full Stack Java Sr. Developer",
+    "company": "Matrix Global",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/matrix-global/jobs/full-stack-java-sr-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+1 javascript",
+      "+1 typescript",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T05:20:17.409Z",
+    "title": "Salesforce Developer",
+    "company": "Commutatus",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/commutatus/jobs/salesforce-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T05:20:17.409Z",
+    "title": "Sales Engineer",
+    "company": "Acryl Data",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/acryl-data/jobs/sales-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T05:20:17.409Z",
+    "title": "Solutions Engineer (Tokyo)",
+    "company": "Lakera",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/lakera/jobs/solutions-engineer-tokyo-4678920976",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T05:20:17.409Z",
+    "title": "Full-Stack Engineer (Senior)",
+    "company": "Spear AI",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/spear-ai/jobs/full-stack-engineer-senior",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T05:20:17.409Z",
+    "title": "Data Engineer III (Business Objects BI Reporting)",
+    "company": "Velera",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/velera/jobs/data-engineer-iii-business-objects-bi-reporting",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T05:20:17.409Z",
+    "title": "RQ07958 - Sr. Business Intelligence Specialist",
+    "company": "Rubicon Path",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/rubicon-path/jobs/rq07958-sr-business-intelligence-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T05:20:17.409Z",
+    "title": "Systems Administration Advisor",
+    "company": "Peraton",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/peraton/jobs/systems-administration-advisor-7319940253",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T05:20:17.409Z",
+    "title": "Senior Cyber Incident Response Engineer (CSIRT) (Bydgoszcz, PL)",
+    "company": "Atos",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/atos/jobs/senior-cyber-incident-response-engineer-csirt-bydgoszcz-pl",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T05:20:17.410Z",
+    "title": "Cloud Delivery Engineer",
+    "company": "GoReel",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/goreel/jobs/cloud-delivery-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T05:20:17.410Z",
+    "title": "RQ08451 - Technology Architect - Senior",
+    "company": "Rubicon Path",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/rubicon-path/jobs/rq08451-technology-architect-senior",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T05:20:17.410Z",
+    "title": "RQ08166 - Specialized IT Consultant - Intermediate",
+    "company": "Rubicon Path",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/rubicon-path/jobs/rq08166-specialized-it-consultant-intermediate",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-14T05:20:17.410Z",
+    "title": "Auditing Manager - Validation & Verification",
+    "company": "Equitable Earth",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/equitable-earth/jobs/auditing-manager-validation-verification",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-14T05:20:17.410Z",
+    "title": "Remote Window Drafting Engineer (LogiKal or Orgadata)",
+    "company": "The Hello Team",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/the-hello-team/jobs/remote-window-drafting-engineer-logikal-or-orgadata",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-14T05:20:17.410Z",
+    "title": "Senior Software Engineer, Data Products",
+    "company": "Chainlink Labs",
+    "source": "himalayas",
+    "score": -1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/chainlink-labs/jobs/senior-software-engineer-data-products",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "+2 smart contract",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T05:20:17.410Z",
+    "title": "Software Engineer II - Product (Multiple Roles)",
+    "company": "Stora",
+    "source": "himalayas",
+    "score": -2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/stora/jobs/software-engineer-ii-product-multiple-roles",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T05:20:17.410Z",
+    "title": "Commercial Account Executive",
+    "company": "SysAid Technologies",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sysaid-technologies/jobs/commercial-account-executive",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T05:20:17.410Z",
+    "title": "Senior Staff Cloud Engineer",
+    "company": "ExactCare Pharmacy, LLC",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/exactcare-pharmacy-llc/jobs/senior-staff-cloud-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T05:20:17.410Z",
+    "title": "Sr. Application Security Engineer",
+    "company": "vCluster Labs",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/vcluster-labs/jobs/sr-application-security-engineer-7269923708",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T05:20:17.410Z",
+    "title": "Data Engineer (HealthTech)",
+    "company": "AssistRx",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/assistrx/jobs/data-engineer-healthtech",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T05:20:17.410Z",
+    "title": "Storage System Engineer (m/f/d)",
+    "company": "Nagarro",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nagarro/jobs/storage-system-engineer-m-f-d",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T05:20:17.410Z",
+    "title": "Senior Reviewer, Loss Control Surveyor",
+    "company": "ReSource Pro",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/resource-pro/jobs/senior-reviewer-loss-control-surveyor",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T05:20:17.410Z",
+    "title": "Finance Domain QA Lead",
+    "company": "Shyft6",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/shyft6/jobs/finance-domain-qa-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T05:20:17.410Z",
+    "title": "RQ07968:Software Developer-Remote",
+    "company": "Rubicon Path",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/rubicon-path/jobs/rq07968-software-developer-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
