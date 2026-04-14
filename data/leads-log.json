@@ -74488,5 +74488,118 @@
     "url": "https://weworkremotely.com/remote-jobs/payra-product-lead-data-products",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-14T23:39:10.777Z",
+    "title": "Upmarket Partner Specialist L3",
+    "company": "HubSpot",
+    "source": "weworkremotely",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/hubspot-upmarket-partner-specialist-l3",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary($120,000 - $150,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T23:39:10.777Z",
+    "title": "Desenvolvedor Microsoft Dynamics CRM 11 - Sênior",
+    "company": "Framework",
+    "source": "weworkremotely",
+    "score": 1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/framework-desenvolvedor-microsoft-dynamics-crm-11-senior",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T23:39:10.777Z",
+    "title": "Director, CRM and Lifecycle Marketing",
+    "company": "Beachbody",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/beachbody-director-crm-and-lifecycle-marketing",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 express",
+      "-5 intern",
+      "+2 salary($137,100)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T23:39:10.777Z",
+    "title": "Oracle CRM Field Service Consultant",
+    "company": "NCR Voyix",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/ncr-voyix-oracle-crm-field-service-consultant",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-14T23:39:10.777Z",
+    "title": "Solutions Engineer, GovCon",
+    "company": "Unanet",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/unanet-solutions-engineer-govcon",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary($95,000 - 112,500)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T23:39:10.777Z",
+    "title": "Account Executive, Salesforce",
+    "company": "Global Career Website",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/global-career-website-account-executive-salesforce",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T23:39:10.777Z",
+    "title": "Sales & CRM Business Analyst",
+    "company": "Otis",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/otis-sales-crm-business-analyst",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($116,000 - $174,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T23:39:10.777Z",
+    "title": "Staff/Senior Security Software Engineer or SRE - Infrastructure Security",
+    "company": "MongoDB",
+    "source": "hackernews",
+    "score": -8,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47772418",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 mongodb",
+      "+1 aws",
+      "-5 intern",
+      "-5 c/c++"
+    ]
   }
 ]
