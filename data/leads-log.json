@@ -74460,5 +74460,33 @@
       "+1 express",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-14T22:41:17.487Z",
+    "title": "Senior Backend Engineer",
+    "company": "Eequ",
+    "source": "hackernews",
+    "score": 9,
+    "priority": "high",
+    "url": "https://news.ycombinator.com/item?id=47772392",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node.js",
+      "+3 node",
+      "+1 typescript",
+      "+1 aws",
+      "+1 nestjs"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T22:41:17.487Z",
+    "title": "Product Lead - Data Products",
+    "company": "Payra",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/payra-product-lead-data-products",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
