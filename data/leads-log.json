@@ -73380,5 +73380,22 @@
     "url": "https://jobspresso.co/job/electe-s-r-l-worldwide-developer-full-stack-developer/",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-14T02:10:05.570Z",
+    "title": "AI/ML Engineer",
+    "company": "SEEKING",
+    "source": "hackernews",
+    "score": 8,
+    "priority": "high",
+    "url": "https://news.ycombinator.com/item?id=47759666",
+    "emailSent": true,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 langchain",
+      "+2 rag",
+      "+1 aws",
+      "+1 docker"
+    ]
   }
 ]
