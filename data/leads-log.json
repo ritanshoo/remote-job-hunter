@@ -74253,5 +74253,38 @@
       "+2 ai",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-14T16:04:32.487Z",
+    "title": "Multiple Engineering Roles",
+    "company": "Solace Health",
+    "source": "hackernews",
+    "score": 17,
+    "priority": "high",
+    "url": "https://news.ycombinator.com/item?id=47767056",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 fullstack",
+      "+3 react",
+      "+3 node",
+      "+1 typescript",
+      "+1 postgresql",
+      "+1 nestjs",
+      "+2 salary($207)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T16:04:32.487Z",
+    "title": "Business Development Executive",
+    "company": "Sage",
+    "source": "hackernews",
+    "score": 2,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47766820",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
   }
 ]
