@@ -73937,5 +73937,307 @@
       "+2 ai",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-14T12:02:16.323Z",
+    "title": "Senior AI Fullstack Engineer",
+    "company": "Etera Technologies FZCO",
+    "source": "himalayas",
+    "score": 16,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/etera-technologies-fzco/jobs/senior-ai-fullstack-engineer-6533897439",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 fullstack",
+      "+3 react",
+      "+2 ai",
+      "+2 llm",
+      "+2 langchain",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T12:02:16.800Z",
+    "title": "Mr D - Web Frontend Engineer",
+    "company": "takealot.com",
+    "source": "himalayas",
+    "score": 10,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/takealot-com/jobs/mr-d-web-frontend-engineer-2785412307",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node.js",
+      "+3 node",
+      "+2 ai",
+      "+1 javascript",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T12:02:17.085Z",
+    "title": "Full Stack AI Engineer (Staff level)",
+    "company": "Pareto",
+    "source": "himalayas",
+    "score": 7,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/pareto/jobs/full-stack-ai-engineer-staff-level",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+2 ai",
+      "+2 llm"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T12:02:17.370Z",
+    "title": "Senior Python Developer - Code Migration Specialist",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": 7,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/mindrift/jobs/senior-python-developer-code-migration-specialist-1757836445",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+1 docker",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T12:02:17.660Z",
+    "title": "Senior Python Developer - Code Migration Specialist",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": 7,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/mindrift/jobs/senior-python-developer-code-migration-specialist-4486187956",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+1 docker",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T12:02:17.943Z",
+    "title": "Principal Infrastructure Engineer",
+    "company": "Mercor",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/work-mercor/jobs/principal-infrastructure-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 postgresql",
+      "+1 docker",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T12:02:18.245Z",
+    "title": "Principal Infrastructure Engineer",
+    "company": "Mercor",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/work-mercor/jobs/principal-infrastructure-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 postgresql",
+      "+1 docker",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T12:02:18.530Z",
+    "title": "Senior QA Engineer (Native Apps)",
+    "company": "Alex Staff Agency",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/alex-staff-agency/jobs/senior-qa-engineer-native-apps-6311546194",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 rest api",
+      "+1 docker",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T12:02:18.812Z",
+    "title": "Senior QA Engineer (Native Apps)",
+    "company": "Alex Staff Agency",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/alex-staff-agency/jobs/senior-qa-engineer-native-apps-8563052454",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 rest api",
+      "+1 docker",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T12:02:19.095Z",
+    "title": "Senior Python Developer - Code Migration Specialist",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/mindrift/jobs/senior-python-developer-code-migration-specialist-5292621468",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 docker",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T12:02:19.377Z",
+    "title": "HCM Cloud Test Automation & Quality Engineer",
+    "company": "CACI International Inc",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/caci-international-inc/jobs/hcm-cloud-test-automation-quality-engineer-5352610766",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T12:02:19.378Z",
+    "title": "Senior Full Stack Engineer",
+    "company": "Pickle",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/findpickle/jobs/senior-full-stack-engineer-9557072103",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T12:02:19.378Z",
+    "title": "Data Engineering Manager",
+    "company": "Airalo",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/airalo/jobs/data-engineering-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T12:02:19.378Z",
+    "title": "Data Engineering Manager",
+    "company": "Airalo",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/airalo/jobs/data-engineering-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T12:02:19.378Z",
+    "title": "Integration Analyst",
+    "company": "Harris",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/harris/jobs/integration-analyst",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T12:02:19.378Z",
+    "title": "AI Clone & Avatar Specialist",
+    "company": "Bamboo Works",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bambooworks/jobs/ai-clone-avatar-specialist-1224428613",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T12:02:19.378Z",
+    "title": "Senior Storage Engineer",
+    "company": "Eqvilent",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/eqvilent/jobs/senior-storage-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-14T12:02:19.378Z",
+    "title": "Data Engineer (m/w/d)",
+    "company": "ResMed",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/resmed/jobs/data-engineer-m-w-d",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-14T12:02:19.378Z",
+    "title": "Network Applications Developer Advocate",
+    "company": "Vonage",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/vonage/jobs/network-applications-developer-advocate",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-14T12:02:19.378Z",
+    "title": "Cloud Engineer",
+    "company": "B3 Consulting Poland",
+    "source": "himalayas",
+    "score": -2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/b3-consulting-poland/jobs/cloud-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T12:02:19.378Z",
+    "title": "Lead Mechanical Engineer",
+    "company": "ASSYSTEM",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/assystem/jobs/lead-mechanical-engineer-3457315677",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
