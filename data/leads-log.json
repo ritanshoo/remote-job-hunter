@@ -74300,5 +74300,165 @@
       "+2 ai",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-14T21:47:09.421Z",
+    "title": "Product Engineer, Tech Ops",
+    "company": "Advocate",
+    "source": "weworkremotely",
+    "score": 20,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/advocate-product-engineer-tech-ops",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 next.js",
+      "+3 node.js",
+      "+3 node",
+      "+2 ai",
+      "+2 llm",
+      "+2 automation",
+      "+2 rag",
+      "+1 typescript",
+      "+1 postgresql",
+      "+1 aws",
+      "+1 graphql",
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T21:47:09.873Z",
+    "title": "Lead Full Stack Developer (UI/UX)",
+    "company": "Hitachi Vantara Corporation",
+    "source": "weworkremotely",
+    "score": 17,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/hitachi-vantara-corporation-lead-full-stack-developer-ui-ux",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 aws",
+      "+1 express",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T21:47:10.154Z",
+    "title": "Senior Software Engineer (Product Platform)",
+    "company": "Veriff",
+    "source": "weworkremotely",
+    "score": 14,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/veriff-senior-software-engineer-product-platform",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+2 automation",
+      "+1 typescript",
+      "+1 postgresql",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T21:47:10.428Z",
+    "title": "AWS Certified DevOps Engineer",
+    "company": "3pillar",
+    "source": "weworkremotely",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/3pillar-aws-certified-devops-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T21:47:10.706Z",
+    "title": "Director, Product Management (AI Agent Platform)",
+    "company": "Nextiva",
+    "source": "weworkremotely",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/nextiva-director-product-management-ai-agent-platform",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 automation",
+      "+1 express",
+      "-5 intern",
+      "+2 salary($160,000-$300,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T21:47:10.706Z",
+    "title": "Mobile Developer",
+    "company": "C4Media Inc.",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/c4media-inc-mobile-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 typescript",
+      "+1 rest api",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T21:47:10.706Z",
+    "title": "Firefox Product Marketing Lead - Desktop",
+    "company": "Mdn",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/mdn-firefox-product-marketing-lead-desktop",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 express",
+      "-5 intern",
+      "+2 salary($163,000 - $217,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T21:47:10.706Z",
+    "title": "Senior Product Manager, Fraud",
+    "company": "Affirm",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/affirm-senior-product-manager-fraud",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($190,000 - $240,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T21:47:10.706Z",
+    "title": "Staff Product Marketing Manager - Containers",
+    "company": "Chainguard",
+    "source": "weworkremotely",
+    "score": -4,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/chainguard-staff-product-marketing-manager-containers",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 express",
+      "-5 intern"
+    ]
   }
 ]
