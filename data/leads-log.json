@@ -73857,5 +73857,71 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-14T09:13:58.832Z",
+    "title": "Business Development Representative – Digital Software Sales",
+    "company": "Ecolab",
+    "source": "jobicy",
+    "score": 0,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/141926-business-development-representative-digital-software-sales",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-14T09:13:58.832Z",
+    "title": "Software Engineer (Leadership) – Machine Learning",
+    "company": "Meta",
+    "source": "jobicy",
+    "score": 0,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/141917-software-engineer-leadership-machine-learning-3",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-14T09:13:58.832Z",
+    "title": "Intermediate Software Engineer (PHP, JavaScript, WordPress) – OP02107",
+    "company": "Dev.Pro",
+    "source": "jobicy",
+    "score": -1,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/141924-intermediate-software-engineer-php-javascript-wordpress-op02107",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 javascript",
+      "+1 rest api",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T09:13:58.832Z",
+    "title": "Looking For Online ESL Teachers - Remote",
+    "company": "Polly English",
+    "source": "workingnomads",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.workingnomads.com/job/go/1538202/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($16–$24)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-14T09:13:58.832Z",
+    "title": "Senior .NET Software Engineer",
+    "company": "Wizeline",
+    "source": "jobicy",
+    "score": -3,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/141916-senior-net-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
   }
 ]
