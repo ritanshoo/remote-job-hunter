@@ -74601,5 +74601,384 @@
       "-5 intern",
       "-5 c/c++"
     ]
+  },
+  {
+    "timestamp": "2026-04-15T02:05:46.291Z",
+    "title": "[GBL] Senior Full-Stack Software Engineer (React, Next.JS and Node.JS) - 6-month",
+    "company": "Software Mind",
+    "source": "himalayas",
+    "score": 15,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/software-mind/jobs/gbl-senior-full-stack-software-engineer-react-next-js-and-node-js-6-month",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 next.js",
+      "+3 node.js",
+      "+3 node",
+      "+1 typescript",
+      "+1 postgresql",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T02:05:46.987Z",
+    "title": "Senior Software Engineer, Payment Integrity",
+    "company": "Cohere Health",
+    "source": "himalayas",
+    "score": 13,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/cohere-health/jobs/senior-software-engineer-payment-integrity",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+1 javascript",
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T02:05:47.320Z",
+    "title": "AI Engineer - EU",
+    "company": "Space Inch",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/space-inch/jobs/ai-engineer-eu-653648566",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T02:05:47.651Z",
+    "title": "AI Engineer - EU",
+    "company": "Space Inch",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/space-inch/jobs/ai-engineer-eu-5655219739",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T02:05:47.991Z",
+    "title": "Senior Software Engineer, SRE",
+    "company": "abridge",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/abridge/jobs/senior-software-engineer-sre-8519802899",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T02:05:48.331Z",
+    "title": "Course Developer & Skills Coach – Artificial Intelligence & Automation Practitio",
+    "company": "KnowledgeBrief",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/knowledgebrief/jobs/course-developer-skills-coach-artificial-intelligence-automation-practitio",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T02:05:48.332Z",
+    "title": "Security Lead",
+    "company": "Guidehouse",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/guidehouse/jobs/security-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T02:05:48.332Z",
+    "title": "Business Applications Developer",
+    "company": "Pavago",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/pavago/jobs/business-applications-developer-4191379895",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "+1 typescript",
+      "+1 rest api"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T02:05:48.332Z",
+    "title": "Senior Mobile Engineer (React Native) - Technology",
+    "company": "Truelogic",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/truelogic-io/jobs/senior-mobile-engineer-react-native-technology-2755825517",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T02:05:48.332Z",
+    "title": "Principal Technical Program Manager (Residence Based, Residence Based, US)",
+    "company": "Bayer",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bayer/jobs/principal-technical-program-manager-residence-based-residence-based-us-9030013641",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T02:05:48.332Z",
+    "title": "Civil Construction QS Specialists - 162",
+    "company": "D2B",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/d2b/jobs/civil-construction-qs-specialists-162",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T02:05:48.332Z",
+    "title": "Senior Solutions Architect - New Logo",
+    "company": "Temporal Technologies",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/temporal-technologies/jobs/senior-solutions-architect-new-logo",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T02:05:48.332Z",
+    "title": "Solutions Engineer, Manager (New York)",
+    "company": "Lakera",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/lakera/jobs/solutions-engineer-manager-new-york",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T02:05:48.332Z",
+    "title": "Account Executive - Mid Atlantic",
+    "company": "VAST Data",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/vast-data/jobs/account-executive-mid-atlantic",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T02:05:48.332Z",
+    "title": "QA Automation Engineer – FinCrime Applications",
+    "company": "Matrix Global",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/matrix-global/jobs/qa-automation-engineer-fincrime-applications",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T02:05:48.332Z",
+    "title": "Engineering Lead",
+    "company": "Shell",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/shell/jobs/engineering-lead",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T02:05:48.332Z",
+    "title": "Customer Success Physicist- Japan",
+    "company": "Quantum Machines",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/quantum-machines/jobs/customer-success-physicist-japan",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T02:05:48.332Z",
+    "title": "Vertical Strategy Manager - Video (Data Center Vertical - NA)",
+    "company": "Motorola Solutions",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/motorola-solutions/jobs/vertical-strategy-manager-video-data-center-vertical-na",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T02:05:48.332Z",
+    "title": "Associate Director, IT Infrastructure Operations and Process Improvement",
+    "company": "Humana International Group",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/humana-international-group/jobs/associate-director-it-infrastructure-operations-and-process-improvement",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T02:05:48.332Z",
+    "title": "Modelling System Engineer",
+    "company": "ALTEN",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/alten/jobs/modelling-system-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-15T02:05:48.332Z",
+    "title": "Account Executive (EMEA)",
+    "company": "Echo",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/echo/jobs/account-executive-emea",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T02:05:48.332Z",
+    "title": "Customer Success Physicist- Chicago",
+    "company": "Quantum Machines",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/quantum-machines/jobs/customer-success-physicist-chicago",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-15T02:05:48.332Z",
+    "title": "Senior Software Engineer - Grafana Databases, Managed Services | Spain | Remote",
+    "company": "Grafana Labs",
+    "source": "himalayas",
+    "score": -2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/grafana-labs/jobs/senior-software-engineer-grafana-databases-managed-services-spain-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T02:05:48.332Z",
+    "title": "[MMP] Python Developer",
+    "company": "Software Mind",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/software-mind/jobs/mmp-python-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T02:05:48.332Z",
+    "title": "Senior Data Engineer (Cloud & Analytics)",
+    "company": "Experian",
+    "source": "himalayas",
+    "score": -4,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/experianplc/jobs/senior-data-engineer-cloud-analytics",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T02:05:48.332Z",
+    "title": "Systems Engineers + Software Engineer, Data Platform",
+    "company": "OneChronos",
+    "source": "hackernews",
+    "score": -5,
+    "priority": "low",
+    "url": "https://news.ycombinator.com/item?id=47773371",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T02:05:48.332Z",
+    "title": "2026 ML Scientist Summer Internship",
+    "company": "Cleerly",
+    "source": "himalayas",
+    "score": -6,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cleerly/jobs/2026-ml-scientist-summer-internship",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "-5 internship",
+      "+2 salary"
+    ]
   }
 ]
