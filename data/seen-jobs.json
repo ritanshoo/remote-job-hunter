@@ -1,32 +1,4 @@
 {
-  "31be3a0023a543a4cd7b3d4de4f67d1b": {
-    "hash": "31be3a0023a543a4cd7b3d4de4f67d1b",
-    "firstSeen": "2026-03-16T17:57:27.085Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "remoteok"
-  },
-  "1ef8d0edbeb45ed0dc72790471907916": {
-    "hash": "1ef8d0edbeb45ed0dc72790471907916",
-    "firstSeen": "2026-03-16T17:57:27.086Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "fa1f61abc4fd249cf343dee99b428b71": {
-    "hash": "fa1f61abc4fd249cf343dee99b428b71",
-    "firstSeen": "2026-03-16T17:57:27.087Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "da90bb18de6f796139827f1a5b9e6dda": {
-    "hash": "da90bb18de6f796139827f1a5b9e6dda",
-    "firstSeen": "2026-03-16T17:57:27.087Z",
-    "score": -13,
-    "emailSent": false,
-    "source": "reddit"
-  },
   "8b21a13580ec3db196d68c82e9b181f6": {
     "hash": "8b21a13580ec3db196d68c82e9b181f6",
     "firstSeen": "2026-03-16T20:34:26.180Z",
