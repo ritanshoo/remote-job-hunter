@@ -74980,5 +74980,30 @@
       "-5 internship",
       "+2 salary"
     ]
+  },
+  {
+    "timestamp": "2026-04-15T10:55:59.582Z",
+    "title": "Senior DevOps Engineer",
+    "company": "Lemon.io",
+    "source": "weworkremotely",
+    "score": 27,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-devops-engineer-2",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 next.js",
+      "+3 node.js",
+      "+3 node",
+      "+2 blockchain",
+      "+2 solana",
+      "+2 web3",
+      "+2 solidity",
+      "+2 ai",
+      "+2 llm",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 aws"
+    ]
   }
 ]
