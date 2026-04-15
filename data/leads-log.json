@@ -75642,5 +75642,29 @@
       "-5 junior",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-15T16:59:02.354Z",
+    "title": "Software Engineer, MyPay",
+    "company": "Chime",
+    "source": "jobicy",
+    "score": 2,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/141980-software-engineer-mypay",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($133,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T16:59:02.355Z",
+    "title": "Customer Success Manager",
+    "company": "SK Stones USA",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/sk-stones-usa-customer-success-manager",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]
