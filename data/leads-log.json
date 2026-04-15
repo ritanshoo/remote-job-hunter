@@ -75742,5 +75742,62 @@
       "+2 ai",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-15T23:38:31.314Z",
+    "title": "Early-Stage Startup $300–$500/month based on experience",
+    "company": "Full-Stack Engineer (MERN Stack) – Remote",
+    "source": "reddit",
+    "score": 16,
+    "priority": "high",
+    "url": "https://www.reddit.com/r/forhire/comments/1smbjsm/hiring_fullstack_engineer_mern_stack_remote/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 mern",
+      "+3 react",
+      "+3 next.js",
+      "+3 node.js",
+      "+3 node",
+      "+1 mongodb"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T23:38:31.867Z",
+    "title": "need the MacBook for personal stuff",
+    "company": "",
+    "source": "reddit",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/webdev/comments/1smlhrm/need_the_macbook_for_personal_stuff/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 next.js",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T23:38:31.867Z",
+    "title": "Alternative API for all music streaming platforms",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1smcf54/alternative_api_for_all_music_streaming_platforms/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-15T23:38:31.867Z",
+    "title": "$265 Payment",
+    "company": "USA Participants for 5-Minute Website UX Testing",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1smiwul/hiring_usa_participants_for_5minute_website_ux/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 usa only",
+      "+2 salary($265)"
+    ]
   }
 ]
