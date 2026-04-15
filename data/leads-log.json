@@ -75005,5 +75005,155 @@
       "+1 typescript",
       "+1 aws"
     ]
+  },
+  {
+    "timestamp": "2026-04-15T11:55:16.177Z",
+    "title": "Backend for Your Expo (React Native) and Nextjs App",
+    "company": "Postbase",
+    "source": "reddit",
+    "score": 7,
+    "priority": "high",
+    "url": "https://www.reddit.com/r/webdev/comments/1sm1bxi/postbase_backend_for_your_expo_react_native_and/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 next.js",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T11:55:16.177Z",
+    "title": "UI/UX Designer for Weather Tech Startup (ActuallyWeather.com)",
+    "company": "",
+    "source": "reddit",
+    "score": 3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1slofue/hiring_uiux_designer_for_weather_tech_startup/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 next.js"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T11:55:16.177Z",
+    "title": "Online social media management side hustle available!",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sm3u4m/hiring_online_social_media_management_side_hustle/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($150- $200)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T11:55:16.177Z",
+    "title": "** UGC Creators for a Viral Health AI App**",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sly220/hiring_ugc_creators_for_a_viral_health_ai_app/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T11:55:16.177Z",
+    "title": "for a part time work",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sm3tg2/hiring_for_a_part_time_work/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-15T11:55:16.177Z",
+    "title": "Bengaluru Videographer / Reel Creator for 30-min Event (Paid)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sm38qc/hiring_bengaluru_videographer_reel_creator_for/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-15T11:55:16.177Z",
+    "title": "Chat Support Agents",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sm1ye8/hiring_chat_support_agents/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-15T11:55:16.177Z",
+    "title": "Polish 2 flyer designs (Canva, minimal/modern) ~ $5 each",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sm0hu9/hiring_polish_2_flyer_designs_canva_minimalmodern/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-15T11:55:16.177Z",
+    "title": "What’s your actual way of evaluating devs when hiring?",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1slkiug/whats_your_actual_way_of_evaluating_devs_when/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-15T11:55:16.177Z",
+    "title": "I am currently looking for People interested in Al training job, full remote, paying $500/week (The role is only open in: USA,UK, Canada, Germany, New zealand and Australia )",
+    "company": "",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sm2lgf/hiring_i_am_currently_looking_for_people/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($500)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T11:55:16.177Z",
+    "title": "$45/hr",
+    "company": "(Online, USA Only) Part-Time Social Media Video Editor",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1slpoux/hiring_online_usa_only_parttime_social_media/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 usa only",
+      "+2 salary($45/hr)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T11:55:16.177Z",
+    "title": "We need people to post pre-made videos (performance based payment) 1-5$ per 1k views",
+    "company": "",
+    "source": "reddit",
+    "score": -5,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sm2qig/hiring_we_need_people_to_post_premade_videos/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
