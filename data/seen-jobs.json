@@ -26164,5 +26164,12 @@
     "score": 0,
     "emailSent": false,
     "source": "weworkremotely"
+  },
+  "b7b63e37423386394b9b47035f07911a": {
+    "hash": "b7b63e37423386394b9b47035f07911a",
+    "firstSeen": "2026-04-15T20:00:56.326Z",
+    "score": -5,
+    "emailSent": false,
+    "source": "workingnomads"
   }
 }
