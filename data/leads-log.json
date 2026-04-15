@@ -75679,5 +75679,68 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-15T21:47:41.525Z",
+    "title": "Senior DevOps Engineer - Node",
+    "company": "Wallarm",
+    "source": "weworkremotely",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/wallarm-senior-devops-engineer-node",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 node",
+      "+2 ai",
+      "+2 automation",
+      "+1 aws",
+      "+1 docker",
+      "-5 intern",
+      "+2 salary($55)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T21:47:41.997Z",
+    "title": "Staff Product Manager - MetaMask (Networks)",
+    "company": "Consensys",
+    "source": "weworkremotely",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/consensys-staff-product-manager-metamask-networks",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "+2 ethereum",
+      "+2 web3"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T21:47:42.271Z",
+    "title": "DevOps Engineer (Cloud AIaaS)",
+    "company": "Gcore",
+    "source": "weworkremotely",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/gcore-devops-engineer-cloud-aiaas",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 express",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-15T21:47:42.271Z",
+    "title": "Product Owner (Technical Background)",
+    "company": "Addepto",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/addepto-product-owner-technical-background",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
   }
 ]
