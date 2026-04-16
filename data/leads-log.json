@@ -75799,5 +75799,385 @@
       "-5 usa only",
       "+2 salary($265)"
     ]
+  },
+  {
+    "timestamp": "2026-04-16T07:26:12.459Z",
+    "title": "Senior Full Stack Developer (MERN)",
+    "company": "WIN Home Inspection",
+    "source": "himalayas",
+    "score": 22,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/win-home-inspection/jobs/senior-full-stack-developer-mern",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 mern",
+      "+3 react",
+      "+3 next.js",
+      "+3 node.js",
+      "+3 node",
+      "+1 javascript",
+      "+1 aws",
+      "+1 express",
+      "+1 rest api"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T07:26:13.059Z",
+    "title": "Senior Software Engineer",
+    "company": "AristaMD",
+    "source": "himalayas",
+    "score": 16,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/aristamd/jobs/senior-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+1 typescript",
+      "+1 postgresql",
+      "+1 aws",
+      "+1 express"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T07:26:13.391Z",
+    "title": "Senior Software Engineer, JavaScript/TypeScript",
+    "company": "Bjak",
+    "source": "himalayas",
+    "score": 9,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/bjak/jobs/senior-software-engineer-javascript-typescript-3091732804",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node",
+      "+2 automation",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 mongodb",
+      "+1 express",
+      "+1 nestjs",
+      "+1 graphql",
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T07:26:13.758Z",
+    "title": "Senior Frontend Engineer (m/f/x)",
+    "company": "Plan A",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/plan-a/jobs/senior-frontend-engineer-m-f-x",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T07:26:14.121Z",
+    "title": "Senior Java Developer",
+    "company": "NDEAVOUR CONSULTING",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/ndeavour-consulting/jobs/senior-java-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 postgresql",
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T07:26:14.447Z",
+    "title": "Senior Frontend Engineer",
+    "company": "Lodgify",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/lodgify/jobs/senior-frontend-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 rest api"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T07:26:14.887Z",
+    "title": "Freelance Automation Workflow Specialist (No-Code)",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/mindrift/jobs/freelance-automation-workflow-specialist-no-code",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T07:26:15.225Z",
+    "title": "Freelance Automation Workflow Specialist (No-Code)",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/mindrift/jobs/freelance-automation-workflow-specialist-no-code",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T07:26:15.546Z",
+    "title": "Senior Staff Software Engineer, Integrations (Tech Lead) — Veza",
+    "company": "ServiceNow",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/servicenow/jobs/senior-staff-software-engineer-integrations-tech-lead-veza",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T07:26:15.878Z",
+    "title": "Software Engineer I (Remote - United States)",
+    "company": "Nextech Systems",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/nextech-systems/jobs/software-engineer-i-remote-united-states-7908433199",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T07:26:16.200Z",
+    "title": "Salesforce Test Engineer",
+    "company": "VivSoft Technologies",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/vivsoft-technologies/jobs/salesforce-test-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T07:26:16.200Z",
+    "title": "Senior Engineering Manager",
+    "company": "Bellese",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/bellese/jobs/senior-engineering-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T07:26:16.200Z",
+    "title": "Associate Software Engineer",
+    "company": "FinThrive",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/finthrive/jobs/associate-software-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T07:26:16.200Z",
+    "title": "DevOps Engineer",
+    "company": "Community Tech Alliance",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/community-tech-alliance/jobs/devops-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T07:26:16.200Z",
+    "title": "Integration Support Engineer",
+    "company": "Moniepoint",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/moniepoint/jobs/integration-support-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($182)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T07:26:16.200Z",
+    "title": "Integration Support Engineer",
+    "company": "Moniepoint",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/moniepoint/jobs/integration-support-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($182)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T07:26:16.200Z",
+    "title": "AI Operations Engineer",
+    "company": "Quantum Workplace",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/quantum-workplace/jobs/ai-operations-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T07:26:16.200Z",
+    "title": "Senior Software Engineer II - Scale Team",
+    "company": "Honeycomb",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/honeycomb/jobs/senior-software-engineer-ii-scale-team",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T07:26:16.201Z",
+    "title": "Data Engineer Senior dl",
+    "company": "Mutt Data",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mutt-data/jobs/data-engineer-senior-dl",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T07:26:16.201Z",
+    "title": "Account Executive - LATAM",
+    "company": "Cyera",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cyera-com/jobs/account-executive-latam",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-16T07:26:16.201Z",
+    "title": "Quantitative Research & Technology – All Levels",
+    "company": "Newbridge",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/newbridge/jobs/quantitative-research-technology-all-levels",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-16T07:26:16.201Z",
+    "title": "Cloud Platform Engineer",
+    "company": "Apheris",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/apheris/jobs/cloud-platform-engineer-755679452",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T07:26:16.201Z",
+    "title": "Customer Solution Architect - Remote (m/f/d) (#, CS, IT, #)",
+    "company": "TE Connectivity",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/te-connectivity/jobs/customer-solution-architect-remote-m-f-d-cs-it",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T07:26:16.201Z",
+    "title": "IT Support Engineer - Helpdesk ServiceDesk (Work from home)",
+    "company": "EasyITGuys",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/easyitguys/jobs/it-support-engineer-helpdesk-servicedesk-work-from-home",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 u.s. only",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T07:26:16.201Z",
+    "title": "Senior Platform Engineer (m/f/d)",
+    "company": "Redcare Pharmacy",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/redcare-pharmacy/jobs/senior-platform-engineer-m-f-d",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T07:26:16.201Z",
+    "title": "Senior Platform Engineer (m/f/d)",
+    "company": "Redcare Pharmacy",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/redcare-pharmacy/jobs/senior-platform-engineer-m-f-d",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
