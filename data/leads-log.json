@@ -76842,5 +76842,19 @@
     "matchedKeywords": [
       "+2 salary($20-$30 / hr)"
     ]
+  },
+  {
+    "timestamp": "2026-04-16T18:05:32.832Z",
+    "title": "Legal File Clerk (Philippines)",
+    "company": "Sneed & Mitchell LLP",
+    "source": "workingnomads",
+    "score": -4,
+    "priority": "low",
+    "url": "https://www.workingnomads.com/job/go/1543058/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 express",
+      "-5 intern"
+    ]
   }
 ]

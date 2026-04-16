@@ -1,53 +1,4 @@
 {
-  "56105a45b5da531987ea4795aaeb166b": {
-    "hash": "56105a45b5da531987ea4795aaeb166b",
-    "firstSeen": "2026-03-17T17:55:36.918Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "remoteok"
-  },
-  "9e8684107d608fbd1a10b69725f7cb2b": {
-    "hash": "9e8684107d608fbd1a10b69725f7cb2b",
-    "firstSeen": "2026-03-17T17:55:36.918Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "remoteok"
-  },
-  "561d07391df6a529c4b4ede19530bd59": {
-    "hash": "561d07391df6a529c4b4ede19530bd59",
-    "firstSeen": "2026-03-17T17:55:37.194Z",
-    "score": 2,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "eccc7ce594b416915cb818dbba12bf6f": {
-    "hash": "eccc7ce594b416915cb818dbba12bf6f",
-    "firstSeen": "2026-03-17T17:55:37.195Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "27e4c833566cae78869f3ae147c0e0cd": {
-    "hash": "27e4c833566cae78869f3ae147c0e0cd",
-    "firstSeen": "2026-03-17T17:55:37.195Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "0bf431806a51d0f5dffe60c46d9f288f": {
-    "hash": "0bf431806a51d0f5dffe60c46d9f288f",
-    "firstSeen": "2026-03-17T17:55:37.195Z",
-    "score": -4,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "96b70729ad54a560014e7c6fe560df7e": {
-    "hash": "96b70729ad54a560014e7c6fe560df7e",
-    "firstSeen": "2026-03-17T17:55:37.195Z",
-    "score": -5,
-    "emailSent": false,
-    "source": "reddit"
-  },
   "01ac50bde0ae5c068ecfbf5d2a991d90": {
     "hash": "01ac50bde0ae5c068ecfbf5d2a991d90",
     "firstSeen": "2026-03-17T18:58:51.500Z",
@@ -26248,5 +26199,75 @@
     "score": 2,
     "emailSent": false,
     "source": "reddit"
+  },
+  "f7225a548caf4f995a20ee633b834596": {
+    "hash": "f7225a548caf4f995a20ee633b834596",
+    "firstSeen": "2026-04-16T18:05:32.831Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "df50e284b5a769eed12698df66829a21": {
+    "hash": "df50e284b5a769eed12698df66829a21",
+    "firstSeen": "2026-04-16T18:05:32.831Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "0bb3514bcd8512f228db87b440156188": {
+    "hash": "0bb3514bcd8512f228db87b440156188",
+    "firstSeen": "2026-04-16T18:05:32.831Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "ebe189049db6a66147dbd81a36f00ea8": {
+    "hash": "ebe189049db6a66147dbd81a36f00ea8",
+    "firstSeen": "2026-04-16T18:05:32.831Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "72bcaca164bd7980fae9668defb8a304": {
+    "hash": "72bcaca164bd7980fae9668defb8a304",
+    "firstSeen": "2026-04-16T18:05:32.831Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "5ee41b462ccad8a17287efb8c55b805a": {
+    "hash": "5ee41b462ccad8a17287efb8c55b805a",
+    "firstSeen": "2026-04-16T18:05:32.831Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "1ea174d104d1864c0c4118bedda4f7c2": {
+    "hash": "1ea174d104d1864c0c4118bedda4f7c2",
+    "firstSeen": "2026-04-16T18:05:32.831Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "532768ca9b0d75e345c478a2a2a9f4f3": {
+    "hash": "532768ca9b0d75e345c478a2a2a9f4f3",
+    "firstSeen": "2026-04-16T18:05:32.831Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "3cd05b977d2564727222ffb927972942": {
+    "hash": "3cd05b977d2564727222ffb927972942",
+    "firstSeen": "2026-04-16T18:05:32.831Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "5e3a516ee56a2d882d2a4e876733c878": {
+    "hash": "5e3a516ee56a2d882d2a4e876733c878",
+    "firstSeen": "2026-04-16T18:05:32.832Z",
+    "score": -4,
+    "emailSent": false,
+    "source": "workingnomads"
   }
 }
