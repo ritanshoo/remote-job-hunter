@@ -76179,5 +76179,575 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-16T09:15:00.646Z",
+    "title": "(Senior) Full-stack Engineer (all genders) | Climate Tech",
+    "company": "Carbmee",
+    "source": "himalayas",
+    "score": 14,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/carbmee/jobs/senior-full-stack-engineer-all-genders-climate-tech",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+3 react",
+      "+3 next.js",
+      "+2 ai",
+      "+1 postgresql",
+      "+1 aws",
+      "+1 nestjs"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T09:15:01.251Z",
+    "title": "[Job-28637] Sênior Fullstack ( Java-Angular) Developer , Brazil",
+    "company": "CI&T",
+    "source": "himalayas",
+    "score": 11,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/ci-t/jobs/job-28637-senior-fullstack-java-angular-developer-brazil",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 fullstack",
+      "+3 node",
+      "+2 ai",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T09:15:01.580Z",
+    "title": "Senior Software Developer, Full Stack",
+    "company": "Modern Campus",
+    "source": "himalayas",
+    "score": 8,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/modern-campus/jobs/senior-software-developer-full-stack",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T09:15:01.930Z",
+    "title": "AI Engineer (Applied AI & Backend | LLMs / RAG)",
+    "company": "DaCodes",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/dacodes/jobs/ai-engineer-applied-ai-backend-llms-rag",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 chatbot",
+      "+2 langchain",
+      "+2 rag",
+      "+1 typescript",
+      "+1 aws",
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T09:15:02.247Z",
+    "title": "Grafana Expert - Fully Remote | Upto $150/hr Hourly",
+    "company": "mercor",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/mercor/jobs/grafana-expert-fully-remote-upto-150-hr-hourly",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T09:15:02.564Z",
+    "title": "Can you transcribe math notes?",
+    "company": "",
+    "source": "reddit",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/forhire/comments/1smvh66/hiring_can_you_transcribe_math_notes/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary($20)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T09:15:02.922Z",
+    "title": "Senior Platform Engineer - US Remote",
+    "company": "Qsic",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/qsic/jobs/senior-platform-engineer-us-remote",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "Remote Korean STEM Instructor $43/hr",
+    "company": "mercor",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/mercor/jobs/remote-korean-stem-instructor-43-hr",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "Senior Software Engineer - Stability",
+    "company": "Mercury",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mercury/jobs/senior-software-engineer-stability",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 express",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "Staff Software Engineer, Backend (Growth Platform)",
+    "company": "Affirm",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/affirm/jobs/staff-software-engineer-backend-growth-platform",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "Staff Software Engineer, Backend (Growth Platform)",
+    "company": "Affirm",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/affirm/jobs/staff-software-engineer-backend-growth-platform",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "Senior React Native Software Engineer (m/f/d)",
+    "company": "auxmoney GmbH",
+    "source": "himalayas",
+    "score": 3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/auxmoney-gmbh/jobs/senior-react-native-software-engineer-m-f-d",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "Voice artist for long form content.",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1smy3jd/hiring_voice_artist_for_long_form_content/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($60)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "Pay $500-$800 /Week. Post Simple provided Videos (Remote/Part-Time)",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1smws2r/hiring_pay_500800_week_post_simple_provided/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($500-$800)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "Senior Data Engineer (Cloud / Snowflake / PySpark)",
+    "company": "Enroute",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/enroute/jobs/senior-data-engineer-cloud-snowflake-pyspark",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "Solution Architect - Strategic Alliances",
+    "company": "Cyera",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/cyera-com/jobs/solution-architect-strategic-alliances",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "Senior Solution Engineer - SLED",
+    "company": "Snowflake",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/snowflake/jobs/senior-solution-engineer-sled",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "Inventor Relations Manager",
+    "company": "Exploding Kittens",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/exploding-kittens/jobs/inventor-relations-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "Inventor Relations Manager",
+    "company": "Exploding Kittens",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/exploding-kittens/jobs/inventor-relations-manager",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "QA Team Lead",
+    "company": "CapsLock",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/capslock/jobs/qa-team-lead-8833420537",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "Senior TypeScript SDK Engineer",
+    "company": "Nutrient",
+    "source": "himalayas",
+    "score": 1,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nutrient/jobs/senior-typescript-sdk-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 typescript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "I set up digital infrastructure for local businesses looking for people who can find me setups to do",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1smx74x/hiring_i_set_up_digital_infrastructure_for_local/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "Software Engineer II, Machine Learning Systems & Productization",
+    "company": "Iambic Therapeutics",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/iambic-therapeutics/jobs/software-engineer-ii-machine-learning-systems-productization",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "Senior .NET Developer",
+    "company": "wex",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/wex/jobs/senior-net-developer-8777937137",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "Member of Product, Security",
+    "company": "Anchorage Digital",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/anchorage-digital/jobs/member-of-product-security",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "Cybersecurity Infrastructure Engineer",
+    "company": "Caesars Entertainment",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/caesars-entertainment/jobs/cybersecurity-infrastructure-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "Cybersecurity Infrastructure Engineer",
+    "company": "Caesars Entertainment",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/caesars-entertainment/jobs/cybersecurity-infrastructure-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "Backend Team Lead (Symfony)",
+    "company": "CapsLock",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/capslock/jobs/backend-team-lead-symfony-7195850139",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "Admin Assistant (HVAC / Switchboards) | AU | WFH",
+    "company": "Staff Domain Inc.",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/staff-domain-inc/jobs/admin-assistant-hvac-switchboards-au-wfh",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "Manager, Technical Deployment Leads (TDL), Forward Deployed Engineering (FDE)",
+    "company": "OpenAI",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/openai/jobs/manager-technical-deployment-leads-tdl-forward-deployed-engineering-fde",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "Backend Developer (Java)",
+    "company": "Kyivstar",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/kyivstar/jobs/backend-developer-java",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "AI Automation | 10% Commission per Deal",
+    "company": "US Cold Callers (Remote)",
+    "source": "reddit",
+    "score": -1,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1smxx5p/hiring_us_cold_callers_remote_ai_automation_10/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 us only"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "Remote RN – Medical Claims Reviewer",
+    "company": "Broadway Ventures",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/broadway-ventures/jobs/remote-rn-medical-claims-reviewer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "Account Executive - Netherlands",
+    "company": "Scaleway",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/scaleway/jobs/account-executive-netherlands",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "D&A Data Engineer",
+    "company": "AAA",
+    "source": "himalayas",
+    "score": -4,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/aaa/jobs/d-a-data-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "Operation and Support Engineer (f/m/d)",
+    "company": "ng-voice",
+    "source": "himalayas",
+    "score": -4,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ng-voice/jobs/operation-and-support-engineer-f-m-d-1273099650",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "Operation and Support Engineer (f/m/d)",
+    "company": "ng-voice",
+    "source": "himalayas",
+    "score": -4,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/ng-voice/jobs/operation-and-support-engineer-f-m-d-1273099650",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "Customer Success Engineer",
+    "company": "Nutrient",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/nutrient/jobs/customer-success-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "Junior Java Developer (Remote Opportunity)",
+    "company": "VetsEZ",
+    "source": "himalayas",
+    "score": -9,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/vetsez/jobs/junior-java-developer-remote-opportunity",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "-5 junior",
+      "-5 entry-level"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "Junior Java Developer (Remote Opportunity)",
+    "company": "VetsEZ",
+    "source": "himalayas",
+    "score": -9,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/vetsez/jobs/junior-java-developer-remote-opportunity",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 javascript",
+      "-5 junior",
+      "-5 entry-level"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "Startup From Zero | Video Editing Skills Preferred | India",
+    "company": "Co-founder Needed (18+)",
+    "source": "reddit",
+    "score": -10,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1smrz6e/cofounder_needed_18_startup_from_zero_video/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "-5 internship"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T09:15:03.273Z",
+    "title": "Self-coded portfolio vs AI builder for tech internships? (CS student)",
+    "company": "",
+    "source": "reddit",
+    "score": -13,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1smu1yq/selfcoded_portfolio_vs_ai_builder_for_tech/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 junior",
+      "-5 intern",
+      "-5 internship"
+    ]
   }
 ]
