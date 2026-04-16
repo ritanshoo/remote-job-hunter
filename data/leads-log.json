@@ -77021,5 +77021,71 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-16T22:36:07.522Z",
+    "title": "Senior Machine Learning Engineer, Personalization",
+    "company": "Spotify",
+    "source": "weworkremotely",
+    "score": 7,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/spotify-senior-machine-learning-engineer-personalization",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+1 aws",
+      "+2 salary($184,050)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T22:36:07.522Z",
+    "title": "Senior QA Automation Engineer",
+    "company": "Bjak",
+    "source": "weworkremotely",
+    "score": 2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/bjak-senior-qa-automation-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 aws",
+      "+1 rest api",
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T22:36:07.522Z",
+    "title": "Senior Enterprise Process Engineer",
+    "company": "Toast",
+    "source": "weworkremotely",
+    "score": 1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/toast-senior-enterprise-process-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "-5 intern",
+      "+2 salary($142,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T22:36:07.522Z",
+    "title": "Senior ML Engineer",
+    "company": "Chess.com",
+    "source": "weworkremotely",
+    "score": -8,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/chess-com-senior-ml-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 junior",
+      "-5 intern"
+    ]
   }
 ]
