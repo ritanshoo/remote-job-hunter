@@ -76983,5 +76983,43 @@
       "-5 junior",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-16T21:39:06.174Z",
+    "title": "Sales Development Representative",
+    "company": "Alaan",
+    "source": "weworkremotely",
+    "score": 0,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/alaan-sales-development-representative",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-16T21:39:06.174Z",
+    "title": "People Operations Coordinator - Global",
+    "company": "AlphaSense",
+    "source": "weworkremotely",
+    "score": -4,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/alphasense-people-operations-coordinator-global",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 express",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T21:39:06.174Z",
+    "title": "Customer Success Associate",
+    "company": "Alaan",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/alaan-customer-success-associate",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
