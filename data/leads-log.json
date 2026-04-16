@@ -76856,5 +76856,132 @@
       "+1 express",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-16T20:54:06.702Z",
+    "title": "Applied AI Engineer (Automation)",
+    "company": "Fusemachines",
+    "source": "weworkremotely",
+    "score": 7,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/fusemachines-applied-ai-engineer-automation",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 automation",
+      "+2 langchain",
+      "+2 rag",
+      "+1 aws",
+      "+1 docker",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T20:54:07.382Z",
+    "title": "Senior Manager, Creative Design and Media",
+    "company": "Zscaler",
+    "source": "weworkremotely",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/zscaler-senior-manager-creative-design-and-media",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 express",
+      "+2 salary($133,000 - $190,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T20:54:07.731Z",
+    "title": "Content Marketer (Product)",
+    "company": "Monograph",
+    "source": "weworkremotely",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://weworkremotely.com/remote-jobs/monograph-content-marketer-product",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary($70,000 - $80,000/year)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T20:54:07.731Z",
+    "title": "Senior Product Operations Manager I",
+    "company": "Housecall Pro",
+    "source": "weworkremotely",
+    "score": 2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/housecall-pro-senior-product-operations-manager-i",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 express",
+      "-5 intern",
+      "+2 salary($120,000-$149,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T20:54:07.731Z",
+    "title": "Finance Expert - Portfolio Management",
+    "company": "xAI",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/xai-finance-expert-portfolio-management",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary($45/hour)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T20:54:07.731Z",
+    "title": "Business Expert - Marketing & Communications",
+    "company": "xAI",
+    "source": "weworkremotely",
+    "score": -1,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/xai-business-expert-marketing-communications",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "+2 salary($45/hour)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T20:54:07.731Z",
+    "title": "Writing Specialist",
+    "company": "xAI",
+    "source": "weworkremotely",
+    "score": -3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/xai-writing-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T20:54:07.731Z",
+    "title": "Senior Software Engineer, Design Systems",
+    "company": "Vanta",
+    "source": "weworkremotely",
+    "score": -4,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/vanta-senior-software-engineer-design-systems",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+1 typescript",
+      "-5 junior",
+      "-5 intern"
+    ]
   }
 ]
