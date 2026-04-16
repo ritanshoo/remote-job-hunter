@@ -76773,5 +76773,74 @@
     "matchedKeywords": [
       "+2 salary($2,000–$4,000/Mo)"
     ]
+  },
+  {
+    "timestamp": "2026-04-16T14:51:52.030Z",
+    "title": "Freelance Outbound Lead Gen for AI/Web Agency (Remote, Performance-Based)",
+    "company": "",
+    "source": "reddit",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/forhire/comments/1sn3dpy/hiring_freelance_outbound_lead_gen_for_aiweb/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+2 salary($20-40/hr)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T14:51:52.539Z",
+    "title": "Remote",
+    "company": "Accounting Expert",
+    "source": "reddit",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/forhire/comments/1sn4kpz/hiring_accounting_expert_remote/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary($60 - $80/hr)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T14:51:52.835Z",
+    "title": "Remote",
+    "company": "Writing Expert",
+    "source": "reddit",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/forhire/comments/1sn4dqq/hiring_writing_expert_remote/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary($75 - $150/hr)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T14:51:52.835Z",
+    "title": "remote work in high growth industry $30/hr",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sn5neu/hiring_remote_work_in_high_growth_industry_30hr/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($30/hr)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T14:51:52.835Z",
+    "title": "Remote ($20-$30 / hr)",
+    "company": "Data Entry Clerk needed",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sn33gs/hiring_data_entry_clerk_needed_remote_2030_hr/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($20-$30 / hr)"
+    ]
   }
 ]
