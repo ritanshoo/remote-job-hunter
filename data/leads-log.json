@@ -77700,5 +77700,36 @@
       "-5 intern",
       "-5 c/c++"
     ]
+  },
+  {
+    "timestamp": "2026-04-17T20:42:29.064Z",
+    "title": "Senior Product Manager - MetaMask (Engagement)",
+    "company": "Consensys",
+    "source": "weworkremotely",
+    "score": 3,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/consensys-senior-product-manager-metamask-engagement",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 blockchain",
+      "+2 ethereum",
+      "+2 web3",
+      "+2 automation",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T20:42:29.064Z",
+    "title": "Senior Product Manager - Technology",
+    "company": "Rush Street Interactive",
+    "source": "weworkremotely",
+    "score": -4,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/rush-street-interactive-senior-product-manager-technology",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+1 express",
+      "-5 intern"
+    ]
   }
 ]
