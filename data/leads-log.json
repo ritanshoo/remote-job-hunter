@@ -77087,5 +77087,395 @@
       "-5 junior",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-17T02:09:42.464Z",
+    "title": "Full Stack Developer",
+    "company": "Remote Office",
+    "source": "himalayas",
+    "score": 13,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/remote-office/jobs/full-stack-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack",
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+1 javascript"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T02:09:42.947Z",
+    "title": "Experienced Backend JavaScript Developer - Worldwide",
+    "company": "Bright Data",
+    "source": "himalayas",
+    "score": 12,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/bright-data/jobs/experienced-backend-javascript-developer-worldwide",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+1 javascript",
+      "+1 mongodb",
+      "+1 express"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T02:09:43.233Z",
+    "title": "Golang Developer",
+    "company": "Sequoia Connect",
+    "source": "himalayas",
+    "score": 9,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/sequoia-connect/jobs/golang-developer-7548889956",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node",
+      "+1 typescript",
+      "+1 mongodb",
+      "+1 aws"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T02:09:43.554Z",
+    "title": "Senior ML Engineer",
+    "company": "CommIT",
+    "source": "himalayas",
+    "score": 9,
+    "priority": "high",
+    "url": "https://himalayas.app/companies/commit/jobs/senior-ml-engineer-1347789872",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 llm",
+      "+2 rag",
+      "+1 javascript",
+      "+1 rest api",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T02:09:43.892Z",
+    "title": "Systems Engineer - AI CLI Tools",
+    "company": "Mercor",
+    "source": "himalayas",
+    "score": 6,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/work-mercor/jobs/systems-engineer-ai-cli-tools",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 postgresql",
+      "+1 docker",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T02:09:44.199Z",
+    "title": "Software Developer",
+    "company": "General Dynamics Information Technology",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/general-dynamics-information-technology/jobs/software-developer-3200829619",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+1 aws",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T02:09:44.503Z",
+    "title": "Full-stack Engineer",
+    "company": "Hercules",
+    "source": "himalayas",
+    "score": 5,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/hercules/jobs/full-stack-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "+1 typescript",
+      "+1 aws",
+      "+1 docker",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T02:09:44.798Z",
+    "title": "Implementation Specialist",
+    "company": "Brown & Brown Insurance",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/brown-brown-insurance/jobs/implementation-specialist-8094447778",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T02:09:45.086Z",
+    "title": "Enterprise Systems Engineer",
+    "company": "Warner Music Group",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/warner-music-group/jobs/enterprise-systems-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T02:09:45.371Z",
+    "title": "Cyber-Security Operations Analyst III, Security Architect",
+    "company": "Veeam Software",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/veeam-software/jobs/cyber-security-operations-analyst-iii-security-architect-6787083892",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T02:09:45.659Z",
+    "title": "Senior Quality Assurance Specialist",
+    "company": "Mercor",
+    "source": "himalayas",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://himalayas.app/companies/work-mercor/jobs/senior-quality-assurance-specialist",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T02:09:45.659Z",
+    "title": "Analytics Engineer",
+    "company": "iHeartMedia",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/iheartmedia/jobs/analytics-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T02:09:45.659Z",
+    "title": "Rust Engineer - Platform Trading",
+    "company": "Keyrock",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/keyrock-com/jobs/rust-engineer-platform-trading",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 web3"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T02:09:45.659Z",
+    "title": "Mobile & AI Developer",
+    "company": "Avaso Technology Solutions",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/avaso-technology-solutions/jobs/mobile-ai-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T02:09:45.659Z",
+    "title": "SAP Datasphere (BDC) Architect",
+    "company": "Decision Inc.",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/decision-inc/jobs/sap-datasphere-bdc-architect",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T02:09:45.659Z",
+    "title": "Customer Success Engineer",
+    "company": "GitLab",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/gitlab-com/jobs/customer-success-engineer-4855843551",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T02:09:45.659Z",
+    "title": "PRINCIPAL R&D/PRODUCT DVL ENGINEER (#remote, PA, US, 17025)",
+    "company": "TE Connectivity",
+    "source": "himalayas",
+    "score": 2,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/te-connectivity/jobs/principal-r-d-product-dvl-engineer-remote-pa-us-17025",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T02:09:45.659Z",
+    "title": "Data Engineer ll - Colombia",
+    "company": "Propelus",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/propelus/jobs/data-engineer-ll-colombia-6192807402",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-17T02:09:45.659Z",
+    "title": "Site Reliability Engineer",
+    "company": "AmerisourceBergen",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/amerisourcebergen/jobs/site-reliability-engineer",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-17T02:09:45.659Z",
+    "title": "Senior Python Data Scraping Engineer (Freelance)",
+    "company": "Mindrift",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/mindrift/jobs/senior-python-data-scraping-engineer-freelance-4036250487",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+1 javascript",
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T02:09:45.659Z",
+    "title": "Cloud Engineer [Founding]",
+    "company": "Valerie Group",
+    "source": "himalayas",
+    "score": 0,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/valerie-group/jobs/cloud-engineer-founding",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation",
+      "+1 aws",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T02:09:45.659Z",
+    "title": "Principal Product Engineer",
+    "company": "Dash0",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/dash0/jobs/principal-product-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T02:09:45.659Z",
+    "title": "Head of Product and AI Innovation",
+    "company": "Valsoft Corporation",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/valsoft-corporation/jobs/head-of-product-and-ai-innovation",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T02:09:45.659Z",
+    "title": "Senior Cloud Engineer",
+    "company": "Sutherland",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/sutherland/jobs/senior-cloud-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "-5 junior"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T02:09:45.659Z",
+    "title": "SUPPLIER QUALITY ENGINEER III (#, PA, US, #)",
+    "company": "TE Connectivity",
+    "source": "himalayas",
+    "score": -3,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/te-connectivity/jobs/supplier-quality-engineer-iii-pa-us",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T02:09:45.659Z",
+    "title": "Engineering Manager, NIRA",
+    "company": "Tilt",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/tilt-com/jobs/engineering-manager-nira",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T02:09:45.659Z",
+    "title": "Senior Software Engineer I(UK region)",
+    "company": "Menlo Security",
+    "source": "himalayas",
+    "score": -5,
+    "priority": "low",
+    "url": "https://himalayas.app/companies/menlo-security/jobs/senior-software-engineer-i-uk-region",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
