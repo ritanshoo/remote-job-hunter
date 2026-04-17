@@ -77477,5 +77477,90 @@
     "matchedKeywords": [
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-17T05:24:38.641Z",
+    "title": "Someone to help me trouble shoot my Brevo automation.",
+    "company": "",
+    "source": "reddit",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/forhire/comments/1snog2r/hiring_someone_to_help_me_trouble_shoot_my_brevo/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 automation",
+      "+2 salary($50)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T05:24:39.235Z",
+    "title": "Our startup is looking to hire a full time B2B Linkedin Ads Expert with excellent enterprise customer communication skills. ($75k-$150k + equity)",
+    "company": "",
+    "source": "reddit",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://www.reddit.com/r/forhire/comments/1sndkq4/hiring_our_startup_is_looking_to_hire_a_full_time/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 salary($75)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T05:24:39.235Z",
+    "title": "Senior Full Stack Developer Needed",
+    "company": "",
+    "source": "reddit",
+    "score": 3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1snblup/senior_full_stack_developer_needed/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 full stack"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T05:24:39.235Z",
+    "title": "We’re  people for Instagram brand collaborations & outreach.",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1snduyg/were_hiring_people_for_instagram_brand/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-17T05:24:39.235Z",
+    "title": "Looking for partners 🇬🇷 🇮🇹 🇫🇷 🇪🇸. Lifetime pay potential",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1snanql/hiring_looking_for_partners_lifetime_pay_potential/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-17T05:24:39.235Z",
+    "title": "Find Property Opportunities (Zillow / Airbnb / Redfin) – $5–$10 per Property",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sn7du2/hiring_find_property_opportunities_zillow_airbnb/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-17T05:24:39.235Z",
+    "title": "Non-tech founders: what sucks most about building your first SaaS?",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1snfbq9/nontech_founders_what_sucks_most_about_building/",
+    "emailSent": false,
+    "matchedKeywords": []
   }
 ]

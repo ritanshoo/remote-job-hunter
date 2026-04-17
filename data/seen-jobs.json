@@ -1,18 +1,4 @@
 {
-  "5a6d6f61bd4e63a962875880e0003b3d": {
-    "hash": "5a6d6f61bd4e63a962875880e0003b3d",
-    "firstSeen": "2026-03-18T04:22:44.437Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "remoteok"
-  },
-  "d3cbca6ba07695c463f52e047e264983": {
-    "hash": "d3cbca6ba07695c463f52e047e264983",
-    "firstSeen": "2026-03-18T04:22:45.625Z",
-    "score": 4,
-    "emailSent": false,
-    "source": "reddit"
-  },
   "966436f9c3ce90c8f9a29f5f12dce81f": {
     "hash": "966436f9c3ce90c8f9a29f5f12dce81f",
     "firstSeen": "2026-03-18T06:00:38.090Z",
@@ -26318,5 +26304,61 @@
     "score": -5,
     "emailSent": false,
     "source": "himalayas"
+  },
+  "5a4544b4fe4003177451503d1c0923f3": {
+    "hash": "5a4544b4fe4003177451503d1c0923f3",
+    "firstSeen": "2026-04-17T05:24:37.358Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "d028b4910d9145d0c7d1fb79b643c48d": {
+    "hash": "d028b4910d9145d0c7d1fb79b643c48d",
+    "firstSeen": "2026-04-17T05:24:38.641Z",
+    "score": 4,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "1da30d747543c233d71569efa945091f": {
+    "hash": "1da30d747543c233d71569efa945091f",
+    "firstSeen": "2026-04-17T05:24:39.235Z",
+    "score": 4,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "efd70dcfcba1e868e1a9eaab47205c15": {
+    "hash": "efd70dcfcba1e868e1a9eaab47205c15",
+    "firstSeen": "2026-04-17T05:24:39.235Z",
+    "score": 3,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "03c9642f5548f3b621d0ad2c3faf90ce": {
+    "hash": "03c9642f5548f3b621d0ad2c3faf90ce",
+    "firstSeen": "2026-04-17T05:24:39.235Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "892cfc9d591a9bb15596b91d299655f4": {
+    "hash": "892cfc9d591a9bb15596b91d299655f4",
+    "firstSeen": "2026-04-17T05:24:39.235Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "186089bf992c1b703f730461c236d6db": {
+    "hash": "186089bf992c1b703f730461c236d6db",
+    "firstSeen": "2026-04-17T05:24:39.235Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "8faed4389e6d6e83d8cb2943f5ba1719": {
+    "hash": "8faed4389e6d6e83d8cb2943f5ba1719",
+    "firstSeen": "2026-04-17T05:24:39.235Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
   }
 }
