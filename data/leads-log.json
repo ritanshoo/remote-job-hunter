@@ -77562,5 +77562,53 @@
     "url": "https://www.reddit.com/r/webdev/comments/1snfbq9/nontech_founders_what_sucks_most_about_building/",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-17T09:13:31.315Z",
+    "title": "$60/project",
+    "company": "Looking for Virtual Assistants",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1snvci4/hiring_looking_for_virtual_assistants_60project/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($60)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T09:13:31.315Z",
+    "title": "Indonesian video editor (For long term)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1snskql/hiring_indonesian_video_editor_for_long_term/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-17T09:13:31.315Z",
+    "title": "Did anyone else feel like adding more devs just made everything slower?",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1snv0l7/did_anyone_else_feel_like_adding_more_devs_just/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-17T09:13:31.315Z",
+    "title": "🎬 Content Creators / Video Clippers (Beginner Friendly) – $15+/hr",
+    "company": "",
+    "source": "reddit",
+    "score": -5,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sntlqt/hiring_content_creators_video_clippers_beginner/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
