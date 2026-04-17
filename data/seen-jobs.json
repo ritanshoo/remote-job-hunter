@@ -1,67 +1,4 @@
 {
-  "118d562959b803708c54fed04a43c41e": {
-    "hash": "118d562959b803708c54fed04a43c41e",
-    "firstSeen": "2026-03-18T16:11:37.920Z",
-    "score": 16,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "1ac582ef87041fc4f8c573a87e6ef5bd": {
-    "hash": "1ac582ef87041fc4f8c573a87e6ef5bd",
-    "firstSeen": "2026-03-18T16:11:38.508Z",
-    "score": 6,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "e8fc4b1e8a3aa22444b152bec9793346": {
-    "hash": "e8fc4b1e8a3aa22444b152bec9793346",
-    "firstSeen": "2026-03-18T16:11:38.803Z",
-    "score": 4,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "6db4527cd1a0dbbde9aeb848585fe77c": {
-    "hash": "6db4527cd1a0dbbde9aeb848585fe77c",
-    "firstSeen": "2026-03-18T16:11:38.803Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "038e406937e4a96e7575f7da5287f676": {
-    "hash": "038e406937e4a96e7575f7da5287f676",
-    "firstSeen": "2026-03-18T16:11:38.803Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "0775446eb8ca0041ba586118be481fac": {
-    "hash": "0775446eb8ca0041ba586118be481fac",
-    "firstSeen": "2026-03-18T16:11:38.803Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "992c53553224282aacc417395fb2f053": {
-    "hash": "992c53553224282aacc417395fb2f053",
-    "firstSeen": "2026-03-18T16:11:38.803Z",
-    "score": -5,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "dd71b01bd159e345f47891653b181bd4": {
-    "hash": "dd71b01bd159e345f47891653b181bd4",
-    "firstSeen": "2026-03-18T16:11:38.803Z",
-    "score": -5,
-    "emailSent": false,
-    "source": "reddit"
-  },
-  "b9de9533910763cf6a677170d9940ba5": {
-    "hash": "b9de9533910763cf6a677170d9940ba5",
-    "firstSeen": "2026-03-18T16:11:38.803Z",
-    "score": -10,
-    "emailSent": false,
-    "source": "reddit"
-  },
   "afdfa24808e3868c2e3bc6260173bb9c": {
     "hash": "afdfa24808e3868c2e3bc6260173bb9c",
     "firstSeen": "2026-03-18T17:58:27.577Z",
@@ -26122,5 +26059,54 @@
     "score": 0,
     "emailSent": false,
     "source": "jobicy"
+  },
+  "357f8dfba08873f5d56aad85778dd77e": {
+    "hash": "357f8dfba08873f5d56aad85778dd77e",
+    "firstSeen": "2026-04-17T16:54:55.764Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "a0db4b2d902da7f64eaab35411526fea": {
+    "hash": "a0db4b2d902da7f64eaab35411526fea",
+    "firstSeen": "2026-04-17T16:54:55.764Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "24a3c43b2cd644372d5a9157ade613a2": {
+    "hash": "24a3c43b2cd644372d5a9157ade613a2",
+    "firstSeen": "2026-04-17T16:54:55.764Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "3267cc1344a5f4a0fb3d6cf83d37e3a4": {
+    "hash": "3267cc1344a5f4a0fb3d6cf83d37e3a4",
+    "firstSeen": "2026-04-17T16:54:55.764Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "fa3bb3e323223e9d0e59448d24b6364e": {
+    "hash": "fa3bb3e323223e9d0e59448d24b6364e",
+    "firstSeen": "2026-04-17T16:54:55.764Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "c24b9aed97f2d5746f46760aa46af0a7": {
+    "hash": "c24b9aed97f2d5746f46760aa46af0a7",
+    "firstSeen": "2026-04-17T16:54:55.764Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "be39d1b07b658c8c5dfd912c39190d6d": {
+    "hash": "be39d1b07b658c8c5dfd912c39190d6d",
+    "firstSeen": "2026-04-17T16:54:55.764Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
   }
 }
