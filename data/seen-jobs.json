@@ -26101,5 +26101,47 @@
     "score": 4,
     "emailSent": false,
     "source": "weworkremotely"
+  },
+  "1cc2dc5c8a1124e76d72198bb35d23c1": {
+    "hash": "1cc2dc5c8a1124e76d72198bb35d23c1",
+    "firstSeen": "2026-04-17T19:56:35.678Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "48d38bc99aa4885835c7bf5b8f6bf956": {
+    "hash": "48d38bc99aa4885835c7bf5b8f6bf956",
+    "firstSeen": "2026-04-17T19:56:37.096Z",
+    "score": 13,
+    "emailSent": false,
+    "source": "jobicy"
+  },
+  "5da2f419edd9856e1a810ac00ce83676": {
+    "hash": "5da2f419edd9856e1a810ac00ce83676",
+    "firstSeen": "2026-04-17T19:56:37.666Z",
+    "score": 4,
+    "emailSent": false,
+    "source": "jobicy"
+  },
+  "38693cd5e4ac53a80feea7af74f40d6f": {
+    "hash": "38693cd5e4ac53a80feea7af74f40d6f",
+    "firstSeen": "2026-04-17T19:56:37.666Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "weworkremotely"
+  },
+  "4d7762fb37887532c900836c22ce8b73": {
+    "hash": "4d7762fb37887532c900836c22ce8b73",
+    "firstSeen": "2026-04-17T19:56:37.667Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "jobicy"
+  },
+  "7ade3d770dc893d647deeaa6141ac0ea": {
+    "hash": "7ade3d770dc893d647deeaa6141ac0ea",
+    "firstSeen": "2026-04-17T19:56:37.667Z",
+    "score": -8,
+    "emailSent": false,
+    "source": "jobicy"
   }
 }

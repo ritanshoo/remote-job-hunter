@@ -77624,5 +77624,81 @@
       "+2 ai",
       "+2 salary($100)"
     ]
+  },
+  {
+    "timestamp": "2026-04-17T19:56:37.096Z",
+    "title": "Web Software Developer",
+    "company": "ECS",
+    "source": "jobicy",
+    "score": 13,
+    "priority": "high",
+    "url": "https://jobicy.com/jobs/142051-web-software-developer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 node.js",
+      "+3 node",
+      "+2 automation",
+      "+1 aws",
+      "+1 docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T19:56:37.666Z",
+    "title": "Senior Software Engineer – Full-stack",
+    "company": "Tines",
+    "source": "jobicy",
+    "score": 4,
+    "priority": "medium",
+    "url": "https://jobicy.com/jobs/142069-senior-software-engineer-full-stack-3",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "+2 automation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T19:56:37.666Z",
+    "title": "Senior Product Marketing Manager, Pro Experience",
+    "company": "LawnStarter",
+    "source": "weworkremotely",
+    "score": 2,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/lawnstarter-senior-product-marketing-manager-pro-experience",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+2 ai",
+      "-5 intern",
+      "+2 salary($100)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T19:56:37.667Z",
+    "title": "Principal Software Engineer – Customer Journey",
+    "company": "HubSpot",
+    "source": "jobicy",
+    "score": 2,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/142086-principal-software-engineer-customer-journey",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T19:56:37.667Z",
+    "title": "Senior Software Engineer, JAX",
+    "company": "NVIDIA",
+    "source": "jobicy",
+    "score": -8,
+    "priority": "low",
+    "url": "https://jobicy.com/jobs/142111-senior-software-engineer-jax",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai",
+      "-5 intern",
+      "-5 c/c++"
+    ]
   }
 ]
