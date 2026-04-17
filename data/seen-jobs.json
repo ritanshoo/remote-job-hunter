@@ -26101,5 +26101,19 @@
     "score": -4,
     "emailSent": false,
     "source": "weworkremotely"
+  },
+  "9ddaef0c6b3dfa5e87fb0782095651b5": {
+    "hash": "9ddaef0c6b3dfa5e87fb0782095651b5",
+    "firstSeen": "2026-04-17T22:34:38.053Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remotive"
+  },
+  "04d2e978efe6b01ecfb1e12b27e492b4": {
+    "hash": "04d2e978efe6b01ecfb1e12b27e492b4",
+    "firstSeen": "2026-04-17T22:34:38.053Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remotive"
   }
 }
