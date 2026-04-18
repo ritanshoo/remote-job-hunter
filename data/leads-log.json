@@ -77947,5 +77947,41 @@
     "url": "https://weworkremotely.com/remote-jobs/j-j-travel-excursions-remote-customer-support-representative-travel-booking-coordination",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-18T20:31:40.808Z",
+    "title": "Senior Product Security Engineer",
+    "company": "Vercel",
+    "source": "weworkremotely",
+    "score": 16,
+    "priority": "high",
+    "url": "https://weworkremotely.com/remote-jobs/vercel-senior-product-security-engineer",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 react",
+      "+3 next.js",
+      "+3 node.js",
+      "+3 node",
+      "+2 ai",
+      "+2 automation",
+      "+1 javascript",
+      "+1 typescript",
+      "+1 express",
+      "-5 intern",
+      "+2 salary($196,000)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-18T20:31:40.812Z",
+    "title": "Product Manager - B2B",
+    "company": "Cookunity",
+    "source": "weworkremotely",
+    "score": -5,
+    "priority": "low",
+    "url": "https://weworkremotely.com/remote-jobs/cookunity-product-manager-b2b",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
