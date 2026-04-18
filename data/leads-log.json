@@ -77731,5 +77731,142 @@
       "+1 express",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-18T09:43:04.605Z",
+    "title": "Built a custom Next.js site for a luxury architectural audio brand. Looking for frontend and UI feedback!",
+    "company": "",
+    "source": "reddit",
+    "score": 3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1soq9hw/built_a_custom_nextjs_site_for_a_luxury/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+3 next.js"
+    ]
+  },
+  {
+    "timestamp": "2026-04-18T09:43:04.605Z",
+    "title": "Remote 3D Artist (Characters, Environments, Level Design)",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1soofjb/hiring_remote_3d_artist_characters_environments/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($15–$20/hour)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-18T09:43:04.605Z",
+    "title": "$70/hour (10 to 25 hours per deck).",
+    "company": "US Only: Looking for a very specific type of designer who can make investor presentations. A mix of typography, photoshop, illustrator, and the ability to visualize data in engaging ways.",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1soh05p/hiring_us_only_looking_for_a_very_specific_type/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($70/hour)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-18T09:43:04.605Z",
+    "title": "Databricks Engineer (PySpark, ETL Modernization) – Wilmington, DE (Onsite) – $60/hr W2",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1so4261/hiring_databricks_engineer_pyspark_etl/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($60/hr)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-18T09:43:04.605Z",
+    "title": "Reddit VA – 1 post/day (10–20 mins work) – $15/hour",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1so3ch8/hiring_reddit_va_1_postday_1020_mins_work_15hour/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-18T09:43:04.605Z",
+    "title": "Remote Philippines — $1,120–$1,440/month USD",
+    "company": "Operations Manager",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1so38p7/hiring_operations_manager_remote_philippines/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-18T09:43:04.605Z",
+    "title": "Threw curl and Obsidian in a blender… this is what came out",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1sosbii/threw_curl_and_obsidian_in_a_blender_this_is_what/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-18T09:43:04.605Z",
+    "title": "Which development educators have been instrumental in helping with my career advancement?",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1soogot/which_development_educators_have_been/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-18T09:43:04.605Z",
+    "title": "Pay $300~$350 every month , 15$/hr ,1hr/day or less.",
+    "company": "",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sosjd3/hiring_pay_300350_every_month_15hr_1hrday_or_less/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern",
+      "+2 salary($300)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-18T09:43:04.605Z",
+    "title": "Part-time remote support role (US/EU, flexible time)",
+    "company": "",
+    "source": "reddit",
+    "score": -3,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1so83xr/hiring_parttime_remote_support_role_useu_flexible/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 based in the us",
+      "+2 salary($15–$30/hour)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-18T09:43:04.605Z",
+    "title": "only 1hr/day, 15$/hr, Bonus 500~2000$ for additional service per task, Part-time work",
+    "company": "Pay $350 every month",
+    "source": "reddit",
+    "score": -5,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1soazva/hiringpay_350_every_month_only_1hrday_15hr_bonus/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]

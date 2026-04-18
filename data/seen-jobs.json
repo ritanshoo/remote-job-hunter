@@ -25835,5 +25835,180 @@
     "score": 0,
     "emailSent": false,
     "source": "remoteok"
+  },
+  "08ea935b4202d91f6fc699d7036cb908": {
+    "hash": "08ea935b4202d91f6fc699d7036cb908",
+    "firstSeen": "2026-04-18T09:43:03.729Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "fb1f91b06c14834ff1582c25c88ab504": {
+    "hash": "fb1f91b06c14834ff1582c25c88ab504",
+    "firstSeen": "2026-04-18T09:43:03.729Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "18af2dbb63b9ec80a7f3d3fd84a567ee": {
+    "hash": "18af2dbb63b9ec80a7f3d3fd84a567ee",
+    "firstSeen": "2026-04-18T09:43:03.729Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "d5b0dabc06e817a1d4ef1812ab7db9af": {
+    "hash": "d5b0dabc06e817a1d4ef1812ab7db9af",
+    "firstSeen": "2026-04-18T09:43:03.729Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "5140cf5aedc23e642256c313d71c3229": {
+    "hash": "5140cf5aedc23e642256c313d71c3229",
+    "firstSeen": "2026-04-18T09:43:03.729Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "50c52cc3f5df5391a9b3f2389f43508b": {
+    "hash": "50c52cc3f5df5391a9b3f2389f43508b",
+    "firstSeen": "2026-04-18T09:43:03.729Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "0db36927cfd31f471db516bf684ec990": {
+    "hash": "0db36927cfd31f471db516bf684ec990",
+    "firstSeen": "2026-04-18T09:43:03.729Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "1596e26808bcb1faa31a0213071168de": {
+    "hash": "1596e26808bcb1faa31a0213071168de",
+    "firstSeen": "2026-04-18T09:43:03.729Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "dd71b01bd159e345f47891653b181bd4": {
+    "hash": "dd71b01bd159e345f47891653b181bd4",
+    "firstSeen": "2026-04-18T09:43:03.729Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "edff88b1e08f532b64ebb080bde471d5": {
+    "hash": "edff88b1e08f532b64ebb080bde471d5",
+    "firstSeen": "2026-04-18T09:43:03.729Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "jobicy"
+  },
+  "ee50f3bbe07a26572fe6d403bb94e48b": {
+    "hash": "ee50f3bbe07a26572fe6d403bb94e48b",
+    "firstSeen": "2026-04-18T09:43:03.729Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "jobicy"
+  },
+  "013519d9c75f23e44cdca69b1b205d02": {
+    "hash": "013519d9c75f23e44cdca69b1b205d02",
+    "firstSeen": "2026-04-18T09:43:03.729Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "jobicy"
+  },
+  "ee87c067b81693ea5f0ea7df73b40b96": {
+    "hash": "ee87c067b81693ea5f0ea7df73b40b96",
+    "firstSeen": "2026-04-18T09:43:03.729Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "jobicy"
+  },
+  "0af85e61e1147d7e06a5bf607895e6b9": {
+    "hash": "0af85e61e1147d7e06a5bf607895e6b9",
+    "firstSeen": "2026-04-18T09:43:03.729Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "jobicy"
+  },
+  "4e86286fbc72e85001774fe92b9ffdfb": {
+    "hash": "4e86286fbc72e85001774fe92b9ffdfb",
+    "firstSeen": "2026-04-18T09:43:04.605Z",
+    "score": 3,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "3ea67bab9379acf5b1f827a7933d6489": {
+    "hash": "3ea67bab9379acf5b1f827a7933d6489",
+    "firstSeen": "2026-04-18T09:43:04.605Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "3c7f6a027cd0e29b0fb52336744e2e56": {
+    "hash": "3c7f6a027cd0e29b0fb52336744e2e56",
+    "firstSeen": "2026-04-18T09:43:04.605Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "e073585ada086b8159e2db9f219deba6": {
+    "hash": "e073585ada086b8159e2db9f219deba6",
+    "firstSeen": "2026-04-18T09:43:04.605Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "b10bbf34346c5a9b724ce09331611574": {
+    "hash": "b10bbf34346c5a9b724ce09331611574",
+    "firstSeen": "2026-04-18T09:43:04.605Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "80e30c1ea1662c86336dd9b388af8b1f": {
+    "hash": "80e30c1ea1662c86336dd9b388af8b1f",
+    "firstSeen": "2026-04-18T09:43:04.605Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "35fb6e571c7784e0edfde97af922af79": {
+    "hash": "35fb6e571c7784e0edfde97af922af79",
+    "firstSeen": "2026-04-18T09:43:04.605Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "b76162f4112c663b27291bd746c1459b": {
+    "hash": "b76162f4112c663b27291bd746c1459b",
+    "firstSeen": "2026-04-18T09:43:04.605Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "c06ace6166659e8ad609da4d37fc5ca8": {
+    "hash": "c06ace6166659e8ad609da4d37fc5ca8",
+    "firstSeen": "2026-04-18T09:43:04.605Z",
+    "score": -3,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "1b09bd182055f56c2f82d5c453d65a79": {
+    "hash": "1b09bd182055f56c2f82d5c453d65a79",
+    "firstSeen": "2026-04-18T09:43:04.605Z",
+    "score": -3,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "44d137a5bc364d2239fdcf2f989fabb1": {
+    "hash": "44d137a5bc364d2239fdcf2f989fabb1",
+    "firstSeen": "2026-04-18T09:43:04.605Z",
+    "score": -5,
+    "emailSent": false,
+    "source": "reddit"
   }
 }
