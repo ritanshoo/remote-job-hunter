@@ -1,53 +1,4 @@
 {
-  "06461b1fa283fb351b320410cc5490d1": {
-    "hash": "06461b1fa283fb351b320410cc5490d1",
-    "firstSeen": "2026-03-19T16:54:38.962Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "remoteok"
-  },
-  "afdfb467c0c70a0f3fddc91430c19fec": {
-    "hash": "afdfb467c0c70a0f3fddc91430c19fec",
-    "firstSeen": "2026-03-19T16:54:38.962Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "remoteok"
-  },
-  "4ab65aab9c925db688de1b6481f61c6b": {
-    "hash": "4ab65aab9c925db688de1b6481f61c6b",
-    "firstSeen": "2026-03-19T16:54:38.962Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "remoteok"
-  },
-  "2118026c02037446d6cee53b918ab4d0": {
-    "hash": "2118026c02037446d6cee53b918ab4d0",
-    "firstSeen": "2026-03-19T16:54:38.962Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "remoteok"
-  },
-  "70062b3e03b69d1e4b8382a63cf56bc5": {
-    "hash": "70062b3e03b69d1e4b8382a63cf56bc5",
-    "firstSeen": "2026-03-19T16:54:38.962Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "remoteok"
-  },
-  "8acae7670acc8fc5eaf12e3531aabd1c": {
-    "hash": "8acae7670acc8fc5eaf12e3531aabd1c",
-    "firstSeen": "2026-03-19T16:54:38.962Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "remoteok"
-  },
-  "439453c38c57268463a2b552c62fb776": {
-    "hash": "439453c38c57268463a2b552c62fb776",
-    "firstSeen": "2026-03-19T16:54:38.962Z",
-    "score": 0,
-    "emailSent": false,
-    "source": "remoteok"
-  },
   "bf1550c2d3ef50aa615e4e31578af0e2": {
     "hash": "bf1550c2d3ef50aa615e4e31578af0e2",
     "firstSeen": "2026-03-19T17:51:28.600Z",
@@ -25751,5 +25702,19 @@
     "score": 0,
     "emailSent": false,
     "source": "reddit"
+  },
+  "1a494b3a5be8f90ae602ece309c34ea8": {
+    "hash": "1a494b3a5be8f90ae602ece309c34ea8",
+    "firstSeen": "2026-04-18T17:33:25.676Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
+  },
+  "954597511aede08690cafa0b6b0330a7": {
+    "hash": "954597511aede08690cafa0b6b0330a7",
+    "firstSeen": "2026-04-18T17:33:25.676Z",
+    "score": 0,
+    "emailSent": false,
+    "source": "remoteok"
   }
 }
