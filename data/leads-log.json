@@ -78673,5 +78673,44 @@
       "-5 junior",
       "-5 intern"
     ]
+  },
+  {
+    "timestamp": "2026-04-19T11:32:31.636Z",
+    "title": "for Simple Paid Survey- $25",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1spp5jq/hiring_for_simple_paid_survey_25/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($25)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-19T11:32:31.636Z",
+    "title": "Remote | $15/hr+",
+    "company": "Sales Partner for AI Video Production",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1spoe3v/hiring_sales_partner_for_ai_video_production/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 ai"
+    ]
+  },
+  {
+    "timestamp": "2026-04-19T11:32:31.636Z",
+    "title": "Seeking a 3D render of a mascot-character I created",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1spnpf9/hiring_seeking_a_3d_render_of_a_mascotcharacter_i/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($30)"
+    ]
   }
 ]

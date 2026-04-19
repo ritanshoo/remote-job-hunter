@@ -25646,5 +25646,26 @@
     "score": -6,
     "emailSent": false,
     "source": "himalayas"
+  },
+  "1860a62e7908f249b6e2a8cb7699b2b7": {
+    "hash": "1860a62e7908f249b6e2a8cb7699b2b7",
+    "firstSeen": "2026-04-19T11:32:31.636Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "626f4bd91a51c44ef5726c4af413863d": {
+    "hash": "626f4bd91a51c44ef5726c4af413863d",
+    "firstSeen": "2026-04-19T11:32:31.636Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "reddit"
+  },
+  "d2f8a15d161b01fd27d495196ceb570a": {
+    "hash": "d2f8a15d161b01fd27d495196ceb570a",
+    "firstSeen": "2026-04-19T11:32:31.636Z",
+    "score": 2,
+    "emailSent": false,
+    "source": "reddit"
   }
 }
