@@ -78088,5 +78088,53 @@
     "url": "https://www.reddit.com/r/webdev/comments/1sp4fib/seeking_feedback_i_built_a_suite_of_100/",
     "emailSent": false,
     "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-19T05:25:30.179Z",
+    "title": "$60/week Remote Operations + Content Partner",
+    "company": "",
+    "source": "reddit",
+    "score": 2,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sphx9z/hiring_60week_remote_operations_content_partner/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "+2 salary($60)"
+    ]
+  },
+  {
+    "timestamp": "2026-04-19T05:25:30.179Z",
+    "title": "UI/UX Designer for Recebot (Remote)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1spjzh5/hiring_uiux_designer_for_recebot_remote/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-19T05:25:30.179Z",
+    "title": "Looking for Reddit Users for Simple Online Tasks (Flexible Side Income)",
+    "company": "",
+    "source": "reddit",
+    "score": 0,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/forhire/comments/1sphp4o/hiring_looking_for_reddit_users_for_simple_online/",
+    "emailSent": false,
+    "matchedKeywords": []
+  },
+  {
+    "timestamp": "2026-04-19T05:25:30.179Z",
+    "title": "I couldn't find a safe, ad-free space app for kids, so I built an offline 3D Solar System (PWA) 🪐",
+    "company": "",
+    "source": "reddit",
+    "score": -5,
+    "priority": "low",
+    "url": "https://www.reddit.com/r/webdev/comments/1spjm1o/i_couldnt_find_a_safe_adfree_space_app_for_kids/",
+    "emailSent": false,
+    "matchedKeywords": [
+      "-5 intern"
+    ]
   }
 ]
